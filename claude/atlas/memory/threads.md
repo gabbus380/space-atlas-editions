@@ -21,6 +21,7 @@ Next: none dated in the edition.
 Episodes:
 - 2026-10-19, filed in the 21 October edition. Japan launched MMX, described then as a Phobos sample return with European hardware.
 - 2026-10-19, filed again in the 26 October edition with the launch time, the H3 flight number, separation, Idefix, and MIRS. This is the last state.
+- 2026-10-21, seen in the packet, not filed: a JAXA release on completion of the initial critical operations phase. One government source and no trajectory or arrival detail, so it stays an episode.
 
 ## US commercial space surveillance reserve
 
@@ -92,6 +93,7 @@ Next: re-entry, undated beyond "within weeks" of 23 October.
 
 Episodes:
 - 2026-10-23, filed in the rebuilt edition. End of science operations. This is the last state.
+- 2026-10-26, seen in the packet, not a change: Space.com headline on the end of the mission after a failed rescue attempt. The edition already carries the abandoned reboost.
 
 ## Matera laser ranging
 
@@ -119,14 +121,15 @@ Episodes:
 
 ## Artemis and the 2028 landing
 
-Last state: not reconfirmed in the rebuilt 26 October edition. The archive through 23 October, and the first filing on 26 October, said NASA still aims to land astronauts in 2028, that Artemis III is a crewed test in Earth orbit rather than a landing, and that officials had pointed to a launch in the summer of 2027 with a docking to a Blue Origin test lander.
+Last state, filed 2026-10-26 (21:05 UTC revision, reconfirmed from the packet): NASA released an Artemis update on 23 October. Artemis III launches in 2027 as a low Earth orbit test of lander operations, with Randy Bresnik, Frank Rubio, Andre Douglas and ESA's Luca Parmitano aboard Orion. NASA, Blue Origin and SpaceX have streamlined lander designs and changed concepts of operations. NASA officials restated a landing in 2028. Sources: two NASA pages, the New York Times, Payload, SpacePolicyOnline and NASASpaceflight.
 
-What would count as a change: a new NASA date, a change to the orbital-test plan, a lander milestone, or the 8 December commercial-station proposals.
+What would count as a change: a new NASA date, a change to the orbital-test plan or crew, a lander milestone, or the 8 December commercial-station proposals.
 
 Next: 2026-10-29, first of two station spacewalks for new solar arrays, filed as a milestone. 2026-12-08, NASA commercial space-station proposals due, from the earlier filing.
 
 Episodes:
-- 2026-10-19 to 2026-10-23, filed across the 21, 22, and 23 October editions and the first 26 October filing. Landing target 2028, Artemis III as an orbital test, commercial station proposals. The rebuilt edition did not carry the item.
+- 2026-10-19 to 2026-10-23, filed across the 21, 22, and 23 October editions and the first 26 October filing. Landing target 2028, Artemis III as an orbital test, commercial station proposals. The 17:55 UTC rebuild did not carry the item.
+- 2026-10-23, filed in the 21:05 UTC revision of the 26 October edition. Crew, lander redesign, 2027 and 2028 flights. This is the last state. Not carried: the ASAP safety panel concern over Artemis IV (SpacePolicyOnline, one source).
 
 ## Blue Origin and New Glenn's cadence
 

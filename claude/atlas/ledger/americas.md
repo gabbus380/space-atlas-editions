@@ -10,6 +10,11 @@ First ledger, created 2026-10-26 from the published 2026-10-26 edition. No earli
   - Source bar: Bar A; languages: en.
   - Next: none dated
 
+## Revision 2026-10-26, 21:05 UTC
+- **2026-10-23** [USA] NASA restates a 2028 Moon landing and sets out Artemis III as a 2027 Earth-orbit test (statement). Sources: NASA (two pages), New York Times, Payload, SpacePolicyOnline, NASASpaceflight.
+  - Source bar: B, five independent sources; confidence high; languages: en.
+  - Next: 2026-10-29 spacewalk; 2026-12-08 station proposals due
+
 ## Withdrawn from the 2026-10-26 edition
 The entries below were in the first version of the 2026-10-26 edition. They were withdrawn in the 17:55 UTC rebuild because they did not meet the three-source rule; they are kept as a record, not as published items.
 

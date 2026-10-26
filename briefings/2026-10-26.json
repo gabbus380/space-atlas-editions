@@ -1,13 +1,13 @@
 {
  "date": "2026-10-26",
- "edition": "morning",
- "generated_at": "2026-10-26T17:55:00+00:00",
+ "edition": "06:00 UTC",
+ "generated_at": "2026-10-26T21:05:00+00:00",
  "headline": "Japan sends MMX towards the moons of Mars as the US Space Force signs its first commercial surveillance reserve agreements",
  "summary": [
   "Japan launched its MMX sample-return probe towards the moons of Mars on H3 flight 10, carrying a French–German rover.",
   "The US Space Force signed its first six operational agreements to draw on commercial space surveillance capacity in a surge.",
   "A Russian military satellite, Kosmos 2612, made close approaches to an ICEYE radar satellite, according to a LeoLabs report released on 19 October.",
-  "Poland and Vietnam named space among the areas of a new strategic partnership, and Türkiye's 2027 budget proposal nearly triples its space and aviation programme.",
+  "Poland and Vietnam named space among the areas of a new strategic partnership, Türkiye's 2027 budget proposal nearly triples its space and aviation programme, and NASA restated a 2028 Moon landing with Artemis III as a 2027 Earth-orbit test.",
   "The ESA and EU desk and the Eurasia desk carry no item, because no development met the source standard in the five days to 26 October."
  ],
  "bottom_line": "The week's dated events were launches and contracts rather than policy decisions: Japan's MMX departure, a new Chinese broadband batch and the first operational US commercial surveillance reserve. In Europe, national agencies reported hardware and tracking work, while no ESA or EU development met the source standard. The next dated decisions are the EU Space Act committee vote on 10 November and ESA's Rome meeting on 15 December.",
@@ -571,6 +571,65 @@
    "id": "americas",
    "name": "Americas",
    "items": [
+    {
+     "date": "2026-10-23",
+     "iso3": [
+      "USA"
+     ],
+     "status": "statement",
+     "priority": "P2",
+     "exposure": "programme milestone",
+     "confidence": "high",
+     "title": "NASA restates a 2028 Moon landing and sets out Artemis III as a 2027 Earth-orbit test",
+     "summary": "NASA released an Artemis update on 23 October. It said Artemis III will launch in 2027 and send astronauts Randy Bresnik, Frank Rubio and Andre Douglas, with ESA astronaut Luca Parmitano, aboard Orion into low Earth orbit to test lander operations. NASA said it and the commercial lander providers, Blue Origin and SpaceX, had streamlined their lander designs and changed their concepts of operations. Reports put Artemis III and IV at 2027 and 2028, and NASA officials restated a landing on the Moon in 2028. Administrator Jared Isaacman said NASA was exploring ways to keep Artemis III on target without compromising safety.",
+     "why": "The update keeps a crewed landing in 2028 as NASA's stated date while the 2027 flight stays an orbital test rather than a landing. It names an ESA astronaut on the Artemis III crew and changes the lander plans of both providers.",
+     "sources": [
+      {
+       "outlet": "NASA",
+       "url": "https://www.nasa.gov/missions/artemis/nasas-artemis-iii-mission-to-test-future-moon-lander-operations/",
+       "language": "en",
+       "type": "government-or-embassy",
+       "primary": true
+      },
+      {
+       "outlet": "NASA",
+       "url": "https://www.nasa.gov/missions/artemis/nasa-partners-accelerate-lander-development-for-2028-moon-missions/",
+       "language": "en",
+       "type": "government-or-embassy"
+      },
+      {
+       "outlet": "The New York Times",
+       "url": "https://www.nytimes.com/2026/10/23/science/space/nasa-artemis-program-update.html",
+       "language": "en",
+       "type": "press"
+      },
+      {
+       "outlet": "Payload",
+       "url": "https://payloadspace.com/nasa-outlines-the-details-of-artemis-iii-and-iv-missions/",
+       "language": "en",
+       "type": "press"
+      },
+      {
+       "outlet": "SpacePolicyOnline",
+       "url": "https://spacepolicyonline.com/news/nasa-is-full-steam-ahead-on-artemis-iii-iv-and-v/",
+       "language": "en",
+       "type": "press"
+      },
+      {
+       "outlet": "NASASpaceflight",
+       "url": "https://www.nasaspaceflight.com/2026/10/nasa-artemis-sls-sortie-suit-dual-paths/",
+       "language": "en",
+       "type": "press"
+      }
+     ],
+     "bar": "B: five independent sources (one government, four press); no national-language mix for a US item",
+     "tags": [
+      "exploration",
+      "Moon",
+      "Artemis"
+     ],
+     "next": null
+    },
     {
      "date": "2026-10-23",
      "iso3": [
@@ -1402,6 +1461,65 @@
       "end of mission"
      ],
      "next": null
+    },
+    {
+     "date": "2026-10-23",
+     "iso3": [
+      "USA"
+     ],
+     "status": "statement",
+     "priority": "P2",
+     "exposure": "programme milestone",
+     "confidence": "high",
+     "title": "NASA restates a 2028 Moon landing and sets out Artemis III as a 2027 Earth-orbit test",
+     "summary": "NASA released an Artemis update on 23 October. It said Artemis III will launch in 2027 and send astronauts Randy Bresnik, Frank Rubio and Andre Douglas, with ESA astronaut Luca Parmitano, aboard Orion into low Earth orbit to test lander operations. NASA said it and the commercial lander providers, Blue Origin and SpaceX, had streamlined their lander designs and changed their concepts of operations. Reports put Artemis III and IV at 2027 and 2028, and NASA officials restated a landing on the Moon in 2028. Administrator Jared Isaacman said NASA was exploring ways to keep Artemis III on target without compromising safety.",
+     "why": "The update keeps a crewed landing in 2028 as NASA's stated date while the 2027 flight stays an orbital test rather than a landing. It names an ESA astronaut on the Artemis III crew and changes the lander plans of both providers.",
+     "sources": [
+      {
+       "outlet": "NASA",
+       "url": "https://www.nasa.gov/missions/artemis/nasas-artemis-iii-mission-to-test-future-moon-lander-operations/",
+       "language": "en",
+       "type": "government-or-embassy",
+       "primary": true
+      },
+      {
+       "outlet": "NASA",
+       "url": "https://www.nasa.gov/missions/artemis/nasa-partners-accelerate-lander-development-for-2028-moon-missions/",
+       "language": "en",
+       "type": "government-or-embassy"
+      },
+      {
+       "outlet": "The New York Times",
+       "url": "https://www.nytimes.com/2026/10/23/science/space/nasa-artemis-program-update.html",
+       "language": "en",
+       "type": "press"
+      },
+      {
+       "outlet": "Payload",
+       "url": "https://payloadspace.com/nasa-outlines-the-details-of-artemis-iii-and-iv-missions/",
+       "language": "en",
+       "type": "press"
+      },
+      {
+       "outlet": "SpacePolicyOnline",
+       "url": "https://spacepolicyonline.com/news/nasa-is-full-steam-ahead-on-artemis-iii-iv-and-v/",
+       "language": "en",
+       "type": "press"
+      },
+      {
+       "outlet": "NASASpaceflight",
+       "url": "https://www.nasaspaceflight.com/2026/10/nasa-artemis-sls-sortie-suit-dual-paths/",
+       "language": "en",
+       "type": "press"
+      }
+     ],
+     "bar": "B: five independent sources (one government, four press); no national-language mix for a US item",
+     "tags": [
+      "exploration",
+      "Moon",
+      "Artemis"
+     ],
+     "next": null
     }
    ]
   }
@@ -1517,10 +1635,10 @@
  ],
  "competitive_watch": [],
  "stats": {
-  "revised": "2026-10-26 edition rebuilt to the three-source rule, 17:55 UTC",
+  "revised": "2026-10-26 edition rebuilt to the three-source rule, 17:55 UTC; Artemis item added 21:05 UTC",
   "desks": 8,
-  "items": 13,
-  "sources": 47
+  "items": 14,
+  "sources": 52
  },
  "audio_sections": [
   {
@@ -1536,7 +1654,7 @@
   {
    "id": "esa_eu",
    "title": "ESA and EU",
-   "text": "On the ESA and European Union desk, no development in the five days to today met the publication's standard of three independent sources, including one in a national language and one from a government. EU announcements on Galileo and space surveillance each rested on a single release."
+   "text": "On the ESA and European Union desk, no development in the five days to today met the publication's source standard. EU announcements on Galileo and space surveillance each rested on a single release."
   },
   {
    "id": "cee",
@@ -1556,12 +1674,12 @@
   {
    "id": "eurasia",
    "title": "Eurasia and Central Asia",
-   "text": "On the Eurasia and Central Asia desk, no development in the five days to today met the source standard. Russian government websites could not be reached during this run, and no Central Asian space item fell within the window. Statements by Russian officials in state media lacked a government page or enough independent confirmation."
+   "text": "On the Eurasia and Central Asia desk, no development in the five days to today met the source standard. Russian government websites could not be reached during this run, and no Central Asian space item fell within the window."
   },
   {
    "id": "mena",
    "title": "Türkiye, Middle East and Africa",
-   "text": "On the Türkiye, Middle East and Africa desk, Türkiye's 2027 budget proposal raises the Space and Aviation programme from 8.73 billion lira this year to 24.59 billion lira next year, an increase of almost 182 per cent. It plans 92.14 billion lira over three years. The programme covers aviation as well as space. Gazete Oksijen calculates aviation at about three quarters of next year's total, and the budget text gives no separate figure for space. No Gulf item in the window met the standard."
+   "text": "On the Türkiye, Middle East and Africa desk, Türkiye's 2027 budget proposal raises the Space and Aviation programme from 8.73 billion lira this year to 24.59 billion lira next year, an increase of almost 182 per cent. The programme covers aviation as well as space, and the budget text gives no separate figure for space. No Gulf item in the window met the standard."
   },
   {
    "id": "asia_pac",
@@ -1571,7 +1689,7 @@
   {
    "id": "americas",
    "title": "Americas",
-   "text": "In the Americas, besides the Space Force agreements, NASA announced on the twenty-third the end of science operations for the Neil Gehrels Swift Observatory. Its orbit had decayed below two hundred and seventy-five kilometres. The final observation was made on the twentieth, and re-entry is expected within weeks. A commercial reboost attempt was abandoned in August. No Canadian or Brazilian item in the window met the standard."
+   "text": "In the Americas, besides the Space Force agreements, NASA released an Artemis update on the twenty-third. Artemis III is to launch in 2027 as a test in low Earth orbit, with astronauts Randy Bresnik, Frank Rubio and Andre Douglas, and the European Space Agency's Luca Parmitano, aboard Orion. NASA said it and the two lander providers, Blue Origin and SpaceX, had streamlined their lander designs. Officials restated a landing on the Moon in 2028.\n\nAlso on the twenty-third, NASA announced the end of science operations for the Swift Observatory, after its orbit decayed. Re-entry is expected within weeks. No Canadian or Brazilian item in the window met the standard."
   },
   {
    "id": "close",
@@ -1579,6 +1697,6 @@
    "text": "Looking ahead, the Asia-Pacific Regional Space Agency Forum opens in Thailand tomorrow, and the United Kingdom's Defence in Space Conference also opens tomorrow. The first of two spacewalks to install new solar arrays on the International Space Station is planned for Thursday. The European Parliament's industry committee votes on the EU Space Act on the tenth of November, and ESA ministers meet in Rome on the fifteenth of December. The next monthly edition is on Tuesday the third of November. That is the briefing for Monday the twenty-sixth of October."
   }
  ],
- "audio_script": "Good morning. It is Monday, the twenty-sixth of October, and this is the Sovereign Space ATLAS briefing.\n\nJapan has sent a probe towards the moons of Mars. The United States Space Force has signed its first operational agreements to call on commercial satellite tracking in a crisis. And a Russian military satellite's close approaches to a commercial radar satellite have been set out in detail. Two desks, ESA and the European Union, and Eurasia, have nothing this morning that meets the publication's source standard.\n\nThe top story is Japan's Martian Moons eXploration mission, known as MMX. An H3 rocket lifted off from Tanegashima at 04:41 Japan time on Tuesday the twentieth, which was 19:41 UTC on the nineteenth. JAXA confirmed that the probe separated into a transfer orbit towards Mars about an hour and eleven minutes after launch. It was the tenth flight of the H3, and the first time the rocket has flown an interplanetary mission. MMX is designed to bring a sample back from Phobos, the larger of the two Martian moons. Europe has a direct stake: the probe carries a rover built jointly by the French and German space agencies.\n\nIn the United States, Space Systems Command announced on the twenty-second the first six operational purchase agreements under its Commercial Augmentation Space Reserve. These give the Space Force access to commercial space surveillance capacity that it can call on during a surge. The Command did not name the companies. Press reports name Anduril, LeoLabs, Slingshot, InTrack, EOS of Australia and NorthStar of Canada.\n\nAnd a report by the tracking company LeoLabs, released on the nineteenth, described manoeuvres by the Russian military satellite Kosmos 2612 around ICEYE-X36, a radar satellite of the Finnish company ICEYE, between the fifteenth and the nineteenth. Reports put the closest approach at about five hundred metres or less. The satellite is registered in the United States and operated by ICEYE's American arm. No Finnish government statement was found.\n\nOn the ESA and European Union desk, no development in the five days to today met the publication's standard of three independent sources, including one in a national language and one from a government. EU announcements on Galileo and space surveillance each rested on a single release.\n\nIn Central and Eastern Europe, Poland and Vietnam raised their relations to a strategic partnership in Hanoi on Monday, during a visit by Prime Minister Donald Tusk. Satellite and space cooperation is among the named areas. A Polish Space Agency delegation led by its president, Marta Wachowicz, visited the Vietnam National Space Center. No contract or amount was announced for space.\n\nThe Polish Space Agency also closed its watch on the second stage of a Chinese Zhuque-2E rocket, about five tonnes, which passed over Poland. Its final notice, issued on the nineteenth, said the stage re-entered on the eighteenth over Borneo.\n\nOn the Nordic desk, President Volodymyr Zelensky met Norway's Defence Minister, Tore Sandvik, and the head of Kongsberg, Eirik Lie, during his visit to Oslo on the twentieth and twenty-first. Zelensky said the talks gave special attention to new satellite communications for Ukrainian forces, as an alternative to Starlink. That account comes from the Ukrainian side. The Norwegian government's releases on the visit do not mention satellite communications, and no agreement, amount or timeline was announced.\n\nIn Western and Southern Europe, the French and German share of MMX is Idefix, a rover built jointly by the French space agency CNES and the German Aerospace Center, DLR. The probe also carries a French infrared spectrometer. DLR quoted German minister Dorothee Bär on the launch.\n\nIn Italy, the Italian Space Agency announced on the twentieth that it had completed a new satellite laser-ranging station at its space centre in Matera. The station was built by e-GEOS. The agency said it could later be used to track space debris.\n\nOn the Eurasia and Central Asia desk, no development in the five days to today met the source standard. Russian government websites could not be reached during this run, and no Central Asian space item fell within the window. Statements by Russian officials in state media lacked a government page or enough independent confirmation.\n\nOn the Türkiye, Middle East and Africa desk, Türkiye's 2027 budget proposal raises the Space and Aviation programme from 8.73 billion lira this year to 24.59 billion lira next year, an increase of almost 182 per cent. It plans 92.14 billion lira over three years. The programme covers aviation as well as space. Gazete Oksijen calculates aviation at about three quarters of next year's total, and the budget text gives no separate figure for space. No Gulf item in the window met the standard.\n\nIn Asia Pacific, besides the MMX launch, China launched the twenty-eighth group of its state low-orbit internet satellites. A Long March 8A rocket lifted off from the Hainan commercial spaceport on Sunday at 10:03 Beijing time. The China National Space Administration said the satellites reached their planned orbit. This came fifteen days after the previous group. All sources found are state or state-aligned media.\n\nIn the Americas, besides the Space Force agreements, NASA announced on the twenty-third the end of science operations for the Neil Gehrels Swift Observatory. Its orbit had decayed below two hundred and seventy-five kilometres. The final observation was made on the twentieth, and re-entry is expected within weeks. A commercial reboost attempt was abandoned in August. No Canadian or Brazilian item in the window met the standard.\n\nLooking ahead, the Asia-Pacific Regional Space Agency Forum opens in Thailand tomorrow, and the United Kingdom's Defence in Space Conference also opens tomorrow. The first of two spacewalks to install new solar arrays on the International Space Station is planned for Thursday. The European Parliament's industry committee votes on the EU Space Act on the tenth of November, and ESA ministers meet in Rome on the fifteenth of December. The next monthly edition is on Tuesday the third of November. That is the briefing for Monday the twenty-sixth of October.",
+ "audio_script": "Good morning. It is Monday, the twenty-sixth of October, and this is the Sovereign Space ATLAS briefing.\n\nJapan has sent a probe towards the moons of Mars. The United States Space Force has signed its first operational agreements to call on commercial satellite tracking in a crisis. And a Russian military satellite's close approaches to a commercial radar satellite have been set out in detail. Two desks, ESA and the European Union, and Eurasia, have nothing this morning that meets the publication's source standard.\n\nThe top story is Japan's Martian Moons eXploration mission, known as MMX. An H3 rocket lifted off from Tanegashima at 04:41 Japan time on Tuesday the twentieth, which was 19:41 UTC on the nineteenth. JAXA confirmed that the probe separated into a transfer orbit towards Mars about an hour and eleven minutes after launch. It was the tenth flight of the H3, and the first time the rocket has flown an interplanetary mission. MMX is designed to bring a sample back from Phobos, the larger of the two Martian moons. Europe has a direct stake: the probe carries a rover built jointly by the French and German space agencies.\n\nIn the United States, Space Systems Command announced on the twenty-second the first six operational purchase agreements under its Commercial Augmentation Space Reserve. These give the Space Force access to commercial space surveillance capacity that it can call on during a surge. The Command did not name the companies. Press reports name Anduril, LeoLabs, Slingshot, InTrack, EOS of Australia and NorthStar of Canada.\n\nAnd a report by the tracking company LeoLabs, released on the nineteenth, described manoeuvres by the Russian military satellite Kosmos 2612 around ICEYE-X36, a radar satellite of the Finnish company ICEYE, between the fifteenth and the nineteenth. Reports put the closest approach at about five hundred metres or less. The satellite is registered in the United States and operated by ICEYE's American arm. No Finnish government statement was found.\n\nOn the ESA and European Union desk, no development in the five days to today met the publication's source standard. EU announcements on Galileo and space surveillance each rested on a single release.\n\nIn Central and Eastern Europe, Poland and Vietnam raised their relations to a strategic partnership in Hanoi on Monday, during a visit by Prime Minister Donald Tusk. Satellite and space cooperation is among the named areas. A Polish Space Agency delegation led by its president, Marta Wachowicz, visited the Vietnam National Space Center. No contract or amount was announced for space.\n\nThe Polish Space Agency also closed its watch on the second stage of a Chinese Zhuque-2E rocket, about five tonnes, which passed over Poland. Its final notice, issued on the nineteenth, said the stage re-entered on the eighteenth over Borneo.\n\nOn the Nordic desk, President Volodymyr Zelensky met Norway's Defence Minister, Tore Sandvik, and the head of Kongsberg, Eirik Lie, during his visit to Oslo on the twentieth and twenty-first. Zelensky said the talks gave special attention to new satellite communications for Ukrainian forces, as an alternative to Starlink. That account comes from the Ukrainian side. The Norwegian government's releases on the visit do not mention satellite communications, and no agreement, amount or timeline was announced.\n\nIn Western and Southern Europe, the French and German share of MMX is Idefix, a rover built jointly by the French space agency CNES and the German Aerospace Center, DLR. The probe also carries a French infrared spectrometer. DLR quoted German minister Dorothee Bär on the launch.\n\nIn Italy, the Italian Space Agency announced on the twentieth that it had completed a new satellite laser-ranging station at its space centre in Matera. The station was built by e-GEOS. The agency said it could later be used to track space debris.\n\nOn the Eurasia and Central Asia desk, no development in the five days to today met the source standard. Russian government websites could not be reached during this run, and no Central Asian space item fell within the window.\n\nOn the Türkiye, Middle East and Africa desk, Türkiye's 2027 budget proposal raises the Space and Aviation programme from 8.73 billion lira this year to 24.59 billion lira next year, an increase of almost 182 per cent. The programme covers aviation as well as space, and the budget text gives no separate figure for space. No Gulf item in the window met the standard.\n\nIn Asia Pacific, besides the MMX launch, China launched the twenty-eighth group of its state low-orbit internet satellites. A Long March 8A rocket lifted off from the Hainan commercial spaceport on Sunday at 10:03 Beijing time. The China National Space Administration said the satellites reached their planned orbit. This came fifteen days after the previous group. All sources found are state or state-aligned media.\n\nIn the Americas, besides the Space Force agreements, NASA released an Artemis update on the twenty-third. Artemis III is to launch in 2027 as a test in low Earth orbit, with astronauts Randy Bresnik, Frank Rubio and Andre Douglas, and the European Space Agency's Luca Parmitano, aboard Orion. NASA said it and the two lander providers, Blue Origin and SpaceX, had streamlined their lander designs. Officials restated a landing on the Moon in 2028.\n\nAlso on the twenty-third, NASA announced the end of science operations for the Swift Observatory, after its orbit decayed. Re-entry is expected within weeks. No Canadian or Brazilian item in the window met the standard.\n\nLooking ahead, the Asia-Pacific Regional Space Agency Forum opens in Thailand tomorrow, and the United Kingdom's Defence in Space Conference also opens tomorrow. The first of two spacewalks to install new solar arrays on the International Space Station is planned for Thursday. The European Parliament's industry committee votes on the EU Space Act on the tenth of November, and ESA ministers meet in Rome on the fifteenth of December. The next monthly edition is on Tuesday the third of November. That is the briefing for Monday the twenty-sixth of October.",
  "profile_updates": []
 }
