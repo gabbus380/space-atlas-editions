@@ -1,0 +1,330 @@
+{
+  "date": "2026-09-11",
+  "edition": "memory",
+  "generated_at": "2026-09-11T18:00:00+00:00",
+  "headline": "Protecting satellites from quantum attack",
+  "summary": [
+    "Protecting satellites from quantum attack",
+    "SpaceX confirms plans to launch Starlink satellites on next Starship mission",
+    "LatConnect 60 Expands India Market Presence for SWIRSAT With NSIL Agreement and GeoSyze Partnership",
+    "China details satellite network buildout in new telecom five-year plan"
+  ],
+  "bottom_line": "Memory record drawn from SpaceNews for this date. It is not a full eight-desk sweep, and a desk with no mapped story is a gap in the harvest.",
+  "global": [
+    {
+      "date": "2026-09-11",
+      "title": "Protecting satellites from quantum attack",
+      "summary": "Cryptographic tools relied on for decades to protect sensitive communications and critical infrastructure risk becoming easy targets for sufficiently powerful quantum computers.",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "SpaceNews",
+          "title": "Protecting satellites from quantum attack",
+          "url": "https://spacenews.com/protecting-satellites-from-quantum-attack/",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-11",
+      "title": "SpaceX confirms plans to launch Starlink satellites on next Starship mission",
+      "summary": "PARIS — A SpaceX executive confirmed that the next flight of the company’s Starship rocket will carry its first orbital payloads, setting the stage for work on direct-to-device and orbital data center systems.",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "SpaceNews",
+          "title": "SpaceX confirms plans to launch Starlink satellites on next Starship mission",
+          "url": "https://spacenews.com/spacex-confirms-plans-to-launch-starlink-satellites-on-next-starship-mission/",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-11",
+      "title": "LatConnect 60 Expands India Market Presence for SWIRSAT With NSIL Agreement and GeoSyze Partnership",
+      "summary": "Australian Earth observation satellite company LatConnect 60 (LC60) has strengthened its position in India with two strategic agreements announced at the Bengaluru Space Expo 2026 on September 7th, spanning satellite mission infrastructure and access to India’s defence and geospatial intelligence market. The agreements with NewSpace India Limited (NSIL) and GeoSyze EO S",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "SpaceNews",
+          "title": "LatConnect 60 Expands India Market Presence for SWIRSAT With NSIL Agreement and GeoSyze Partnership",
+          "url": "https://spacenews.com/latconnect-60-expands-india-market-presence-for-swirsat-with-nsil-agreement-and-geosyze-partnership/",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-11",
+      "title": "China details satellite network buildout in new telecom five-year plan",
+      "summary": "THE HAGUE, Netherlands — China’s telecommunications regulator has issued a roadmap to the end of the decade, building on a national five-year plan laid out in March.",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "SpaceNews",
+          "title": "China details satellite network buildout in new telecom five-year plan",
+          "url": "https://spacenews.com/china-details-satellite-network-buildout-in-new-telecom-five-year-plan/",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-11",
+      "title": "Catalyx Space gearing up for heat shield deployment test",
+      "summary": "TAMPA, Fla. — Catalyx Space is preparing to test a newly developed deployable heat shield for its planned ReX reentry vehicle on a suborbital flight from India in mid-October.",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "SpaceNews",
+          "title": "Catalyx Space gearing up for heat shield deployment test",
+          "url": "https://spacenews.com/catalyx-space-gearing-up-for-heat-shield-deployment-test/",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-11",
+      "title": "Agentic AI in space warfare is not risk-free: Military advantage belongs to those who control it",
+      "summary": "Agentic AI in space operations is already defining the next era of military advantage, enabling warfighters to sense, decide and act at machine speed across global constellations. China’s Siwei Gaojing-2 satellites are designed with a “self-driving” capability to understand their surroundings and maneuver autonomously without ground intervention. At the onset of Operation Epic Fury, the Chinese company MizarVision claimed to use AI to analyze satellite data and expose the movements and refueling",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "SpaceNews",
+          "title": "Agentic AI in space warfare is not risk-free: Military advantage belongs to those who control it",
+          "url": "https://spacenews.com/agentic-ai-in-space-warfare-is-not-risk-free-military-advantage-belongs-to-those-who-control-it/",
+          "primary": true
+        }
+      ]
+    }
+  ],
+  "regions": [
+    {
+      "id": "nordics",
+      "name": "Nordics",
+      "items": [
+        {
+          "date": "2026-09-11",
+          "title": "Nordics: nothing in the SpaceNews record for this day",
+          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "confidence": "low",
+          "status": "overview",
+          "iso3": [],
+          "sources": []
+        }
+      ]
+    },
+    {
+      "id": "cee",
+      "name": "Central and Eastern Europe",
+      "items": [
+        {
+          "date": "2026-09-11",
+          "title": "Central and Eastern Europe: nothing in the SpaceNews record for this day",
+          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "confidence": "low",
+          "status": "overview",
+          "iso3": [],
+          "sources": []
+        }
+      ]
+    },
+    {
+      "id": "west",
+      "name": "Western and Southern Europe",
+      "items": [
+        {
+          "date": "2026-09-11",
+          "title": "Western and Southern Europe: nothing in the SpaceNews record for this day",
+          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "confidence": "low",
+          "status": "overview",
+          "iso3": [],
+          "sources": []
+        }
+      ]
+    },
+    {
+      "id": "esa_eu",
+      "name": "ESA and EU",
+      "items": [
+        {
+          "date": "2026-09-11",
+          "title": "ESA and EU: nothing in the SpaceNews record for this day",
+          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "confidence": "low",
+          "status": "overview",
+          "iso3": [],
+          "sources": []
+        }
+      ]
+    },
+    {
+      "id": "mena",
+      "name": "Türkiye, Middle East and Africa",
+      "items": [
+        {
+          "date": "2026-09-11",
+          "title": "Türkiye, Middle East and Africa: nothing in the SpaceNews record for this day",
+          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "confidence": "low",
+          "status": "overview",
+          "iso3": [],
+          "sources": []
+        }
+      ]
+    },
+    {
+      "id": "eurasia",
+      "name": "Eurasia and Central Asia",
+      "items": [
+        {
+          "date": "2026-09-11",
+          "title": "Eurasia and Central Asia: nothing in the SpaceNews record for this day",
+          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "confidence": "low",
+          "status": "overview",
+          "iso3": [],
+          "sources": []
+        }
+      ]
+    },
+    {
+      "id": "asia_pac",
+      "name": "Asia Pacific",
+      "items": [
+        {
+          "date": "2026-09-11",
+          "title": "LatConnect 60 Expands India Market Presence for SWIRSAT With NSIL Agreement and GeoSyze Partnership",
+          "summary": "Australian Earth observation satellite company LatConnect 60 (LC60) has strengthened its position in India with two strategic agreements announced at the Bengaluru Space Expo 2026 on September 7th, spanning satellite mission infrastructure and access to India’s defence and geospatial intelligence market. The agreements with NewSpace India Limited (NSIL) and GeoSyze EO S",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "SpaceNews",
+              "title": "LatConnect 60 Expands India Market Presence for SWIRSAT With NSIL Agreement and GeoSyze Partnership",
+              "url": "https://spacenews.com/latconnect-60-expands-india-market-presence-for-swirsat-with-nsil-agreement-and-geosyze-partnership/",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-09-11",
+          "title": "China details satellite network buildout in new telecom five-year plan",
+          "summary": "THE HAGUE, Netherlands — China’s telecommunications regulator has issued a roadmap to the end of the decade, building on a national five-year plan laid out in March.",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "SpaceNews",
+              "title": "China details satellite network buildout in new telecom five-year plan",
+              "url": "https://spacenews.com/china-details-satellite-network-buildout-in-new-telecom-five-year-plan/",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-09-11",
+          "title": "Catalyx Space gearing up for heat shield deployment test",
+          "summary": "TAMPA, Fla. — Catalyx Space is preparing to test a newly developed deployable heat shield for its planned ReX reentry vehicle on a suborbital flight from India in mid-October.",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "SpaceNews",
+              "title": "Catalyx Space gearing up for heat shield deployment test",
+              "url": "https://spacenews.com/catalyx-space-gearing-up-for-heat-shield-deployment-test/",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-09-11",
+          "title": "Agentic AI in space warfare is not risk-free: Military advantage belongs to those who control it",
+          "summary": "Agentic AI in space operations is already defining the next era of military advantage, enabling warfighters to sense, decide and act at machine speed across global constellations. China’s Siwei Gaojing-2 satellites are designed with a “self-driving” capability to understand their surroundings and maneuver autonomously without ground intervention. At the onset of Operation Epic Fury, the Chinese company MizarVision claimed to use AI to analyze satellite data and expose the movements and refueling",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "SpaceNews",
+              "title": "Agentic AI in space warfare is not risk-free: Military advantage belongs to those who control it",
+              "url": "https://spacenews.com/agentic-ai-in-space-warfare-is-not-risk-free-military-advantage-belongs-to-those-who-control-it/",
+              "primary": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "americas",
+      "name": "Americas",
+      "items": [
+        {
+          "date": "2026-09-11",
+          "title": "SpaceX confirms plans to launch Starlink satellites on next Starship mission",
+          "summary": "PARIS — A SpaceX executive confirmed that the next flight of the company’s Starship rocket will carry its first orbital payloads, setting the stage for work on direct-to-device and orbital data center systems.",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "SpaceNews",
+              "title": "SpaceX confirms plans to launch Starlink satellites on next Starship mission",
+              "url": "https://spacenews.com/spacex-confirms-plans-to-launch-starlink-satellites-on-next-starship-mission/",
+              "primary": true
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "countries": [],
+  "priorities": [],
+  "milestones": [],
+  "watchlist": [],
+  "competitive_watch": [],
+  "stats": {
+    "record": "memory",
+    "source": "SpaceNews",
+    "stories": 6
+  },
+  "audio_script": "This is a memory record for 2026-09-11, not a spoken briefing. It keeps the SpaceNews stories dated this day so later editions can see what had already been reported.",
+  "audio_sections": [
+    {
+      "id": "opening",
+      "title": "Memory record",
+      "text": "This is a memory record for 2026-09-11, not a spoken briefing."
+    }
+  ]
+}

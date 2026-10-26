@@ -1,0 +1,279 @@
+{
+  "date": "2026-10-12",
+  "edition": "memory",
+  "generated_at": "2026-10-12T18:00:00+00:00",
+  "headline": "Space Force has money to grow. Building guardians is harder.",
+  "summary": [
+    "Space Force has money to grow. Building guardians is harder.",
+    "NASA issues final RFP for commercial space station procurement",
+    "Army expands use of software combining satellite and drone imagery",
+    "Spain&#039;s EarthPulse seeks investors for first funding round"
+  ],
+  "bottom_line": "Memory record drawn from SpaceNews for this date. It is not a full eight-desk sweep, and a desk with no mapped story is a gap in the harvest.",
+  "global": [
+    {
+      "date": "2026-10-12",
+      "title": "Space Force has money to grow. Building guardians is harder.",
+      "summary": "The U.S. Space Force is about to test whether a military service can grow its people nearly as fast as its budget.",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "SpaceNews",
+          "title": "Space Force has money to grow. Building guardians is harder.",
+          "url": "https://spacenews.com/space-force-has-money-to-grow-building-guardians-is-harder/",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-10-12",
+      "title": "NASA issues final RFP for commercial space station procurement",
+      "summary": "ISTANBUL — NASA released the final request for proposals for the next phase of its program to develop commercial space stations, providing companies with some relief on one key issue.",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "SpaceNews",
+          "title": "NASA issues final RFP for commercial space station procurement",
+          "url": "https://spacenews.com/nasa-issues-final-rfp-for-commercial-space-station-procurement/",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-10-12",
+      "title": "Army expands use of software combining satellite and drone imagery",
+      "summary": "WASHINGTON — Reveal Technology said Oct. 12 it has introduced an upgraded geospatial intelligence platform that combines satellite and drone imagery into 3D terrain models, allowing U.S. Army soldiers to analyze terrain and plan missions even when military communications are disrupted.",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "SpaceNews",
+          "title": "Army expands use of software combining satellite and drone imagery",
+          "url": "https://spacenews.com/army-expands-use-of-software-combining-satellite-and-drone-imagery/",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-10-12",
+      "title": "Spain&#039;s EarthPulse seeks investors for first funding round",
+      "summary": "SAN FRANCISCO – After six years in business, geospatial analytics company EarthPulse is seeking investors for its first venture funding round.",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "SpaceNews",
+          "title": "Spain&#039;s EarthPulse seeks investors for first funding round",
+          "url": "https://spacenews.com/spains-earthpulse-seeks-investors-for-first-funding-round/",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-10-12",
+      "title": "Jena-Optronik is proud to partner with MDA Space for its first ASTRO HP mission.",
+      "summary": "MDA Space, a global leader in communications satellites, Earth and space observation, space exploration and infrastructure, will utilize Jena-Optronik’s ASTRO HP star sensor on a LEO mission. This milestone underscores our ability to provide cutting-edge technology that meets the demands of international space missions. In a market that moves fast, the ASTRO HP optical head provides the perfect balance: high performance thanks to the radiation-hard Faintstar2 detector, the very fast optics in a ",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "SpaceNews",
+          "title": "Jena-Optronik is proud to partner with MDA Space for its first ASTRO HP mission.",
+          "url": "https://spacenews.com/jena-optronik-is-proud-to-partner-with-mda-space-for-its-first-astro-hp-mission/",
+          "primary": true
+        }
+      ]
+    }
+  ],
+  "regions": [
+    {
+      "id": "nordics",
+      "name": "Nordics",
+      "items": [
+        {
+          "date": "2026-10-12",
+          "title": "Nordics: nothing in the SpaceNews record for this day",
+          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "confidence": "low",
+          "status": "overview",
+          "iso3": [],
+          "sources": []
+        }
+      ]
+    },
+    {
+      "id": "cee",
+      "name": "Central and Eastern Europe",
+      "items": [
+        {
+          "date": "2026-10-12",
+          "title": "Central and Eastern Europe: nothing in the SpaceNews record for this day",
+          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "confidence": "low",
+          "status": "overview",
+          "iso3": [],
+          "sources": []
+        }
+      ]
+    },
+    {
+      "id": "west",
+      "name": "Western and Southern Europe",
+      "items": [
+        {
+          "date": "2026-10-12",
+          "title": "Spain&#039;s EarthPulse seeks investors for first funding round",
+          "summary": "SAN FRANCISCO – After six years in business, geospatial analytics company EarthPulse is seeking investors for its first venture funding round.",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "SpaceNews",
+              "title": "Spain&#039;s EarthPulse seeks investors for first funding round",
+              "url": "https://spacenews.com/spains-earthpulse-seeks-investors-for-first-funding-round/",
+              "primary": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "esa_eu",
+      "name": "ESA and EU",
+      "items": [
+        {
+          "date": "2026-10-12",
+          "title": "ESA and EU: nothing in the SpaceNews record for this day",
+          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "confidence": "low",
+          "status": "overview",
+          "iso3": [],
+          "sources": []
+        }
+      ]
+    },
+    {
+      "id": "mena",
+      "name": "Türkiye, Middle East and Africa",
+      "items": [
+        {
+          "date": "2026-10-12",
+          "title": "Türkiye, Middle East and Africa: nothing in the SpaceNews record for this day",
+          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "confidence": "low",
+          "status": "overview",
+          "iso3": [],
+          "sources": []
+        }
+      ]
+    },
+    {
+      "id": "eurasia",
+      "name": "Eurasia and Central Asia",
+      "items": [
+        {
+          "date": "2026-10-12",
+          "title": "Eurasia and Central Asia: nothing in the SpaceNews record for this day",
+          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "confidence": "low",
+          "status": "overview",
+          "iso3": [],
+          "sources": []
+        }
+      ]
+    },
+    {
+      "id": "asia_pac",
+      "name": "Asia Pacific",
+      "items": [
+        {
+          "date": "2026-10-12",
+          "title": "Asia Pacific: nothing in the SpaceNews record for this day",
+          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "confidence": "low",
+          "status": "overview",
+          "iso3": [],
+          "sources": []
+        }
+      ]
+    },
+    {
+      "id": "americas",
+      "name": "Americas",
+      "items": [
+        {
+          "date": "2026-10-12",
+          "title": "Space Force has money to grow. Building guardians is harder.",
+          "summary": "The U.S. Space Force is about to test whether a military service can grow its people nearly as fast as its budget.",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "SpaceNews",
+              "title": "Space Force has money to grow. Building guardians is harder.",
+              "url": "https://spacenews.com/space-force-has-money-to-grow-building-guardians-is-harder/",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-10-12",
+          "title": "NASA issues final RFP for commercial space station procurement",
+          "summary": "ISTANBUL — NASA released the final request for proposals for the next phase of its program to develop commercial space stations, providing companies with some relief on one key issue.",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "SpaceNews",
+              "title": "NASA issues final RFP for commercial space station procurement",
+              "url": "https://spacenews.com/nasa-issues-final-rfp-for-commercial-space-station-procurement/",
+              "primary": true
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "countries": [],
+  "priorities": [],
+  "milestones": [],
+  "watchlist": [],
+  "competitive_watch": [],
+  "stats": {
+    "record": "memory",
+    "source": "SpaceNews",
+    "stories": 5
+  },
+  "audio_script": "This is a memory record for 2026-10-12, not a spoken briefing. It keeps the SpaceNews stories dated this day so later editions can see what had already been reported.",
+  "audio_sections": [
+    {
+      "id": "opening",
+      "title": "Memory record",
+      "text": "This is a memory record for 2026-10-12, not a spoken briefing."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+# Memory editions, 1 September to 22 October 2026
+
+These files are a single-source record from the SpaceNews archive, so the editor can see what was already being reported before the live editions of 21–26 October. A desk line that says nothing was mapped is a gap in this harvest, not a finding that the desk was quiet. The editions of 23–26 October are the fuller filings and are not replaced by this record.
+
+- **2026-09-01** (8) Yank Technologies to study wireless satellite charging for Space Force
+- **2026-09-02** (11) Hubble deserves a plan, not a Hail Mary
+- **2026-09-03** (8) The Space-Nuclear Nexus is a symptom of arms control failure
+- **2026-09-04** (4) GSLV launches Earth imaging satellite in first ISRO launch since January
+- **2026-09-05** (1) Isar Aerospace reaches orbit on second Spectrum launch
+- **2026-09-06** (2) Space Force to start work on next GPS ground system after OCX failure
+- **2026-09-07** (2) Space Force backs startup seeking to change how satellites move in orbit
+- **2026-09-08** (7) Stoke Space raises $1 billion and unveils larger launch vehicle
+- **2026-09-09** (9) The emerging space economy brings opportunity and legal risks for business
+- **2026-09-10** (14) The space economy can’t scale on bespoke power systems
+- **2026-09-11** (6) Protecting satellites from quantum attack
+- **2026-09-12** (2) Saudi Arabia’s stc Group orders small GEO satellite in another Astranis Block 3 reshuffle
+- **2026-09-13** (1) Summit declarations avoid controversy but fail to earn key endorsements
+- **2026-09-14** (16) Satellogic to launch six more Earth-observation satellites for Office of Naval Research Slingshot III program
+- **2026-09-15** (8) Iceye&#039;s global presence expands to address sovereign demand
+- **2026-09-16** (12) India’s satcom market is ready for scale as regulation, pricing and use cases align
+- **2026-09-17** (12) China conducts four launches inside 48 hours as launch options diversify
+- **2026-09-18** (10) Astra projecting early 2027 for the introduction of Rocket 4.0
+- **2026-09-19** (1) Rocket Lab continues high Electron cadence with Synspective launch
+- **2026-09-20** (1) Space Force expands use of commercial satellites to track electronic interference
+- **2026-09-21** (9) Commercial Space Federation (CSF) Welcomes Two New Members
+- **2026-09-22** (2) IP law has a space problem
+- **2026-09-23** (10) Chinese launch startup Space Epoch raises $343 million
+- **2026-09-24** (7) D2D satellite operators need to look behind MNOs to reach their full business potential
+- **2026-09-25** (5) Rocket Lab downplays importance of NASA business as it pursues Mars mission protest
+- **2026-09-26** (4) Rocket Lab launches 13th Synspective satellite
+- **2026-09-27** (1) Aerospacelab to supply satellite platforms to Lockheed Martin
+- **2026-09-28** (9) Agile Space Industries Expands Leadership Structure to Support Next Phase of Growth
+- **2026-09-29** (12) Poland’s Eycore secures first Earth images from flagship satellite
+- **2026-09-30** (13) Quantum Space Executes Launch Processing Agreement with All Points Logistics for Prime Mission
+- **2026-10-01** (13) We’ve spent eight years hacking satellites. Here’s what the space industry needs to know now.
+- **2026-10-02** (6) Space exploration should learn from deep sea technology
+- **2026-10-03** (2) More than 600 soldiers join Army&#039;s new space operations career field
+- **2026-10-04** (1) Former NASA science leader joins Blue Origin
+- **2026-10-05** (8) Agile Space Industries Strengthens Board and Corporate Development to Support Continued Growth
+- **2026-10-06** (8) Can taking dead military satellites out of orbit become a business?
+- **2026-10-07** (7) The new multi-orbit model of sovereignty and resilience
+- **2026-10-08** (7) York expands Austin presence with new software-development office
+- **2026-10-09** (10) The rideshare era is ending. Small satellites need anchor customers for small launch, now.
+- **2026-10-10** (1) SpaceX launches 21 Northrop Grumman satellites for U.S. military data network
+- **2026-10-11** (0) No SpaceNews story dated 2026-10-11
+- **2026-10-12** (5) Space Force has money to grow. Building guardians is harder.
+- **2026-10-13** (7) What is politically savvy for a NASA administrator?
+- **2026-10-14** (6) Rescuing astronomy from its satellite megaconstellation crisis
+- **2026-10-15** (9) UK awards ClearSpace $80 million prime contract for dual-satellite deorbit mission
+- **2026-10-16** (6) Blue Origin outlines New Glenn launch infrastructure upgrades
+- **2026-10-17** (0) No SpaceNews story dated 2026-10-17
+- **2026-10-18** (1) Space Force plans wider global deployment of satellite jammers
+- **2026-10-19** (8) The space superiority imperative to increase ground and network resilience
+- **2026-10-20** (8) Xona launches six satellites to begin commercial navigation service
+- **2026-10-21** (13) SpaceX plans Starship upper stage catch on next launch
+- **2026-10-22** (10) Navigation startup Xona raises $250 million as it begins satellite deployment

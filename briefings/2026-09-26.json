@@ -1,0 +1,269 @@
+{
+  "date": "2026-09-26",
+  "edition": "memory",
+  "generated_at": "2026-09-26T18:00:00+00:00",
+  "headline": "Rocket Lab launches 13th Synspective satellite",
+  "summary": [
+    "Rocket Lab launches 13th Synspective satellite",
+    "U.S. secures authority for Golden Dome missile defense in Greenland",
+    "KBR taps veteran defense executive to lead Trinzic spinoff",
+    "EU commissioner focuses on increasing European launch rates"
+  ],
+  "bottom_line": "Memory record drawn from SpaceNews for this date. It is not a full eight-desk sweep, and a desk with no mapped story is a gap in the harvest.",
+  "global": [
+    {
+      "date": "2026-09-26",
+      "title": "Rocket Lab launches 13th Synspective satellite",
+      "summary": "WASHINGTON — Rocket Lab continued a rapid pace of Electron launches with another mission for Japanese radar-imaging company Synspective on Sept. 25.",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "SpaceNews",
+          "title": "Rocket Lab launches 13th Synspective satellite",
+          "url": "https://spacenews.com/rocket-lab-launches-13th-synspective-satellite/",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-26",
+      "title": "U.S. secures authority for Golden Dome missile defense in Greenland",
+      "summary": "WASHINGTON — The United States has secured authority to establish Golden Dome missile-defense capabilities in Greenland, opening the way for the Pentagon to expand a homeland defense network around Pituffik Space Base, where the U.S. Space Force already operates a ballistic missile warning radar.",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "SpaceNews",
+          "title": "U.S. secures authority for Golden Dome missile defense in Greenland",
+          "url": "https://spacenews.com/u-s-secures-authority-for-golden-dome-missile-defense-in-greenland/",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-26",
+      "title": "KBR taps veteran defense executive to lead Trinzic spinoff",
+      "summary": "WASHINGTON — KBR is putting a veteran defense executive in charge of a $5 billion-plus government technology business as it prepares to spin off operations spanning national security, NASA and military space into an independent public company.",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "SpaceNews",
+          "title": "KBR taps veteran defense executive to lead Trinzic spinoff",
+          "url": "https://spacenews.com/kbr-taps-veteran-defense-executive-to-lead-trinzic-spinoff/",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-26",
+      "title": "EU commissioner focuses on increasing European launch rates",
+      "summary": "WASHINGTON — The European Union commissioner responsible for space is taking a more active role in launch as he presses European companies to increase launch activity.",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "SpaceNews",
+          "title": "EU commissioner focuses on increasing European launch rates",
+          "url": "https://spacenews.com/eu-commissioner-focuses-on-increasing-european-launch-rates/",
+          "primary": true
+        }
+      ]
+    }
+  ],
+  "regions": [
+    {
+      "id": "nordics",
+      "name": "Nordics",
+      "items": [
+        {
+          "date": "2026-09-26",
+          "title": "Nordics: nothing in the SpaceNews record for this day",
+          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "confidence": "low",
+          "status": "overview",
+          "iso3": [],
+          "sources": []
+        }
+      ]
+    },
+    {
+      "id": "cee",
+      "name": "Central and Eastern Europe",
+      "items": [
+        {
+          "date": "2026-09-26",
+          "title": "Central and Eastern Europe: nothing in the SpaceNews record for this day",
+          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "confidence": "low",
+          "status": "overview",
+          "iso3": [],
+          "sources": []
+        }
+      ]
+    },
+    {
+      "id": "west",
+      "name": "Western and Southern Europe",
+      "items": [
+        {
+          "date": "2026-09-26",
+          "title": "Western and Southern Europe: nothing in the SpaceNews record for this day",
+          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "confidence": "low",
+          "status": "overview",
+          "iso3": [],
+          "sources": []
+        }
+      ]
+    },
+    {
+      "id": "esa_eu",
+      "name": "ESA and EU",
+      "items": [
+        {
+          "date": "2026-09-26",
+          "title": "EU commissioner focuses on increasing European launch rates",
+          "summary": "WASHINGTON — The European Union commissioner responsible for space is taking a more active role in launch as he presses European companies to increase launch activity.",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "SpaceNews",
+              "title": "EU commissioner focuses on increasing European launch rates",
+              "url": "https://spacenews.com/eu-commissioner-focuses-on-increasing-european-launch-rates/",
+              "primary": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mena",
+      "name": "Türkiye, Middle East and Africa",
+      "items": [
+        {
+          "date": "2026-09-26",
+          "title": "Türkiye, Middle East and Africa: nothing in the SpaceNews record for this day",
+          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "confidence": "low",
+          "status": "overview",
+          "iso3": [],
+          "sources": []
+        }
+      ]
+    },
+    {
+      "id": "eurasia",
+      "name": "Eurasia and Central Asia",
+      "items": [
+        {
+          "date": "2026-09-26",
+          "title": "Eurasia and Central Asia: nothing in the SpaceNews record for this day",
+          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "confidence": "low",
+          "status": "overview",
+          "iso3": [],
+          "sources": []
+        }
+      ]
+    },
+    {
+      "id": "asia_pac",
+      "name": "Asia Pacific",
+      "items": [
+        {
+          "date": "2026-09-26",
+          "title": "Rocket Lab launches 13th Synspective satellite",
+          "summary": "WASHINGTON — Rocket Lab continued a rapid pace of Electron launches with another mission for Japanese radar-imaging company Synspective on Sept. 25.",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "SpaceNews",
+              "title": "Rocket Lab launches 13th Synspective satellite",
+              "url": "https://spacenews.com/rocket-lab-launches-13th-synspective-satellite/",
+              "primary": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "americas",
+      "name": "Americas",
+      "items": [
+        {
+          "date": "2026-09-26",
+          "title": "U.S. secures authority for Golden Dome missile defense in Greenland",
+          "summary": "WASHINGTON — The United States has secured authority to establish Golden Dome missile-defense capabilities in Greenland, opening the way for the Pentagon to expand a homeland defense network around Pituffik Space Base, where the U.S. Space Force already operates a ballistic missile warning radar.",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "SpaceNews",
+              "title": "U.S. secures authority for Golden Dome missile defense in Greenland",
+              "url": "https://spacenews.com/u-s-secures-authority-for-golden-dome-missile-defense-in-greenland/",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-09-26",
+          "title": "KBR taps veteran defense executive to lead Trinzic spinoff",
+          "summary": "WASHINGTON — KBR is putting a veteran defense executive in charge of a $5 billion-plus government technology business as it prepares to spin off operations spanning national security, NASA and military space into an independent public company.",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "SpaceNews",
+              "title": "KBR taps veteran defense executive to lead Trinzic spinoff",
+              "url": "https://spacenews.com/kbr-taps-veteran-defense-executive-to-lead-trinzic-spinoff/",
+              "primary": true
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "countries": [],
+  "priorities": [],
+  "milestones": [],
+  "watchlist": [],
+  "competitive_watch": [],
+  "stats": {
+    "record": "memory",
+    "source": "SpaceNews",
+    "stories": 4
+  },
+  "audio_script": "This is a memory record for 2026-09-26, not a spoken briefing. It keeps the SpaceNews stories dated this day so later editions can see what had already been reported.",
+  "audio_sections": [
+    {
+      "id": "opening",
+      "title": "Memory record",
+      "text": "This is a memory record for 2026-09-26, not a spoken briefing."
+    }
+  ]
+}

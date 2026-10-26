@@ -1,0 +1,385 @@
+{
+  "date": "2026-10-01",
+  "edition": "memory",
+  "generated_at": "2026-10-01T18:00:00+00:00",
+  "headline": "We’ve spent eight years hacking satellites. Here’s what the space industry needs to know now.",
+  "summary": [
+    "We’ve spent eight years hacking satellites. Here’s what the space industry needs to know now.",
+    "Too close for comfort: undisclosed U.S. space weapons and the risk of miscalculation",
+    "Galileo Space Is Building Satellites That Turn Signals Into Answers in Orbit",
+    "LMT Group and Novaspace partner to develop strategy for 5G/6G satellite communications hub in Latvia"
+  ],
+  "bottom_line": "Memory record drawn from SpaceNews for this date. It is not a full eight-desk sweep, and a desk with no mapped story is a gap in the harvest.",
+  "global": [
+    {
+      "date": "2026-10-01",
+      "title": "We’ve spent eight years hacking satellites. Here’s what the space industry needs to know now.",
+      "summary": "Our team recently demonstrated that an on-orbit commercial satellite could be compromised. But that is only one finding from a much larger body of work.",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "SpaceNews",
+          "title": "We’ve spent eight years hacking satellites. Here’s what the space industry needs to know now.",
+          "url": "https://spacenews.com/weve-spent-eight-years-hacking-satellites-heres-what-the-space-industry-needs-to-know-now/",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-10-01",
+      "title": "Too close for comfort: undisclosed U.S. space weapons and the risk of miscalculation",
+      "summary": "When a spacecraft closes in on another satellite, the operator tracking its trajectory on the other side now also has to consider whether that spacecraft is a weapon. On Sept. 14, 2026, Secretary of the Air Force Troy Meink revealed that the United States has “on-orbit space control weapons” to defend United States forces. Then Chief of Space Operations Gen. Douglas Schiess confirmed that Space Force personnel operate weapons in orbit . The world now knows that American weapons are in orbit, but",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "SpaceNews",
+          "title": "Too close for comfort: undisclosed U.S. space weapons and the risk of miscalculation",
+          "url": "https://spacenews.com/too-close-for-comfort-undisclosed-u-s-space-weapons-and-the-risk-of-miscalculation/",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-10-01",
+      "title": "Galileo Space Is Building Satellites That Turn Signals Into Answers in Orbit",
+      "summary": "Galileo Space is building satellites designed to turn signals into answers in orbit. Modern defense and commercial operations need fast answers about what is happening and where. Existing systems can leave segmented data crawling through processing for hours or days. FPV drones and moving radars must be detected and tracked quickly. Ballistic missile launch plume detection can provide critical early warning. Interference disrupting navigation frequencies or crucial satcom links must be detected ",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "SpaceNews",
+          "title": "Galileo Space Is Building Satellites That Turn Signals Into Answers in Orbit",
+          "url": "https://spacenews.com/galileo-space-is-building-satellites-that-turn-signals-into-answers-in-orbit/",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-10-01",
+      "title": "LMT Group and Novaspace partner to develop strategy for 5G/6G satellite communications hub in Latvia",
+      "summary": "Noordwijk, the Netherlands | September 22, 2026 – During the international Industry Space Days 2026 event at the European Space Agency’s ESTEC facility in Noordwijk, the Netherlands, the Latvian Mobile Telephone (LMT) Group and the globally leading space consultancy Novaspace signed a cooperation agreement on the development of a concept for telecommunications innovation platform for Latvia to link the national connectivity sector with the international satellite industry. The initiative follows",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "SpaceNews",
+          "title": "LMT Group and Novaspace partner to develop strategy for 5G/6G satellite communications hub in Latvia",
+          "url": "https://spacenews.com/lmt-group-and-novaspace-partner-to-develop-strategy-for-5g-6g-satellite-communications-hub-in-latvia/",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-10-01",
+      "title": "Rethinking risk with electronics for space",
+      "summary": "In this episode, SpaceNews’ Mike Gruss speaks with Ken Stoler, the space business development lead for Arrow. They discuss how spacecraft designers and operators have changed their attitudes toward risk, how the move toward massive megaconstellations has started to impact purchasing behavior in the space supply chain and the challenges and constraints of adding more AI-enabling computing power to spacecraft. Sponsored by Arrow Electronics is a Fortune 500-ranked distributor of electronic compone",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "SpaceNews",
+          "title": "Rethinking risk with electronics for space",
+          "url": "https://spacenews.com/rethinking-risk-with-electronics-for-space/",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-10-01",
+      "title": "World Space Week 2026 Celebrates the &quot;Rocket Revolution&quot;",
+      "summary": "HOUSTON, Texas (September 30, 2026)— World Space Week events, beginning October 4 in 100 nations, will celebrate how launch innovation has stimulated the rapidly-growing space economy and enabled new uses of space to help the world. “This year’s theme is the Rocket Revolution,” said Dennis Stone, World Space Week Association President. “It recognizes how increased space access and falling launch prices have stimulated the space ecosystem and exciting new space applications,” he said. The rocketr",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "SpaceNews",
+          "title": "World Space Week 2026 Celebrates the &quot;Rocket Revolution&quot;",
+          "url": "https://spacenews.com/world-space-week-2026-celebrates-the-rocket-revolution/",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-10-01",
+      "title": "Rocket Lab signs contract with Synspective for 20 Electron launches",
+      "summary": "WASHINGTON — Rocket Lab announced Sept. 30 its largest commercial contract for the Electron rocket, a 20-launch deal with longtime Japanese customer Synspective.",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "SpaceNews",
+          "title": "Rocket Lab signs contract with Synspective for 20 Electron launches",
+          "url": "https://spacenews.com/rocket-lab-signs-contract-with-synspective-for-20-electron-launches/",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-10-01",
+      "title": "Honda joins forces with Redwire to develop robots for commercial space stations",
+      "summary": "SAN FRANCISCO – Honda announced plans Oct. 1 to work with Redwire to develop robots to assist commercial space station crews.",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "SpaceNews",
+          "title": "Honda joins forces with Redwire to develop robots for commercial space stations",
+          "url": "https://spacenews.com/honda-joins-forces-with-redwire-to-develop-robots-for-commercial-space-stations/",
+          "primary": true
+        }
+      ]
+    }
+  ],
+  "regions": [
+    {
+      "id": "nordics",
+      "name": "Nordics",
+      "items": [
+        {
+          "date": "2026-10-01",
+          "title": "Iceye teams up with Nokia to develop sovereign broadband constellations",
+          "summary": "TAMPA, Fla. — Iceye is partnering with Nokia to develop secure broadband constellations for governments, with initial satellite deployments slated for 2028 as the Finnish synthetic aperture radar (SAR) specialist expands beyond Earth observation.",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "SpaceNews",
+              "title": "Iceye teams up with Nokia to develop sovereign broadband constellations",
+              "url": "https://spacenews.com/iceye-teams-up-with-nokia-to-develop-sovereign-broadband-constellations/",
+              "primary": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cee",
+      "name": "Central and Eastern Europe",
+      "items": [
+        {
+          "date": "2026-10-01",
+          "title": "Central and Eastern Europe: nothing in the SpaceNews record for this day",
+          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "confidence": "low",
+          "status": "overview",
+          "iso3": [],
+          "sources": []
+        }
+      ]
+    },
+    {
+      "id": "west",
+      "name": "Western and Southern Europe",
+      "items": [
+        {
+          "date": "2026-10-01",
+          "title": "Foundational emerges from stealth to commercialize satellite laser ranging",
+          "summary": "TAMPA, Fla. — British startup Foundational emerged from stealth Oct. 1 with nearly $11 million in funding to upgrade and commercialize Satellite Laser Ranging (SLR), a decades-old technology for pinpointing satellites in orbit used mainly by scientific and government groups.",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "SpaceNews",
+              "title": "Foundational emerges from stealth to commercialize satellite laser ranging",
+              "url": "https://spacenews.com/foundational-emerges-from-stealth-to-commercialize-satellite-laser-ranging/",
+              "primary": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "esa_eu",
+      "name": "ESA and EU",
+      "items": [
+        {
+          "date": "2026-10-01",
+          "title": "Galileo Space Is Building Satellites That Turn Signals Into Answers in Orbit",
+          "summary": "Galileo Space is building satellites designed to turn signals into answers in orbit. Modern defense and commercial operations need fast answers about what is happening and where. Existing systems can leave segmented data crawling through processing for hours or days. FPV drones and moving radars must be detected and tracked quickly. Ballistic missile launch plume detection can provide critical early warning. Interference disrupting navigation frequencies or crucial satcom links must be detected ",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "SpaceNews",
+              "title": "Galileo Space Is Building Satellites That Turn Signals Into Answers in Orbit",
+              "url": "https://spacenews.com/galileo-space-is-building-satellites-that-turn-signals-into-answers-in-orbit/",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-10-01",
+          "title": "LMT Group and Novaspace partner to develop strategy for 5G/6G satellite communications hub in Latvia",
+          "summary": "Noordwijk, the Netherlands | September 22, 2026 – During the international Industry Space Days 2026 event at the European Space Agency’s ESTEC facility in Noordwijk, the Netherlands, the Latvian Mobile Telephone (LMT) Group and the globally leading space consultancy Novaspace signed a cooperation agreement on the development of a concept for telecommunications innovation platform for Latvia to link the national connectivity sector with the international satellite industry. The initiative follows",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "SpaceNews",
+              "title": "LMT Group and Novaspace partner to develop strategy for 5G/6G satellite communications hub in Latvia",
+              "url": "https://spacenews.com/lmt-group-and-novaspace-partner-to-develop-strategy-for-5g-6g-satellite-communications-hub-in-latvia/",
+              "primary": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mena",
+      "name": "Türkiye, Middle East and Africa",
+      "items": [
+        {
+          "date": "2026-10-01",
+          "title": "Türkiye, Middle East and Africa: nothing in the SpaceNews record for this day",
+          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "confidence": "low",
+          "status": "overview",
+          "iso3": [],
+          "sources": []
+        }
+      ]
+    },
+    {
+      "id": "eurasia",
+      "name": "Eurasia and Central Asia",
+      "items": [
+        {
+          "date": "2026-10-01",
+          "title": "Eurasia and Central Asia: nothing in the SpaceNews record for this day",
+          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "confidence": "low",
+          "status": "overview",
+          "iso3": [],
+          "sources": []
+        }
+      ]
+    },
+    {
+      "id": "asia_pac",
+      "name": "Asia Pacific",
+      "items": [
+        {
+          "date": "2026-10-01",
+          "title": "Rocket Lab signs contract with Synspective for 20 Electron launches",
+          "summary": "WASHINGTON — Rocket Lab announced Sept. 30 its largest commercial contract for the Electron rocket, a 20-launch deal with longtime Japanese customer Synspective.",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "SpaceNews",
+              "title": "Rocket Lab signs contract with Synspective for 20 Electron launches",
+              "url": "https://spacenews.com/rocket-lab-signs-contract-with-synspective-for-20-electron-launches/",
+              "primary": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "americas",
+      "name": "Americas",
+      "items": [
+        {
+          "date": "2026-10-01",
+          "title": "Too close for comfort: undisclosed U.S. space weapons and the risk of miscalculation",
+          "summary": "When a spacecraft closes in on another satellite, the operator tracking its trajectory on the other side now also has to consider whether that spacecraft is a weapon. On Sept. 14, 2026, Secretary of the Air Force Troy Meink revealed that the United States has “on-orbit space control weapons” to defend United States forces. Then Chief of Space Operations Gen. Douglas Schiess confirmed that Space Force personnel operate weapons in orbit . The world now knows that American weapons are in orbit, but",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "SpaceNews",
+              "title": "Too close for comfort: undisclosed U.S. space weapons and the risk of miscalculation",
+              "url": "https://spacenews.com/too-close-for-comfort-undisclosed-u-s-space-weapons-and-the-risk-of-miscalculation/",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-10-01",
+          "title": "L3Harris’ contract for executive aircraft satcom grows to $462 million",
+          "summary": "WASHINGTON — The U.S. Space Force has finalized a $461.9 million contract with L3Harris Technologies to provide commercial satellite communications aboard executive aircraft used by senior U.S. government and military leaders.",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "SpaceNews",
+              "title": "L3Harris’ contract for executive aircraft satcom grows to $462 million",
+              "url": "https://spacenews.com/l3harris-contract-for-executive-aircraft-satcom-grows-to-462-million/",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-10-01",
+          "title": "Space Force retires Cold War-era missile-warning constellation after final maneuver exercise",
+          "summary": "WASHINGTON — The U.S. Space Force has retired its Defense Support Program missile-warning constellation, ending more than five decades of operations for a satellite family that provided some of the Pentagon’s earliest space-based warning of missile attacks.",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "SpaceNews",
+              "title": "Space Force retires Cold War-era missile-warning constellation after final maneuver exercise",
+              "url": "https://spacenews.com/space-force-retires-cold-war-era-missile-warning-constellation-after-final-maneuver-exercise/",
+              "primary": true
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "countries": [],
+  "priorities": [],
+  "milestones": [],
+  "watchlist": [],
+  "competitive_watch": [],
+  "stats": {
+    "record": "memory",
+    "source": "SpaceNews",
+    "stories": 13
+  },
+  "audio_script": "This is a memory record for 2026-10-01, not a spoken briefing. It keeps the SpaceNews stories dated this day so later editions can see what had already been reported.",
+  "audio_sections": [
+    {
+      "id": "opening",
+      "title": "Memory record",
+      "text": "This is a memory record for 2026-10-01, not a spoken briefing."
+    }
+  ]
+}

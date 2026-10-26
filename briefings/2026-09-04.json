@@ -1,0 +1,272 @@
+{
+  "date": "2026-09-04",
+  "edition": "memory",
+  "generated_at": "2026-09-04T18:00:00+00:00",
+  "headline": "GSLV launches Earth imaging satellite in first ISRO launch since January",
+  "summary": [
+    "GSLV launches Earth imaging satellite in first ISRO launch since January",
+    "China narrows Tianwen-3 Mars sample return landing site selection, seeking traces of life",
+    "Satellogic to provide Merlin maritime intelligence exclusively through SynMax platform",
+    "Chinese reconnaissance satellite breaks up in rare retrograde orbit"
+  ],
+  "bottom_line": "Memory record drawn from SpaceNews for this date. It is not a full eight-desk sweep, and a desk with no mapped story is a gap in the harvest.",
+  "global": [
+    {
+      "date": "2026-09-04",
+      "title": "GSLV launches Earth imaging satellite in first ISRO launch since January",
+      "summary": "WASHINGTON — The Indian space agency ISRO successfully launched an imaging satellite in its first launch since a failure in January.",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "SpaceNews",
+          "title": "GSLV launches Earth imaging satellite in first ISRO launch since January",
+          "url": "https://spacenews.com/gslv-launches-earth-imaging-satellite-in-first-isro-launch-since-january/",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-04",
+      "title": "China narrows Tianwen-3 Mars sample return landing site selection, seeking traces of life",
+      "summary": "HELSINKI — China will select a final landing site for its Tianwen-3 Mars sample return before the end of the year, while progress on mission hardware continues.",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "SpaceNews",
+          "title": "China narrows Tianwen-3 Mars sample return landing site selection, seeking traces of life",
+          "url": "https://spacenews.com/china-narrows-tianwen-3-mars-sample-return-landing-site-selection-seeking-traces-of-life/",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-04",
+      "title": "Satellogic to provide Merlin maritime intelligence exclusively through SynMax platform",
+      "summary": "SAN FRANCISCO — Earth observation company Satellogic will provide maritime intelligence derived from its new Merlin constellation exclusively through SynMax’s Theia platform.",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "SpaceNews",
+          "title": "Satellogic to provide Merlin maritime intelligence exclusively through SynMax platform",
+          "url": "https://spacenews.com/satellogic-to-provide-merlin-maritime-intelligence-exclusively-through-synmax-platform/",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-04",
+      "title": "Chinese reconnaissance satellite breaks up in rare retrograde orbit",
+      "summary": "HELSINKI — A Chinese satellite launched into an unusual orbit early this year has suffered an apparent fragmentation event, generating a field of debris.",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "SpaceNews",
+          "title": "Chinese reconnaissance satellite breaks up in rare retrograde orbit",
+          "url": "https://spacenews.com/chinese-reconnaissance-satellite-breaks-up-in-rare-retrograde-orbit/",
+          "primary": true
+        }
+      ]
+    }
+  ],
+  "regions": [
+    {
+      "id": "nordics",
+      "name": "Nordics",
+      "items": [
+        {
+          "date": "2026-09-04",
+          "title": "Nordics: nothing in the SpaceNews record for this day",
+          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "confidence": "low",
+          "status": "overview",
+          "iso3": [],
+          "sources": []
+        }
+      ]
+    },
+    {
+      "id": "cee",
+      "name": "Central and Eastern Europe",
+      "items": [
+        {
+          "date": "2026-09-04",
+          "title": "Central and Eastern Europe: nothing in the SpaceNews record for this day",
+          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "confidence": "low",
+          "status": "overview",
+          "iso3": [],
+          "sources": []
+        }
+      ]
+    },
+    {
+      "id": "west",
+      "name": "Western and Southern Europe",
+      "items": [
+        {
+          "date": "2026-09-04",
+          "title": "Western and Southern Europe: nothing in the SpaceNews record for this day",
+          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "confidence": "low",
+          "status": "overview",
+          "iso3": [],
+          "sources": []
+        }
+      ]
+    },
+    {
+      "id": "esa_eu",
+      "name": "ESA and EU",
+      "items": [
+        {
+          "date": "2026-09-04",
+          "title": "ESA and EU: nothing in the SpaceNews record for this day",
+          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "confidence": "low",
+          "status": "overview",
+          "iso3": [],
+          "sources": []
+        }
+      ]
+    },
+    {
+      "id": "mena",
+      "name": "Türkiye, Middle East and Africa",
+      "items": [
+        {
+          "date": "2026-09-04",
+          "title": "Türkiye, Middle East and Africa: nothing in the SpaceNews record for this day",
+          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "confidence": "low",
+          "status": "overview",
+          "iso3": [],
+          "sources": []
+        }
+      ]
+    },
+    {
+      "id": "eurasia",
+      "name": "Eurasia and Central Asia",
+      "items": [
+        {
+          "date": "2026-09-04",
+          "title": "Eurasia and Central Asia: nothing in the SpaceNews record for this day",
+          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "confidence": "low",
+          "status": "overview",
+          "iso3": [],
+          "sources": []
+        }
+      ]
+    },
+    {
+      "id": "asia_pac",
+      "name": "Asia Pacific",
+      "items": [
+        {
+          "date": "2026-09-04",
+          "title": "GSLV launches Earth imaging satellite in first ISRO launch since January",
+          "summary": "WASHINGTON — The Indian space agency ISRO successfully launched an imaging satellite in its first launch since a failure in January.",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "SpaceNews",
+              "title": "GSLV launches Earth imaging satellite in first ISRO launch since January",
+              "url": "https://spacenews.com/gslv-launches-earth-imaging-satellite-in-first-isro-launch-since-january/",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-09-04",
+          "title": "China narrows Tianwen-3 Mars sample return landing site selection, seeking traces of life",
+          "summary": "HELSINKI — China will select a final landing site for its Tianwen-3 Mars sample return before the end of the year, while progress on mission hardware continues.",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "SpaceNews",
+              "title": "China narrows Tianwen-3 Mars sample return landing site selection, seeking traces of life",
+              "url": "https://spacenews.com/china-narrows-tianwen-3-mars-sample-return-landing-site-selection-seeking-traces-of-life/",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-09-04",
+          "title": "Chinese reconnaissance satellite breaks up in rare retrograde orbit",
+          "summary": "HELSINKI — A Chinese satellite launched into an unusual orbit early this year has suffered an apparent fragmentation event, generating a field of debris.",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "SpaceNews",
+              "title": "Chinese reconnaissance satellite breaks up in rare retrograde orbit",
+              "url": "https://spacenews.com/chinese-reconnaissance-satellite-breaks-up-in-rare-retrograde-orbit/",
+              "primary": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "americas",
+      "name": "Americas",
+      "items": [
+        {
+          "date": "2026-09-04",
+          "title": "Americas: nothing in the SpaceNews record for this day",
+          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "confidence": "low",
+          "status": "overview",
+          "iso3": [],
+          "sources": []
+        }
+      ]
+    }
+  ],
+  "countries": [],
+  "priorities": [],
+  "milestones": [],
+  "watchlist": [],
+  "competitive_watch": [],
+  "stats": {
+    "record": "memory",
+    "source": "SpaceNews",
+    "stories": 4
+  },
+  "audio_script": "This is a memory record for 2026-09-04, not a spoken briefing. It keeps the SpaceNews stories dated this day so later editions can see what had already been reported.",
+  "audio_sections": [
+    {
+      "id": "opening",
+      "title": "Memory record",
+      "text": "This is a memory record for 2026-09-04, not a spoken briefing."
+    }
+  ]
+}

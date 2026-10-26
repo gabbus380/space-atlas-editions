@@ -1,0 +1,209 @@
+{
+  "date": "2026-09-07",
+  "edition": "memory",
+  "generated_at": "2026-09-07T18:00:00+00:00",
+  "headline": "Space Force backs startup seeking to change how satellites move in orbit",
+  "summary": [
+    "Space Force backs startup seeking to change how satellites move in orbit",
+    "Pixxel raises $100 million to expand satellite production across India and US"
+  ],
+  "bottom_line": "Memory record drawn from SpaceNews for this date. It is not a full eight-desk sweep, and a desk with no mapped story is a gap in the harvest.",
+  "global": [
+    {
+      "date": "2026-09-07",
+      "title": "Space Force backs startup seeking to change how satellites move in orbit",
+      "summary": "WASHINGTON — The U.S. Space Force is putting $50 million behind a startup developing an unusual way to dispatch small spacecraft from a larger vehicle in orbit.",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "SpaceNews",
+          "title": "Space Force backs startup seeking to change how satellites move in orbit",
+          "url": "https://spacenews.com/space-force-backs-startup-seeking-to-change-how-satellites-move-in-orbit/",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-07",
+      "title": "Pixxel raises $100 million to expand satellite production across India and US",
+      "summary": "TAMPA, Fla. — Indian hyperspectral imaging startup Pixxel announced a $100 million funding round Sept. 6 to ramp up satellite production, including in the United States as it pursues more government business.",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "SpaceNews",
+          "title": "Pixxel raises $100 million to expand satellite production across India and US",
+          "url": "https://spacenews.com/pixxel-raises-100-million-to-expand-satellite-production-across-india-and-us/",
+          "primary": true
+        }
+      ]
+    }
+  ],
+  "regions": [
+    {
+      "id": "nordics",
+      "name": "Nordics",
+      "items": [
+        {
+          "date": "2026-09-07",
+          "title": "Nordics: nothing in the SpaceNews record for this day",
+          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "confidence": "low",
+          "status": "overview",
+          "iso3": [],
+          "sources": []
+        }
+      ]
+    },
+    {
+      "id": "cee",
+      "name": "Central and Eastern Europe",
+      "items": [
+        {
+          "date": "2026-09-07",
+          "title": "Central and Eastern Europe: nothing in the SpaceNews record for this day",
+          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "confidence": "low",
+          "status": "overview",
+          "iso3": [],
+          "sources": []
+        }
+      ]
+    },
+    {
+      "id": "west",
+      "name": "Western and Southern Europe",
+      "items": [
+        {
+          "date": "2026-09-07",
+          "title": "Western and Southern Europe: nothing in the SpaceNews record for this day",
+          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "confidence": "low",
+          "status": "overview",
+          "iso3": [],
+          "sources": []
+        }
+      ]
+    },
+    {
+      "id": "esa_eu",
+      "name": "ESA and EU",
+      "items": [
+        {
+          "date": "2026-09-07",
+          "title": "ESA and EU: nothing in the SpaceNews record for this day",
+          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "confidence": "low",
+          "status": "overview",
+          "iso3": [],
+          "sources": []
+        }
+      ]
+    },
+    {
+      "id": "mena",
+      "name": "Türkiye, Middle East and Africa",
+      "items": [
+        {
+          "date": "2026-09-07",
+          "title": "Türkiye, Middle East and Africa: nothing in the SpaceNews record for this day",
+          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "confidence": "low",
+          "status": "overview",
+          "iso3": [],
+          "sources": []
+        }
+      ]
+    },
+    {
+      "id": "eurasia",
+      "name": "Eurasia and Central Asia",
+      "items": [
+        {
+          "date": "2026-09-07",
+          "title": "Eurasia and Central Asia: nothing in the SpaceNews record for this day",
+          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "confidence": "low",
+          "status": "overview",
+          "iso3": [],
+          "sources": []
+        }
+      ]
+    },
+    {
+      "id": "asia_pac",
+      "name": "Asia Pacific",
+      "items": [
+        {
+          "date": "2026-09-07",
+          "title": "Pixxel raises $100 million to expand satellite production across India and US",
+          "summary": "TAMPA, Fla. — Indian hyperspectral imaging startup Pixxel announced a $100 million funding round Sept. 6 to ramp up satellite production, including in the United States as it pursues more government business.",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "SpaceNews",
+              "title": "Pixxel raises $100 million to expand satellite production across India and US",
+              "url": "https://spacenews.com/pixxel-raises-100-million-to-expand-satellite-production-across-india-and-us/",
+              "primary": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "americas",
+      "name": "Americas",
+      "items": [
+        {
+          "date": "2026-09-07",
+          "title": "Space Force backs startup seeking to change how satellites move in orbit",
+          "summary": "WASHINGTON — The U.S. Space Force is putting $50 million behind a startup developing an unusual way to dispatch small spacecraft from a larger vehicle in orbit.",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "SpaceNews",
+              "title": "Space Force backs startup seeking to change how satellites move in orbit",
+              "url": "https://spacenews.com/space-force-backs-startup-seeking-to-change-how-satellites-move-in-orbit/",
+              "primary": true
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "countries": [],
+  "priorities": [],
+  "milestones": [],
+  "watchlist": [],
+  "competitive_watch": [],
+  "stats": {
+    "record": "memory",
+    "source": "SpaceNews",
+    "stories": 2
+  },
+  "audio_script": "This is a memory record for 2026-09-07, not a spoken briefing. It keeps the SpaceNews stories dated this day so later editions can see what had already been reported.",
+  "audio_sections": [
+    {
+      "id": "opening",
+      "title": "Memory record",
+      "text": "This is a memory record for 2026-09-07, not a spoken briefing."
+    }
+  ]
+}

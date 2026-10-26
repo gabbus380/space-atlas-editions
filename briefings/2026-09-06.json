@@ -1,0 +1,219 @@
+{
+  "date": "2026-09-06",
+  "edition": "memory",
+  "generated_at": "2026-09-06T18:00:00+00:00",
+  "headline": "Space Force to start work on next GPS ground system after OCX failure",
+  "summary": [
+    "Space Force to start work on next GPS ground system after OCX failure",
+    "Lawrence Livermore telescope used in Space Force ‘cat-and-mouse’ exercise"
+  ],
+  "bottom_line": "Memory record drawn from SpaceNews for this date. It is not a full eight-desk sweep, and a desk with no mapped story is a gap in the harvest.",
+  "global": [
+    {
+      "date": "2026-09-06",
+      "title": "Space Force to start work on next GPS ground system after OCX failure",
+      "summary": "WASHINGTON — The U.S. Space Force is starting work on a new ground control architecture for its future GPS constellation, applying lessons from the $6.27 billion OCX program that the Pentagon canceled earlier this year after 15 years of development.",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "SpaceNews",
+          "title": "Space Force to start work on next GPS ground system after OCX failure",
+          "url": "https://spacenews.com/space-force-to-start-work-on-next-gps-ground-system-after-ocx-failure/",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-06",
+      "title": "Lawrence Livermore telescope used in Space Force ‘cat-and-mouse’ exercise",
+      "summary": "WASHINGTON — A Rocket Lab spacecraft used an optical payload developed by Lawrence Livermore National Laboratory to track another satellite during a U.S. Space Force exercise testing how quickly spacecraft can be launched and put to work inspecting objects in orbit.",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "SpaceNews",
+          "title": "Lawrence Livermore telescope used in Space Force ‘cat-and-mouse’ exercise",
+          "url": "https://spacenews.com/lawrence-livermore-telescope-used-in-space-force-cat-and-mouse-exercise/",
+          "primary": true
+        }
+      ]
+    }
+  ],
+  "regions": [
+    {
+      "id": "nordics",
+      "name": "Nordics",
+      "items": [
+        {
+          "date": "2026-09-06",
+          "title": "Nordics: nothing in the SpaceNews record for this day",
+          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "confidence": "low",
+          "status": "overview",
+          "iso3": [],
+          "sources": []
+        }
+      ]
+    },
+    {
+      "id": "cee",
+      "name": "Central and Eastern Europe",
+      "items": [
+        {
+          "date": "2026-09-06",
+          "title": "Central and Eastern Europe: nothing in the SpaceNews record for this day",
+          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "confidence": "low",
+          "status": "overview",
+          "iso3": [],
+          "sources": []
+        }
+      ]
+    },
+    {
+      "id": "west",
+      "name": "Western and Southern Europe",
+      "items": [
+        {
+          "date": "2026-09-06",
+          "title": "Western and Southern Europe: nothing in the SpaceNews record for this day",
+          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "confidence": "low",
+          "status": "overview",
+          "iso3": [],
+          "sources": []
+        }
+      ]
+    },
+    {
+      "id": "esa_eu",
+      "name": "ESA and EU",
+      "items": [
+        {
+          "date": "2026-09-06",
+          "title": "ESA and EU: nothing in the SpaceNews record for this day",
+          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "confidence": "low",
+          "status": "overview",
+          "iso3": [],
+          "sources": []
+        }
+      ]
+    },
+    {
+      "id": "mena",
+      "name": "Türkiye, Middle East and Africa",
+      "items": [
+        {
+          "date": "2026-09-06",
+          "title": "Türkiye, Middle East and Africa: nothing in the SpaceNews record for this day",
+          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "confidence": "low",
+          "status": "overview",
+          "iso3": [],
+          "sources": []
+        }
+      ]
+    },
+    {
+      "id": "eurasia",
+      "name": "Eurasia and Central Asia",
+      "items": [
+        {
+          "date": "2026-09-06",
+          "title": "Eurasia and Central Asia: nothing in the SpaceNews record for this day",
+          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "confidence": "low",
+          "status": "overview",
+          "iso3": [],
+          "sources": []
+        }
+      ]
+    },
+    {
+      "id": "asia_pac",
+      "name": "Asia Pacific",
+      "items": [
+        {
+          "date": "2026-09-06",
+          "title": "Asia Pacific: nothing in the SpaceNews record for this day",
+          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "confidence": "low",
+          "status": "overview",
+          "iso3": [],
+          "sources": []
+        }
+      ]
+    },
+    {
+      "id": "americas",
+      "name": "Americas",
+      "items": [
+        {
+          "date": "2026-09-06",
+          "title": "Space Force to start work on next GPS ground system after OCX failure",
+          "summary": "WASHINGTON — The U.S. Space Force is starting work on a new ground control architecture for its future GPS constellation, applying lessons from the $6.27 billion OCX program that the Pentagon canceled earlier this year after 15 years of development.",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "SpaceNews",
+              "title": "Space Force to start work on next GPS ground system after OCX failure",
+              "url": "https://spacenews.com/space-force-to-start-work-on-next-gps-ground-system-after-ocx-failure/",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-09-06",
+          "title": "Lawrence Livermore telescope used in Space Force ‘cat-and-mouse’ exercise",
+          "summary": "WASHINGTON — A Rocket Lab spacecraft used an optical payload developed by Lawrence Livermore National Laboratory to track another satellite during a U.S. Space Force exercise testing how quickly spacecraft can be launched and put to work inspecting objects in orbit.",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "SpaceNews",
+              "title": "Lawrence Livermore telescope used in Space Force ‘cat-and-mouse’ exercise",
+              "url": "https://spacenews.com/lawrence-livermore-telescope-used-in-space-force-cat-and-mouse-exercise/",
+              "primary": true
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "countries": [],
+  "priorities": [],
+  "milestones": [],
+  "watchlist": [],
+  "competitive_watch": [],
+  "stats": {
+    "record": "memory",
+    "source": "SpaceNews",
+    "stories": 2
+  },
+  "audio_script": "This is a memory record for 2026-09-06, not a spoken briefing. It keeps the SpaceNews stories dated this day so later editions can see what had already been reported.",
+  "audio_sections": [
+    {
+      "id": "opening",
+      "title": "Memory record",
+      "text": "This is a memory record for 2026-09-06, not a spoken briefing."
+    }
+  ]
+}

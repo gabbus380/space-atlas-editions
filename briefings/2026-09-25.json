@@ -1,0 +1,303 @@
+{
+  "date": "2026-09-25",
+  "edition": "memory",
+  "generated_at": "2026-09-25T18:00:00+00:00",
+  "headline": "Rocket Lab downplays importance of NASA business as it pursues Mars mission protest",
+  "summary": [
+    "Rocket Lab downplays importance of NASA business as it pursues Mars mission protest",
+    "Britain can see the threats to its satellites. It still can’t stop them.",
+    "Swift reboost mission ends with Link reentry",
+    "Finland’s Iceye launches new Polish satellite technology center, eyes $31 million investments"
+  ],
+  "bottom_line": "Memory record drawn from SpaceNews for this date. It is not a full eight-desk sweep, and a desk with no mapped story is a gap in the harvest.",
+  "global": [
+    {
+      "date": "2026-09-25",
+      "title": "Rocket Lab downplays importance of NASA business as it pursues Mars mission protest",
+      "summary": "HOUSTON — Even as Rocket Lab protests a NASA Mars contract, the company is downplaying the role the agency plays in its overall business.",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "SpaceNews",
+          "title": "Rocket Lab downplays importance of NASA business as it pursues Mars mission protest",
+          "url": "https://spacenews.com/rocket-lab-downplays-importance-of-nasa-business-as-it-pursues-mars-mission-protest/",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-25",
+      "title": "Britain can see the threats to its satellites. It still can’t stop them.",
+      "summary": "With the announcement of the new UK Space Strategy 2026 , Britain has formally recognized that space is now a contested military domain. Nevertheless, recognizing the threat is not the same as acquiring the means to confront it. It puts defense and national security ahead of everything as the first of its two outcomes. It names control of space as a strategic requirement and a component of national power — in plain terms, protecting and defending U.K. interests in, from and through space. It als",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "SpaceNews",
+          "title": "Britain can see the threats to its satellites. It still can’t stop them.",
+          "url": "https://spacenews.com/britain-can-see-the-threats-to-its-satellites-it-still-cant-stop-them/",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-25",
+      "title": "Swift reboost mission ends with Link reentry",
+      "summary": "WASHINGTON — A mission that attempted to raise the orbit of a NASA astrophysics spacecraft has officially ended, with lessons both the agency and the company involved plan to apply to future efforts.",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "SpaceNews",
+          "title": "Swift reboost mission ends with Link reentry",
+          "url": "https://spacenews.com/swift-reboost-mission-ends-with-link-reentry/",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-25",
+      "title": "Finland’s Iceye launches new Polish satellite technology center, eyes $31 million investments",
+      "summary": "WARSAW — Finnish synthetic aperture radar (SAR) constellation operator Iceye has established a new satellite technology center in Poland’s capital Warsaw. The new facility is designed to boost the company’s R&D and production capacities in Poland, where Iceye aims to invest more than 120 million zloty ($31 million) between 2026 and 2028.",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "SpaceNews",
+          "title": "Finland’s Iceye launches new Polish satellite technology center, eyes $31 million investments",
+          "url": "https://spacenews.com/finlands-iceye-launches-new-polish-satellite-technology-center-eyes-31-million-investments/",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-25",
+      "title": "Space Force opens new competition for satellite-control antennas",
+      "summary": "WASHINGTON — The U.S. Space Force is seeking industry bids for a new generation of ground antennas used to command and control military satellites, restarting a procurement that ran into trouble under its original contractor.",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "SpaceNews",
+          "title": "Space Force opens new competition for satellite-control antennas",
+          "url": "https://spacenews.com/space-force-opens-new-competition-for-satellite-control-antennas/",
+          "primary": true
+        }
+      ]
+    }
+  ],
+  "regions": [
+    {
+      "id": "nordics",
+      "name": "Nordics",
+      "items": [
+        {
+          "date": "2026-09-25",
+          "title": "Finland’s Iceye launches new Polish satellite technology center, eyes $31 million investments",
+          "summary": "WARSAW — Finnish synthetic aperture radar (SAR) constellation operator Iceye has established a new satellite technology center in Poland’s capital Warsaw. The new facility is designed to boost the company’s R&D and production capacities in Poland, where Iceye aims to invest more than 120 million zloty ($31 million) between 2026 and 2028.",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "SpaceNews",
+              "title": "Finland’s Iceye launches new Polish satellite technology center, eyes $31 million investments",
+              "url": "https://spacenews.com/finlands-iceye-launches-new-polish-satellite-technology-center-eyes-31-million-investments/",
+              "primary": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cee",
+      "name": "Central and Eastern Europe",
+      "items": [
+        {
+          "date": "2026-09-25",
+          "title": "Central and Eastern Europe: nothing in the SpaceNews record for this day",
+          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "confidence": "low",
+          "status": "overview",
+          "iso3": [],
+          "sources": []
+        }
+      ]
+    },
+    {
+      "id": "west",
+      "name": "Western and Southern Europe",
+      "items": [
+        {
+          "date": "2026-09-25",
+          "title": "Britain can see the threats to its satellites. It still can’t stop them.",
+          "summary": "With the announcement of the new UK Space Strategy 2026 , Britain has formally recognized that space is now a contested military domain. Nevertheless, recognizing the threat is not the same as acquiring the means to confront it. It puts defense and national security ahead of everything as the first of its two outcomes. It names control of space as a strategic requirement and a component of national power — in plain terms, protecting and defending U.K. interests in, from and through space. It als",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "SpaceNews",
+              "title": "Britain can see the threats to its satellites. It still can’t stop them.",
+              "url": "https://spacenews.com/britain-can-see-the-threats-to-its-satellites-it-still-cant-stop-them/",
+              "primary": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "esa_eu",
+      "name": "ESA and EU",
+      "items": [
+        {
+          "date": "2026-09-25",
+          "title": "ESA and EU: nothing in the SpaceNews record for this day",
+          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "confidence": "low",
+          "status": "overview",
+          "iso3": [],
+          "sources": []
+        }
+      ]
+    },
+    {
+      "id": "mena",
+      "name": "Türkiye, Middle East and Africa",
+      "items": [
+        {
+          "date": "2026-09-25",
+          "title": "Türkiye, Middle East and Africa: nothing in the SpaceNews record for this day",
+          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "confidence": "low",
+          "status": "overview",
+          "iso3": [],
+          "sources": []
+        }
+      ]
+    },
+    {
+      "id": "eurasia",
+      "name": "Eurasia and Central Asia",
+      "items": [
+        {
+          "date": "2026-09-25",
+          "title": "Eurasia and Central Asia: nothing in the SpaceNews record for this day",
+          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "confidence": "low",
+          "status": "overview",
+          "iso3": [],
+          "sources": []
+        }
+      ]
+    },
+    {
+      "id": "asia_pac",
+      "name": "Asia Pacific",
+      "items": [
+        {
+          "date": "2026-09-25",
+          "title": "Asia Pacific: nothing in the SpaceNews record for this day",
+          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "confidence": "low",
+          "status": "overview",
+          "iso3": [],
+          "sources": []
+        }
+      ]
+    },
+    {
+      "id": "americas",
+      "name": "Americas",
+      "items": [
+        {
+          "date": "2026-09-25",
+          "title": "Rocket Lab downplays importance of NASA business as it pursues Mars mission protest",
+          "summary": "HOUSTON — Even as Rocket Lab protests a NASA Mars contract, the company is downplaying the role the agency plays in its overall business.",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "SpaceNews",
+              "title": "Rocket Lab downplays importance of NASA business as it pursues Mars mission protest",
+              "url": "https://spacenews.com/rocket-lab-downplays-importance-of-nasa-business-as-it-pursues-mars-mission-protest/",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-09-25",
+          "title": "Swift reboost mission ends with Link reentry",
+          "summary": "WASHINGTON — A mission that attempted to raise the orbit of a NASA astrophysics spacecraft has officially ended, with lessons both the agency and the company involved plan to apply to future efforts.",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "SpaceNews",
+              "title": "Swift reboost mission ends with Link reentry",
+              "url": "https://spacenews.com/swift-reboost-mission-ends-with-link-reentry/",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-09-25",
+          "title": "Space Force opens new competition for satellite-control antennas",
+          "summary": "WASHINGTON — The U.S. Space Force is seeking industry bids for a new generation of ground antennas used to command and control military satellites, restarting a procurement that ran into trouble under its original contractor.",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "SpaceNews",
+              "title": "Space Force opens new competition for satellite-control antennas",
+              "url": "https://spacenews.com/space-force-opens-new-competition-for-satellite-control-antennas/",
+              "primary": true
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "countries": [],
+  "priorities": [],
+  "milestones": [],
+  "watchlist": [],
+  "competitive_watch": [],
+  "stats": {
+    "record": "memory",
+    "source": "SpaceNews",
+    "stories": 5
+  },
+  "audio_script": "This is a memory record for 2026-09-25, not a spoken briefing. It keeps the SpaceNews stories dated this day so later editions can see what had already been reported.",
+  "audio_sections": [
+    {
+      "id": "opening",
+      "title": "Memory record",
+      "text": "This is a memory record for 2026-09-25, not a spoken briefing."
+    }
+  ]
+}

@@ -1,0 +1,337 @@
+{
+  "date": "2026-10-15",
+  "edition": "memory",
+  "generated_at": "2026-10-15T18:00:00+00:00",
+  "headline": "UK awards ClearSpace $80 million prime contract for dual-satellite deorbit mission",
+  "summary": [
+    "UK awards ClearSpace $80 million prime contract for dual-satellite deorbit mission",
+    "Lunar lander companies planning precision landing demonstrations",
+    "How NASA is thinking about a moon base",
+    "Rocket Lab delays first Neutron launch again"
+  ],
+  "bottom_line": "Memory record drawn from SpaceNews for this date. It is not a full eight-desk sweep, and a desk with no mapped story is a gap in the harvest.",
+  "global": [
+    {
+      "date": "2026-10-15",
+      "title": "UK awards ClearSpace $80 million prime contract for dual-satellite deorbit mission",
+      "summary": "TAMPA, Fla. — The UK Space Agency has picked Luxembourg-headquartered ClearSpace’s British unit as prime contractor for a 2029 mission aiming to de-orbit two defunct small satellites, the in-orbit servicing venture announced Oct. 15.",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "SpaceNews",
+          "title": "UK awards ClearSpace $80 million prime contract for dual-satellite deorbit mission",
+          "url": "https://spacenews.com/uk-awards-clearspace-80-million-prime-contract-for-dual-satellite-deorbit-mission/",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-10-15",
+      "title": "Lunar lander companies planning precision landing demonstrations",
+      "summary": "WASHINGTON — Two companies are planning robotic lunar lander missions that will attempt to land near other spacecraft, demonstrating precision landing technologies while also testing one of the biggest hazards for NASA’s proposed lunar base.",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "SpaceNews",
+          "title": "Lunar lander companies planning precision landing demonstrations",
+          "url": "https://spacenews.com/lunar-lander-companies-planning-precision-landing-demonstrations/",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-10-15",
+      "title": "How NASA is thinking about a moon base",
+      "summary": "In this episode, SpaceNews’ Mike Gruss talks with NASA’s Shatel Bhakta, the principal systems engineer for Moon Base, about what’s needed between now and 2028 and the incremental steps to the future. About Space Minds Space Minds is a new audio and video podcast from SpaceNews that focuses on the inspiring leaders, technologies and exciting opportunities in space. The weekly podcast features compelling interviews with scientists, founders and experts who love to talk about space, covers the news",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "SpaceNews",
+          "title": "How NASA is thinking about a moon base",
+          "url": "https://spacenews.com/how-nasa-is-thinking-about-a-moon-base/",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-10-15",
+      "title": "Rocket Lab delays first Neutron launch again",
+      "summary": "WASHINGTON — Rocket Lab announced Oct. 14 that the first launch of its Neutron rocket has been delayed again, to sometime in 2027, citing issues producing carbon composite components for the vehicle.",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "SpaceNews",
+          "title": "Rocket Lab delays first Neutron launch again",
+          "url": "https://spacenews.com/rocket-lab-delays-first-neutron-launch-again/",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-10-15",
+      "title": "Agile Space Industries Expands to Seattle Area with New Bellevue Office",
+      "summary": "BELLEVUE, Wash., Oct. 15, 2026 — Agile Space Industries, a leading provider of in-space chemical propulsion solutions, has expanded into the Seattle metropolitan area with the opening of a new office in Bellevue, Washington. The expansion builds on Agile’s continued growth, extending its engineering capabilities and strengthening its presence in one of the nation’s most established aerospace and technology markets. Located at Sunset North in Bellevue, the new 5,470-square-foot office will initia",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "SpaceNews",
+          "title": "Agile Space Industries Expands to Seattle Area with New Bellevue Office",
+          "url": "https://spacenews.com/agile-space-industries-expands-to-seattle-area-with-new-bellevue-office/",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-10-15",
+      "title": "Rocket startup LEAP targets 2028 orbital launch",
+      "summary": "WASHINGTON — A Colorado rocket startup is aiming to enter the market for dedicated small-satellite launches in 2028 as growing demand for access to orbit creates new opportunities for smaller rockets.",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "SpaceNews",
+          "title": "Rocket startup LEAP targets 2028 orbital launch",
+          "url": "https://spacenews.com/rocket-startup-leap-targets-2028-orbital-launch/",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-10-15",
+      "title": "Chinese launches boost Guowang constellation, add space computing sats",
+      "summary": "HELSINKI — China launched Long March 12 and commercial Zhuque-2E rockets over the past week, adding to the Guowang constellation and testing orbital computing and laser links.",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "SpaceNews",
+          "title": "Chinese launches boost Guowang constellation, add space computing sats",
+          "url": "https://spacenews.com/chinese-launches-boost-guowang-constellation-add-space-computing-sats/",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-10-15",
+      "title": "Space Command’s new headquarters estimated to cost  $4 billion",
+      "summary": "Story updated Oct. 16 with statement from U.S. Space Command",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "SpaceNews",
+          "title": "Space Command’s new headquarters estimated to cost  $4 billion",
+          "url": "https://spacenews.com/space-commands-new-headquarters-estimated-to-cost-4-billion/",
+          "primary": true
+        }
+      ]
+    }
+  ],
+  "regions": [
+    {
+      "id": "nordics",
+      "name": "Nordics",
+      "items": [
+        {
+          "date": "2026-10-15",
+          "title": "Nordics: nothing in the SpaceNews record for this day",
+          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "confidence": "low",
+          "status": "overview",
+          "iso3": [],
+          "sources": []
+        }
+      ]
+    },
+    {
+      "id": "cee",
+      "name": "Central and Eastern Europe",
+      "items": [
+        {
+          "date": "2026-10-15",
+          "title": "Central and Eastern Europe: nothing in the SpaceNews record for this day",
+          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "confidence": "low",
+          "status": "overview",
+          "iso3": [],
+          "sources": []
+        }
+      ]
+    },
+    {
+      "id": "west",
+      "name": "Western and Southern Europe",
+      "items": [
+        {
+          "date": "2026-10-15",
+          "title": "UK awards ClearSpace $80 million prime contract for dual-satellite deorbit mission",
+          "summary": "TAMPA, Fla. — The UK Space Agency has picked Luxembourg-headquartered ClearSpace’s British unit as prime contractor for a 2029 mission aiming to de-orbit two defunct small satellites, the in-orbit servicing venture announced Oct. 15.",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "SpaceNews",
+              "title": "UK awards ClearSpace $80 million prime contract for dual-satellite deorbit mission",
+              "url": "https://spacenews.com/uk-awards-clearspace-80-million-prime-contract-for-dual-satellite-deorbit-mission/",
+              "primary": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "esa_eu",
+      "name": "ESA and EU",
+      "items": [
+        {
+          "date": "2026-10-15",
+          "title": "ESA and EU: nothing in the SpaceNews record for this day",
+          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "confidence": "low",
+          "status": "overview",
+          "iso3": [],
+          "sources": []
+        }
+      ]
+    },
+    {
+      "id": "mena",
+      "name": "Türkiye, Middle East and Africa",
+      "items": [
+        {
+          "date": "2026-10-15",
+          "title": "Türkiye, Middle East and Africa: nothing in the SpaceNews record for this day",
+          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "confidence": "low",
+          "status": "overview",
+          "iso3": [],
+          "sources": []
+        }
+      ]
+    },
+    {
+      "id": "eurasia",
+      "name": "Eurasia and Central Asia",
+      "items": [
+        {
+          "date": "2026-10-15",
+          "title": "Eurasia and Central Asia: nothing in the SpaceNews record for this day",
+          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "confidence": "low",
+          "status": "overview",
+          "iso3": [],
+          "sources": []
+        }
+      ]
+    },
+    {
+      "id": "asia_pac",
+      "name": "Asia Pacific",
+      "items": [
+        {
+          "date": "2026-10-15",
+          "title": "Chinese launches boost Guowang constellation, add space computing sats",
+          "summary": "HELSINKI — China launched Long March 12 and commercial Zhuque-2E rockets over the past week, adding to the Guowang constellation and testing orbital computing and laser links.",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "SpaceNews",
+              "title": "Chinese launches boost Guowang constellation, add space computing sats",
+              "url": "https://spacenews.com/chinese-launches-boost-guowang-constellation-add-space-computing-sats/",
+              "primary": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "americas",
+      "name": "Americas",
+      "items": [
+        {
+          "date": "2026-10-15",
+          "title": "Lunar lander companies planning precision landing demonstrations",
+          "summary": "WASHINGTON — Two companies are planning robotic lunar lander missions that will attempt to land near other spacecraft, demonstrating precision landing technologies while also testing one of the biggest hazards for NASA’s proposed lunar base.",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "SpaceNews",
+              "title": "Lunar lander companies planning precision landing demonstrations",
+              "url": "https://spacenews.com/lunar-lander-companies-planning-precision-landing-demonstrations/",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-10-15",
+          "title": "How NASA is thinking about a moon base",
+          "summary": "In this episode, SpaceNews’ Mike Gruss talks with NASA’s Shatel Bhakta, the principal systems engineer for Moon Base, about what’s needed between now and 2028 and the incremental steps to the future. About Space Minds Space Minds is a new audio and video podcast from SpaceNews that focuses on the inspiring leaders, technologies and exciting opportunities in space. The weekly podcast features compelling interviews with scientists, founders and experts who love to talk about space, covers the news",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "SpaceNews",
+              "title": "How NASA is thinking about a moon base",
+              "url": "https://spacenews.com/how-nasa-is-thinking-about-a-moon-base/",
+              "primary": true
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "countries": [],
+  "priorities": [],
+  "milestones": [],
+  "watchlist": [],
+  "competitive_watch": [],
+  "stats": {
+    "record": "memory",
+    "source": "SpaceNews",
+    "stories": 9
+  },
+  "audio_script": "This is a memory record for 2026-10-15, not a spoken briefing. It keeps the SpaceNews stories dated this day so later editions can see what had already been reported.",
+  "audio_sections": [
+    {
+      "id": "opening",
+      "title": "Memory record",
+      "text": "This is a memory record for 2026-10-15, not a spoken briefing."
+    }
+  ]
+}

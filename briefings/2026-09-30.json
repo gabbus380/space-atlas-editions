@@ -1,0 +1,388 @@
+{
+  "date": "2026-09-30",
+  "edition": "memory",
+  "generated_at": "2026-09-30T18:00:00+00:00",
+  "headline": "Quantum Space Executes Launch Processing Agreement with All Points Logistics for Prime Mission",
+  "summary": [
+    "Quantum Space Executes Launch Processing Agreement with All Points Logistics for Prime Mission",
+    "NaviGate successfully demonstrates onboard precise orbit determination aboard D-Orbit’s ION Satellite Carrier",
+    "Blackswan raises $2.9 million seed round for satellite rendezvous technology",
+    "Astro Digital plans SPAC listing to expand satellite production and defense business"
+  ],
+  "bottom_line": "Memory record drawn from SpaceNews for this date. It is not a full eight-desk sweep, and a desk with no mapped story is a gap in the harvest.",
+  "global": [
+    {
+      "date": "2026-09-30",
+      "title": "Quantum Space Executes Launch Processing Agreement with All Points Logistics for Prime Mission",
+      "summary": "ROCKVILLE, Md. and MERRITT ISLAND, Fla. — September 30, 2026 — Quantum Space, LLC (the “Company” or “Quantum Space”), a company developing the next generation of advanced maneuverable spacecraft for national security and commercial missions, today announced that it has executed a new spacecraft processing work order with All Points Logistics, LLC (“All Points”) for the launch campaign for Quantum Space’s Prime mission. Prime is a pathfinder mission for the Company’s Ranger and Scout platform and",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "SpaceNews",
+          "title": "Quantum Space Executes Launch Processing Agreement with All Points Logistics for Prime Mission",
+          "url": "https://spacenews.com/quantum-space-executes-launch-processing-agreement-with-all-points-logistics-for-prime-mission/",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-30",
+      "title": "NaviGate successfully demonstrates onboard precise orbit determination aboard D-Orbit’s ION Satellite Carrier",
+      "summary": "ROME, 30/09/2026 – NaviGate, an Italian space technology company spun out of Sapienza University of Rome, has successfully completed the in-orbit demonstration (IoD) of NaviCode Caravel, its autonomous onboard precise orbit determination software, aboard an ION Satellite Carrier operated by D-Orbit. During the demonstration, NaviCode Caravel ran directly on the satellite’s onboard computer, computing the spacecraft’s position in real time using only the raw data of the GNSS receiver already onbo",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "SpaceNews",
+          "title": "NaviGate successfully demonstrates onboard precise orbit determination aboard D-Orbit’s ION Satellite Carrier",
+          "url": "https://spacenews.com/navigate-successfully-demonstrates-onboard-precise-orbit-determination-aboard-d-orbits-ion-satellite-carrier/",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-30",
+      "title": "Blackswan raises $2.9 million seed round for satellite rendezvous technology",
+      "summary": "TAMPA, Fla. — Lithuania’s Blackswan Space has raised around $2.9 million to support the development of its rendezvous & proximity operations (RPO) payload, which Orbit Fab plans to use for Europe’s first in-space refueling demo in 2028.",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "SpaceNews",
+          "title": "Blackswan raises $2.9 million seed round for satellite rendezvous technology",
+          "url": "https://spacenews.com/blackswan-raises-2-9-million-seed-round-for-satellite-rendezvous-technology/",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-30",
+      "title": "Astro Digital plans SPAC listing to expand satellite production and defense business",
+      "summary": "WASHINGTON — Astro Digital plans to go public through a merger with a blank-check company, seeking capital to expand satellite production and pursue more government business.",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "SpaceNews",
+          "title": "Astro Digital plans SPAC listing to expand satellite production and defense business",
+          "url": "https://spacenews.com/astro-digital-plans-spac-listing-to-expand-satellite-production-and-defense-business/",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-30",
+      "title": "The new trust problem in space",
+      "summary": "In August, the U.S. Space Force selected five companies to help develop its next-generation Space Data Network, an open architecture intended to connect commercial satellite systems through standardized interfaces and reduce dependence on any single provider.",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "SpaceNews",
+          "title": "The new trust problem in space",
+          "url": "https://spacenews.com/the-new-trust-problem-in-space/",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-30",
+      "title": "Viridian wins NASA contract to explore aerodynamic control surfaces for VLEO operations",
+      "summary": "SAN FRANCISCO – Viridian Space will work with the University of Washington to improve the simulation and design of control surfaces for satellites maneuvering in very low Earth orbit (VLEO), under a $225,000 NASA Small Business Technology Transfer contract announced Sept. 30.",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "SpaceNews",
+          "title": "Viridian wins NASA contract to explore aerodynamic control surfaces for VLEO operations",
+          "url": "https://spacenews.com/viridian-wins-nasa-contract-to-explore-aerodynamic-control-surfaces-for-vleo-operations/",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-30",
+      "title": "Varda Space Industries raises $251 million",
+      "summary": "WASHINGTON — Varda Space Industries, a company that operates reentry spacecraft for pharmaceutical and hypersonics research applications, has raised $251 million as it prepares to launch three missions in the next month.",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "SpaceNews",
+          "title": "Varda Space Industries raises $251 million",
+          "url": "https://spacenews.com/varda-space-industries-raises-251-million/",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-30",
+      "title": "What will Golden Dome actually defend? Senators press for answers",
+      "summary": "WASHINGTON — Congressional budget analysts have finally been briefed on the Pentagon’s classified Golden Dome architecture, six months after producing a $1.2 trillion estimate that has become a flashpoint in the debate over the missile-defense program.",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "SpaceNews",
+          "title": "What will Golden Dome actually defend? Senators press for answers",
+          "url": "https://spacenews.com/what-will-golden-dome-actually-defend-senators-press-for-answers/",
+          "primary": true
+        }
+      ]
+    }
+  ],
+  "regions": [
+    {
+      "id": "nordics",
+      "name": "Nordics",
+      "items": [
+        {
+          "date": "2026-09-30",
+          "title": "Nordics: nothing in the SpaceNews record for this day",
+          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "confidence": "low",
+          "status": "overview",
+          "iso3": [],
+          "sources": []
+        }
+      ]
+    },
+    {
+      "id": "cee",
+      "name": "Central and Eastern Europe",
+      "items": [
+        {
+          "date": "2026-09-30",
+          "title": "Central and Eastern Europe: nothing in the SpaceNews record for this day",
+          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "confidence": "low",
+          "status": "overview",
+          "iso3": [],
+          "sources": []
+        }
+      ]
+    },
+    {
+      "id": "west",
+      "name": "Western and Southern Europe",
+      "items": [
+        {
+          "date": "2026-09-30",
+          "title": "NaviGate successfully demonstrates onboard precise orbit determination aboard D-Orbit’s ION Satellite Carrier",
+          "summary": "ROME, 30/09/2026 – NaviGate, an Italian space technology company spun out of Sapienza University of Rome, has successfully completed the in-orbit demonstration (IoD) of NaviCode Caravel, its autonomous onboard precise orbit determination software, aboard an ION Satellite Carrier operated by D-Orbit. During the demonstration, NaviCode Caravel ran directly on the satellite’s onboard computer, computing the spacecraft’s position in real time using only the raw data of the GNSS receiver already onbo",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "SpaceNews",
+              "title": "NaviGate successfully demonstrates onboard precise orbit determination aboard D-Orbit’s ION Satellite Carrier",
+              "url": "https://spacenews.com/navigate-successfully-demonstrates-onboard-precise-orbit-determination-aboard-d-orbits-ion-satellite-carrier/",
+              "primary": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "esa_eu",
+      "name": "ESA and EU",
+      "items": [
+        {
+          "date": "2026-09-30",
+          "title": "ESA and EU: nothing in the SpaceNews record for this day",
+          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "confidence": "low",
+          "status": "overview",
+          "iso3": [],
+          "sources": []
+        }
+      ]
+    },
+    {
+      "id": "mena",
+      "name": "Türkiye, Middle East and Africa",
+      "items": [
+        {
+          "date": "2026-09-30",
+          "title": "Türkiye, Middle East and Africa: nothing in the SpaceNews record for this day",
+          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "confidence": "low",
+          "status": "overview",
+          "iso3": [],
+          "sources": []
+        }
+      ]
+    },
+    {
+      "id": "eurasia",
+      "name": "Eurasia and Central Asia",
+      "items": [
+        {
+          "date": "2026-09-30",
+          "title": "Eurasia and Central Asia: nothing in the SpaceNews record for this day",
+          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "confidence": "low",
+          "status": "overview",
+          "iso3": [],
+          "sources": []
+        }
+      ]
+    },
+    {
+      "id": "asia_pac",
+      "name": "Asia Pacific",
+      "items": [
+        {
+          "date": "2026-09-30",
+          "title": "Chinese electric-pump rocket startup Z-Trak raises new funding, targets 2027 debut for reusable Fission-A",
+          "summary": "HELSINKI — Chinese launch startup Z-Trak Space has secured a new funding round for a small reusable rocket and is targeting late 2027 for a first flight.",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "SpaceNews",
+              "title": "Chinese electric-pump rocket startup Z-Trak raises new funding, targets 2027 debut for reusable Fission-A",
+              "url": "https://spacenews.com/chinese-electric-pump-rocket-startup-z-trak-raises-new-funding-targets-2027-debut-for-reusable-fission-a/",
+              "primary": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "americas",
+      "name": "Americas",
+      "items": [
+        {
+          "date": "2026-09-30",
+          "title": "The new trust problem in space",
+          "summary": "In August, the U.S. Space Force selected five companies to help develop its next-generation Space Data Network, an open architecture intended to connect commercial satellite systems through standardized interfaces and reduce dependence on any single provider.",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "SpaceNews",
+              "title": "The new trust problem in space",
+              "url": "https://spacenews.com/the-new-trust-problem-in-space/",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-09-30",
+          "title": "Viridian wins NASA contract to explore aerodynamic control surfaces for VLEO operations",
+          "summary": "SAN FRANCISCO – Viridian Space will work with the University of Washington to improve the simulation and design of control surfaces for satellites maneuvering in very low Earth orbit (VLEO), under a $225,000 NASA Small Business Technology Transfer contract announced Sept. 30.",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "SpaceNews",
+              "title": "Viridian wins NASA contract to explore aerodynamic control surfaces for VLEO operations",
+              "url": "https://spacenews.com/viridian-wins-nasa-contract-to-explore-aerodynamic-control-surfaces-for-vleo-operations/",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-09-30",
+          "title": "What will Golden Dome actually defend? Senators press for answers",
+          "summary": "WASHINGTON — Congressional budget analysts have finally been briefed on the Pentagon’s classified Golden Dome architecture, six months after producing a $1.2 trillion estimate that has become a flashpoint in the debate over the missile-defense program.",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "SpaceNews",
+              "title": "What will Golden Dome actually defend? Senators press for answers",
+              "url": "https://spacenews.com/what-will-golden-dome-actually-defend-senators-press-for-answers/",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-09-30",
+          "title": "Astranis secures $468 million EXIM loan to expand satellite production",
+          "summary": "WASHINGTON — Satellite manufacturer Astranis has secured a $468 million loan from the Export-Import Bank of the United States to expand domestic production and launch satellites for its U.S. and international business.",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "SpaceNews",
+              "title": "Astranis secures $468 million EXIM loan to expand satellite production",
+              "url": "https://spacenews.com/astranis-secures-468-million-exim-loan-to-expand-satellite-production/",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-09-30",
+          "title": "Blue Origin seeking to increase New Glenn launch cadence at Cape Canaveral",
+          "summary": "WASHINGTON — As Blue Origin continues to recover from a New Glenn pad explosion in May, the company is seeking permission to significantly increase the vehicle’s launch rate.",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "SpaceNews",
+              "title": "Blue Origin seeking to increase New Glenn launch cadence at Cape Canaveral",
+              "url": "https://spacenews.com/blue-origin-seeking-to-increase-new-glenn-launch-cadence-at-cape-canaveral/",
+              "primary": true
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "countries": [],
+  "priorities": [],
+  "milestones": [],
+  "watchlist": [],
+  "competitive_watch": [],
+  "stats": {
+    "record": "memory",
+    "source": "SpaceNews",
+    "stories": 13
+  },
+  "audio_script": "This is a memory record for 2026-09-30, not a spoken briefing. It keeps the SpaceNews stories dated this day so later editions can see what had already been reported.",
+  "audio_sections": [
+    {
+      "id": "opening",
+      "title": "Memory record",
+      "text": "This is a memory record for 2026-09-30, not a spoken briefing."
+    }
+  ]
+}
