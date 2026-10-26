@@ -1,6 +1,5 @@
 # ATLAS calendar
 
-- **2026-10-26** NASA Science virtual town hall on changes to mission competition and selection [USA]
 - **2026-10-26** ICG-20, International Committee on GNSS, continues until 30 October [IND]
 - **2026-10-27** APRSAF-32 Asia-Pacific Regional Space Agency Forum opens (to 30 October) [THA/JPN]
 - **2026-10-27** Defence in Space Conference 2026 (to 28 October) [GBR]
