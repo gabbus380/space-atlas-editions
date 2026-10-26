@@ -12,7 +12,7 @@ Ledger files belong in `claude/atlas/ledger/`. The run report belongs in `claude
 
 The standing source list is `claude/atlas/source-feeds.json`. Read those feeds and newsrooms before the open web. Each link was checked on 26 October 2026. A link marked unreachable refused or timed out on an automated read.
 
-A fresh item needs at least three independent sources. One is in the country's own language. One is a government or embassy page. If that mix cannot be found, the item needs five independent sources instead. The same wire copied by three sites counts once.
+Prefer three independent sources, one in the country's own language and one from a government or embassy page. If that mix cannot be found, five independent sources is still the high bar. A desk may also file a lower-confidence item rather than go quiet. Medium means two independent sources from the standing list. Low means one named source from that list, and the summary says so in the first sentence. Set confidence to high, medium, or low. The same wire copied by three sites counts once. Social media, aggregators, and Wikipedia still do not count. A quiet desk item is only for a five-day window with nothing even at low confidence.
 
 The site copies a file that passes its checks at 05:00 and 05:40 UTC, before the 06:20 UTC email. A briefing that contains a key, a private key, or a token is refused and is not published.
 
