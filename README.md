@@ -10,6 +10,8 @@ Keep `audio_script` and `audio_sections` in the JSON, and cover every desk in th
 
 Ledger files belong in `claude/atlas/ledger/`. The run report belongs in `claude/atlas/reports/YYYY-MM-DD.md`.
 
+A fresh item needs at least three independent sources. One is in the country's own language. One is a government or embassy page. If that mix cannot be found, the item needs five independent sources instead. The same wire copied by three sites counts once.
+
 The site copies a file that passes its checks at 05:00 and 05:40 UTC, before the 06:20 UTC email. A briefing that contains a key, a private key, or a token is refused and is not published.
 
 Do not put application code or secrets in this repository.
