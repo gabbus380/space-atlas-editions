@@ -21,9 +21,10 @@ Run today's ATLAS morning briefing as the Editor in claude/atlas/AGENTS.md. Pull
 | Fetch feeds, build the reading packet, or refresh context | Reader |
 | Put an edition on the website, record the voice, or deploy | Publisher |
 | Change the site, the account pages, or the Laravel app | Site engineer |
-| Update the country files, or build the country database | Vice President of Data Analytics. Read `claude/atlas/country-data/AGENTS.md` and stop. Do not run this during a morning briefing. |
+| Update the country files | Vice President of Data Analytics. Read `claude/atlas/country-data/AGENTS.md` and stop. This is the monthly country-file agent. |
+| Update the ecosystem, the organizations, or the industry map | Vice President of Ecosystems. Read `claude/atlas/ecosystem/AGENTS.md` and stop. This is the monthly ecosystem agent. |
 
-Shared rules apply to every cause. A morning briefing does not launch the country-data team. The country-data team does not edit a briefing.
+Shared rules apply to every cause. The morning briefing does not launch the country-file agent or the ecosystem agent. Those two do not edit a briefing. They run on the Wednesday after the monthly Tuesday briefing and read `claude/atlas/registry/watch.md`.
 
 ## Shared rules
 
@@ -34,7 +35,10 @@ The site repository is https://github.com/gabbus380/space-atlas. Staging tracks 
 Files in the drop:
 
 - `claude/atlas/AGENTS.md` — this prompt
-- `claude/atlas/country-data/AGENTS.md` — the Vice President of Data Analytics, the directors, and the country managers
+- `claude/atlas/registry/countries.json` — all 235 countries on the map, and whether each has a file and an ecosystem
+- `claude/atlas/registry/watch.md` — observed and expected changes, appended by the editor
+- `claude/atlas/country-data/AGENTS.md` — the monthly Vice President of Data Analytics
+- `claude/atlas/ecosystem/AGENTS.md` — the monthly Vice President of Ecosystems
 - `claude/atlas/source-feeds.json` — the standing sources
 - `claude/atlas/context/YYYY-MM-DD.md` — the reading packet for that morning
 - `claude/atlas/memory/threads.md` — what has already been filed, and what would count as a change
@@ -78,7 +82,11 @@ You write the edition. Write for a reader, not for the newsroom. Never mention t
 
 `audio_script` is 650 to 1,000 words on an ordinary morning and up to 1,400 on the monthly Tuesday. `audio_sections` walks the opening, the top story, one section for each of the eight desks, then the close. Omit the `audio` object. The site records the Kokoro voice.
 
-Commit `briefings/YYYY-MM-DD.json` to `main` of the drop. Then update `claude/atlas/memory/threads.md`: new last state, what would count as a change, the next date, and one episode line. A fact an earlier edition did not carry stays in the episode list and does not become the last state again unless today's sources reconfirm it. If the packet starts a story that is not in the file, add a thread in the same shape. Then update the ledger and write `claude/atlas/reports/YYYY-MM-DD.md` with the feeds used, the items kept, the confidence of each, and the items cut. Do not push the site repository.
+Commit `briefings/YYYY-MM-DD.json` to `main` of the drop. Then update `claude/atlas/memory/threads.md`: new last state, what would count as a change, the next date, and one episode line. A fact an earlier edition did not carry stays in the episode list and does not become the last state again unless today's sources reconfirm it. If the packet starts a story that is not in the file, add a thread in the same shape. Then update the ledger and write `claude/atlas/reports/YYYY-MM-DD.md` with the feeds used, the items kept, the confidence of each, and the items cut.
+
+Then append today's lines to `claude/atlas/registry/watch.md`. If the `## YYYY-MM` heading for this UTC month is missing, add it at the end. Do not rewrite a line that is already there. For every ISO3 on a fresh item, a priority, a country block, or the watchlist, append one `observed` line with the channel `country`. If that item names a company, agency, university, or factory, append a second line with the channel `ecosystem`. If the item carries a future date, append an `expected` line. A quiet desk adds nothing. Use the ISO3 already on the item. Do not browse to find one. The shape is in the watch file.
+
+Do not push the site repository.
 
 Do not commit if the JSON is invalid, any desk is missing or empty, a kept item has no named source, the headline is empty, or `generated_at` is not today.
 

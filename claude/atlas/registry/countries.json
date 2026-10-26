@@ -1,0 +1,5703 @@
+{
+  "schema": 1,
+  "as_of": "2026-10-27",
+  "source": "gabbus380/space-atlas resources/atlas/data/atlas.json",
+  "note": "Every country on the map is named here. file=full means a country file already exists. file=missing means the monthly country agent still owes a file. ecosystem=mapped means at least one organization is on file. This registry is the roll call. It is not proof of a fact.",
+  "counts": {
+    "map": 235,
+    "country_files": 81,
+    "missing_files": 154,
+    "ecosystem_countries": 11,
+    "unmapped_ecosystems": 224,
+    "organizations": 419,
+    "core": 89
+  },
+  "countries": {
+    "AFG": {
+      "iso3": "AFG",
+      "name": "Afghanistan",
+      "alt": [
+        "Islamic Republic of Afghanistan",
+        "Afġānistān"
+      ],
+      "region": "sasia",
+      "subregion": "Southern Asia",
+      "desk": "asia_pac",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "ALA": {
+      "iso3": "ALA",
+      "name": "Åland Islands",
+      "alt": [
+        "Åland Islands",
+        "Aaland",
+        "Aland",
+        "Ahvenanmaa"
+      ],
+      "region": "europe",
+      "subregion": "Northern Europe",
+      "desk": "nordics",
+      "core": false,
+      "sovereign": "FIN",
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "ALB": {
+      "iso3": "ALB",
+      "name": "Albania",
+      "alt": [
+        "Republic of Albania",
+        "Shqipëri",
+        "Shqipëria",
+        "Shqipnia"
+      ],
+      "region": "cee",
+      "subregion": "Southeast Europe",
+      "desk": "cee",
+      "core": true,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": "None (no national space agency)",
+      "elections": [
+        {
+          "type": "legislative",
+          "next": "2029-05",
+          "next_status": "expected"
+        }
+      ]
+    },
+    "DZA": {
+      "iso3": "DZA",
+      "name": "Algeria",
+      "alt": [
+        "People's Democratic Republic of Algeria",
+        "Dzayer",
+        "Algérie"
+      ],
+      "region": "mena",
+      "subregion": "Northern Africa",
+      "desk": "mena",
+      "core": true,
+      "sovereign": null,
+      "file": "full",
+      "file_as_of": "2026-10-23",
+      "verify": "partial",
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": "Algerian Space Agency",
+      "elections": [
+        {
+          "type": "legislative",
+          "next": "2031",
+          "next_status": "expected"
+        },
+        {
+          "type": "presidential",
+          "next": "2029-09",
+          "next_status": "expected"
+        }
+      ]
+    },
+    "ASM": {
+      "iso3": "ASM",
+      "name": "American Samoa",
+      "alt": [
+        "American Samoa",
+        "Amerika Sāmoa",
+        "Amelika Sāmoa",
+        "Sāmoa Amelika"
+      ],
+      "region": "aspac",
+      "subregion": "Polynesia",
+      "desk": "asia_pac",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "AND": {
+      "iso3": "AND",
+      "name": "Andorra",
+      "alt": [
+        "Principality of Andorra",
+        "Principality of Andorra",
+        "Principat d'Andorra"
+      ],
+      "region": "west",
+      "subregion": "Southern Europe",
+      "desk": "west",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "AGO": {
+      "iso3": "AGO",
+      "name": "Angola",
+      "alt": [
+        "Republic of Angola",
+        "República de Angola",
+        "ʁɛpublika de an'ɡɔla"
+      ],
+      "region": "africa",
+      "subregion": "Middle Africa",
+      "desk": "mena",
+      "core": false,
+      "sovereign": null,
+      "file": "full",
+      "file_as_of": "2026-10-23",
+      "verify": "verified",
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "AIA": {
+      "iso3": "AIA",
+      "name": "Anguilla",
+      "alt": [
+        "Anguilla"
+      ],
+      "region": "americas",
+      "subregion": "Caribbean",
+      "desk": "americas",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "ATG": {
+      "iso3": "ATG",
+      "name": "Antigua and Barbuda",
+      "alt": [
+        "Antigua and Barbuda"
+      ],
+      "region": "americas",
+      "subregion": "Caribbean",
+      "desk": "americas",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "ARG": {
+      "iso3": "ARG",
+      "name": "Argentina",
+      "alt": [
+        "Argentine Republic",
+        "Argentine Republic",
+        "República Argentina"
+      ],
+      "region": "americas",
+      "subregion": "South America",
+      "desk": "americas",
+      "core": true,
+      "sovereign": null,
+      "file": "full",
+      "file_as_of": "2026-10-23",
+      "verify": "partial",
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": "National Commission for Space Activities (Comisión Nacional de Actividades Espaciales)",
+      "elections": [
+        {
+          "type": "legislative",
+          "next": "2027-10-24",
+          "next_status": "scheduled"
+        },
+        {
+          "type": "presidential",
+          "next": "2027-10-24",
+          "next_status": "scheduled"
+        }
+      ]
+    },
+    "ARM": {
+      "iso3": "ARM",
+      "name": "Armenia",
+      "alt": [
+        "Republic of Armenia",
+        "Hayastan",
+        "Republic of Armenia",
+        "Հայաստանի Հանրապետություն"
+      ],
+      "region": "eurasia",
+      "subregion": "Western Asia",
+      "desk": "eurasia",
+      "core": true,
+      "sovereign": null,
+      "file": "full",
+      "file_as_of": "2026-10-23",
+      "verify": "partial",
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": [
+        {
+          "type": "legislative",
+          "next": "2031-06",
+          "next_status": "expected"
+        }
+      ]
+    },
+    "ABW": {
+      "iso3": "ABW",
+      "name": "Aruba",
+      "alt": [
+        "Aruba"
+      ],
+      "region": "americas",
+      "subregion": "Caribbean",
+      "desk": "americas",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "AUS": {
+      "iso3": "AUS",
+      "name": "Australia",
+      "alt": [
+        "Commonwealth of Australia"
+      ],
+      "region": "aspac",
+      "subregion": "Australia and New Zealand",
+      "desk": "asia_pac",
+      "core": true,
+      "sovereign": null,
+      "file": "full",
+      "file_as_of": "2026-10-23",
+      "verify": "verified",
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": "Australian Space Agency",
+      "elections": [
+        {
+          "type": "legislative",
+          "next": "2028-05",
+          "next_status": "due by"
+        }
+      ]
+    },
+    "AUT": {
+      "iso3": "AUT",
+      "name": "Austria",
+      "alt": [
+        "Republic of Austria",
+        "Osterreich",
+        "Oesterreich"
+      ],
+      "region": "west",
+      "subregion": "Central Europe",
+      "desk": "west",
+      "core": true,
+      "sovereign": null,
+      "file": "full",
+      "file_as_of": "2026-10-23",
+      "verify": "verified",
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": "Aeronautics and Space Agency at the Austrian Research Promotion Agency (FFG)",
+      "elections": [
+        {
+          "type": "legislative",
+          "next": "2029",
+          "next_status": "due by"
+        },
+        {
+          "type": "presidential",
+          "next": "2028-10",
+          "next_status": "expected"
+        }
+      ]
+    },
+    "AZE": {
+      "iso3": "AZE",
+      "name": "Azerbaijan",
+      "alt": [
+        "Republic of Azerbaijan",
+        "Republic of Azerbaijan",
+        "Azərbaycan Respublikası"
+      ],
+      "region": "eurasia",
+      "subregion": "Western Asia",
+      "desk": "eurasia",
+      "core": true,
+      "sovereign": null,
+      "file": "full",
+      "file_as_of": "2026-10-23",
+      "verify": "partial",
+      "ecosystem": "mapped",
+      "org_count": 8,
+      "agency": "Space Agency of the Republic of Azerbaijan (Azercosmos)",
+      "elections": [
+        {
+          "type": "legislative",
+          "next": "2029-09",
+          "next_status": "expected"
+        },
+        {
+          "type": "presidential",
+          "next": "2031-02",
+          "next_status": "expected"
+        }
+      ]
+    },
+    "BHS": {
+      "iso3": "BHS",
+      "name": "Bahamas",
+      "alt": [
+        "Commonwealth of the Bahamas",
+        "Commonwealth of the Bahamas"
+      ],
+      "region": "americas",
+      "subregion": "Caribbean",
+      "desk": "americas",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "BHR": {
+      "iso3": "BHR",
+      "name": "Bahrain",
+      "alt": [
+        "Kingdom of Bahrain",
+        "Kingdom of Bahrain",
+        "Mamlakat al-Baḥrayn"
+      ],
+      "region": "mena",
+      "subregion": "Western Asia",
+      "desk": "mena",
+      "core": true,
+      "sovereign": null,
+      "file": "full",
+      "file_as_of": "2026-10-23",
+      "verify": "verified",
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": "Bahrain Space Agency (formerly National Space Science Agency)",
+      "elections": [
+        {
+          "type": "legislative",
+          "next": "2027",
+          "next_status": "expected"
+        }
+      ]
+    },
+    "BGD": {
+      "iso3": "BGD",
+      "name": "Bangladesh",
+      "alt": [
+        "People's Republic of Bangladesh",
+        "People's Republic of Bangladesh",
+        "Gônôprôjatôntri Bangladesh"
+      ],
+      "region": "sasia",
+      "subregion": "Southern Asia",
+      "desk": "asia_pac",
+      "core": false,
+      "sovereign": null,
+      "file": "full",
+      "file_as_of": "2026-10-23",
+      "verify": "verified",
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "BRB": {
+      "iso3": "BRB",
+      "name": "Barbados",
+      "alt": [
+        "Barbados"
+      ],
+      "region": "americas",
+      "subregion": "Caribbean",
+      "desk": "americas",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "BLR": {
+      "iso3": "BLR",
+      "name": "Belarus",
+      "alt": [
+        "Republic of Belarus",
+        "Bielaruś",
+        "Republic of Belarus",
+        "Белоруссия"
+      ],
+      "region": "cee",
+      "subregion": "Eastern Europe",
+      "desk": "cee",
+      "core": true,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": "National Academy of Sciences of Belarus (space program coordinator)",
+      "elections": [
+        {
+          "type": "legislative",
+          "next": "2028-02",
+          "next_status": "due by"
+        },
+        {
+          "type": "presidential",
+          "next": "2030-01",
+          "next_status": "expected"
+        }
+      ]
+    },
+    "BEL": {
+      "iso3": "BEL",
+      "name": "Belgium",
+      "alt": [
+        "Kingdom of Belgium",
+        "België",
+        "Belgie",
+        "Belgien"
+      ],
+      "region": "west",
+      "subregion": "Western Europe",
+      "desk": "west",
+      "core": true,
+      "sovereign": null,
+      "file": "full",
+      "file_as_of": "2026-10-23",
+      "verify": "verified",
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": "Belgian Federal Science Policy Office",
+      "elections": [
+        {
+          "type": "legislative",
+          "next": "2029-06",
+          "next_status": "expected"
+        }
+      ]
+    },
+    "BLZ": {
+      "iso3": "BLZ",
+      "name": "Belize",
+      "alt": [
+        "Belize"
+      ],
+      "region": "americas",
+      "subregion": "Central America",
+      "desk": "americas",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "BEN": {
+      "iso3": "BEN",
+      "name": "Benin",
+      "alt": [
+        "Republic of Benin",
+        "Republic of Benin",
+        "République du Bénin"
+      ],
+      "region": "africa",
+      "subregion": "Western Africa",
+      "desk": "mena",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "BMU": {
+      "iso3": "BMU",
+      "name": "Bermuda",
+      "alt": [
+        "Bermuda",
+        "The Islands of Bermuda",
+        "The Bermudas",
+        "Somers Isles"
+      ],
+      "region": "americas",
+      "subregion": "North America",
+      "desk": "americas",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "BTN": {
+      "iso3": "BTN",
+      "name": "Bhutan",
+      "alt": [
+        "Kingdom of Bhutan",
+        "Kingdom of Bhutan"
+      ],
+      "region": "sasia",
+      "subregion": "Southern Asia",
+      "desk": "asia_pac",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "BOL": {
+      "iso3": "BOL",
+      "name": "Bolivia",
+      "alt": [
+        "Plurinational State of Bolivia",
+        "Buliwya",
+        "Wuliwya",
+        "Bolivia, Plurinational State of",
+        "Bolivia"
+      ],
+      "region": "americas",
+      "subregion": "South America",
+      "desk": "americas",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "BIH": {
+      "iso3": "BIH",
+      "name": "Bosnia and Herzegovina",
+      "alt": [
+        "Bosnia and Herzegovina",
+        "Bosnia-Herzegovina",
+        "Босна и Херцеговина",
+        "Bosnia and Herzegovina"
+      ],
+      "region": "cee",
+      "subregion": "Southeast Europe",
+      "desk": "cee",
+      "core": true,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": "None (no national space agency)",
+      "elections": [
+        {
+          "type": "legislative",
+          "next": "2030-10",
+          "next_status": "expected"
+        },
+        {
+          "type": "presidential",
+          "next": "2030-10",
+          "next_status": "expected"
+        }
+      ]
+    },
+    "BWA": {
+      "iso3": "BWA",
+      "name": "Botswana",
+      "alt": [
+        "Republic of Botswana",
+        "Republic of Botswana",
+        "Lefatshe la Botswana"
+      ],
+      "region": "africa",
+      "subregion": "Southern Africa",
+      "desk": "mena",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "BRA": {
+      "iso3": "BRA",
+      "name": "Brazil",
+      "alt": [
+        "Federative Republic of Brazil",
+        "Brasil",
+        "Federative Republic of Brazil",
+        "República Federativa do Brasil"
+      ],
+      "region": "americas",
+      "subregion": "South America",
+      "desk": "americas",
+      "core": true,
+      "sovereign": null,
+      "file": "full",
+      "file_as_of": "2026-10-23",
+      "verify": "verified",
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": "Brazilian Space Agency (Agência Espacial Brasileira)",
+      "elections": [
+        {
+          "type": "legislative",
+          "next": "2030-10",
+          "next_status": "expected"
+        },
+        {
+          "type": "presidential",
+          "next": "2026-10-25",
+          "next_status": "scheduled"
+        }
+      ]
+    },
+    "IOT": {
+      "iso3": "IOT",
+      "name": "British Indian Ocean Territory",
+      "alt": [
+        "British Indian Ocean Territory"
+      ],
+      "region": "africa",
+      "subregion": "Eastern Africa",
+      "desk": "mena",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "VGB": {
+      "iso3": "VGB",
+      "name": "British Virgin Islands",
+      "alt": [
+        "Virgin Islands",
+        "Virgin Islands, British"
+      ],
+      "region": "americas",
+      "subregion": "Caribbean",
+      "desk": "americas",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "BRN": {
+      "iso3": "BRN",
+      "name": "Brunei",
+      "alt": [
+        "Nation of Brunei, Abode of Peace",
+        "Brunei Darussalam",
+        "Nation of Brunei",
+        "the Abode of Peace"
+      ],
+      "region": "aspac",
+      "subregion": "South-Eastern Asia",
+      "desk": "asia_pac",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "BGR": {
+      "iso3": "BGR",
+      "name": "Bulgaria",
+      "alt": [
+        "Republic of Bulgaria",
+        "Republic of Bulgaria",
+        "Република България"
+      ],
+      "region": "cee",
+      "subregion": "Southeast Europe",
+      "desk": "cee",
+      "core": true,
+      "sovereign": null,
+      "file": "full",
+      "file_as_of": "2026-10-23",
+      "verify": "verified",
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": "Space Research and Technology Institute, Bulgarian Academy of Sciences",
+      "elections": [
+        {
+          "type": "legislative",
+          "next": "2030",
+          "next_status": "due by"
+        },
+        {
+          "type": "presidential",
+          "next": "2026-10-25",
+          "next_status": "scheduled"
+        }
+      ]
+    },
+    "BFA": {
+      "iso3": "BFA",
+      "name": "Burkina Faso",
+      "alt": [
+        "Burkina Faso"
+      ],
+      "region": "africa",
+      "subregion": "Western Africa",
+      "desk": "mena",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "BDI": {
+      "iso3": "BDI",
+      "name": "Burundi",
+      "alt": [
+        "Republic of Burundi",
+        "Republic of Burundi",
+        "Republika y'Uburundi",
+        "République du Burundi"
+      ],
+      "region": "africa",
+      "subregion": "Eastern Africa",
+      "desk": "mena",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "KHM": {
+      "iso3": "KHM",
+      "name": "Cambodia",
+      "alt": [
+        "Kingdom of Cambodia",
+        "Kingdom of Cambodia"
+      ],
+      "region": "aspac",
+      "subregion": "South-Eastern Asia",
+      "desk": "asia_pac",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "CMR": {
+      "iso3": "CMR",
+      "name": "Cameroon",
+      "alt": [
+        "Republic of Cameroon",
+        "Republic of Cameroon",
+        "République du Cameroun"
+      ],
+      "region": "africa",
+      "subregion": "Middle Africa",
+      "desk": "mena",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "CAN": {
+      "iso3": "CAN",
+      "name": "Canada",
+      "alt": [
+        "Canada"
+      ],
+      "region": "americas",
+      "subregion": "North America",
+      "desk": "americas",
+      "core": true,
+      "sovereign": null,
+      "file": "full",
+      "file_as_of": "2026-10-23",
+      "verify": "verified",
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": "Canadian Space Agency",
+      "elections": [
+        {
+          "type": "legislative",
+          "next": "2029-10-15",
+          "next_status": "scheduled"
+        }
+      ]
+    },
+    "CPV": {
+      "iso3": "CPV",
+      "name": "Cape Verde",
+      "alt": [
+        "Republic of Cabo Verde",
+        "Republic of Cabo Verde",
+        "República de Cabo Verde"
+      ],
+      "region": "africa",
+      "subregion": "Western Africa",
+      "desk": "mena",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "CYM": {
+      "iso3": "CYM",
+      "name": "Cayman Islands",
+      "alt": [
+        "Cayman Islands"
+      ],
+      "region": "americas",
+      "subregion": "Caribbean",
+      "desk": "americas",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "CAF": {
+      "iso3": "CAF",
+      "name": "Central African Republic",
+      "alt": [
+        "Central African Republic",
+        "Central African Republic",
+        "République centrafricaine"
+      ],
+      "region": "africa",
+      "subregion": "Middle Africa",
+      "desk": "mena",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "TCD": {
+      "iso3": "TCD",
+      "name": "Chad",
+      "alt": [
+        "Republic of Chad",
+        "Tchad",
+        "Republic of Chad",
+        "République du Tchad"
+      ],
+      "region": "africa",
+      "subregion": "Middle Africa",
+      "desk": "mena",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "CHL": {
+      "iso3": "CHL",
+      "name": "Chile",
+      "alt": [
+        "Republic of Chile",
+        "Republic of Chile",
+        "República de Chile"
+      ],
+      "region": "americas",
+      "subregion": "South America",
+      "desk": "americas",
+      "core": true,
+      "sovereign": null,
+      "file": "full",
+      "file_as_of": "2026-10-23",
+      "verify": "verified",
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": "Space Policy Council (Chile has no national space agency)",
+      "elections": [
+        {
+          "type": "legislative",
+          "next": "2029-11",
+          "next_status": "expected"
+        },
+        {
+          "type": "presidential",
+          "next": "2029-11",
+          "next_status": "expected"
+        }
+      ]
+    },
+    "CHN": {
+      "iso3": "CHN",
+      "name": "China",
+      "alt": [
+        "People's Republic of China",
+        "Zhōngguó",
+        "Zhongguo",
+        "Zhonghua"
+      ],
+      "region": "aspac",
+      "subregion": "Eastern Asia",
+      "desk": "asia_pac",
+      "core": true,
+      "sovereign": null,
+      "file": "full",
+      "file_as_of": "2026-10-23",
+      "verify": "verified",
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": "China National Space Administration",
+      "elections": []
+    },
+    "COL": {
+      "iso3": "COL",
+      "name": "Colombia",
+      "alt": [
+        "Republic of Colombia",
+        "Republic of Colombia",
+        "República de Colombia"
+      ],
+      "region": "americas",
+      "subregion": "South America",
+      "desk": "americas",
+      "core": true,
+      "sovereign": null,
+      "file": "full",
+      "file_as_of": "2026-10-23",
+      "verify": "verified",
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": "Colombian Space Commission (Colombia has no national space agency)",
+      "elections": [
+        {
+          "type": "legislative",
+          "next": "2030-03",
+          "next_status": "expected"
+        },
+        {
+          "type": "presidential",
+          "next": "2030-05",
+          "next_status": "expected"
+        }
+      ]
+    },
+    "COM": {
+      "iso3": "COM",
+      "name": "Comoros",
+      "alt": [
+        "Union of the Comoros",
+        "Union of the Comoros",
+        "Union des Comores",
+        "Udzima wa Komori"
+      ],
+      "region": "africa",
+      "subregion": "Eastern Africa",
+      "desk": "mena",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "COG": {
+      "iso3": "COG",
+      "name": "Congo",
+      "alt": [
+        "Republic of the Congo",
+        "Congo",
+        "Congo-Brazzaville",
+        "Republic of the Congo"
+      ],
+      "region": "africa",
+      "subregion": "Middle Africa",
+      "desk": "mena",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "COK": {
+      "iso3": "COK",
+      "name": "Cook Islands",
+      "alt": [
+        "Cook Islands",
+        "Kūki 'Āirani"
+      ],
+      "region": "aspac",
+      "subregion": "Polynesia",
+      "desk": "asia_pac",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "CRI": {
+      "iso3": "CRI",
+      "name": "Costa Rica",
+      "alt": [
+        "Republic of Costa Rica",
+        "Republic of Costa Rica",
+        "República de Costa Rica"
+      ],
+      "region": "americas",
+      "subregion": "Central America",
+      "desk": "americas",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "CIV": {
+      "iso3": "CIV",
+      "name": "Côte d'Ivoire",
+      "alt": [
+        "Republic of Côte d'Ivoire",
+        "Côte d'Ivoire",
+        "Cote d'Ivoire",
+        "Ivory Coast",
+        "Ivory Coast"
+      ],
+      "region": "africa",
+      "subregion": "Western Africa",
+      "desk": "mena",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "HRV": {
+      "iso3": "HRV",
+      "name": "Croatia",
+      "alt": [
+        "Republic of Croatia",
+        "Hrvatska",
+        "Republic of Croatia",
+        "Republika Hrvatska"
+      ],
+      "region": "cee",
+      "subregion": "Southeast Europe",
+      "desk": "cee",
+      "core": true,
+      "sovereign": null,
+      "file": "full",
+      "file_as_of": "2026-10-23",
+      "verify": "verified",
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": "None (no national space agency)",
+      "elections": [
+        {
+          "type": "legislative",
+          "next": "2028-04",
+          "next_status": "due by"
+        },
+        {
+          "type": "presidential",
+          "next": "2029-12",
+          "next_status": "expected"
+        }
+      ]
+    },
+    "CUB": {
+      "iso3": "CUB",
+      "name": "Cuba",
+      "alt": [
+        "Republic of Cuba",
+        "Republic of Cuba",
+        "República de Cuba"
+      ],
+      "region": "americas",
+      "subregion": "Caribbean",
+      "desk": "americas",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "CUW": {
+      "iso3": "CUW",
+      "name": "Curaçao",
+      "alt": [
+        "Country of Curaçao",
+        "Curacao",
+        "Kòrsou",
+        "Country of Curaçao"
+      ],
+      "region": "americas",
+      "subregion": "Caribbean",
+      "desk": "americas",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "CYP": {
+      "iso3": "CYP",
+      "name": "Cyprus",
+      "alt": [
+        "Republic of Cyprus",
+        "Kýpros",
+        "Kıbrıs",
+        "Republic of Cyprus"
+      ],
+      "region": "south",
+      "subregion": "Southern Europe",
+      "desk": "west",
+      "core": true,
+      "sovereign": null,
+      "file": "full",
+      "file_as_of": "2026-10-23",
+      "verify": "partial",
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": "Deputy Ministry of Research, Innovation and Digital Policy (no standalone space agency)",
+      "elections": [
+        {
+          "type": "legislative",
+          "next": "2031-05",
+          "next_status": "expected"
+        },
+        {
+          "type": "presidential",
+          "next": "2028-02",
+          "next_status": "expected"
+        }
+      ]
+    },
+    "CZE": {
+      "iso3": "CZE",
+      "name": "Czechia",
+      "alt": [
+        "Czech Republic",
+        "Česká republika",
+        "Česko",
+        "Czechia"
+      ],
+      "region": "cee",
+      "subregion": "Central Europe",
+      "desk": "cee",
+      "core": true,
+      "sovereign": null,
+      "file": "full",
+      "file_as_of": "2026-10-23",
+      "verify": "verified",
+      "ecosystem": "mapped",
+      "org_count": 103,
+      "agency": "Ministry of Transport (national space coordination)",
+      "elections": [
+        {
+          "type": "legislative",
+          "next": "2029-10",
+          "next_status": "due by"
+        },
+        {
+          "type": "presidential",
+          "next": "2028-01",
+          "next_status": "expected"
+        }
+      ]
+    },
+    "DNK": {
+      "iso3": "DNK",
+      "name": "Denmark",
+      "alt": [
+        "Kingdom of Denmark",
+        "Danmark",
+        "Kingdom of Denmark",
+        "Kongeriget Danmark"
+      ],
+      "region": "nordics",
+      "subregion": "Northern Europe",
+      "desk": "nordics",
+      "core": true,
+      "sovereign": null,
+      "file": "full",
+      "file_as_of": "2026-10-23",
+      "verify": "verified",
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": "Danish Agency for Higher Education and Science (no standalone space agency)",
+      "elections": [
+        {
+          "type": "legislative",
+          "next": "2030-03",
+          "next_status": "due by"
+        }
+      ]
+    },
+    "DJI": {
+      "iso3": "DJI",
+      "name": "Djibouti",
+      "alt": [
+        "Republic of Djibouti",
+        "Jabuuti",
+        "Gabuuti",
+        "Republic of Djibouti"
+      ],
+      "region": "africa",
+      "subregion": "Eastern Africa",
+      "desk": "mena",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "DMA": {
+      "iso3": "DMA",
+      "name": "Dominica",
+      "alt": [
+        "Commonwealth of Dominica",
+        "Dominique",
+        "Wai‘tu kubuli",
+        "Commonwealth of Dominica"
+      ],
+      "region": "americas",
+      "subregion": "Caribbean",
+      "desk": "americas",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "DOM": {
+      "iso3": "DOM",
+      "name": "Dominican Republic",
+      "alt": [
+        "Dominican Republic"
+      ],
+      "region": "americas",
+      "subregion": "Caribbean",
+      "desk": "americas",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "COD": {
+      "iso3": "COD",
+      "name": "DR Congo",
+      "alt": [
+        "Democratic Republic of the Congo",
+        "DR Congo",
+        "Congo-Kinshasa",
+        "Congo, the Democratic Republic of the",
+        "DR Congo"
+      ],
+      "region": "africa",
+      "subregion": "Middle Africa",
+      "desk": "mena",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "ECU": {
+      "iso3": "ECU",
+      "name": "Ecuador",
+      "alt": [
+        "Republic of Ecuador",
+        "Republic of Ecuador",
+        "República del Ecuador"
+      ],
+      "region": "americas",
+      "subregion": "South America",
+      "desk": "americas",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "EGY": {
+      "iso3": "EGY",
+      "name": "Egypt",
+      "alt": [
+        "Arab Republic of Egypt",
+        "Arab Republic of Egypt"
+      ],
+      "region": "mena",
+      "subregion": "Northern Africa",
+      "desk": "mena",
+      "core": true,
+      "sovereign": null,
+      "file": "full",
+      "file_as_of": "2026-10-23",
+      "verify": "verified",
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": "Egyptian Space Agency",
+      "elections": [
+        {
+          "type": "legislative",
+          "next": "2030-11",
+          "next_status": "expected"
+        },
+        {
+          "type": "presidential",
+          "next": "2030",
+          "next_status": "due by"
+        }
+      ]
+    },
+    "SLV": {
+      "iso3": "SLV",
+      "name": "El Salvador",
+      "alt": [
+        "Republic of El Salvador",
+        "Republic of El Salvador",
+        "República de El Salvador"
+      ],
+      "region": "americas",
+      "subregion": "Central America",
+      "desk": "americas",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "GNQ": {
+      "iso3": "GNQ",
+      "name": "Equatorial Guinea",
+      "alt": [
+        "Republic of Equatorial Guinea",
+        "Republic of Equatorial Guinea",
+        "República de Guinea Ecuatorial",
+        "République de Guinée équatoriale"
+      ],
+      "region": "africa",
+      "subregion": "Middle Africa",
+      "desk": "mena",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "ERI": {
+      "iso3": "ERI",
+      "name": "Eritrea",
+      "alt": [
+        "State of Eritrea",
+        "State of Eritrea",
+        "ሃገረ ኤርትራ",
+        "Dawlat Iritriyá"
+      ],
+      "region": "africa",
+      "subregion": "Eastern Africa",
+      "desk": "mena",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "EST": {
+      "iso3": "EST",
+      "name": "Estonia",
+      "alt": [
+        "Republic of Estonia",
+        "Eesti",
+        "Republic of Estonia",
+        "Eesti Vabariik"
+      ],
+      "region": "cee",
+      "subregion": "Northern Europe",
+      "desk": "cee",
+      "core": true,
+      "sovereign": null,
+      "file": "full",
+      "file_as_of": "2026-10-23",
+      "verify": "verified",
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": "Estonian Space Office",
+      "elections": [
+        {
+          "type": "legislative",
+          "next": "2027-03-07",
+          "next_status": "scheduled"
+        }
+      ]
+    },
+    "SWZ": {
+      "iso3": "SWZ",
+      "name": "Eswatini",
+      "alt": [
+        "Kingdom of Eswatini",
+        "Swaziland",
+        "weSwatini",
+        "Swatini"
+      ],
+      "region": "africa",
+      "subregion": "Southern Africa",
+      "desk": "mena",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "ETH": {
+      "iso3": "ETH",
+      "name": "Ethiopia",
+      "alt": [
+        "Federal Democratic Republic of Ethiopia",
+        "ʾĪtyōṗṗyā",
+        "Federal Democratic Republic of Ethiopia",
+        "የኢትዮጵያ ፌዴራላዊ ዲሞክራሲያዊ ሪፐብሊክ"
+      ],
+      "region": "africa",
+      "subregion": "Eastern Africa",
+      "desk": "mena",
+      "core": true,
+      "sovereign": null,
+      "file": "full",
+      "file_as_of": "2026-10-23",
+      "verify": "verified",
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": "Space Science and Geospatial Institute",
+      "elections": [
+        {
+          "type": "legislative",
+          "next": "2031",
+          "next_status": "expected"
+        }
+      ]
+    },
+    "FLK": {
+      "iso3": "FLK",
+      "name": "Falkland Islands",
+      "alt": [
+        "Falkland Islands",
+        "Islas Malvinas",
+        "Falkland Islands (Malvinas)"
+      ],
+      "region": "americas",
+      "subregion": "South America",
+      "desk": "americas",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "FRO": {
+      "iso3": "FRO",
+      "name": "Faroe Islands",
+      "alt": [
+        "Faroe Islands",
+        "Føroyar",
+        "Færøerne",
+        "Faeroe Islands"
+      ],
+      "region": "europe",
+      "subregion": "Northern Europe",
+      "desk": "nordics",
+      "core": false,
+      "sovereign": "DNK",
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "FJI": {
+      "iso3": "FJI",
+      "name": "Fiji",
+      "alt": [
+        "Republic of Fiji",
+        "Viti",
+        "Republic of Fiji",
+        "Matanitu ko Viti"
+      ],
+      "region": "aspac",
+      "subregion": "Melanesia",
+      "desk": "asia_pac",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "FIN": {
+      "iso3": "FIN",
+      "name": "Finland",
+      "alt": [
+        "Republic of Finland",
+        "Suomi",
+        "Republic of Finland",
+        "Suomen tasavalta"
+      ],
+      "region": "nordics",
+      "subregion": "Northern Europe",
+      "desk": "nordics",
+      "core": true,
+      "sovereign": null,
+      "file": "full",
+      "file_as_of": "2026-10-23",
+      "verify": "verified",
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": "Ministry of Economic Affairs and Employment, space team (Finnish space office and Space Committee secretariat)",
+      "elections": [
+        {
+          "type": "legislative",
+          "next": "2027-04-18",
+          "next_status": "scheduled"
+        },
+        {
+          "type": "presidential",
+          "next": "2030-01",
+          "next_status": "expected"
+        }
+      ]
+    },
+    "FRA": {
+      "iso3": "FRA",
+      "name": "France",
+      "alt": [
+        "French Republic",
+        "French Republic",
+        "République française"
+      ],
+      "region": "west",
+      "subregion": "Western Europe",
+      "desk": "west",
+      "core": true,
+      "sovereign": null,
+      "file": "full",
+      "file_as_of": "2026-10-23",
+      "verify": "verified",
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": "Centre national d'études spatiales",
+      "elections": [
+        {
+          "type": "legislative",
+          "next": "2029-06",
+          "next_status": "due by"
+        },
+        {
+          "type": "presidential",
+          "next": "2027-04",
+          "next_status": "expected"
+        }
+      ]
+    },
+    "PYF": {
+      "iso3": "PYF",
+      "name": "French Polynesia",
+      "alt": [
+        "French Polynesia",
+        "Polynésie française",
+        "French Polynesia",
+        "Pōrīnetia Farāni"
+      ],
+      "region": "aspac",
+      "subregion": "Polynesia",
+      "desk": "asia_pac",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "ATF": {
+      "iso3": "ATF",
+      "name": "French Southern and Antarctic Lands",
+      "alt": [
+        "Territory of the French Southern and Antarctic Lands",
+        "French Southern Territories"
+      ],
+      "region": "europe",
+      "subregion": "",
+      "desk": "west",
+      "core": false,
+      "sovereign": "FRA",
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "GAB": {
+      "iso3": "GAB",
+      "name": "Gabon",
+      "alt": [
+        "Gabonese Republic",
+        "Gabonese Republic",
+        "République Gabonaise"
+      ],
+      "region": "africa",
+      "subregion": "Middle Africa",
+      "desk": "mena",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "GMB": {
+      "iso3": "GMB",
+      "name": "Gambia",
+      "alt": [
+        "Republic of the Gambia",
+        "Republic of the Gambia"
+      ],
+      "region": "africa",
+      "subregion": "Western Africa",
+      "desk": "mena",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "GEO": {
+      "iso3": "GEO",
+      "name": "Georgia",
+      "alt": [
+        "Georgia",
+        "Sakartvelo"
+      ],
+      "region": "eurasia",
+      "subregion": "Western Asia",
+      "desk": "eurasia",
+      "core": true,
+      "sovereign": null,
+      "file": "full",
+      "file_as_of": "2026-10-23",
+      "verify": "partial",
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": [
+        {
+          "type": "legislative",
+          "next": "2028-10",
+          "next_status": "expected"
+        }
+      ]
+    },
+    "DEU": {
+      "iso3": "DEU",
+      "name": "Germany",
+      "alt": [
+        "Federal Republic of Germany",
+        "Federal Republic of Germany",
+        "Bundesrepublik Deutschland"
+      ],
+      "region": "west",
+      "subregion": "Western Europe",
+      "desk": "west",
+      "core": true,
+      "sovereign": null,
+      "file": "full",
+      "file_as_of": "2026-10-23",
+      "verify": "verified",
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": "German Space Agency at DLR",
+      "elections": [
+        {
+          "type": "legislative",
+          "next": "2029-03",
+          "next_status": "due by"
+        }
+      ]
+    },
+    "GHA": {
+      "iso3": "GHA",
+      "name": "Ghana",
+      "alt": [
+        "Republic of Ghana"
+      ],
+      "region": "africa",
+      "subregion": "Western Africa",
+      "desk": "mena",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "GRC": {
+      "iso3": "GRC",
+      "name": "Greece",
+      "alt": [
+        "Hellenic Republic",
+        "Elláda",
+        "Hellenic Republic",
+        "Ελληνική Δημοκρατία"
+      ],
+      "region": "south",
+      "subregion": "Southern Europe",
+      "desk": "west",
+      "core": true,
+      "sovereign": null,
+      "file": "full",
+      "file_as_of": "2026-10-23",
+      "verify": "verified",
+      "ecosystem": "mapped",
+      "org_count": 17,
+      "agency": "Hellenic Space Center",
+      "elections": [
+        {
+          "type": "legislative",
+          "next": "2027-07",
+          "next_status": "due by"
+        }
+      ]
+    },
+    "GRL": {
+      "iso3": "GRL",
+      "name": "Greenland",
+      "alt": [
+        "Greenland",
+        "Grønland"
+      ],
+      "region": "americas",
+      "subregion": "North America",
+      "desk": "americas",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "GRD": {
+      "iso3": "GRD",
+      "name": "Grenada",
+      "alt": [
+        "Grenada"
+      ],
+      "region": "americas",
+      "subregion": "Caribbean",
+      "desk": "americas",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "GUM": {
+      "iso3": "GUM",
+      "name": "Guam",
+      "alt": [
+        "Guam",
+        "Guåhån"
+      ],
+      "region": "aspac",
+      "subregion": "Micronesia",
+      "desk": "asia_pac",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "GTM": {
+      "iso3": "GTM",
+      "name": "Guatemala",
+      "alt": [
+        "Republic of Guatemala"
+      ],
+      "region": "americas",
+      "subregion": "Central America",
+      "desk": "americas",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "GGY": {
+      "iso3": "GGY",
+      "name": "Guernsey",
+      "alt": [
+        "Bailiwick of Guernsey",
+        "Bailiwick of Guernsey",
+        "Bailliage de Guernesey"
+      ],
+      "region": "europe",
+      "subregion": "Northern Europe",
+      "desk": "west",
+      "core": false,
+      "sovereign": "GBR",
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "GIN": {
+      "iso3": "GIN",
+      "name": "Guinea",
+      "alt": [
+        "Republic of Guinea",
+        "Republic of Guinea",
+        "République de Guinée"
+      ],
+      "region": "africa",
+      "subregion": "Western Africa",
+      "desk": "mena",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "GNB": {
+      "iso3": "GNB",
+      "name": "Guinea-Bissau",
+      "alt": [
+        "Republic of Guinea-Bissau",
+        "Republic of Guinea-Bissau",
+        "República da Guiné-Bissau"
+      ],
+      "region": "africa",
+      "subregion": "Western Africa",
+      "desk": "mena",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "GUY": {
+      "iso3": "GUY",
+      "name": "Guyana",
+      "alt": [
+        "Co-operative Republic of Guyana",
+        "Co-operative Republic of Guyana"
+      ],
+      "region": "americas",
+      "subregion": "South America",
+      "desk": "americas",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "HTI": {
+      "iso3": "HTI",
+      "name": "Haiti",
+      "alt": [
+        "Republic of Haiti",
+        "Republic of Haiti",
+        "République d'Haïti",
+        "Repiblik Ayiti"
+      ],
+      "region": "americas",
+      "subregion": "Caribbean",
+      "desk": "americas",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "HMD": {
+      "iso3": "HMD",
+      "name": "Heard Island and McDonald Islands",
+      "alt": [
+        "Heard Island and McDonald Islands",
+        "Heard Island and McDonald Islands"
+      ],
+      "region": "europe",
+      "subregion": "",
+      "desk": "asia_pac",
+      "core": false,
+      "sovereign": "AUS",
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "HND": {
+      "iso3": "HND",
+      "name": "Honduras",
+      "alt": [
+        "Republic of Honduras",
+        "Republic of Honduras",
+        "República de Honduras"
+      ],
+      "region": "americas",
+      "subregion": "Central America",
+      "desk": "americas",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "HKG": {
+      "iso3": "HKG",
+      "name": "Hong Kong",
+      "alt": [
+        "Hong Kong Special Administrative Region of the People's Republic of China"
+      ],
+      "region": "aspac",
+      "subregion": "Eastern Asia",
+      "desk": "asia_pac",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "HUN": {
+      "iso3": "HUN",
+      "name": "Hungary",
+      "alt": [
+        "Hungary"
+      ],
+      "region": "cee",
+      "subregion": "Central Europe",
+      "desk": "cee",
+      "core": true,
+      "sovereign": null,
+      "file": "full",
+      "file_as_of": "2026-10-23",
+      "verify": "verified",
+      "ecosystem": "mapped",
+      "org_count": 101,
+      "agency": "Ministry of Science and Technology (national space coordination)",
+      "elections": [
+        {
+          "type": "legislative",
+          "next": "2030-04",
+          "next_status": "expected"
+        }
+      ]
+    },
+    "ISL": {
+      "iso3": "ISL",
+      "name": "Iceland",
+      "alt": [
+        "Iceland",
+        "Island",
+        "Republic of Iceland",
+        "Lýðveldið Ísland"
+      ],
+      "region": "nordics",
+      "subregion": "Northern Europe",
+      "desk": "nordics",
+      "core": true,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": "None (no national space agency)",
+      "elections": [
+        {
+          "type": "legislative",
+          "next": "2028-11",
+          "next_status": "due by"
+        },
+        {
+          "type": "presidential",
+          "next": "2028-06",
+          "next_status": "expected"
+        }
+      ]
+    },
+    "IND": {
+      "iso3": "IND",
+      "name": "India",
+      "alt": [
+        "Republic of India",
+        "Bhārat",
+        "Republic of India",
+        "Bharat Ganrajya"
+      ],
+      "region": "sasia",
+      "subregion": "Southern Asia",
+      "desk": "asia_pac",
+      "core": true,
+      "sovereign": null,
+      "file": "full",
+      "file_as_of": "2026-10-23",
+      "verify": "verified",
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": "Indian Space Research Organisation",
+      "elections": [
+        {
+          "type": "legislative",
+          "next": "2029",
+          "next_status": "due by"
+        }
+      ]
+    },
+    "IDN": {
+      "iso3": "IDN",
+      "name": "Indonesia",
+      "alt": [
+        "Republic of Indonesia",
+        "Republic of Indonesia",
+        "Republik Indonesia"
+      ],
+      "region": "aspac",
+      "subregion": "South-Eastern Asia",
+      "desk": "asia_pac",
+      "core": true,
+      "sovereign": null,
+      "file": "full",
+      "file_as_of": "2026-10-23",
+      "verify": "verified",
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": "National Research and Innovation Agency, with space research run by ORPA (formerly LAPAN)",
+      "elections": [
+        {
+          "type": "legislative",
+          "next": "2029",
+          "next_status": "expected"
+        },
+        {
+          "type": "presidential",
+          "next": "2029",
+          "next_status": "expected"
+        }
+      ]
+    },
+    "IRN": {
+      "iso3": "IRN",
+      "name": "Iran",
+      "alt": [
+        "Islamic Republic of Iran",
+        "Islamic Republic of Iran",
+        "Iran, Islamic Republic of",
+        "Jomhuri-ye Eslāmi-ye Irān",
+        "Iran"
+      ],
+      "region": "mena",
+      "subregion": "Southern Asia",
+      "desk": "mena",
+      "core": true,
+      "sovereign": null,
+      "file": "full",
+      "file_as_of": "2026-10-23",
+      "verify": "verified",
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": "Iranian Space Agency",
+      "elections": [
+        {
+          "type": "legislative",
+          "next": "2028-03",
+          "next_status": "expected"
+        },
+        {
+          "type": "presidential",
+          "next": "2028-06",
+          "next_status": "expected"
+        }
+      ]
+    },
+    "IRQ": {
+      "iso3": "IRQ",
+      "name": "Iraq",
+      "alt": [
+        "Republic of Iraq",
+        "Republic of Iraq",
+        "Jumhūriyyat al-‘Irāq"
+      ],
+      "region": "mena",
+      "subregion": "Western Asia",
+      "desk": "mena",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "IRL": {
+      "iso3": "IRL",
+      "name": "Ireland",
+      "alt": [
+        "Republic of Ireland",
+        "Éire",
+        "Republic of Ireland",
+        "Poblacht na hÉireann"
+      ],
+      "region": "west",
+      "subregion": "Northern Europe",
+      "desk": "west",
+      "core": true,
+      "sovereign": null,
+      "file": "full",
+      "file_as_of": "2026-10-23",
+      "verify": "verified",
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": "No national space agency. ESA participation is run by Enterprise Ireland",
+      "elections": [
+        {
+          "type": "legislative",
+          "next": "2030",
+          "next_status": "due by"
+        },
+        {
+          "type": "presidential",
+          "next": "2032-10",
+          "next_status": "expected"
+        }
+      ]
+    },
+    "IMN": {
+      "iso3": "IMN",
+      "name": "Isle of Man",
+      "alt": [
+        "Isle of Man",
+        "Ellan Vannin",
+        "Mann",
+        "Mannin"
+      ],
+      "region": "europe",
+      "subregion": "Northern Europe",
+      "desk": "west",
+      "core": false,
+      "sovereign": "GBR",
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "ISR": {
+      "iso3": "ISR",
+      "name": "Israel",
+      "alt": [
+        "State of Israel",
+        "State of Israel",
+        "Medīnat Yisrā'el"
+      ],
+      "region": "mena",
+      "subregion": "Western Asia",
+      "desk": "mena",
+      "core": true,
+      "sovereign": null,
+      "file": "full",
+      "file_as_of": "2026-10-23",
+      "verify": "verified",
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": "Israel Space Agency",
+      "elections": [
+        {
+          "type": "legislative",
+          "next": "2026-10-27",
+          "next_status": "scheduled"
+        }
+      ]
+    },
+    "ITA": {
+      "iso3": "ITA",
+      "name": "Italy",
+      "alt": [
+        "Italian Republic",
+        "Italian Republic",
+        "Repubblica italiana"
+      ],
+      "region": "south",
+      "subregion": "Southern Europe",
+      "desk": "west",
+      "core": true,
+      "sovereign": null,
+      "file": "full",
+      "file_as_of": "2026-10-23",
+      "verify": "verified",
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": "Agenzia Spaziale Italiana",
+      "elections": [
+        {
+          "type": "legislative",
+          "next": "2027-12",
+          "next_status": "due by"
+        }
+      ]
+    },
+    "JAM": {
+      "iso3": "JAM",
+      "name": "Jamaica",
+      "alt": [
+        "Jamaica"
+      ],
+      "region": "americas",
+      "subregion": "Caribbean",
+      "desk": "americas",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "JPN": {
+      "iso3": "JPN",
+      "name": "Japan",
+      "alt": [
+        "Japan",
+        "Nippon",
+        "Nihon"
+      ],
+      "region": "aspac",
+      "subregion": "Eastern Asia",
+      "desk": "asia_pac",
+      "core": true,
+      "sovereign": null,
+      "file": "full",
+      "file_as_of": "2026-10-23",
+      "verify": "verified",
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": "Japan Aerospace Exploration Agency",
+      "elections": [
+        {
+          "type": "legislative",
+          "next": "2030-02",
+          "next_status": "due by"
+        }
+      ]
+    },
+    "JEY": {
+      "iso3": "JEY",
+      "name": "Jersey",
+      "alt": [
+        "Bailiwick of Jersey",
+        "Bailiwick of Jersey",
+        "Bailliage de Jersey",
+        "Bailliage dé Jèrri"
+      ],
+      "region": "europe",
+      "subregion": "Northern Europe",
+      "desk": "west",
+      "core": false,
+      "sovereign": "GBR",
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "JOR": {
+      "iso3": "JOR",
+      "name": "Jordan",
+      "alt": [
+        "Hashemite Kingdom of Jordan",
+        "Hashemite Kingdom of Jordan",
+        "al-Mamlakah al-Urdunīyah al-Hāshimīyah"
+      ],
+      "region": "mena",
+      "subregion": "Western Asia",
+      "desk": "mena",
+      "core": true,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": "No national space agency identified",
+      "elections": [
+        {
+          "type": "legislative",
+          "next": "2028-09",
+          "next_status": "expected"
+        }
+      ]
+    },
+    "KAZ": {
+      "iso3": "KAZ",
+      "name": "Kazakhstan",
+      "alt": [
+        "Republic of Kazakhstan",
+        "Qazaqstan",
+        "Казахстан",
+        "Republic of Kazakhstan"
+      ],
+      "region": "eurasia",
+      "subregion": "Central Asia",
+      "desk": "eurasia",
+      "core": true,
+      "sovereign": null,
+      "file": "full",
+      "file_as_of": "2026-10-23",
+      "verify": "partial",
+      "ecosystem": "mapped",
+      "org_count": 12,
+      "agency": "Aerospace Committee of the Ministry of Artificial Intelligence and Digital Development",
+      "elections": [
+        {
+          "type": "legislative",
+          "next": "2031",
+          "next_status": "expected"
+        },
+        {
+          "type": "presidential",
+          "next": "2029-11",
+          "next_status": "expected"
+        }
+      ]
+    },
+    "KEN": {
+      "iso3": "KEN",
+      "name": "Kenya",
+      "alt": [
+        "Republic of Kenya",
+        "Republic of Kenya",
+        "Jamhuri ya Kenya"
+      ],
+      "region": "africa",
+      "subregion": "Eastern Africa",
+      "desk": "mena",
+      "core": true,
+      "sovereign": null,
+      "file": "full",
+      "file_as_of": "2026-10-23",
+      "verify": "partial",
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": "Kenya Space Agency",
+      "elections": [
+        {
+          "type": "legislative",
+          "next": "2027-08-10",
+          "next_status": "scheduled"
+        },
+        {
+          "type": "presidential",
+          "next": "2027-08-10",
+          "next_status": "scheduled"
+        }
+      ]
+    },
+    "KIR": {
+      "iso3": "KIR",
+      "name": "Kiribati",
+      "alt": [
+        "Independent and Sovereign Republic of Kiribati",
+        "Republic of Kiribati",
+        "Ribaberiki Kiribati"
+      ],
+      "region": "aspac",
+      "subregion": "Micronesia",
+      "desk": "asia_pac",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "XKX": {
+      "iso3": "XKX",
+      "name": "Kosovo",
+      "alt": [
+        "Republic of Kosovo",
+        "Република Косово",
+        "Kosovo"
+      ],
+      "region": "cee",
+      "subregion": "Southeast Europe",
+      "desk": "cee",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": [
+        {
+          "type": "legislative",
+          "next": "2030",
+          "next_status": "due by"
+        }
+      ]
+    },
+    "KWT": {
+      "iso3": "KWT",
+      "name": "Kuwait",
+      "alt": [
+        "State of Kuwait",
+        "State of Kuwait",
+        "Dawlat al-Kuwait"
+      ],
+      "region": "mena",
+      "subregion": "Western Asia",
+      "desk": "mena",
+      "core": true,
+      "sovereign": null,
+      "file": "full",
+      "file_as_of": "2026-10-23",
+      "verify": "partial",
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": "No national space agency identified",
+      "elections": []
+    },
+    "KGZ": {
+      "iso3": "KGZ",
+      "name": "Kyrgyzstan",
+      "alt": [
+        "Kyrgyz Republic",
+        "Киргизия",
+        "Kyrgyz Republic",
+        "Кыргыз Республикасы"
+      ],
+      "region": "eurasia",
+      "subregion": "Central Asia",
+      "desk": "eurasia",
+      "core": true,
+      "sovereign": null,
+      "file": "full",
+      "file_as_of": "2026-10-23",
+      "verify": "partial",
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": [
+        {
+          "type": "legislative",
+          "next": "2030-11",
+          "next_status": "expected"
+        },
+        {
+          "type": "presidential",
+          "next": "2027-01-27",
+          "next_status": "scheduled"
+        }
+      ]
+    },
+    "LAO": {
+      "iso3": "LAO",
+      "name": "Laos",
+      "alt": [
+        "Lao People's Democratic Republic",
+        "Lao People's Democratic Republic",
+        "Sathalanalat Paxathipatai Paxaxon Lao",
+        "Laos"
+      ],
+      "region": "aspac",
+      "subregion": "South-Eastern Asia",
+      "desk": "asia_pac",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "LVA": {
+      "iso3": "LVA",
+      "name": "Latvia",
+      "alt": [
+        "Republic of Latvia",
+        "Republic of Latvia",
+        "Latvijas Republika"
+      ],
+      "region": "cee",
+      "subregion": "Northern Europe",
+      "desk": "cee",
+      "core": true,
+      "sovereign": null,
+      "file": "full",
+      "file_as_of": "2026-10-23",
+      "verify": "verified",
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": "Ministry of Education and Science (space affairs)",
+      "elections": [
+        {
+          "type": "legislative",
+          "next": "2030-10",
+          "next_status": "expected"
+        }
+      ]
+    },
+    "LBN": {
+      "iso3": "LBN",
+      "name": "Lebanon",
+      "alt": [
+        "Lebanese Republic",
+        "Lebanese Republic",
+        "Al-Jumhūrīyah Al-Libnānīyah"
+      ],
+      "region": "mena",
+      "subregion": "Western Asia",
+      "desk": "mena",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "LSO": {
+      "iso3": "LSO",
+      "name": "Lesotho",
+      "alt": [
+        "Kingdom of Lesotho",
+        "Kingdom of Lesotho",
+        "Muso oa Lesotho"
+      ],
+      "region": "africa",
+      "subregion": "Southern Africa",
+      "desk": "mena",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "LBR": {
+      "iso3": "LBR",
+      "name": "Liberia",
+      "alt": [
+        "Republic of Liberia",
+        "Republic of Liberia"
+      ],
+      "region": "africa",
+      "subregion": "Western Africa",
+      "desk": "mena",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "LBY": {
+      "iso3": "LBY",
+      "name": "Libya",
+      "alt": [
+        "State of Libya",
+        "State of Libya",
+        "Dawlat Libya"
+      ],
+      "region": "mena",
+      "subregion": "Northern Africa",
+      "desk": "mena",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "LIE": {
+      "iso3": "LIE",
+      "name": "Liechtenstein",
+      "alt": [
+        "Principality of Liechtenstein",
+        "Principality of Liechtenstein",
+        "Fürstentum Liechtenstein"
+      ],
+      "region": "west",
+      "subregion": "Western Europe",
+      "desk": "west",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "LTU": {
+      "iso3": "LTU",
+      "name": "Lithuania",
+      "alt": [
+        "Republic of Lithuania",
+        "Republic of Lithuania",
+        "Lietuvos Respublika"
+      ],
+      "region": "cee",
+      "subregion": "Northern Europe",
+      "desk": "cee",
+      "core": true,
+      "sovereign": null,
+      "file": "full",
+      "file_as_of": "2026-10-23",
+      "verify": "verified",
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": "Innovation Agency Lithuania (space affairs)",
+      "elections": [
+        {
+          "type": "legislative",
+          "next": "2028-10",
+          "next_status": "expected"
+        },
+        {
+          "type": "presidential",
+          "next": "2029-05",
+          "next_status": "expected"
+        }
+      ]
+    },
+    "LUX": {
+      "iso3": "LUX",
+      "name": "Luxembourg",
+      "alt": [
+        "Grand Duchy of Luxembourg",
+        "Grand Duchy of Luxembourg",
+        "Grand-Duché de Luxembourg",
+        "Großherzogtum Luxemburg"
+      ],
+      "region": "west",
+      "subregion": "Western Europe",
+      "desk": "west",
+      "core": true,
+      "sovereign": null,
+      "file": "full",
+      "file_as_of": "2026-10-23",
+      "verify": "verified",
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": "Luxembourg Space Agency",
+      "elections": [
+        {
+          "type": "legislative",
+          "next": "2028-10",
+          "next_status": "expected"
+        }
+      ]
+    },
+    "MAC": {
+      "iso3": "MAC",
+      "name": "Macau",
+      "alt": [
+        "Macao Special Administrative Region of the People's Republic of China",
+        "Macao",
+        "Macao Special Administrative Region of the People's Republic of China",
+        "中華人民共和國澳門特別行政區"
+      ],
+      "region": "aspac",
+      "subregion": "Eastern Asia",
+      "desk": "asia_pac",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "MDG": {
+      "iso3": "MDG",
+      "name": "Madagascar",
+      "alt": [
+        "Republic of Madagascar",
+        "Republic of Madagascar",
+        "Repoblikan'i Madagasikara",
+        "République de Madagascar"
+      ],
+      "region": "africa",
+      "subregion": "Eastern Africa",
+      "desk": "mena",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "MWI": {
+      "iso3": "MWI",
+      "name": "Malawi",
+      "alt": [
+        "Republic of Malawi",
+        "Republic of Malawi"
+      ],
+      "region": "africa",
+      "subregion": "Eastern Africa",
+      "desk": "mena",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "MYS": {
+      "iso3": "MYS",
+      "name": "Malaysia",
+      "alt": [
+        "Malaysia"
+      ],
+      "region": "aspac",
+      "subregion": "South-Eastern Asia",
+      "desk": "asia_pac",
+      "core": true,
+      "sovereign": null,
+      "file": "full",
+      "file_as_of": "2026-10-23",
+      "verify": "verified",
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": "Malaysian Space Agency (Agensi Angkasa Malaysia)",
+      "elections": [
+        {
+          "type": "legislative",
+          "next": "2028-02",
+          "next_status": "due by"
+        }
+      ]
+    },
+    "MDV": {
+      "iso3": "MDV",
+      "name": "Maldives",
+      "alt": [
+        "Republic of the Maldives",
+        "Maldive Islands",
+        "Republic of the Maldives",
+        "Dhivehi Raajjeyge Jumhooriyya"
+      ],
+      "region": "sasia",
+      "subregion": "Southern Asia",
+      "desk": "asia_pac",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "MLI": {
+      "iso3": "MLI",
+      "name": "Mali",
+      "alt": [
+        "Republic of Mali",
+        "Republic of Mali",
+        "République du Mali"
+      ],
+      "region": "africa",
+      "subregion": "Western Africa",
+      "desk": "mena",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "MLT": {
+      "iso3": "MLT",
+      "name": "Malta",
+      "alt": [
+        "Republic of Malta",
+        "Republic of Malta",
+        "Repubblika ta' Malta"
+      ],
+      "region": "south",
+      "subregion": "Southern Europe",
+      "desk": "west",
+      "core": true,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": "Xjenza Malta (formerly the Malta Council for Science and Technology), Space services",
+      "elections": [
+        {
+          "type": "legislative",
+          "next": "2031",
+          "next_status": "due by"
+        }
+      ]
+    },
+    "MHL": {
+      "iso3": "MHL",
+      "name": "Marshall Islands",
+      "alt": [
+        "Republic of the Marshall Islands",
+        "Republic of the Marshall Islands",
+        "Aolepān Aorōkin M̧ajeļ"
+      ],
+      "region": "aspac",
+      "subregion": "Micronesia",
+      "desk": "asia_pac",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "MRT": {
+      "iso3": "MRT",
+      "name": "Mauritania",
+      "alt": [
+        "Islamic Republic of Mauritania",
+        "Islamic Republic of Mauritania",
+        "al-Jumhūriyyah al-ʾIslāmiyyah al-Mūrītāniyyah"
+      ],
+      "region": "africa",
+      "subregion": "Western Africa",
+      "desk": "mena",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "MUS": {
+      "iso3": "MUS",
+      "name": "Mauritius",
+      "alt": [
+        "Republic of Mauritius",
+        "Republic of Mauritius",
+        "République de Maurice"
+      ],
+      "region": "africa",
+      "subregion": "Eastern Africa",
+      "desk": "mena",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "MEX": {
+      "iso3": "MEX",
+      "name": "Mexico",
+      "alt": [
+        "United Mexican States",
+        "Mexicanos",
+        "United Mexican States",
+        "Estados Unidos Mexicanos"
+      ],
+      "region": "americas",
+      "subregion": "North America",
+      "desk": "americas",
+      "core": true,
+      "sovereign": null,
+      "file": "full",
+      "file_as_of": "2026-10-23",
+      "verify": "partial",
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": "Mexican Space Agency (Agencia Espacial Mexicana)",
+      "elections": [
+        {
+          "type": "legislative",
+          "next": "2027-06-06",
+          "next_status": "scheduled"
+        },
+        {
+          "type": "presidential",
+          "next": "2030-06",
+          "next_status": "expected"
+        }
+      ]
+    },
+    "FSM": {
+      "iso3": "FSM",
+      "name": "Micronesia",
+      "alt": [
+        "Federated States of Micronesia",
+        "Federated States of Micronesia",
+        "Micronesia, Federated States of"
+      ],
+      "region": "aspac",
+      "subregion": "Micronesia",
+      "desk": "asia_pac",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "MDA": {
+      "iso3": "MDA",
+      "name": "Moldova",
+      "alt": [
+        "Republic of Moldova",
+        "Moldova, Republic of",
+        "Republic of Moldova",
+        "Republica Moldova",
+        "Moldova"
+      ],
+      "region": "cee",
+      "subregion": "Eastern Europe",
+      "desk": "cee",
+      "core": true,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": "None (no national space agency)",
+      "elections": [
+        {
+          "type": "legislative",
+          "next": "2029-09",
+          "next_status": "expected"
+        },
+        {
+          "type": "presidential",
+          "next": "2028-10",
+          "next_status": "expected"
+        }
+      ]
+    },
+    "MCO": {
+      "iso3": "MCO",
+      "name": "Monaco",
+      "alt": [
+        "Principality of Monaco",
+        "Principality of Monaco",
+        "Principauté de Monaco"
+      ],
+      "region": "west",
+      "subregion": "Western Europe",
+      "desk": "west",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "MNG": {
+      "iso3": "MNG",
+      "name": "Mongolia",
+      "alt": [
+        "Mongolia"
+      ],
+      "region": "eurasia",
+      "subregion": "Eastern Asia",
+      "desk": "eurasia",
+      "core": true,
+      "sovereign": null,
+      "file": "full",
+      "file_as_of": "2026-10-23",
+      "verify": "partial",
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": "National Remote Sensing Center",
+      "elections": [
+        {
+          "type": "legislative",
+          "next": "2028-06",
+          "next_status": "expected"
+        },
+        {
+          "type": "presidential",
+          "next": "2027-06",
+          "next_status": "expected"
+        }
+      ]
+    },
+    "MNE": {
+      "iso3": "MNE",
+      "name": "Montenegro",
+      "alt": [
+        "Montenegro",
+        "Crna Gora"
+      ],
+      "region": "cee",
+      "subregion": "Southeast Europe",
+      "desk": "cee",
+      "core": true,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": "None (no national space agency)",
+      "elections": [
+        {
+          "type": "legislative",
+          "next": "2027-06",
+          "next_status": "due by"
+        },
+        {
+          "type": "presidential",
+          "next": "2028-03",
+          "next_status": "expected"
+        }
+      ]
+    },
+    "MSR": {
+      "iso3": "MSR",
+      "name": "Montserrat",
+      "alt": [
+        "Montserrat"
+      ],
+      "region": "americas",
+      "subregion": "Caribbean",
+      "desk": "americas",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "MAR": {
+      "iso3": "MAR",
+      "name": "Morocco",
+      "alt": [
+        "Kingdom of Morocco",
+        "Kingdom of Morocco",
+        "Al-Mamlakah al-Maġribiyah"
+      ],
+      "region": "mena",
+      "subregion": "Northern Africa",
+      "desk": "mena",
+      "core": true,
+      "sovereign": null,
+      "file": "full",
+      "file_as_of": "2026-10-23",
+      "verify": "partial",
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": "Royal Center for Remote Sensing",
+      "elections": [
+        {
+          "type": "legislative",
+          "next": "2031-09",
+          "next_status": "expected"
+        }
+      ]
+    },
+    "MOZ": {
+      "iso3": "MOZ",
+      "name": "Mozambique",
+      "alt": [
+        "Republic of Mozambique",
+        "Republic of Mozambique",
+        "República de Moçambique"
+      ],
+      "region": "africa",
+      "subregion": "Eastern Africa",
+      "desk": "mena",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "MMR": {
+      "iso3": "MMR",
+      "name": "Myanmar",
+      "alt": [
+        "Republic of the Union of Myanmar",
+        "Burma",
+        "Republic of the Union of Myanmar",
+        "Pyidaunzu Thanmăda Myăma Nainngandaw"
+      ],
+      "region": "aspac",
+      "subregion": "South-Eastern Asia",
+      "desk": "asia_pac",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "NAM": {
+      "iso3": "NAM",
+      "name": "Namibia",
+      "alt": [
+        "Republic of Namibia",
+        "Namibië",
+        "Republic of Namibia"
+      ],
+      "region": "africa",
+      "subregion": "Southern Africa",
+      "desk": "mena",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "NRU": {
+      "iso3": "NRU",
+      "name": "Nauru",
+      "alt": [
+        "Republic of Nauru",
+        "Naoero",
+        "Pleasant Island",
+        "Republic of Nauru"
+      ],
+      "region": "aspac",
+      "subregion": "Micronesia",
+      "desk": "asia_pac",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "NPL": {
+      "iso3": "NPL",
+      "name": "Nepal",
+      "alt": [
+        "Federal Democratic Republic of Nepal",
+        "Federal Democratic Republic of Nepal",
+        "Loktāntrik Ganatantra Nepāl"
+      ],
+      "region": "sasia",
+      "subregion": "Southern Asia",
+      "desk": "asia_pac",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "NLD": {
+      "iso3": "NLD",
+      "name": "Netherlands",
+      "alt": [
+        "Kingdom of the Netherlands",
+        "Holland",
+        "Nederland",
+        "The Netherlands"
+      ],
+      "region": "west",
+      "subregion": "Western Europe",
+      "desk": "west",
+      "core": true,
+      "sovereign": null,
+      "file": "full",
+      "file_as_of": "2026-10-23",
+      "verify": "verified",
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": "Netherlands Space Agency (Netherlands Space Office until 2026)",
+      "elections": [
+        {
+          "type": "legislative",
+          "next": "2030",
+          "next_status": "due by"
+        }
+      ]
+    },
+    "NCL": {
+      "iso3": "NCL",
+      "name": "New Caledonia",
+      "alt": [
+        "New Caledonia"
+      ],
+      "region": "aspac",
+      "subregion": "Melanesia",
+      "desk": "asia_pac",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "NZL": {
+      "iso3": "NZL",
+      "name": "New Zealand",
+      "alt": [
+        "New Zealand",
+        "Aotearoa"
+      ],
+      "region": "aspac",
+      "subregion": "Australia and New Zealand",
+      "desk": "asia_pac",
+      "core": true,
+      "sovereign": null,
+      "file": "full",
+      "file_as_of": "2026-10-23",
+      "verify": "verified",
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": "New Zealand Space Agency",
+      "elections": [
+        {
+          "type": "legislative",
+          "next": "2026-11-07",
+          "next_status": "scheduled"
+        }
+      ]
+    },
+    "NIC": {
+      "iso3": "NIC",
+      "name": "Nicaragua",
+      "alt": [
+        "Republic of Nicaragua",
+        "Republic of Nicaragua",
+        "República de Nicaragua"
+      ],
+      "region": "americas",
+      "subregion": "Central America",
+      "desk": "americas",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "NER": {
+      "iso3": "NER",
+      "name": "Niger",
+      "alt": [
+        "Republic of Niger",
+        "Nijar"
+      ],
+      "region": "africa",
+      "subregion": "Western Africa",
+      "desk": "mena",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "NGA": {
+      "iso3": "NGA",
+      "name": "Nigeria",
+      "alt": [
+        "Federal Republic of Nigeria",
+        "Nijeriya",
+        "Naíjíríà",
+        "Federal Republic of Nigeria"
+      ],
+      "region": "africa",
+      "subregion": "Western Africa",
+      "desk": "mena",
+      "core": true,
+      "sovereign": null,
+      "file": "full",
+      "file_as_of": "2026-10-23",
+      "verify": "verified",
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": "National Space Research and Development Agency",
+      "elections": [
+        {
+          "type": "legislative",
+          "next": "2027-01-16",
+          "next_status": "scheduled"
+        },
+        {
+          "type": "presidential",
+          "next": "2027-01-16",
+          "next_status": "scheduled"
+        }
+      ]
+    },
+    "NIU": {
+      "iso3": "NIU",
+      "name": "Niue",
+      "alt": [
+        "Niue"
+      ],
+      "region": "aspac",
+      "subregion": "Polynesia",
+      "desk": "asia_pac",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "NFK": {
+      "iso3": "NFK",
+      "name": "Norfolk Island",
+      "alt": [
+        "Territory of Norfolk Island",
+        "Territory of Norfolk Island",
+        "Teratri of Norf'k Ailen"
+      ],
+      "region": "aspac",
+      "subregion": "Australia and New Zealand",
+      "desk": "asia_pac",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "PRK": {
+      "iso3": "PRK",
+      "name": "North Korea",
+      "alt": [
+        "Democratic People's Republic of Korea",
+        "Democratic People's Republic of Korea",
+        "DPRK",
+        "조선민주주의인민공화국",
+        "North Korea"
+      ],
+      "region": "aspac",
+      "subregion": "Eastern Asia",
+      "desk": "asia_pac",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "MKD": {
+      "iso3": "MKD",
+      "name": "North Macedonia",
+      "alt": [
+        "Republic of North Macedonia",
+        "The former Yugoslav Republic of Macedonia",
+        "Republic of North Macedonia",
+        "Macedonia, The Former Yugoslav Republic of",
+        "North Macedonia"
+      ],
+      "region": "cee",
+      "subregion": "Southeast Europe",
+      "desk": "cee",
+      "core": true,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": "None (no national space agency)",
+      "elections": [
+        {
+          "type": "legislative",
+          "next": "2028-05",
+          "next_status": "due by"
+        },
+        {
+          "type": "presidential",
+          "next": "2029-04",
+          "next_status": "expected"
+        }
+      ]
+    },
+    "MNP": {
+      "iso3": "MNP",
+      "name": "Northern Mariana Islands",
+      "alt": [
+        "Commonwealth of the Northern Mariana Islands",
+        "Commonwealth of the Northern Mariana Islands",
+        "Sankattan Siha Na Islas Mariånas"
+      ],
+      "region": "aspac",
+      "subregion": "Micronesia",
+      "desk": "asia_pac",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "NOR": {
+      "iso3": "NOR",
+      "name": "Norway",
+      "alt": [
+        "Kingdom of Norway",
+        "Norge",
+        "Noreg",
+        "Kingdom of Norway"
+      ],
+      "region": "nordics",
+      "subregion": "Northern Europe",
+      "desk": "nordics",
+      "core": true,
+      "sovereign": null,
+      "file": "full",
+      "file_as_of": "2026-10-23",
+      "verify": "verified",
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": "Norwegian Space Agency (Norsk Romsenter)",
+      "elections": [
+        {
+          "type": "legislative",
+          "next": "2029-09",
+          "next_status": "expected"
+        }
+      ]
+    },
+    "OMN": {
+      "iso3": "OMN",
+      "name": "Oman",
+      "alt": [
+        "Sultanate of Oman",
+        "Sultanate of Oman",
+        "Salṭanat ʻUmān"
+      ],
+      "region": "mena",
+      "subregion": "Western Asia",
+      "desk": "mena",
+      "core": true,
+      "sovereign": null,
+      "file": "full",
+      "file_as_of": "2026-10-23",
+      "verify": "verified",
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": "Ministry of Transport, Communications and Information Technology, National Space Program (no standalone space agency)",
+      "elections": [
+        {
+          "type": "legislative",
+          "next": "2027-10",
+          "next_status": "expected"
+        }
+      ]
+    },
+    "PAK": {
+      "iso3": "PAK",
+      "name": "Pakistan",
+      "alt": [
+        "Islamic Republic of Pakistan",
+        "Pākistān",
+        "Islamic Republic of Pakistan",
+        "Islāmī Jumhūriya'eh Pākistān"
+      ],
+      "region": "sasia",
+      "subregion": "Southern Asia",
+      "desk": "asia_pac",
+      "core": true,
+      "sovereign": null,
+      "file": "full",
+      "file_as_of": "2026-10-23",
+      "verify": "verified",
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": "Space and Upper Atmosphere Research Commission",
+      "elections": [
+        {
+          "type": "legislative",
+          "next": "2029-02",
+          "next_status": "due by"
+        }
+      ]
+    },
+    "PLW": {
+      "iso3": "PLW",
+      "name": "Palau",
+      "alt": [
+        "Republic of Palau",
+        "Republic of Palau",
+        "Beluu er a Belau"
+      ],
+      "region": "aspac",
+      "subregion": "Micronesia",
+      "desk": "asia_pac",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "PSE": {
+      "iso3": "PSE",
+      "name": "Palestine",
+      "alt": [
+        "State of Palestine",
+        "Palestine, State of",
+        "State of Palestine",
+        "Dawlat Filasṭin",
+        "Palestine"
+      ],
+      "region": "mena",
+      "subregion": "Western Asia",
+      "desk": "mena",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "PAN": {
+      "iso3": "PAN",
+      "name": "Panama",
+      "alt": [
+        "Republic of Panama",
+        "Republic of Panama",
+        "República de Panamá"
+      ],
+      "region": "americas",
+      "subregion": "Central America",
+      "desk": "americas",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "PNG": {
+      "iso3": "PNG",
+      "name": "Papua New Guinea",
+      "alt": [
+        "Independent State of Papua New Guinea",
+        "Independent State of Papua New Guinea",
+        "Independen Stet bilong Papua Niugini"
+      ],
+      "region": "aspac",
+      "subregion": "Melanesia",
+      "desk": "asia_pac",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "PRY": {
+      "iso3": "PRY",
+      "name": "Paraguay",
+      "alt": [
+        "Republic of Paraguay",
+        "Republic of Paraguay",
+        "República del Paraguay",
+        "Tetã Paraguái"
+      ],
+      "region": "americas",
+      "subregion": "South America",
+      "desk": "americas",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "PER": {
+      "iso3": "PER",
+      "name": "Peru",
+      "alt": [
+        "Republic of Peru",
+        "Republic of Peru",
+        "República del Perú"
+      ],
+      "region": "americas",
+      "subregion": "South America",
+      "desk": "americas",
+      "core": true,
+      "sovereign": null,
+      "file": "full",
+      "file_as_of": "2026-10-23",
+      "verify": "verified",
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": "Peruvian Space Agency (Comisión Nacional de Investigación y Desarrollo Aeroespacial)",
+      "elections": [
+        {
+          "type": "legislative",
+          "next": "2031-04",
+          "next_status": "expected"
+        },
+        {
+          "type": "presidential",
+          "next": "2031-04",
+          "next_status": "expected"
+        }
+      ]
+    },
+    "PHL": {
+      "iso3": "PHL",
+      "name": "Philippines",
+      "alt": [
+        "Republic of the Philippines",
+        "Republic of the Philippines",
+        "Repúblika ng Pilipinas"
+      ],
+      "region": "aspac",
+      "subregion": "South-Eastern Asia",
+      "desk": "asia_pac",
+      "core": true,
+      "sovereign": null,
+      "file": "full",
+      "file_as_of": "2026-10-23",
+      "verify": "verified",
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": "Philippine Space Agency",
+      "elections": [
+        {
+          "type": "legislative",
+          "next": "2028-05-08",
+          "next_status": "scheduled"
+        },
+        {
+          "type": "presidential",
+          "next": "2028-05-08",
+          "next_status": "scheduled"
+        }
+      ]
+    },
+    "PCN": {
+      "iso3": "PCN",
+      "name": "Pitcairn Islands",
+      "alt": [
+        "Pitcairn Group of Islands",
+        "Pitcairn",
+        "Pitcairn Henderson Ducie and Oeno Islands"
+      ],
+      "region": "aspac",
+      "subregion": "Polynesia",
+      "desk": "asia_pac",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "POL": {
+      "iso3": "POL",
+      "name": "Poland",
+      "alt": [
+        "Republic of Poland",
+        "Republic of Poland",
+        "Rzeczpospolita Polska"
+      ],
+      "region": "cee",
+      "subregion": "Central Europe",
+      "desk": "cee",
+      "core": true,
+      "sovereign": null,
+      "file": "full",
+      "file_as_of": "2026-10-23",
+      "verify": "verified",
+      "ecosystem": "mapped",
+      "org_count": 66,
+      "agency": "Polish Space Agency",
+      "elections": [
+        {
+          "type": "legislative",
+          "next": "2027-11",
+          "next_status": "due by"
+        },
+        {
+          "type": "presidential",
+          "next": "2030-05",
+          "next_status": "expected"
+        }
+      ]
+    },
+    "PRT": {
+      "iso3": "PRT",
+      "name": "Portugal",
+      "alt": [
+        "Portuguese Republic",
+        "Portuguesa",
+        "Portuguese Republic",
+        "República Portuguesa"
+      ],
+      "region": "south",
+      "subregion": "Southern Europe",
+      "desk": "west",
+      "core": true,
+      "sovereign": null,
+      "file": "full",
+      "file_as_of": "2026-10-23",
+      "verify": "verified",
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": "Portuguese Space Agency (Portugal Space)",
+      "elections": [
+        {
+          "type": "legislative",
+          "next": "2029",
+          "next_status": "due by"
+        },
+        {
+          "type": "presidential",
+          "next": "2031-01",
+          "next_status": "expected"
+        }
+      ]
+    },
+    "PRI": {
+      "iso3": "PRI",
+      "name": "Puerto Rico",
+      "alt": [
+        "Commonwealth of Puerto Rico",
+        "Commonwealth of Puerto Rico",
+        "Estado Libre Asociado de Puerto Rico"
+      ],
+      "region": "americas",
+      "subregion": "Caribbean",
+      "desk": "americas",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "QAT": {
+      "iso3": "QAT",
+      "name": "Qatar",
+      "alt": [
+        "State of Qatar",
+        "State of Qatar",
+        "Dawlat Qaṭar"
+      ],
+      "region": "mena",
+      "subregion": "Western Asia",
+      "desk": "mena",
+      "core": true,
+      "sovereign": null,
+      "file": "full",
+      "file_as_of": "2026-10-23",
+      "verify": "partial",
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": "Es'hailSat, Qatar Satellite Company (no dedicated national space agency identified)",
+      "elections": []
+    },
+    "ROU": {
+      "iso3": "ROU",
+      "name": "Romania",
+      "alt": [
+        "Romania",
+        "Rumania",
+        "Roumania",
+        "România"
+      ],
+      "region": "cee",
+      "subregion": "Southeast Europe",
+      "desk": "cee",
+      "core": true,
+      "sovereign": null,
+      "file": "full",
+      "file_as_of": "2026-10-23",
+      "verify": "partial",
+      "ecosystem": "mapped",
+      "org_count": 9,
+      "agency": "Romanian Space Agency",
+      "elections": [
+        {
+          "type": "legislative",
+          "next": "2028-12",
+          "next_status": "expected"
+        },
+        {
+          "type": "presidential",
+          "next": "2030-05",
+          "next_status": "expected"
+        }
+      ]
+    },
+    "RUS": {
+      "iso3": "RUS",
+      "name": "Russia",
+      "alt": [
+        "Russian Federation",
+        "Russian Federation",
+        "Российская Федерация",
+        "Russia"
+      ],
+      "region": "eurasia",
+      "subregion": "Eastern Europe",
+      "desk": "eurasia",
+      "core": true,
+      "sovereign": null,
+      "file": "full",
+      "file_as_of": "2026-10-23",
+      "verify": "verified",
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": "State Space Corporation Roscosmos",
+      "elections": [
+        {
+          "type": "legislative",
+          "next": "2031-09",
+          "next_status": "expected"
+        },
+        {
+          "type": "presidential",
+          "next": "2030-03",
+          "next_status": "expected"
+        }
+      ]
+    },
+    "RWA": {
+      "iso3": "RWA",
+      "name": "Rwanda",
+      "alt": [
+        "Republic of Rwanda",
+        "Republic of Rwanda",
+        "Repubulika y'u Rwanda",
+        "République du Rwanda"
+      ],
+      "region": "africa",
+      "subregion": "Eastern Africa",
+      "desk": "mena",
+      "core": true,
+      "sovereign": null,
+      "file": "full",
+      "file_as_of": "2026-10-23",
+      "verify": "verified",
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": "Rwanda Space Agency",
+      "elections": [
+        {
+          "type": "legislative",
+          "next": "2029-07",
+          "next_status": "expected"
+        },
+        {
+          "type": "presidential",
+          "next": "2029-07",
+          "next_status": "expected"
+        }
+      ]
+    },
+    "BLM": {
+      "iso3": "BLM",
+      "name": "Saint Barthélemy",
+      "alt": [
+        "Collectivity of Saint Barthélemy",
+        "St. Barthelemy",
+        "Collectivity of Saint Barthélemy",
+        "Collectivité de Saint-Barthélemy"
+      ],
+      "region": "americas",
+      "subregion": "Caribbean",
+      "desk": "americas",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "SHN": {
+      "iso3": "SHN",
+      "name": "Saint Helena, Ascension and Tristan da Cunha",
+      "alt": [
+        "Saint Helena, Ascension and Tristan da Cunha",
+        "Saint Helena",
+        "St. Helena, Ascension and Tristan da Cunha"
+      ],
+      "region": "africa",
+      "subregion": "Western Africa",
+      "desk": "mena",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "KNA": {
+      "iso3": "KNA",
+      "name": "Saint Kitts and Nevis",
+      "alt": [
+        "Federation of Saint Christopher and Nevis",
+        "Federation of Saint Christopher and Nevis"
+      ],
+      "region": "americas",
+      "subregion": "Caribbean",
+      "desk": "americas",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "LCA": {
+      "iso3": "LCA",
+      "name": "Saint Lucia",
+      "alt": [
+        "Saint Lucia"
+      ],
+      "region": "americas",
+      "subregion": "Caribbean",
+      "desk": "americas",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "MAF": {
+      "iso3": "MAF",
+      "name": "Saint Martin",
+      "alt": [
+        "Saint Martin",
+        "Collectivity of Saint Martin",
+        "Collectivité de Saint-Martin",
+        "Saint Martin (French part)"
+      ],
+      "region": "americas",
+      "subregion": "Caribbean",
+      "desk": "americas",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "SPM": {
+      "iso3": "SPM",
+      "name": "Saint Pierre and Miquelon",
+      "alt": [
+        "Saint Pierre and Miquelon",
+        "Collectivité territoriale de Saint-Pierre-et-Miquelon"
+      ],
+      "region": "americas",
+      "subregion": "North America",
+      "desk": "americas",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "VCT": {
+      "iso3": "VCT",
+      "name": "Saint Vincent and the Grenadines",
+      "alt": [
+        "Saint Vincent and the Grenadines"
+      ],
+      "region": "americas",
+      "subregion": "Caribbean",
+      "desk": "americas",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "WSM": {
+      "iso3": "WSM",
+      "name": "Samoa",
+      "alt": [
+        "Independent State of Samoa",
+        "Independent State of Samoa",
+        "Malo Saʻoloto Tutoʻatasi o Sāmoa"
+      ],
+      "region": "aspac",
+      "subregion": "Polynesia",
+      "desk": "asia_pac",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "SMR": {
+      "iso3": "SMR",
+      "name": "San Marino",
+      "alt": [
+        "Most Serene Republic of San Marino",
+        "Republic of San Marino",
+        "Repubblica di San Marino"
+      ],
+      "region": "south",
+      "subregion": "Southern Europe",
+      "desk": "west",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "STP": {
+      "iso3": "STP",
+      "name": "São Tomé and Príncipe",
+      "alt": [
+        "Democratic Republic of São Tomé and Príncipe",
+        "Democratic Republic of São Tomé and Príncipe",
+        "Sao Tome and Principe",
+        "República Democrática de São Tomé e Príncipe"
+      ],
+      "region": "africa",
+      "subregion": "Middle Africa",
+      "desk": "mena",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "SAU": {
+      "iso3": "SAU",
+      "name": "Saudi Arabia",
+      "alt": [
+        "Kingdom of Saudi Arabia",
+        "Saudi",
+        "Kingdom of Saudi Arabia",
+        "Al-Mamlakah al-‘Arabiyyah as-Su‘ūdiyyah"
+      ],
+      "region": "mena",
+      "subregion": "Western Asia",
+      "desk": "mena",
+      "core": true,
+      "sovereign": null,
+      "file": "full",
+      "file_as_of": "2026-10-23",
+      "verify": "partial",
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": "Saudi Space Agency",
+      "elections": []
+    },
+    "SEN": {
+      "iso3": "SEN",
+      "name": "Senegal",
+      "alt": [
+        "Republic of Senegal",
+        "Republic of Senegal",
+        "République du Sénégal"
+      ],
+      "region": "africa",
+      "subregion": "Western Africa",
+      "desk": "mena",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "SRB": {
+      "iso3": "SRB",
+      "name": "Serbia",
+      "alt": [
+        "Republic of Serbia",
+        "Srbija",
+        "Republika Srbija",
+        "Србија"
+      ],
+      "region": "cee",
+      "subregion": "Southeast Europe",
+      "desk": "cee",
+      "core": true,
+      "sovereign": null,
+      "file": "full",
+      "file_as_of": "2026-10-23",
+      "verify": "verified",
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": "None (no national space agency)",
+      "elections": [
+        {
+          "type": "legislative",
+          "next": "2026-10-25",
+          "next_status": "scheduled"
+        },
+        {
+          "type": "presidential",
+          "next": "2026-12",
+          "next_status": "due by"
+        }
+      ]
+    },
+    "SYC": {
+      "iso3": "SYC",
+      "name": "Seychelles",
+      "alt": [
+        "Republic of Seychelles",
+        "Republic of Seychelles",
+        "Repiblik Sesel",
+        "République des Seychelles"
+      ],
+      "region": "africa",
+      "subregion": "Eastern Africa",
+      "desk": "mena",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "SLE": {
+      "iso3": "SLE",
+      "name": "Sierra Leone",
+      "alt": [
+        "Republic of Sierra Leone",
+        "Republic of Sierra Leone"
+      ],
+      "region": "africa",
+      "subregion": "Western Africa",
+      "desk": "mena",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "SGP": {
+      "iso3": "SGP",
+      "name": "Singapore",
+      "alt": [
+        "Republic of Singapore",
+        "Singapura",
+        "Republik Singapura",
+        "新加坡共和国"
+      ],
+      "region": "aspac",
+      "subregion": "South-Eastern Asia",
+      "desk": "asia_pac",
+      "core": true,
+      "sovereign": null,
+      "file": "full",
+      "file_as_of": "2026-10-23",
+      "verify": "verified",
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": "National Space Agency of Singapore",
+      "elections": [
+        {
+          "type": "legislative",
+          "next": "2030",
+          "next_status": "due by"
+        },
+        {
+          "type": "presidential",
+          "next": "2029-09",
+          "next_status": "expected"
+        }
+      ]
+    },
+    "SXM": {
+      "iso3": "SXM",
+      "name": "Sint Maarten",
+      "alt": [
+        "Sint Maarten",
+        "Sint Maarten (Dutch part)"
+      ],
+      "region": "americas",
+      "subregion": "Caribbean",
+      "desk": "americas",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "SVK": {
+      "iso3": "SVK",
+      "name": "Slovakia",
+      "alt": [
+        "Slovak Republic",
+        "Slovak Republic",
+        "Slovenská republika"
+      ],
+      "region": "cee",
+      "subregion": "Central Europe",
+      "desk": "cee",
+      "core": true,
+      "sovereign": null,
+      "file": "full",
+      "file_as_of": "2026-10-23",
+      "verify": "verified",
+      "ecosystem": "mapped",
+      "org_count": 55,
+      "agency": "Slovak Space Office",
+      "elections": [
+        {
+          "type": "legislative",
+          "next": "2027-09",
+          "next_status": "due by"
+        },
+        {
+          "type": "presidential",
+          "next": "2029-03",
+          "next_status": "expected"
+        }
+      ]
+    },
+    "SVN": {
+      "iso3": "SVN",
+      "name": "Slovenia",
+      "alt": [
+        "Republic of Slovenia",
+        "Republic of Slovenia",
+        "Republika Slovenija"
+      ],
+      "region": "cee",
+      "subregion": "Central Europe",
+      "desk": "cee",
+      "core": true,
+      "sovereign": null,
+      "file": "full",
+      "file_as_of": "2026-10-23",
+      "verify": "verified",
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": "Ministry of the Economy, Tourism and Sport (space affairs)",
+      "elections": [
+        {
+          "type": "legislative",
+          "next": "2030-03",
+          "next_status": "expected"
+        },
+        {
+          "type": "presidential",
+          "next": "2027-10",
+          "next_status": "expected"
+        }
+      ]
+    },
+    "SLB": {
+      "iso3": "SLB",
+      "name": "Solomon Islands",
+      "alt": [
+        "Solomon Islands"
+      ],
+      "region": "aspac",
+      "subregion": "Melanesia",
+      "desk": "asia_pac",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "SOM": {
+      "iso3": "SOM",
+      "name": "Somalia",
+      "alt": [
+        "Federal Republic of Somalia",
+        "aṣ-Ṣūmāl",
+        "Federal Republic of Somalia",
+        "Jamhuuriyadda Federaalka Soomaaliya"
+      ],
+      "region": "africa",
+      "subregion": "Eastern Africa",
+      "desk": "mena",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "ZAF": {
+      "iso3": "ZAF",
+      "name": "South Africa",
+      "alt": [
+        "Republic of South Africa",
+        "Suid-Afrika",
+        "Republic of South Africa"
+      ],
+      "region": "africa",
+      "subregion": "Southern Africa",
+      "desk": "mena",
+      "core": true,
+      "sovereign": null,
+      "file": "full",
+      "file_as_of": "2026-10-23",
+      "verify": "verified",
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": "South African National Space Agency",
+      "elections": [
+        {
+          "type": "legislative",
+          "next": "2029",
+          "next_status": "due by"
+        }
+      ]
+    },
+    "SGS": {
+      "iso3": "SGS",
+      "name": "South Georgia",
+      "alt": [
+        "South Georgia and the South Sandwich Islands",
+        "South Georgia and the South Sandwich Islands"
+      ],
+      "region": "europe",
+      "subregion": "",
+      "desk": "west",
+      "core": false,
+      "sovereign": "GBR",
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "KOR": {
+      "iso3": "KOR",
+      "name": "South Korea",
+      "alt": [
+        "Republic of Korea",
+        "Korea, Republic of",
+        "Republic of Korea",
+        "South Korea"
+      ],
+      "region": "aspac",
+      "subregion": "Eastern Asia",
+      "desk": "asia_pac",
+      "core": true,
+      "sovereign": null,
+      "file": "full",
+      "file_as_of": "2026-10-23",
+      "verify": "verified",
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": "Korea AeroSpace Administration",
+      "elections": [
+        {
+          "type": "legislative",
+          "next": "2028-04-12",
+          "next_status": "scheduled"
+        },
+        {
+          "type": "presidential",
+          "next": "2030",
+          "next_status": "expected"
+        }
+      ]
+    },
+    "SSD": {
+      "iso3": "SSD",
+      "name": "South Sudan",
+      "alt": [
+        "Republic of South Sudan"
+      ],
+      "region": "africa",
+      "subregion": "Middle Africa",
+      "desk": "mena",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "ESP": {
+      "iso3": "ESP",
+      "name": "Spain",
+      "alt": [
+        "Kingdom of Spain",
+        "Kingdom of Spain",
+        "Reino de España"
+      ],
+      "region": "south",
+      "subregion": "Southern Europe",
+      "desk": "west",
+      "core": true,
+      "sovereign": null,
+      "file": "full",
+      "file_as_of": "2026-10-23",
+      "verify": "verified",
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": "Agencia Espacial Española",
+      "elections": [
+        {
+          "type": "legislative",
+          "next": "2027-08",
+          "next_status": "due by"
+        }
+      ]
+    },
+    "LKA": {
+      "iso3": "LKA",
+      "name": "Sri Lanka",
+      "alt": [
+        "Democratic Socialist Republic of Sri Lanka",
+        "ilaṅkai",
+        "Democratic Socialist Republic of Sri Lanka"
+      ],
+      "region": "sasia",
+      "subregion": "Southern Asia",
+      "desk": "asia_pac",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "SDN": {
+      "iso3": "SDN",
+      "name": "Sudan",
+      "alt": [
+        "Republic of the Sudan",
+        "Republic of the Sudan",
+        "Jumhūrīyat as-Sūdān"
+      ],
+      "region": "mena",
+      "subregion": "Northern Africa",
+      "desk": "mena",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "SUR": {
+      "iso3": "SUR",
+      "name": "Suriname",
+      "alt": [
+        "Republic of Suriname",
+        "Sarnam",
+        "Sranangron",
+        "Republic of Suriname"
+      ],
+      "region": "americas",
+      "subregion": "South America",
+      "desk": "americas",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "SWE": {
+      "iso3": "SWE",
+      "name": "Sweden",
+      "alt": [
+        "Kingdom of Sweden",
+        "Kingdom of Sweden",
+        "Konungariket Sverige"
+      ],
+      "region": "nordics",
+      "subregion": "Northern Europe",
+      "desk": "nordics",
+      "core": true,
+      "sovereign": null,
+      "file": "full",
+      "file_as_of": "2026-10-23",
+      "verify": "verified",
+      "ecosystem": "mapped",
+      "org_count": 17,
+      "agency": "Swedish National Space Agency (Rymdstyrelsen)",
+      "elections": [
+        {
+          "type": "legislative",
+          "next": "2030-09",
+          "next_status": "expected"
+        }
+      ]
+    },
+    "CHE": {
+      "iso3": "CHE",
+      "name": "Switzerland",
+      "alt": [
+        "Swiss Confederation",
+        "Swiss Confederation",
+        "Schweiz",
+        "Suisse"
+      ],
+      "region": "west",
+      "subregion": "Western Europe",
+      "desk": "west",
+      "core": true,
+      "sovereign": null,
+      "file": "full",
+      "file_as_of": "2026-10-23",
+      "verify": "verified",
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": "Swiss Space Office",
+      "elections": [
+        {
+          "type": "legislative",
+          "next": "2027-10-24",
+          "next_status": "scheduled"
+        }
+      ]
+    },
+    "SYR": {
+      "iso3": "SYR",
+      "name": "Syria",
+      "alt": [
+        "Syrian Arab Republic",
+        "Syrian Arab Republic",
+        "Al-Jumhūrīyah Al-ʻArabīyah As-Sūrīyah",
+        "Syria"
+      ],
+      "region": "mena",
+      "subregion": "Western Asia",
+      "desk": "mena",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "TWN": {
+      "iso3": "TWN",
+      "name": "Taiwan",
+      "alt": [
+        "Republic of China (Taiwan)",
+        "Táiwān",
+        "Republic of China",
+        "中華民國",
+        "Taiwan"
+      ],
+      "region": "aspac",
+      "subregion": "Eastern Asia",
+      "desk": "asia_pac",
+      "core": false,
+      "sovereign": null,
+      "file": "full",
+      "file_as_of": "2026-10-23",
+      "verify": "verified",
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "TJK": {
+      "iso3": "TJK",
+      "name": "Tajikistan",
+      "alt": [
+        "Republic of Tajikistan",
+        "Toçikiston",
+        "Republic of Tajikistan",
+        "Ҷумҳурии Тоҷикистон"
+      ],
+      "region": "eurasia",
+      "subregion": "Central Asia",
+      "desk": "eurasia",
+      "core": true,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": [
+        {
+          "type": "legislative",
+          "next": "2030-03",
+          "next_status": "expected"
+        },
+        {
+          "type": "presidential",
+          "next": "2027-10",
+          "next_status": "expected"
+        }
+      ]
+    },
+    "TZA": {
+      "iso3": "TZA",
+      "name": "Tanzania",
+      "alt": [
+        "United Republic of Tanzania",
+        "Tanzania, United Republic of",
+        "United Republic of Tanzania",
+        "Jamhuri ya Muungano wa Tanzania",
+        "Tanzania"
+      ],
+      "region": "africa",
+      "subregion": "Eastern Africa",
+      "desk": "mena",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "THA": {
+      "iso3": "THA",
+      "name": "Thailand",
+      "alt": [
+        "Kingdom of Thailand",
+        "Prathet",
+        "Thai",
+        "Kingdom of Thailand"
+      ],
+      "region": "aspac",
+      "subregion": "South-Eastern Asia",
+      "desk": "asia_pac",
+      "core": true,
+      "sovereign": null,
+      "file": "full",
+      "file_as_of": "2026-10-23",
+      "verify": "verified",
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": "Geo-Informatics and Space Technology Development Agency",
+      "elections": [
+        {
+          "type": "legislative",
+          "next": "2030",
+          "next_status": "due by"
+        }
+      ]
+    },
+    "TLS": {
+      "iso3": "TLS",
+      "name": "Timor-Leste",
+      "alt": [
+        "Democratic Republic of Timor-Leste",
+        "East Timor",
+        "Timor",
+        "Democratic Republic of Timor-Leste"
+      ],
+      "region": "aspac",
+      "subregion": "South-Eastern Asia",
+      "desk": "asia_pac",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "TGO": {
+      "iso3": "TGO",
+      "name": "Togo",
+      "alt": [
+        "Togolese Republic",
+        "Togolese",
+        "Togolese Republic",
+        "République Togolaise"
+      ],
+      "region": "africa",
+      "subregion": "Western Africa",
+      "desk": "mena",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "TON": {
+      "iso3": "TON",
+      "name": "Tonga",
+      "alt": [
+        "Kingdom of Tonga"
+      ],
+      "region": "aspac",
+      "subregion": "Polynesia",
+      "desk": "asia_pac",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "TTO": {
+      "iso3": "TTO",
+      "name": "Trinidad and Tobago",
+      "alt": [
+        "Republic of Trinidad and Tobago",
+        "Republic of Trinidad and Tobago"
+      ],
+      "region": "americas",
+      "subregion": "Caribbean",
+      "desk": "americas",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "TUN": {
+      "iso3": "TUN",
+      "name": "Tunisia",
+      "alt": [
+        "Tunisian Republic",
+        "Republic of Tunisia",
+        "al-Jumhūriyyah at-Tūnisiyyah"
+      ],
+      "region": "mena",
+      "subregion": "Northern Africa",
+      "desk": "mena",
+      "core": true,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": "National Center for Cartography and Remote Sensing",
+      "elections": [
+        {
+          "type": "legislative",
+          "next": "2027-12",
+          "next_status": "expected"
+        },
+        {
+          "type": "presidential",
+          "next": "2029-10",
+          "next_status": "expected"
+        }
+      ]
+    },
+    "TUR": {
+      "iso3": "TUR",
+      "name": "Türkiye",
+      "alt": [
+        "Republic of Türkiye",
+        "Turkiye",
+        "Republic of Turkey",
+        "Türkiye Cumhuriyeti",
+        "Türkiye"
+      ],
+      "region": "mena",
+      "subregion": "Western Asia",
+      "desk": "mena",
+      "core": true,
+      "sovereign": null,
+      "file": "full",
+      "file_as_of": "2026-10-23",
+      "verify": "verified",
+      "ecosystem": "mapped",
+      "org_count": 19,
+      "agency": "Türkiye Uzay Ajansı (Turkish Space Agency)",
+      "elections": [
+        {
+          "type": "legislative",
+          "next": "2028-05",
+          "next_status": "due by"
+        },
+        {
+          "type": "presidential",
+          "next": "2028-05",
+          "next_status": "due by"
+        }
+      ]
+    },
+    "TKM": {
+      "iso3": "TKM",
+      "name": "Turkmenistan",
+      "alt": [
+        "Turkmenistan"
+      ],
+      "region": "eurasia",
+      "subregion": "Central Asia",
+      "desk": "eurasia",
+      "core": true,
+      "sovereign": null,
+      "file": "full",
+      "file_as_of": "2026-10-23",
+      "verify": "partial",
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": "Space Administration of the Turkmenaragatnashyk Agency",
+      "elections": [
+        {
+          "type": "legislative",
+          "next": "2028-03",
+          "next_status": "expected"
+        },
+        {
+          "type": "presidential",
+          "next": "2029",
+          "next_status": "expected"
+        }
+      ]
+    },
+    "TCA": {
+      "iso3": "TCA",
+      "name": "Turks and Caicos Islands",
+      "alt": [
+        "Turks and Caicos Islands"
+      ],
+      "region": "americas",
+      "subregion": "Caribbean",
+      "desk": "americas",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "UGA": {
+      "iso3": "UGA",
+      "name": "Uganda",
+      "alt": [
+        "Republic of Uganda",
+        "Republic of Uganda",
+        "Jamhuri ya Uganda"
+      ],
+      "region": "africa",
+      "subregion": "Eastern Africa",
+      "desk": "mena",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "UKR": {
+      "iso3": "UKR",
+      "name": "Ukraine",
+      "alt": [
+        "Ukraine",
+        "Ukrayina"
+      ],
+      "region": "cee",
+      "subregion": "Eastern Europe",
+      "desk": "cee",
+      "core": true,
+      "sovereign": null,
+      "file": "full",
+      "file_as_of": "2026-10-23",
+      "verify": "partial",
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": "State Space Agency of Ukraine",
+      "elections": []
+    },
+    "ARE": {
+      "iso3": "ARE",
+      "name": "United Arab Emirates",
+      "alt": [
+        "United Arab Emirates",
+        "Emirates"
+      ],
+      "region": "mena",
+      "subregion": "Western Asia",
+      "desk": "mena",
+      "core": true,
+      "sovereign": null,
+      "file": "full",
+      "file_as_of": "2026-10-23",
+      "verify": "verified",
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": "UAE Space Agency",
+      "elections": []
+    },
+    "GBR": {
+      "iso3": "GBR",
+      "name": "United Kingdom",
+      "alt": [
+        "United Kingdom of Great Britain and Northern Ireland",
+        "Great Britain",
+        "United Kingdom"
+      ],
+      "region": "west",
+      "subregion": "Northern Europe",
+      "desk": "west",
+      "core": true,
+      "sovereign": null,
+      "file": "full",
+      "file_as_of": "2026-10-23",
+      "verify": "verified",
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": "UK Space Agency",
+      "elections": [
+        {
+          "type": "legislative",
+          "next": "2029-08",
+          "next_status": "due by"
+        }
+      ]
+    },
+    "USA": {
+      "iso3": "USA",
+      "name": "United States",
+      "alt": [
+        "United States of America",
+        "United States of America",
+        "United States"
+      ],
+      "region": "americas",
+      "subregion": "North America",
+      "desk": "americas",
+      "core": true,
+      "sovereign": null,
+      "file": "full",
+      "file_as_of": "2026-10-23",
+      "verify": "verified",
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": "National Aeronautics and Space Administration",
+      "elections": [
+        {
+          "type": "legislative",
+          "next": "2026-11-03",
+          "next_status": "scheduled"
+        },
+        {
+          "type": "presidential",
+          "next": "2028-11-07",
+          "next_status": "scheduled"
+        }
+      ]
+    },
+    "VIR": {
+      "iso3": "VIR",
+      "name": "United States Virgin Islands",
+      "alt": [
+        "Virgin Islands of the United States",
+        "Virgin Islands, U.S."
+      ],
+      "region": "americas",
+      "subregion": "Caribbean",
+      "desk": "americas",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "URY": {
+      "iso3": "URY",
+      "name": "Uruguay",
+      "alt": [
+        "Oriental Republic of Uruguay",
+        "Oriental Republic of Uruguay",
+        "República Oriental del Uruguay"
+      ],
+      "region": "americas",
+      "subregion": "South America",
+      "desk": "americas",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "UZB": {
+      "iso3": "UZB",
+      "name": "Uzbekistan",
+      "alt": [
+        "Republic of Uzbekistan",
+        "Republic of Uzbekistan",
+        "O‘zbekiston Respublikasi",
+        "Ўзбекистон Республикаси"
+      ],
+      "region": "eurasia",
+      "subregion": "Central Asia",
+      "desk": "eurasia",
+      "core": true,
+      "sovereign": null,
+      "file": "full",
+      "file_as_of": "2026-10-23",
+      "verify": "partial",
+      "ecosystem": "mapped",
+      "org_count": 12,
+      "agency": "Space Research and Technology Agency Uzbekcosmos",
+      "elections": [
+        {
+          "type": "legislative",
+          "next": "2029-10",
+          "next_status": "expected"
+        },
+        {
+          "type": "presidential",
+          "next": "2030",
+          "next_status": "expected"
+        }
+      ]
+    },
+    "VUT": {
+      "iso3": "VUT",
+      "name": "Vanuatu",
+      "alt": [
+        "Republic of Vanuatu",
+        "Republic of Vanuatu",
+        "Ripablik blong Vanuatu",
+        "République de Vanuatu"
+      ],
+      "region": "aspac",
+      "subregion": "Melanesia",
+      "desk": "asia_pac",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "VAT": {
+      "iso3": "VAT",
+      "name": "Vatican City",
+      "alt": [
+        "Vatican City State",
+        "Holy See (Vatican City State)",
+        "Vatican City State",
+        "Vatican"
+      ],
+      "region": "south",
+      "subregion": "Southern Europe",
+      "desk": "west",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "VEN": {
+      "iso3": "VEN",
+      "name": "Venezuela",
+      "alt": [
+        "Bolivarian Republic of Venezuela",
+        "Bolivarian Republic of Venezuela",
+        "Venezuela, Bolivarian Republic of",
+        "República Bolivariana de Venezuela",
+        "Venezuela"
+      ],
+      "region": "americas",
+      "subregion": "South America",
+      "desk": "americas",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "VNM": {
+      "iso3": "VNM",
+      "name": "Vietnam",
+      "alt": [
+        "Socialist Republic of Vietnam",
+        "Socialist Republic of Vietnam",
+        "Cộng hòa Xã hội chủ nghĩa Việt Nam",
+        "Viet Nam",
+        "Vietnam"
+      ],
+      "region": "aspac",
+      "subregion": "South-Eastern Asia",
+      "desk": "asia_pac",
+      "core": true,
+      "sovereign": null,
+      "file": "full",
+      "file_as_of": "2026-10-23",
+      "verify": "verified",
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": "Vietnam National Space Center",
+      "elections": []
+    },
+    "WLF": {
+      "iso3": "WLF",
+      "name": "Wallis and Futuna",
+      "alt": [
+        "Territory of the Wallis and Futuna Islands",
+        "Territory of the Wallis and Futuna Islands",
+        "Territoire des îles Wallis et Futuna"
+      ],
+      "region": "aspac",
+      "subregion": "Polynesia",
+      "desk": "asia_pac",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "ESH": {
+      "iso3": "ESH",
+      "name": "Western Sahara",
+      "alt": [
+        "Sahrawi Arab Democratic Republic",
+        "Taneẓroft Tutrimt"
+      ],
+      "region": "mena",
+      "subregion": "Northern Africa",
+      "desk": "mena",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "YEM": {
+      "iso3": "YEM",
+      "name": "Yemen",
+      "alt": [
+        "Republic of Yemen",
+        "Yemeni Republic",
+        "al-Jumhūriyyah al-Yamaniyyah"
+      ],
+      "region": "mena",
+      "subregion": "Western Asia",
+      "desk": "mena",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "ZMB": {
+      "iso3": "ZMB",
+      "name": "Zambia",
+      "alt": [
+        "Republic of Zambia",
+        "Republic of Zambia"
+      ],
+      "region": "africa",
+      "subregion": "Eastern Africa",
+      "desk": "mena",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    },
+    "ZWE": {
+      "iso3": "ZWE",
+      "name": "Zimbabwe",
+      "alt": [
+        "Republic of Zimbabwe",
+        "Republic of Zimbabwe"
+      ],
+      "region": "africa",
+      "subregion": "Eastern Africa",
+      "desk": "mena",
+      "core": false,
+      "sovereign": null,
+      "file": "missing",
+      "file_as_of": null,
+      "verify": null,
+      "ecosystem": "unmapped",
+      "org_count": 0,
+      "agency": null,
+      "elections": []
+    }
+  }
+}
