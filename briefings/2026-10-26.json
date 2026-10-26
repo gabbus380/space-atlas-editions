@@ -1,15 +1,17 @@
 {
  "date": "2026-10-26",
  "edition": "06:00 UTC",
- "generated_at": "2026-10-26T12:35:40+00:00",
+ "generated_at": "2026-10-26T16:24:00+00:00",
  "headline": "NASA restates its 2028 Moon landing plan as China adds another state broadband batch",
  "summary": [
   "NASA set out on 23 October how it intends to land astronauts on the Moon in 2028; Artemis III stays a crewed orbital test, with a summer 2027 launch in view and a two-day docking with a Blue Moon test lander.",
   "China launched the 28th group of its state low-orbit internet satellites on a Long March 8A from Hainan on 25 October, fifteen days after the 27th.",
   "Poland's prime minister closed his India visit in Bengaluru with space named as a priority, but no POLSA and ISRO agreement had been publicly reported.",
-  "Saudi Arabia's Royal Commission for AlUla commissioned two LaserSETI stations, the network's first site in Asia."
+  "Saudi Arabia's Royal Commission for AlUla commissioned two LaserSETI stations, the network's first site in Asia.",
+  "ESA's Council prepared a Europe-wide exploration proposal for the 15 December Rome meeting and approved two new directors; a Space Rider test model was lost over Sardinia, with the 2028 first flight still targeted.",
+  "Finland's ICEYE and Nokia signed a satcom letter of intent with Ukraine's defence ministry; Roscosmos's head said Russia and China are starting joint Mars hardware."
  ],
- "bottom_line": "The weekend brought confirmation rather than new decisions: NASA kept its 2028 landing target and commercial landers at the centre of it, while China kept adding state broadband capacity. The next dated decisions are NASA's commercial station proposals on 8 December and ESA's Rome meeting on 15 December.",
+ "bottom_line": "The weekend brought confirmation rather than new decisions: NASA kept its 2028 landing target and commercial landers at the centre of it, while China kept adding state broadband capacity. The next dated decisions are NASA's commercial station proposals on 8 December and ESA's Rome meeting on 15 December. In Europe, the week's moves were preparatory: ESA set the Rome agenda, and Ukraine expressed interest in, but did not order, a Finnish-built sovereign satcom system.",
  "global": [
   {
    "date": "2026-10-23",
@@ -91,7 +93,43 @@
   {
    "id": "esa_eu",
    "name": "ESA and EU",
-   "items": []
+   "items": [
+    {
+     "date": "2026-10-22",
+     "exposure": "policy change",
+     "iso3": [
+      "FRA",
+      "ITA"
+     ],
+     "priority": "P2",
+     "next": {
+      "date": "2026-12-15",
+      "event": "ESA Intermediate Ministerial Meeting (IMM26) in Rome"
+     },
+     "sources": [
+      {
+       "outlet": "ESA",
+       "primary": true,
+       "title": "Key outcomes of the 350th ESA Council meeting",
+       "url": "https://www.esa.int/Newsroom/Press_Releases/Key_outcomes_of_the_350th_ESA_Council_meeting"
+      },
+      {
+       "outlet": "The Brussels Times",
+       "title": "ESA outlines 'realistic' space ambitions ahead of key funding and policy decisions",
+       "url": "https://www.brusselstimes.com/eu-affairs/2375069/esa-outlines-realistic-space-ambitions-ahead-of-key-funding-and-policy-decisions"
+      }
+     ],
+     "status": "decision",
+     "tags": [
+      "policy",
+      "human spaceflight",
+      "governance"
+     ],
+     "title": "ESA Council readies Rome exploration package and names two directors",
+     "summary": "The 350th ESA Council met at delegate level in Paris on 21 and 22 October. Member States discussed the Director General's proposal 'Europe's Future in Space Exploration', which sets out a scalable path in low Earth orbit, on the Moon and towards Mars, and advanced preparations for the Intermediate Ministerial Meeting in Rome on 15 December. ESA describes IMM26 as a step towards programme and financial decisions at CM28, while allowing early preparatory work within existing budgets. Delegates also reviewed ESA-EU relations, including the next EU Multiannual Financial Framework, the European Competitiveness Fund, the EU Space Act and the EUSPA regulation; ESA called for a clear division of responsibilities without duplication. The Council approved Andrzej Banasiak as Director of Commercialisation and Industry Partnership and Nicolaus Hanowski as Director of Space Operations, both from 1 January 2027.",
+     "why": "The Council fixed the agenda for Rome rather than taking funding decisions, and confirmed two senior appointments. It moves the 15 December IMM26 entry from a date to a defined exploration proposal."
+    }
+   ]
   },
   {
    "id": "cee",
@@ -138,17 +176,118 @@
   {
    "id": "nordics",
    "name": "Nordics",
-   "items": []
+   "items": [
+    {
+     "date": "2026-10-22",
+     "exposure": "market opportunity",
+     "iso3": [
+      "FIN",
+      "UKR"
+     ],
+     "priority": "P2",
+     "next": null,
+     "sources": [
+      {
+       "outlet": "ICEYE",
+       "primary": true,
+       "title": "ICEYE and Nokia partner with The Ministry of Defence of Ukraine to develop sovereign satcom capability",
+       "url": "https://www.iceye.com/newsroom/press-releases/iceye-and-nokia-partner-with-the-ministry-of-defence-of-ukraine-to-develop-sovereign-satcom-capability"
+      },
+      {
+       "outlet": "Kyiv Independent",
+       "title": "Amid Starlink crisis, Finnish tech giants announce plan to help Ukraine build its own sovereign satellite system",
+       "url": "https://kyivindependent.com/amid-starlink-crisis-finnish-tech-giants-announce-plan-to-help-ukraine-build-its-own-sovereign-satellite-system/"
+      },
+      {
+       "outlet": "Breaking Defense",
+       "title": "Kyiv eyes purchase of planned ICEYE, Nokia 'sovereign' communication sats",
+       "url": "https://breakingdefense.com/2026/10/kyiv-eyes-purchase-of-planned-iceye-nokia-sovereign-communication-sats/"
+      }
+     ],
+     "status": "signature",
+     "tags": [
+      "defence",
+      "satcom",
+      "industry"
+     ],
+     "title": "Finnish firms ICEYE and Nokia sign satcom letter of intent with Ukraine's defence ministry",
+     "summary": "ICEYE and Nokia signed a Letter of Intent with Ukraine's Ministry of Defence on 22 October to explore cooperation on sovereign satellite communications. It was announced during Finnish Prime Minister Petteri Orpo's visit to Kyiv, where President Volodymyr Zelensky said seven agreements worth about EUR 300 million were concluded. The letter builds on the companies' 1 October partnership to offer government-owned LEO broadband systems, with nations controlling satellites, ground segment and terminals. An ICEYE spokesperson told Breaking Defense that the letter is an expression of intent and does not imply an order. No value or timetable has been attributed to the satcom element.",
+     "why": "It is the first government expression of interest in the ICEYE-Nokia sovereign satcom offer, and it came inside a Finnish state visit. It follows reported throttling of Starlink service in Ukraine earlier this month."
+    }
+   ]
   },
   {
    "id": "west",
    "name": "Western and Southern Europe",
-   "items": []
+   "items": [
+    {
+     "date": "2026-10-22",
+     "exposure": "programme risk",
+     "iso3": [
+      "ITA"
+     ],
+     "priority": "P3",
+     "next": null,
+     "sources": [
+      {
+       "outlet": "European Spaceflight",
+       "title": "ESA Provides New Details on Failed Space Rider Drop Test",
+       "url": "https://europeanspaceflight.com/esa-provides-new-details-on-failed-space-rider-drop-test/"
+      },
+      {
+       "outlet": "Space.com",
+       "title": "Europe's Space Rider vehicle comes crashing down during drop test",
+       "url": "https://www.space.com/space-exploration/launches-spacecraft/europes-space-rider-vehicle-comes-crashing-down-during-drop-test"
+      }
+     ],
+     "status": "test",
+     "tags": [
+      "launch",
+      "reusability",
+      "testing"
+     ],
+     "title": "Space Rider test model lost over Sardinia; ESA keeps 2028 maiden flight",
+     "summary": "ESA's Director of Space Transportation, Géraldine Naja, told a briefing on 22 October that a full-scale Space Rider test model was lost in a drop test on 6 October. The model was released from a helicopter at about three kilometres over a military range in Sardinia; the drogue parachute deployed, but the parafoil detached and the model struck the ground. Remnants were recovered and an investigation board has been set up. Naja said the remaining qualification work is not on the programme's critical path, but that the schedule will be reviewed once the board reports. ESA still targets the first half of 2028 for the first flight on Vega C.",
+     "why": "This is the first failure at system level in Space Rider's landing test campaign, which runs from an Italian range. The 2028 target stands for now, subject to the investigation."
+    }
+   ]
   },
   {
    "id": "eurasia",
    "name": "Eurasia and Central Asia",
-   "items": []
+   "items": [
+    {
+     "date": "2026-10-21",
+     "exposure": "competitive move",
+     "iso3": [
+      "RUS",
+      "CHN"
+     ],
+     "priority": "P3",
+     "next": null,
+     "sources": [
+      {
+       "outlet": "RIA Novosti (state)",
+       "title": "Россия и Китай начали изготавливать технику для совместной миссии на Марс",
+       "url": "https://ria.ru/20261021/mars-2126028106.html"
+      },
+      {
+       "outlet": "Channel One (state)",
+       "title": "Баканов рассказал о планах с КНР по изготовлению техники для изучения Марса",
+       "url": "https://www.1tv.ru/news/2026-10-21/556716"
+      }
+     ],
+     "status": "statement",
+     "tags": [
+      "exploration",
+      "cooperation",
+      "Mars"
+     ],
+     "title": "Roscosmos head says Russia and China are starting work on joint Mars hardware",
+     "summary": "Roscosmos Director General Dmitry Bakanov said on 21 October, after taking part in the Russia-China heads-of-government meeting in St Petersburg, that the two countries are beginning a joint Mars mission, starting with building instruments and equipment. State agency RIA Novosti, quoting Roscosmos, reported that he cited the joint Chang'e-7 lunar mission as the existing precedent (translated from Russian by ATLAS). He called China one of Russia's key partners and said the two countries exchange Earth observation data and jointly use GLONASS and BeiDou navigation signals. No mission name, timeline, budget or signed agreement was published. Both outlets carrying the statement are state media.",
+     "why": "A named top official has put a Russia-China Mars effort on record for the first time in this cycle, though without a published agreement. It sits alongside existing Russian instruments on China's Chang'e-7 lunar mission."
+    }
+   ]
   },
   {
    "id": "mena",
@@ -400,6 +539,119 @@
      "why": "The visit ended with political backing for space cooperation but no confirmed agency-level text. It updates the 23 October ledger entry, which listed the POLSA and ISRO agreement as planned."
     }
    ]
+  },
+  {
+   "iso3": "FIN",
+   "items": [
+    {
+     "date": "2026-10-22",
+     "exposure": "market opportunity",
+     "iso3": [
+      "FIN",
+      "UKR"
+     ],
+     "priority": "P2",
+     "next": null,
+     "sources": [
+      {
+       "outlet": "ICEYE",
+       "primary": true,
+       "title": "ICEYE and Nokia partner with The Ministry of Defence of Ukraine to develop sovereign satcom capability",
+       "url": "https://www.iceye.com/newsroom/press-releases/iceye-and-nokia-partner-with-the-ministry-of-defence-of-ukraine-to-develop-sovereign-satcom-capability"
+      },
+      {
+       "outlet": "Kyiv Independent",
+       "title": "Amid Starlink crisis, Finnish tech giants announce plan to help Ukraine build its own sovereign satellite system",
+       "url": "https://kyivindependent.com/amid-starlink-crisis-finnish-tech-giants-announce-plan-to-help-ukraine-build-its-own-sovereign-satellite-system/"
+      },
+      {
+       "outlet": "Breaking Defense",
+       "title": "Kyiv eyes purchase of planned ICEYE, Nokia 'sovereign' communication sats",
+       "url": "https://breakingdefense.com/2026/10/kyiv-eyes-purchase-of-planned-iceye-nokia-sovereign-communication-sats/"
+      }
+     ],
+     "status": "signature",
+     "tags": [
+      "defence",
+      "satcom",
+      "industry"
+     ],
+     "title": "Finnish firms ICEYE and Nokia sign satcom letter of intent with Ukraine's defence ministry",
+     "summary": "ICEYE and Nokia signed a Letter of Intent with Ukraine's Ministry of Defence on 22 October to explore cooperation on sovereign satellite communications. It was announced during Finnish Prime Minister Petteri Orpo's visit to Kyiv, where President Volodymyr Zelensky said seven agreements worth about EUR 300 million were concluded. The letter builds on the companies' 1 October partnership to offer government-owned LEO broadband systems, with nations controlling satellites, ground segment and terminals. An ICEYE spokesperson told Breaking Defense that the letter is an expression of intent and does not imply an order. No value or timetable has been attributed to the satcom element.",
+     "why": "It is the first government expression of interest in the ICEYE-Nokia sovereign satcom offer, and it came inside a Finnish state visit. It follows reported throttling of Starlink service in Ukraine earlier this month."
+    }
+   ]
+  },
+  {
+   "iso3": "RUS",
+   "items": [
+    {
+     "date": "2026-10-21",
+     "exposure": "competitive move",
+     "iso3": [
+      "RUS",
+      "CHN"
+     ],
+     "priority": "P3",
+     "next": null,
+     "sources": [
+      {
+       "outlet": "RIA Novosti (state)",
+       "title": "Россия и Китай начали изготавливать технику для совместной миссии на Марс",
+       "url": "https://ria.ru/20261021/mars-2126028106.html"
+      },
+      {
+       "outlet": "Channel One (state)",
+       "title": "Баканов рассказал о планах с КНР по изготовлению техники для изучения Марса",
+       "url": "https://www.1tv.ru/news/2026-10-21/556716"
+      }
+     ],
+     "status": "statement",
+     "tags": [
+      "exploration",
+      "cooperation",
+      "Mars"
+     ],
+     "title": "Roscosmos head says Russia and China are starting work on joint Mars hardware",
+     "summary": "Roscosmos Director General Dmitry Bakanov said on 21 October, after taking part in the Russia-China heads-of-government meeting in St Petersburg, that the two countries are beginning a joint Mars mission, starting with building instruments and equipment. State agency RIA Novosti, quoting Roscosmos, reported that he cited the joint Chang'e-7 lunar mission as the existing precedent (translated from Russian by ATLAS). He called China one of Russia's key partners and said the two countries exchange Earth observation data and jointly use GLONASS and BeiDou navigation signals. No mission name, timeline, budget or signed agreement was published. Both outlets carrying the statement are state media.",
+     "why": "A named top official has put a Russia-China Mars effort on record for the first time in this cycle, though without a published agreement. It sits alongside existing Russian instruments on China's Chang'e-7 lunar mission."
+    }
+   ]
+  },
+  {
+   "iso3": "ITA",
+   "items": [
+    {
+     "date": "2026-10-22",
+     "exposure": "programme risk",
+     "iso3": [
+      "ITA"
+     ],
+     "priority": "P3",
+     "next": null,
+     "sources": [
+      {
+       "outlet": "European Spaceflight",
+       "title": "ESA Provides New Details on Failed Space Rider Drop Test",
+       "url": "https://europeanspaceflight.com/esa-provides-new-details-on-failed-space-rider-drop-test/"
+      },
+      {
+       "outlet": "Space.com",
+       "title": "Europe's Space Rider vehicle comes crashing down during drop test",
+       "url": "https://www.space.com/space-exploration/launches-spacecraft/europes-space-rider-vehicle-comes-crashing-down-during-drop-test"
+      }
+     ],
+     "status": "test",
+     "tags": [
+      "launch",
+      "reusability",
+      "testing"
+     ],
+     "title": "Space Rider test model lost over Sardinia; ESA keeps 2028 maiden flight",
+     "summary": "ESA's Director of Space Transportation, Géraldine Naja, told a briefing on 22 October that a full-scale Space Rider test model was lost in a drop test on 6 October. The model was released from a helicopter at about three kilometres over a military range in Sardinia; the drogue parachute deployed, but the parafoil detached and the model struck the ground. Remnants were recovered and an investigation board has been set up. Naja said the remaining qualification work is not on the programme's critical path, but that the schedule will be reviewed once the board reports. ESA still targets the first half of 2028 for the first flight on Vega C.",
+     "why": "This is the first failure at system level in Space Rider's landing test campaign, which runs from an Italian range. The 2028 target stands for now, subject to the investigation."
+    }
+   ]
   }
  ],
  "priorities": [
@@ -439,6 +691,33 @@
    "exposure": "market opportunity",
    "implication": "Polish firms seeking Indian work have political cover but no new agency framework to point to yet.",
    "next": null
+  },
+  {
+   "rank": "P2",
+   "title": "Ukraine signals interest in a Finnish sovereign satcom system",
+   "iso3": [
+    "FIN",
+    "UKR"
+   ],
+   "status": "signature",
+   "exposure": "market opportunity",
+   "implication": "Governments weighing alternatives to Starlink now have a first state customer signal for a European-owned LEO satcom offer, though no order has been placed.",
+   "next": null
+  },
+  {
+   "rank": "P2",
+   "title": "ESA Council sets up the Rome exploration package",
+   "iso3": [
+    "FRA",
+    "ITA"
+   ],
+   "status": "decision",
+   "exposure": "policy change",
+   "implication": "Member States and industry planning LEO, lunar or Mars work should expect the proposal to frame discussion in Rome on 15 December.",
+   "next": {
+    "date": "2026-12-15",
+    "event": "IMM26, Rome"
+   }
   }
  ],
  "milestones": [
@@ -556,20 +835,20 @@
   }
  ],
  "stats": {
-  "revised": "2026-10-26 morning edition",
-  "searches": 26,
-  "sources": 14
+  "revised": "2026-10-26 morning edition, desks completed 2026-10-26T16:24 UTC",
+  "searches": 40,
+  "sources": 23
  },
  "audio_sections": [
   {
    "id": "opening",
    "title": "Opening",
-   "text": "Good morning. It's Monday, the twenty sixth of October, and here's what's happening in space.\n\nNASA has laid out how it plans to get astronauts back on the Moon in twenty twenty eight. China has added another batch of satellites to its state internet network. And Poland's prime minister has wrapped up his visit to India, with space high on the agenda but no new agency deal on paper."
+   "text": "Good morning. It's Monday, the twenty sixth of October, and here's what's happening in space.\n\nNASA has laid out how it plans to get astronauts back on the Moon in twenty twenty eight. China has added another batch of satellites to its state internet network. And Poland's prime minister has wrapped up his visit to India, with space high on the agenda but no new agency deal on paper. Closer to home, Europe's space agency has set its agenda for a December meeting in Rome, and Finland's ICEYE and Nokia have signed a satellite deal with Ukraine."
   },
   {
    "id": "top",
    "title": "Top story",
-   "text": "The top story comes from Florida. On Friday, NASA Administrator Jared Isaacman and senior agency leaders gave an update on the Artemis programme at Kennedy Space Center.\n\nThe headline is that the plan hasn't changed. NASA still aims to land astronauts on the Moon in twenty twenty eight. Before that, Artemis three will fly as a crewed test in low Earth orbit, rather than going to the Moon, and officials pointed to a launch in the summer of twenty twenty seven.\n\nThe programme manager, Jeremy Parsons, explained what the crew will actually do. They'll dock with a test version of Blue Origin's Blue Moon lander and stay attached for two days, climbing inside to check life support and other key systems. It's a rehearsal for the hardware that will eventually carry people down to the surface.\n\nThere are question marks over timing, though. Isaacman told NASA staff in a memo last month that Artemis three was running about three months behind, and Bloomberg reports concern that some hardware may not be ready in time. NASA's answer, for now, is that the schedule holds.\n\nLooking further ahead, the rovers that astronauts will drive on the Moon are set to come from two companies, Lunar Outpost and Venturi Astrolab. The bigger picture is that commercial landers, not just NASA's own rocket, now set the pace for the whole programme."
+   "text": "The top story comes from Florida. On Friday, NASA Administrator Jared Isaacman and senior agency leaders gave an update on the Artemis programme at Kennedy Space Center.\n\nThe headline is that the plan hasn't changed. NASA still aims to land astronauts on the Moon in twenty twenty eight. Before that, Artemis three will fly as a crewed test in low Earth orbit, rather than going to the Moon, and officials pointed to a launch in the summer of twenty twenty seven.\n\nThe programme manager, Jeremy Parsons, explained what the crew will actually do. They'll dock with a test version of Blue Origin's Blue Moon lander and stay attached for two days, climbing inside to check life support and other key systems. It's a rehearsal for the hardware that will eventually carry people down to the surface.\n\nThere are question marks over timing, though. Isaacman told NASA staff in a memo last month that Artemis three was running about three months behind, and Bloomberg reports concern that some hardware may not be ready in time. NASA's answer, for now, is that the schedule holds.\n\nThe bigger picture is that commercial landers, not just NASA's own rocket, now set the pace for the whole programme."
   },
   {
    "id": "world",
@@ -582,6 +861,11 @@
    "text": "In Poland, Prime Minister Donald Tusk finished his India trip in Bengaluru on Friday. He travelled with about a hundred business leaders, including the Polish Space Agency and the radar satellite company ICEYE.\n\nBoth governments said space has strong potential, and more than a dozen agreements were signed between companies at business forums in Delhi and Bengaluru. The two prime ministers also set a goal of doubling trade to twelve billion dollars by twenty thirty.\n\nWhat hasn't appeared, at least not publicly, is the cooperation agreement between the Polish Space Agency and India's space agency, ISRO, which had been talked about before the trip. So the political backing is there, but the formal framework is still to come.\n\nPolish coverage has focused on the openings for Polish space companies. The specialist site Space24 points out that ICEYE set up an Indian subsidiary in August, and cites reports that it's discussing a radar satellite constellation for India."
   },
   {
+   "id": "europe",
+   "title": "Europe and Eurasia",
+   "text": "Now to Europe. The European Space Agency's member states met in Paris on Wednesday and Thursday to prepare for a ministers' meeting in Rome on the fifteenth of December. On the table is a proposal called Europe's Future in Space Exploration, a step by step path in low Earth orbit, on the Moon and towards Mars.\n\nIn Western Europe, ESA confirmed that a full size Space Rider test model was lost over a military range in Sardinia on the sixth of October, when its main parafoil came away. ESA is still aiming for a first flight in the first half of twenty twenty eight.\n\nIn the Nordics, Finland's ICEYE and Nokia signed a letter of intent with Ukraine's defence ministry on Thursday, during the Finnish prime minister's Kyiv visit, to explore a satellite network Ukraine would own and control. ICEYE stresses it's not an order, and no price or timetable has been given.\n\nIn Russia, the head of Roscosmos, Dmitry Bakanov, said Russia and China are starting work on instruments for a joint Mars mission. The remarks were carried by state media, and no agreement or timeline has been published."
+  },
+  {
    "id": "industry",
    "title": "Industry and markets",
    "text": "On the business side, SpaceX has told US regulators it ended the third quarter with more than eleven thousand one hundred Starlink satellites in orbit, and that it added one point six million customers over those three months. Analysts quoted by CNBC say that, for governments looking for an alternative, there's still no ready replacement. That's the backdrop to Ukraine's recent move to explore a satellite network of its own."
@@ -589,7 +873,7 @@
   {
    "id": "ahead",
    "title": "The days ahead",
-   "text": "Looking ahead, NASA holds a virtual science town hall today on how it picks new missions. In Goa, the international committee on satellite navigation systems meets all week. Tomorrow, the Asia Pacific regional space agency forum opens in Bangkok, and the Defence in Space conference begins in London.\n\nOn Thursday, astronauts on the space station start the first of two spacewalks to fit new solar arrays. Friday is the deadline for comments on Blue Origin's request to launch up to fifty New Glenn rockets a year from Florida. The United States votes in its midterm elections on the third of November.\n\nFurther out, the European Parliament's industry committee votes on the EU Space Act on the tenth of November. NASA's commercial space station proposals are due on the eighth of December, and the European Space Agency meets in Rome on the fifteenth."
+   "text": "Looking ahead, the Asia Pacific regional space agency forum opens in Bangkok tomorrow, and the Defence in Space conference begins in London. On Thursday, astronauts on the space station start the first of two spacewalks to fit new solar arrays. The European Parliament's industry committee votes on the EU Space Act on the tenth of November. NASA's commercial space station proposals are due on the eighth of December, and ESA ministers meet in Rome on the fifteenth."
   },
   {
    "id": "close",
@@ -597,6 +881,6 @@
    "text": "That's the briefing for today. You'll find the full edition, with links to every source, on the Briefing tab. Have a good day."
   }
  ],
- "audio_script": "Good morning. It's Monday, the twenty sixth of October, and here's what's happening in space.\n\nNASA has laid out how it plans to get astronauts back on the Moon in twenty twenty eight. China has added another batch of satellites to its state internet network. And Poland's prime minister has wrapped up his visit to India, with space high on the agenda but no new agency deal on paper.\n\nThe top story comes from Florida. On Friday, NASA Administrator Jared Isaacman and senior agency leaders gave an update on the Artemis programme at Kennedy Space Center.\n\nThe headline is that the plan hasn't changed. NASA still aims to land astronauts on the Moon in twenty twenty eight. Before that, Artemis three will fly as a crewed test in low Earth orbit, rather than going to the Moon, and officials pointed to a launch in the summer of twenty twenty seven.\n\nThe programme manager, Jeremy Parsons, explained what the crew will actually do. They'll dock with a test version of Blue Origin's Blue Moon lander and stay attached for two days, climbing inside to check life support and other key systems. It's a rehearsal for the hardware that will eventually carry people down to the surface.\n\nThere are question marks over timing, though. Isaacman told NASA staff in a memo last month that Artemis three was running about three months behind, and Bloomberg reports concern that some hardware may not be ready in time. NASA's answer, for now, is that the schedule holds.\n\nLooking further ahead, the rovers that astronauts will drive on the Moon are set to come from two companies, Lunar Outpost and Venturi Astrolab. The bigger picture is that commercial landers, not just NASA's own rocket, now set the pace for the whole programme.\n\nIn China, a Long March eight A rocket lifted off from the commercial launch site on Hainan island on Sunday morning, Beijing time. According to the state news agency Xinhua, it carried the twenty eighth group of satellites for China's low orbit internet network, built by the China Academy of Space Technology.\n\nThe official notice didn't say how many satellites were on board, only the group number. The previous batch went up just fifteen days earlier. Put simply, China is building a national broadband network in orbit, batch by batch, at a steady clip. For governments weighing up where their satellite connections come from, that's now a second network of this scale taking shape, alongside SpaceX's Starlink.\n\nIn Saudi Arabia, the Royal Commission for AlUla says two LaserSETI stations are now up and running at its AlUla Manara observatory site. They watch the night sky for brief flashes of light, and the SETI Institute says they're the network's first stations anywhere in Asia. It's a small, scientific step, but it shows Saudi institutions building research capacity on the ground, as well as in orbit.\n\nIn Poland, Prime Minister Donald Tusk finished his India trip in Bengaluru on Friday. He travelled with about a hundred business leaders, including the Polish Space Agency and the radar satellite company ICEYE.\n\nBoth governments said space has strong potential, and more than a dozen agreements were signed between companies at business forums in Delhi and Bengaluru. The two prime ministers also set a goal of doubling trade to twelve billion dollars by twenty thirty.\n\nWhat hasn't appeared, at least not publicly, is the cooperation agreement between the Polish Space Agency and India's space agency, ISRO, which had been talked about before the trip. So the political backing is there, but the formal framework is still to come.\n\nPolish coverage has focused on the openings for Polish space companies. The specialist site Space24 points out that ICEYE set up an Indian subsidiary in August, and cites reports that it's discussing a radar satellite constellation for India.\n\nOn the business side, SpaceX has told US regulators it ended the third quarter with more than eleven thousand one hundred Starlink satellites in orbit, and that it added one point six million customers over those three months. Analysts quoted by CNBC say that, for governments looking for an alternative, there's still no ready replacement. That's the backdrop to Ukraine's recent move to explore a satellite network of its own.\n\nLooking ahead, NASA holds a virtual science town hall today on how it picks new missions. In Goa, the international committee on satellite navigation systems meets all week. Tomorrow, the Asia Pacific regional space agency forum opens in Bangkok, and the Defence in Space conference begins in London.\n\nOn Thursday, astronauts on the space station start the first of two spacewalks to fit new solar arrays. Friday is the deadline for comments on Blue Origin's request to launch up to fifty New Glenn rockets a year from Florida. The United States votes in its midterm elections on the third of November.\n\nFurther out, the European Parliament's industry committee votes on the EU Space Act on the tenth of November. NASA's commercial space station proposals are due on the eighth of December, and the European Space Agency meets in Rome on the fifteenth.\n\nThat's the briefing for today. You'll find the full edition, with links to every source, on the Briefing tab. Have a good day.",
+ "audio_script": "Good morning. It's Monday, the twenty sixth of October, and here's what's happening in space.\n\nNASA has laid out how it plans to get astronauts back on the Moon in twenty twenty eight. China has added another batch of satellites to its state internet network. And Poland's prime minister has wrapped up his visit to India, with space high on the agenda but no new agency deal on paper. Closer to home, Europe's space agency has set its agenda for a December meeting in Rome, and Finland's ICEYE and Nokia have signed a satellite deal with Ukraine.\n\nThe top story comes from Florida. On Friday, NASA Administrator Jared Isaacman and senior agency leaders gave an update on the Artemis programme at Kennedy Space Center.\n\nThe headline is that the plan hasn't changed. NASA still aims to land astronauts on the Moon in twenty twenty eight. Before that, Artemis three will fly as a crewed test in low Earth orbit, rather than going to the Moon, and officials pointed to a launch in the summer of twenty twenty seven.\n\nThe programme manager, Jeremy Parsons, explained what the crew will actually do. They'll dock with a test version of Blue Origin's Blue Moon lander and stay attached for two days, climbing inside to check life support and other key systems. It's a rehearsal for the hardware that will eventually carry people down to the surface.\n\nThere are question marks over timing, though. Isaacman told NASA staff in a memo last month that Artemis three was running about three months behind, and Bloomberg reports concern that some hardware may not be ready in time. NASA's answer, for now, is that the schedule holds.\n\nThe bigger picture is that commercial landers, not just NASA's own rocket, now set the pace for the whole programme.\n\nIn China, a Long March eight A rocket lifted off from the commercial launch site on Hainan island on Sunday morning, Beijing time. According to the state news agency Xinhua, it carried the twenty eighth group of satellites for China's low orbit internet network, built by the China Academy of Space Technology.\n\nThe official notice didn't say how many satellites were on board, only the group number. The previous batch went up just fifteen days earlier. Put simply, China is building a national broadband network in orbit, batch by batch, at a steady clip. For governments weighing up where their satellite connections come from, that's now a second network of this scale taking shape, alongside SpaceX's Starlink.\n\nIn Saudi Arabia, the Royal Commission for AlUla says two LaserSETI stations are now up and running at its AlUla Manara observatory site. They watch the night sky for brief flashes of light, and the SETI Institute says they're the network's first stations anywhere in Asia. It's a small, scientific step, but it shows Saudi institutions building research capacity on the ground, as well as in orbit.\n\nIn Poland, Prime Minister Donald Tusk finished his India trip in Bengaluru on Friday. He travelled with about a hundred business leaders, including the Polish Space Agency and the radar satellite company ICEYE.\n\nBoth governments said space has strong potential, and more than a dozen agreements were signed between companies at business forums in Delhi and Bengaluru. The two prime ministers also set a goal of doubling trade to twelve billion dollars by twenty thirty.\n\nWhat hasn't appeared, at least not publicly, is the cooperation agreement between the Polish Space Agency and India's space agency, ISRO, which had been talked about before the trip. So the political backing is there, but the formal framework is still to come.\n\nPolish coverage has focused on the openings for Polish space companies. The specialist site Space24 points out that ICEYE set up an Indian subsidiary in August, and cites reports that it's discussing a radar satellite constellation for India.\n\nNow to Europe. The European Space Agency's member states met in Paris on Wednesday and Thursday to prepare for a ministers' meeting in Rome on the fifteenth of December. On the table is a proposal called Europe's Future in Space Exploration, a step by step path in low Earth orbit, on the Moon and towards Mars.\n\nIn Western Europe, ESA confirmed that a full size Space Rider test model was lost over a military range in Sardinia on the sixth of October, when its main parafoil came away. ESA is still aiming for a first flight in the first half of twenty twenty eight.\n\nIn the Nordics, Finland's ICEYE and Nokia signed a letter of intent with Ukraine's defence ministry on Thursday, during the Finnish prime minister's Kyiv visit, to explore a satellite network Ukraine would own and control. ICEYE stresses it's not an order, and no price or timetable has been given.\n\nIn Russia, the head of Roscosmos, Dmitry Bakanov, said Russia and China are starting work on instruments for a joint Mars mission. The remarks were carried by state media, and no agreement or timeline has been published.\n\nOn the business side, SpaceX has told US regulators it ended the third quarter with more than eleven thousand one hundred Starlink satellites in orbit, and that it added one point six million customers over those three months. Analysts quoted by CNBC say that, for governments looking for an alternative, there's still no ready replacement. That's the backdrop to Ukraine's recent move to explore a satellite network of its own.\n\nLooking ahead, the Asia Pacific regional space agency forum opens in Bangkok tomorrow, and the Defence in Space conference begins in London. On Thursday, astronauts on the space station start the first of two spacewalks to fit new solar arrays. The European Parliament's industry committee votes on the EU Space Act on the tenth of November. NASA's commercial space station proposals are due on the eighth of December, and ESA ministers meet in Rome on the fifteenth.\n\nThat's the briefing for today. You'll find the full edition, with links to every source, on the Briefing tab. Have a good day.",
  "profile_updates": []
 }
