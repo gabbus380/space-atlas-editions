@@ -1,0 +1,20 @@
+name: Keep this repo to briefings
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  paths:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Reject anything other than a briefing
+        run: |
+          bad=$(git ls-files | grep -vE '^(README.md|.gitignore|briefings/[0-9]{4}-[0-9]{2}-[0-9]{2}\.json|audio/brief_[0-9]{4}-[0-9]{2}-[0-9]{2}\.mp4|.github/workflows/guard.yml)$' || true)
+          if [ -n "$bad" ]; then
+            echo "These files do not belong in this repository:"
+            echo "$bad"
+            exit 1
+          fi
