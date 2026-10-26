@@ -1,0 +1,602 @@
+{
+ "date": "2026-10-26",
+ "edition": "06:00 UTC",
+ "generated_at": "2026-10-26T12:35:40+00:00",
+ "headline": "NASA restates its 2028 Moon landing plan as China adds another state broadband batch",
+ "summary": [
+  "NASA set out on 23 October how it intends to land astronauts on the Moon in 2028; Artemis III stays a crewed orbital test, with a summer 2027 launch in view and a two-day docking with a Blue Moon test lander.",
+  "China launched the 28th group of its state low-orbit internet satellites on a Long March 8A from Hainan on 25 October, fifteen days after the 27th.",
+  "Poland's prime minister closed his India visit in Bengaluru with space named as a priority, but no POLSA and ISRO agreement had been publicly reported.",
+  "Saudi Arabia's Royal Commission for AlUla commissioned two LaserSETI stations, the network's first site in Asia."
+ ],
+ "bottom_line": "The weekend brought confirmation rather than new decisions: NASA kept its 2028 landing target and commercial landers at the centre of it, while China kept adding state broadband capacity. The next dated decisions are NASA's commercial station proposals on 8 December and ESA's Rome meeting on 15 December.",
+ "global": [
+  {
+   "date": "2026-10-23",
+   "exposure": "market opportunity",
+   "iso3": [
+    "USA"
+   ],
+   "priority": "P1",
+   "next": {
+    "date": "2026-12-08",
+    "event": "NASA commercial space station proposals due"
+   },
+   "sources": [
+    {
+     "outlet": "NASA",
+     "primary": true,
+     "title": "NASA Shares Artemis Acceleration Plans for Moon Missions",
+     "url": "https://www.nasa.gov/blogs/missions/2026/10/23/nasa-shares-artemis-acceleration-plans-for-moon-missions/"
+    },
+    {
+     "outlet": "Bloomberg",
+     "title": "NASA Sticks to Artemis Moon Mission Timeline Despite Hardware Delays",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-23/nasa-commits-to-lunar-mission-timeline-despite-hardware-concerns"
+    },
+    {
+     "outlet": "Spectrum News 13",
+     "title": "NASA gives update to Artemis III mission",
+     "url": "https://mynews13.com/fl/orlando/space/2026/10/23/nasa-gives-update-to-artemis-iii-mission"
+    }
+   ],
+   "status": "statement",
+   "tags": [
+    "human spaceflight",
+    "policy",
+    "industry"
+   ],
+   "title": "NASA restates a 2028 Moon landing and details the Artemis III orbital test",
+   "summary": "NASA Administrator Jared Isaacman and agency leaders set out on 23 October the path to returning astronauts to the lunar surface in 2028. Artemis III will not land: it is a crewed mission in low Earth orbit, with officials pointing to a summer 2027 launch. Artemis programme manager Jeremy Parsons said the crew will dock with a Blue Moon lander test article for two days to check life support and other systems. Isaacman had told staff in a September memo that Artemis III was about three months behind schedule, and Bloomberg reports concern that hardware may not be ready in time. Lunar terrain vehicles for later surface operations are to come from Lunar Outpost and Venturi Astrolab.",
+   "why": "The briefing confirmed the restructured sequence rather than changing it: an orbital test in 2027 and a landing attempt in 2028. It follows the 23 October ledger entry that flagged the update, and keeps commercial landers, not SLS alone, at the centre of the schedule."
+  },
+  {
+   "date": "2026-10-25",
+   "exposure": "competitive move",
+   "iso3": [
+    "CHN"
+   ],
+   "priority": "P2",
+   "next": null,
+   "sources": [
+    {
+     "outlet": "Xinhua (state news agency)",
+     "primary": true,
+     "title": "China launches new internet satellite group",
+     "url": "https://english.news.cn/20261025/9db370bd21374619aa7ad7a637a20657/c.html"
+    },
+    {
+     "outlet": "Guangming Online (state-owned)",
+     "title": "China launches new internet satellite group",
+     "url": "https://en.gmw.cn/2026-10/26/content_39065242.htm"
+    },
+    {
+     "outlet": "New Space Economy",
+     "title": "China Launches Its 28th Low-Orbit Internet Satellite Group",
+     "url": "https://newspaceeconomy.ca/2026/10/25/china-launches-its-28th-low-orbit-internet-satellite-group/"
+    }
+   ],
+   "status": "launch",
+   "tags": [
+    "launch",
+    "connectivity",
+    "industry"
+   ],
+   "title": "China launches the 28th batch of its state low-orbit internet constellation",
+   "summary": "A Long March 8A lifted off from the Hainan commercial spacecraft launch site at 10:03 Beijing time on 25 October and placed the 28th group of low-orbit internet satellites in orbit, according to Xinhua. The satellites were built by the China Academy of Space Technology. The state announcement gave the group number but not the number of spacecraft. The 27th group flew on a Long March 12 from the same site on 10 October. The Long March 8A is designed for constellation launches to medium and low Earth orbit.",
+   "why": "Two state broadband batches in fifteen days show a steady deployment cadence for the state-backed network. It is the Chinese counterpart to the sovereign connectivity question raised by the Starlink dispute in Ukraine recorded in the ledger."
+  }
+ ],
+ "regions": [
+  {
+   "id": "esa_eu",
+   "name": "ESA and EU",
+   "items": []
+  },
+  {
+   "id": "cee",
+   "name": "Central and Eastern Europe",
+   "items": [
+    {
+     "date": "2026-10-23",
+     "exposure": "market opportunity",
+     "iso3": [
+      "POL",
+      "IND"
+     ],
+     "priority": "P2",
+     "next": null,
+     "sources": [
+      {
+       "outlet": "Defence24",
+       "title": "Ambitious plans and the need for follow-up. Aftermath of Donald Tusk's visit to India",
+       "url": "https://defence24.com/geopolitics/ambitious-plans-and-the-need-for-follow-up-aftermath-of-donald-tusks-visit-to-india"
+      },
+      {
+       "outlet": "Space24 (Polish)",
+       "title": "Tusk w Indiach. Wielka szansa dla polskiego sektora kosmicznego?",
+       "url": "https://space24.pl/polityka-kosmiczna/polska/tusk-w-indiach-wielka-szansa-dla-polskiego-sektora-kosmicznego"
+      },
+      {
+       "outlet": "ANI",
+       "title": "Polish PM Tusk in Bengaluru; meets CM DK Shivakumar, aims to explore opportunities for collaboration",
+       "url": "https://www.aninews.in/news/world/asia/polish-pm-tusk-in-bengaluru-meets-cm-dk-shivakumar-aims-to-explore-opportunities-for-collaboration20261023105850/"
+      }
+     ],
+     "status": "visit",
+     "tags": [
+      "policy",
+      "industry",
+      "defence"
+     ],
+     "title": "Tusk's Bengaluru stop closes without a published POLSA and ISRO agreement",
+     "summary": "Prime Minister Donald Tusk visited Bengaluru on 23 October with a business delegation of about 100, including the Polish Space Agency and ICEYE. Defence24 reports that both sides named space as an area with strong potential and that more than a dozen MoUs were signed at business forums in Delhi and Bengaluru. The two prime ministers set a goal of doubling bilateral trade to USD 12 billion by 2030. A POLSA and ISRO cooperation agreement had been trailed before the visit, but no signing had been publicly reported at the time of publication. Space24 notes that ICEYE set up an Indian subsidiary in August and cites reports that it is discussing a sovereign radar constellation for India.",
+     "why": "The visit ended with political backing for space cooperation but no confirmed agency-level text. It updates the 23 October ledger entry, which listed the POLSA and ISRO agreement as planned."
+    }
+   ]
+  },
+  {
+   "id": "nordics",
+   "name": "Nordics",
+   "items": []
+  },
+  {
+   "id": "west",
+   "name": "Western and Southern Europe",
+   "items": []
+  },
+  {
+   "id": "eurasia",
+   "name": "Eurasia and Central Asia",
+   "items": []
+  },
+  {
+   "id": "mena",
+   "name": "Türkiye, Middle East and Africa",
+   "items": [
+    {
+     "date": "2026-10-25",
+     "exposure": "context",
+     "iso3": [
+      "SAU"
+     ],
+     "priority": "P3",
+     "next": null,
+     "sources": [
+      {
+       "outlet": "Saudi Press Agency (state)",
+       "primary": true,
+       "title": "AlUla Announces Commissioning of Two LaserSETI Astronomical Observation Stations at Project's First Site in Asia",
+       "url": "https://www.spa.gov.sa/en/w2709712"
+      },
+      {
+       "outlet": "SETI Institute",
+       "primary": true,
+       "title": "SETI Institute and Royal Commission for AlUla Bring Two LaserSETI Stations to Saudi Arabia",
+       "url": "https://www.seti.org/news/laserseti-stations-in-saudi-arabia/"
+      }
+     ],
+     "status": "commissioning",
+     "tags": [
+      "science"
+     ],
+     "title": "Royal Commission for AlUla commissions two LaserSETI stations",
+     "summary": "The Royal Commission for AlUla announced on 25 October that two LaserSETI stations at AlUla Manara are installed and commissioned. The SETI Institute says the stations were installed on 19 August, are fully operational, and are the network's first site in Asia. The institute will run and maintain them for three years with the commission under a partnership announced in August 2024. The stations monitor the night sky for transient optical events. The state agency framed the step as part of Vision 2030.",
+     "why": "A state body is building ground-based astronomy capacity alongside the Saudi Space Agency's programmes. It is a new ledger entry for Saudi Arabia; the scale is small and the work is scientific rather than industrial."
+    }
+   ]
+  },
+  {
+   "id": "asia_pac",
+   "name": "Asia Pacific",
+   "items": [
+    {
+     "date": "2026-10-25",
+     "exposure": "competitive move",
+     "iso3": [
+      "CHN"
+     ],
+     "priority": "P2",
+     "next": null,
+     "sources": [
+      {
+       "outlet": "Xinhua (state news agency)",
+       "primary": true,
+       "title": "China launches new internet satellite group",
+       "url": "https://english.news.cn/20261025/9db370bd21374619aa7ad7a637a20657/c.html"
+      },
+      {
+       "outlet": "Guangming Online (state-owned)",
+       "title": "China launches new internet satellite group",
+       "url": "https://en.gmw.cn/2026-10/26/content_39065242.htm"
+      },
+      {
+       "outlet": "New Space Economy",
+       "title": "China Launches Its 28th Low-Orbit Internet Satellite Group",
+       "url": "https://newspaceeconomy.ca/2026/10/25/china-launches-its-28th-low-orbit-internet-satellite-group/"
+      }
+     ],
+     "status": "launch",
+     "tags": [
+      "launch",
+      "connectivity",
+      "industry"
+     ],
+     "title": "China launches the 28th batch of its state low-orbit internet constellation",
+     "summary": "A Long March 8A lifted off from the Hainan commercial spacecraft launch site at 10:03 Beijing time on 25 October and placed the 28th group of low-orbit internet satellites in orbit, according to Xinhua. The satellites were built by the China Academy of Space Technology. The state announcement gave the group number but not the number of spacecraft. The 27th group flew on a Long March 12 from the same site on 10 October. The Long March 8A is designed for constellation launches to medium and low Earth orbit.",
+     "why": "Two state broadband batches in fifteen days show a steady deployment cadence for the state-backed network. It is the Chinese counterpart to the sovereign connectivity question raised by the Starlink dispute in Ukraine recorded in the ledger."
+    }
+   ]
+  },
+  {
+   "id": "americas",
+   "name": "Americas",
+   "items": [
+    {
+     "date": "2026-10-23",
+     "exposure": "market opportunity",
+     "iso3": [
+      "USA"
+     ],
+     "priority": "P1",
+     "next": {
+      "date": "2026-12-08",
+      "event": "NASA commercial space station proposals due"
+     },
+     "sources": [
+      {
+       "outlet": "NASA",
+       "primary": true,
+       "title": "NASA Shares Artemis Acceleration Plans for Moon Missions",
+       "url": "https://www.nasa.gov/blogs/missions/2026/10/23/nasa-shares-artemis-acceleration-plans-for-moon-missions/"
+      },
+      {
+       "outlet": "Bloomberg",
+       "title": "NASA Sticks to Artemis Moon Mission Timeline Despite Hardware Delays",
+       "url": "https://www.bloomberg.com/news/articles/2026-10-23/nasa-commits-to-lunar-mission-timeline-despite-hardware-concerns"
+      },
+      {
+       "outlet": "Spectrum News 13",
+       "title": "NASA gives update to Artemis III mission",
+       "url": "https://mynews13.com/fl/orlando/space/2026/10/23/nasa-gives-update-to-artemis-iii-mission"
+      }
+     ],
+     "status": "statement",
+     "tags": [
+      "human spaceflight",
+      "policy",
+      "industry"
+     ],
+     "title": "NASA restates a 2028 Moon landing and details the Artemis III orbital test",
+     "summary": "NASA Administrator Jared Isaacman and agency leaders set out on 23 October the path to returning astronauts to the lunar surface in 2028. Artemis III will not land: it is a crewed mission in low Earth orbit, with officials pointing to a summer 2027 launch. Artemis programme manager Jeremy Parsons said the crew will dock with a Blue Moon lander test article for two days to check life support and other systems. Isaacman had told staff in a September memo that Artemis III was about three months behind schedule, and Bloomberg reports concern that hardware may not be ready in time. Lunar terrain vehicles for later surface operations are to come from Lunar Outpost and Venturi Astrolab.",
+     "why": "The briefing confirmed the restructured sequence rather than changing it: an orbital test in 2027 and a landing attempt in 2028. It follows the 23 October ledger entry that flagged the update, and keeps commercial landers, not SLS alone, at the centre of the schedule."
+    }
+   ]
+  }
+ ],
+ "countries": [
+  {
+   "iso3": "USA",
+   "items": [
+    {
+     "date": "2026-10-23",
+     "exposure": "market opportunity",
+     "iso3": [
+      "USA"
+     ],
+     "priority": "P1",
+     "next": {
+      "date": "2026-12-08",
+      "event": "NASA commercial space station proposals due"
+     },
+     "sources": [
+      {
+       "outlet": "NASA",
+       "primary": true,
+       "title": "NASA Shares Artemis Acceleration Plans for Moon Missions",
+       "url": "https://www.nasa.gov/blogs/missions/2026/10/23/nasa-shares-artemis-acceleration-plans-for-moon-missions/"
+      },
+      {
+       "outlet": "Bloomberg",
+       "title": "NASA Sticks to Artemis Moon Mission Timeline Despite Hardware Delays",
+       "url": "https://www.bloomberg.com/news/articles/2026-10-23/nasa-commits-to-lunar-mission-timeline-despite-hardware-concerns"
+      },
+      {
+       "outlet": "Spectrum News 13",
+       "title": "NASA gives update to Artemis III mission",
+       "url": "https://mynews13.com/fl/orlando/space/2026/10/23/nasa-gives-update-to-artemis-iii-mission"
+      }
+     ],
+     "status": "statement",
+     "tags": [
+      "human spaceflight",
+      "policy",
+      "industry"
+     ],
+     "title": "NASA restates a 2028 Moon landing and details the Artemis III orbital test",
+     "summary": "NASA Administrator Jared Isaacman and agency leaders set out on 23 October the path to returning astronauts to the lunar surface in 2028. Artemis III will not land: it is a crewed mission in low Earth orbit, with officials pointing to a summer 2027 launch. Artemis programme manager Jeremy Parsons said the crew will dock with a Blue Moon lander test article for two days to check life support and other systems. Isaacman had told staff in a September memo that Artemis III was about three months behind schedule, and Bloomberg reports concern that hardware may not be ready in time. Lunar terrain vehicles for later surface operations are to come from Lunar Outpost and Venturi Astrolab.",
+     "why": "The briefing confirmed the restructured sequence rather than changing it: an orbital test in 2027 and a landing attempt in 2028. It follows the 23 October ledger entry that flagged the update, and keeps commercial landers, not SLS alone, at the centre of the schedule."
+    }
+   ]
+  },
+  {
+   "iso3": "CHN",
+   "items": [
+    {
+     "date": "2026-10-25",
+     "exposure": "competitive move",
+     "iso3": [
+      "CHN"
+     ],
+     "priority": "P2",
+     "next": null,
+     "sources": [
+      {
+       "outlet": "Xinhua (state news agency)",
+       "primary": true,
+       "title": "China launches new internet satellite group",
+       "url": "https://english.news.cn/20261025/9db370bd21374619aa7ad7a637a20657/c.html"
+      },
+      {
+       "outlet": "Guangming Online (state-owned)",
+       "title": "China launches new internet satellite group",
+       "url": "https://en.gmw.cn/2026-10/26/content_39065242.htm"
+      },
+      {
+       "outlet": "New Space Economy",
+       "title": "China Launches Its 28th Low-Orbit Internet Satellite Group",
+       "url": "https://newspaceeconomy.ca/2026/10/25/china-launches-its-28th-low-orbit-internet-satellite-group/"
+      }
+     ],
+     "status": "launch",
+     "tags": [
+      "launch",
+      "connectivity",
+      "industry"
+     ],
+     "title": "China launches the 28th batch of its state low-orbit internet constellation",
+     "summary": "A Long March 8A lifted off from the Hainan commercial spacecraft launch site at 10:03 Beijing time on 25 October and placed the 28th group of low-orbit internet satellites in orbit, according to Xinhua. The satellites were built by the China Academy of Space Technology. The state announcement gave the group number but not the number of spacecraft. The 27th group flew on a Long March 12 from the same site on 10 October. The Long March 8A is designed for constellation launches to medium and low Earth orbit.",
+     "why": "Two state broadband batches in fifteen days show a steady deployment cadence for the state-backed network. It is the Chinese counterpart to the sovereign connectivity question raised by the Starlink dispute in Ukraine recorded in the ledger."
+    }
+   ]
+  },
+  {
+   "iso3": "POL",
+   "items": [
+    {
+     "date": "2026-10-23",
+     "exposure": "market opportunity",
+     "iso3": [
+      "POL",
+      "IND"
+     ],
+     "priority": "P2",
+     "next": null,
+     "sources": [
+      {
+       "outlet": "Defence24",
+       "title": "Ambitious plans and the need for follow-up. Aftermath of Donald Tusk's visit to India",
+       "url": "https://defence24.com/geopolitics/ambitious-plans-and-the-need-for-follow-up-aftermath-of-donald-tusks-visit-to-india"
+      },
+      {
+       "outlet": "Space24 (Polish)",
+       "title": "Tusk w Indiach. Wielka szansa dla polskiego sektora kosmicznego?",
+       "url": "https://space24.pl/polityka-kosmiczna/polska/tusk-w-indiach-wielka-szansa-dla-polskiego-sektora-kosmicznego"
+      },
+      {
+       "outlet": "ANI",
+       "title": "Polish PM Tusk in Bengaluru; meets CM DK Shivakumar, aims to explore opportunities for collaboration",
+       "url": "https://www.aninews.in/news/world/asia/polish-pm-tusk-in-bengaluru-meets-cm-dk-shivakumar-aims-to-explore-opportunities-for-collaboration20261023105850/"
+      }
+     ],
+     "status": "visit",
+     "tags": [
+      "policy",
+      "industry",
+      "defence"
+     ],
+     "title": "Tusk's Bengaluru stop closes without a published POLSA and ISRO agreement",
+     "summary": "Prime Minister Donald Tusk visited Bengaluru on 23 October with a business delegation of about 100, including the Polish Space Agency and ICEYE. Defence24 reports that both sides named space as an area with strong potential and that more than a dozen MoUs were signed at business forums in Delhi and Bengaluru. The two prime ministers set a goal of doubling bilateral trade to USD 12 billion by 2030. A POLSA and ISRO cooperation agreement had been trailed before the visit, but no signing had been publicly reported at the time of publication. Space24 notes that ICEYE set up an Indian subsidiary in August and cites reports that it is discussing a sovereign radar constellation for India.",
+     "why": "The visit ended with political backing for space cooperation but no confirmed agency-level text. It updates the 23 October ledger entry, which listed the POLSA and ISRO agreement as planned."
+    }
+   ]
+  }
+ ],
+ "priorities": [
+  {
+   "rank": "P1",
+   "title": "Artemis III stays an orbital test; landing still targeted for 2028",
+   "iso3": [
+    "USA"
+   ],
+   "status": "statement",
+   "exposure": "market opportunity",
+   "implication": "Lander readiness, which NASA now treats as the pacing item, governs timing for partners planning lunar payloads or crew roles.",
+   "next": {
+    "date": "2026-12-08",
+    "event": "Commercial station proposals due"
+   }
+  },
+  {
+   "rank": "P2",
+   "title": "China's state LEO broadband network adds a 28th batch",
+   "iso3": [
+    "CHN"
+   ],
+   "status": "launch",
+   "exposure": "competitive move",
+   "implication": "Governments comparing sovereign connectivity options face a second state-scale constellation in deployment alongside Starlink.",
+   "next": null
+  },
+  {
+   "rank": "P2",
+   "title": "Poland and India name space a priority without a published agency agreement",
+   "iso3": [
+    "POL",
+    "IND"
+   ],
+   "status": "visit",
+   "exposure": "market opportunity",
+   "implication": "Polish firms seeking Indian work have political cover but no new agency framework to point to yet.",
+   "next": null
+  }
+ ],
+ "milestones": [
+  {
+   "date": "2026-10-29",
+   "event": "First of two ISS spacewalks to install new solar arrays",
+   "iso3": [
+    "USA"
+   ],
+   "status": "event",
+   "why": "Keeps station power upgrades on track ahead of the commercial transition"
+  },
+  {
+   "date": "2026-11-10",
+   "event": "European Parliament industry committee vote on the EU Space Act",
+   "iso3": [],
+   "status": "event",
+   "why": "Sets the Parliament's line on rules for non-EU operators serving EU customers"
+  },
+  {
+   "date": "2026-12-08",
+   "event": "NASA commercial space station proposals due",
+   "iso3": [
+    "USA"
+   ],
+   "status": "deadline",
+   "why": "Shapes who hosts Western crews in LEO after the ISS"
+  },
+  {
+   "date": "2026-12-15",
+   "event": "ESA Intermediate Ministerial Meeting in Rome",
+   "iso3": [
+    "ITA"
+   ],
+   "status": "event",
+   "why": "Next step on Europe's LEO, Moon and Mars path before CM28"
+  }
+ ],
+ "watchlist": [
+  {
+   "date": "2026-10-26",
+   "event": "NASA Science virtual town hall on changes to mission competition and selection",
+   "iso3": [
+    "USA"
+   ],
+   "where": "Online"
+  },
+  {
+   "date": "2026-10-26",
+   "event": "ICG-20, International Committee on GNSS, continues until 30 October",
+   "iso3": [
+    "IND"
+   ],
+   "where": "Goa, India"
+  },
+  {
+   "date": "2026-10-27",
+   "event": "APRSAF-32 Asia-Pacific Regional Space Agency Forum opens (to 30 October)",
+   "iso3": [
+    "THA",
+    "JPN"
+   ],
+   "where": "Bangkok, Thailand"
+  },
+  {
+   "date": "2026-10-27",
+   "event": "Defence in Space Conference 2026 (to 28 October)",
+   "iso3": [
+    "GBR"
+   ],
+   "where": "London, United Kingdom"
+  },
+  {
+   "date": "2026-10-30",
+   "event": "Comment deadline on Blue Origin's request for up to 50 New Glenn launches a year from Florida",
+   "iso3": [
+    "USA"
+   ],
+   "where": "United States"
+  },
+  {
+   "date": "2026-11-03",
+   "event": "US midterm elections",
+   "iso3": [
+    "USA"
+   ],
+   "where": "United States"
+  }
+ ],
+ "competitive_watch": [
+  {
+   "competitor": "SpaceX",
+   "date": "2026-10-20",
+   "exposure": "competitive move",
+   "iso3": [
+    "USA",
+    "UKR"
+   ],
+   "next": null,
+   "sources": [
+    {
+     "outlet": "Spaceflight Now",
+     "title": "SpaceX launches Starlink 15-15 mission following a trio of scrubs",
+     "url": "https://spaceflightnow.com/2026/10/20/live-coverage-spacex-to-launch-27-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-5/"
+    },
+    {
+     "outlet": "CNBC",
+     "title": "In hunt for Starlink alternative, Ukraine partners with Nokia and satellite maker ICEYE",
+     "url": "https://www.cnbc.com/2026/10/23/ukraine-partners-with-nokia-and-iceye-for-starlink-alternative.html"
+    }
+   ],
+   "status": "filing",
+   "title": "SpaceX reports more than 11,100 Starlink satellites in orbit",
+   "summary": "SpaceX told the US Securities and Exchange Commission it closed the third quarter with more than 11,100 Starlink satellites in low Earth orbit, and said it added 1.6 million customers in the quarter. Analysts quoted by CNBC say no drop-in replacement exists for governments seeking alternatives."
+  }
+ ],
+ "stats": {
+  "revised": "2026-10-26 morning edition",
+  "searches": 26,
+  "sources": 14
+ },
+ "audio_sections": [
+  {
+   "id": "opening",
+   "title": "Opening",
+   "text": "Good morning. It's Monday, the twenty sixth of October, and here's what's happening in space.\n\nNASA has laid out how it plans to get astronauts back on the Moon in twenty twenty eight. China has added another batch of satellites to its state internet network. And Poland's prime minister has wrapped up his visit to India, with space high on the agenda but no new agency deal on paper."
+  },
+  {
+   "id": "top",
+   "title": "Top story",
+   "text": "The top story comes from Florida. On Friday, NASA Administrator Jared Isaacman and senior agency leaders gave an update on the Artemis programme at Kennedy Space Center.\n\nThe headline is that the plan hasn't changed. NASA still aims to land astronauts on the Moon in twenty twenty eight. Before that, Artemis three will fly as a crewed test in low Earth orbit, rather than going to the Moon, and officials pointed to a launch in the summer of twenty twenty seven.\n\nThe programme manager, Jeremy Parsons, explained what the crew will actually do. They'll dock with a test version of Blue Origin's Blue Moon lander and stay attached for two days, climbing inside to check life support and other key systems. It's a rehearsal for the hardware that will eventually carry people down to the surface.\n\nThere are question marks over timing, though. Isaacman told NASA staff in a memo last month that Artemis three was running about three months behind, and Bloomberg reports concern that some hardware may not be ready in time. NASA's answer, for now, is that the schedule holds.\n\nLooking further ahead, the rovers that astronauts will drive on the Moon are set to come from two companies, Lunar Outpost and Venturi Astrolab. The bigger picture is that commercial landers, not just NASA's own rocket, now set the pace for the whole programme."
+  },
+  {
+   "id": "world",
+   "title": "Around the world",
+   "text": "In China, a Long March eight A rocket lifted off from the commercial launch site on Hainan island on Sunday morning, Beijing time. According to the state news agency Xinhua, it carried the twenty eighth group of satellites for China's low orbit internet network, built by the China Academy of Space Technology.\n\nThe official notice didn't say how many satellites were on board, only the group number. The previous batch went up just fifteen days earlier. Put simply, China is building a national broadband network in orbit, batch by batch, at a steady clip. For governments weighing up where their satellite connections come from, that's now a second network of this scale taking shape, alongside SpaceX's Starlink.\n\nIn Saudi Arabia, the Royal Commission for AlUla says two LaserSETI stations are now up and running at its AlUla Manara observatory site. They watch the night sky for brief flashes of light, and the SETI Institute says they're the network's first stations anywhere in Asia. It's a small, scientific step, but it shows Saudi institutions building research capacity on the ground, as well as in orbit."
+  },
+  {
+   "id": "region",
+   "title": "Closer to home",
+   "text": "In Poland, Prime Minister Donald Tusk finished his India trip in Bengaluru on Friday. He travelled with about a hundred business leaders, including the Polish Space Agency and the radar satellite company ICEYE.\n\nBoth governments said space has strong potential, and more than a dozen agreements were signed between companies at business forums in Delhi and Bengaluru. The two prime ministers also set a goal of doubling trade to twelve billion dollars by twenty thirty.\n\nWhat hasn't appeared, at least not publicly, is the cooperation agreement between the Polish Space Agency and India's space agency, ISRO, which had been talked about before the trip. So the political backing is there, but the formal framework is still to come.\n\nPolish coverage has focused on the openings for Polish space companies. The specialist site Space24 points out that ICEYE set up an Indian subsidiary in August, and cites reports that it's discussing a radar satellite constellation for India."
+  },
+  {
+   "id": "industry",
+   "title": "Industry and markets",
+   "text": "On the business side, SpaceX has told US regulators it ended the third quarter with more than eleven thousand one hundred Starlink satellites in orbit, and that it added one point six million customers over those three months. Analysts quoted by CNBC say that, for governments looking for an alternative, there's still no ready replacement. That's the backdrop to Ukraine's recent move to explore a satellite network of its own."
+  },
+  {
+   "id": "ahead",
+   "title": "The days ahead",
+   "text": "Looking ahead, NASA holds a virtual science town hall today on how it picks new missions. In Goa, the international committee on satellite navigation systems meets all week. Tomorrow, the Asia Pacific regional space agency forum opens in Bangkok, and the Defence in Space conference begins in London.\n\nOn Thursday, astronauts on the space station start the first of two spacewalks to fit new solar arrays. Friday is the deadline for comments on Blue Origin's request to launch up to fifty New Glenn rockets a year from Florida. The United States votes in its midterm elections on the third of November.\n\nFurther out, the European Parliament's industry committee votes on the EU Space Act on the tenth of November. NASA's commercial space station proposals are due on the eighth of December, and the European Space Agency meets in Rome on the fifteenth."
+  },
+  {
+   "id": "close",
+   "title": "Close",
+   "text": "That's the briefing for today. You'll find the full edition, with links to every source, on the Briefing tab. Have a good day."
+  }
+ ],
+ "audio_script": "Good morning. It's Monday, the twenty sixth of October, and here's what's happening in space.\n\nNASA has laid out how it plans to get astronauts back on the Moon in twenty twenty eight. China has added another batch of satellites to its state internet network. And Poland's prime minister has wrapped up his visit to India, with space high on the agenda but no new agency deal on paper.\n\nThe top story comes from Florida. On Friday, NASA Administrator Jared Isaacman and senior agency leaders gave an update on the Artemis programme at Kennedy Space Center.\n\nThe headline is that the plan hasn't changed. NASA still aims to land astronauts on the Moon in twenty twenty eight. Before that, Artemis three will fly as a crewed test in low Earth orbit, rather than going to the Moon, and officials pointed to a launch in the summer of twenty twenty seven.\n\nThe programme manager, Jeremy Parsons, explained what the crew will actually do. They'll dock with a test version of Blue Origin's Blue Moon lander and stay attached for two days, climbing inside to check life support and other key systems. It's a rehearsal for the hardware that will eventually carry people down to the surface.\n\nThere are question marks over timing, though. Isaacman told NASA staff in a memo last month that Artemis three was running about three months behind, and Bloomberg reports concern that some hardware may not be ready in time. NASA's answer, for now, is that the schedule holds.\n\nLooking further ahead, the rovers that astronauts will drive on the Moon are set to come from two companies, Lunar Outpost and Venturi Astrolab. The bigger picture is that commercial landers, not just NASA's own rocket, now set the pace for the whole programme.\n\nIn China, a Long March eight A rocket lifted off from the commercial launch site on Hainan island on Sunday morning, Beijing time. According to the state news agency Xinhua, it carried the twenty eighth group of satellites for China's low orbit internet network, built by the China Academy of Space Technology.\n\nThe official notice didn't say how many satellites were on board, only the group number. The previous batch went up just fifteen days earlier. Put simply, China is building a national broadband network in orbit, batch by batch, at a steady clip. For governments weighing up where their satellite connections come from, that's now a second network of this scale taking shape, alongside SpaceX's Starlink.\n\nIn Saudi Arabia, the Royal Commission for AlUla says two LaserSETI stations are now up and running at its AlUla Manara observatory site. They watch the night sky for brief flashes of light, and the SETI Institute says they're the network's first stations anywhere in Asia. It's a small, scientific step, but it shows Saudi institutions building research capacity on the ground, as well as in orbit.\n\nIn Poland, Prime Minister Donald Tusk finished his India trip in Bengaluru on Friday. He travelled with about a hundred business leaders, including the Polish Space Agency and the radar satellite company ICEYE.\n\nBoth governments said space has strong potential, and more than a dozen agreements were signed between companies at business forums in Delhi and Bengaluru. The two prime ministers also set a goal of doubling trade to twelve billion dollars by twenty thirty.\n\nWhat hasn't appeared, at least not publicly, is the cooperation agreement between the Polish Space Agency and India's space agency, ISRO, which had been talked about before the trip. So the political backing is there, but the formal framework is still to come.\n\nPolish coverage has focused on the openings for Polish space companies. The specialist site Space24 points out that ICEYE set up an Indian subsidiary in August, and cites reports that it's discussing a radar satellite constellation for India.\n\nOn the business side, SpaceX has told US regulators it ended the third quarter with more than eleven thousand one hundred Starlink satellites in orbit, and that it added one point six million customers over those three months. Analysts quoted by CNBC say that, for governments looking for an alternative, there's still no ready replacement. That's the backdrop to Ukraine's recent move to explore a satellite network of its own.\n\nLooking ahead, NASA holds a virtual science town hall today on how it picks new missions. In Goa, the international committee on satellite navigation systems meets all week. Tomorrow, the Asia Pacific regional space agency forum opens in Bangkok, and the Defence in Space conference begins in London.\n\nOn Thursday, astronauts on the space station start the first of two spacewalks to fit new solar arrays. Friday is the deadline for comments on Blue Origin's request to launch up to fifty New Glenn rockets a year from Florida. The United States votes in its midterm elections on the third of November.\n\nFurther out, the European Parliament's industry committee votes on the EU Space Act on the tenth of November. NASA's commercial space station proposals are due on the eighth of December, and the European Space Agency meets in Rome on the fifteenth.\n\nThat's the briefing for today. You'll find the full edition, with links to every source, on the Briefing tab. Have a good day.",
+ "profile_updates": []
+}
