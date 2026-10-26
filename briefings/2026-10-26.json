@@ -1,92 +1,177 @@
 {
  "date": "2026-10-26",
- "edition": "06:00 UTC",
- "generated_at": "2026-10-26T16:24:00+00:00",
- "headline": "NASA restates its 2028 Moon landing plan as China adds another state broadband batch",
+ "edition": "morning",
+ "generated_at": "2026-10-26T17:55:00+00:00",
+ "headline": "Japan sends MMX towards the moons of Mars as the US Space Force signs its first commercial surveillance reserve agreements",
  "summary": [
-  "NASA set out on 23 October how it intends to land astronauts on the Moon in 2028; Artemis III stays a crewed orbital test, with a summer 2027 launch in view and a two-day docking with a Blue Moon test lander.",
-  "China launched the 28th group of its state low-orbit internet satellites on a Long March 8A from Hainan on 25 October, fifteen days after the 27th.",
-  "Poland's prime minister closed his India visit in Bengaluru with space named as a priority, but no POLSA and ISRO agreement had been publicly reported.",
-  "Saudi Arabia's Royal Commission for AlUla commissioned two LaserSETI stations, the network's first site in Asia.",
-  "ESA's Council prepared a Europe-wide exploration proposal for the 15 December Rome meeting and approved two new directors; a Space Rider test model was lost over Sardinia, with the 2028 first flight still targeted.",
-  "Finland's ICEYE and Nokia signed a satcom letter of intent with Ukraine's defence ministry; Roscosmos's head said Russia and China are starting joint Mars hardware."
+  "Japan launched its MMX sample-return probe towards the moons of Mars on H3 flight 10, carrying a French–German rover.",
+  "The US Space Force signed its first six operational agreements to draw on commercial space surveillance capacity in a surge.",
+  "A Russian military satellite, Kosmos 2612, made close approaches to an ICEYE radar satellite, according to a LeoLabs report released on 19 October.",
+  "Poland and Vietnam named space among the areas of a new strategic partnership, and Türkiye's 2027 budget proposal nearly triples its space and aviation programme.",
+  "The ESA and EU desk and the Eurasia desk carry no item, because no development met the source standard in the five days to 26 October."
  ],
- "bottom_line": "The weekend brought confirmation rather than new decisions: NASA kept its 2028 landing target and commercial landers at the centre of it, while China kept adding state broadband capacity. The next dated decisions are NASA's commercial station proposals on 8 December and ESA's Rome meeting on 15 December. In Europe, the week's moves were preparatory: ESA set the Rome agenda, and Ukraine expressed interest in, but did not order, a Finnish-built sovereign satcom system.",
+ "bottom_line": "The week's dated events were launches and contracts rather than policy decisions: Japan's MMX departure, a new Chinese broadband batch and the first operational US commercial surveillance reserve. In Europe, national agencies reported hardware and tracking work, while no ESA or EU development met the source standard. The next dated decisions are the EU Space Act committee vote on 10 November and ESA's Rome meeting on 15 December.",
  "global": [
   {
-   "date": "2026-10-23",
-   "exposure": "market opportunity",
+   "date": "2026-10-19",
+   "iso3": [
+    "JPN"
+   ],
+   "status": "event",
+   "priority": "P1",
+   "exposure": "programme milestone",
+   "title": "Japan launches MMX towards the moons of Mars on H3 flight 10",
+   "summary": "An H3 rocket lifted off from Tanegashima at 04:41 Japan time on 20 October, 19:41 UTC on 19 October, carrying JAXA's Martian Moons eXploration probe. JAXA confirmed separation into a Mars transfer orbit about one hour and eleven minutes after launch. It was the tenth H3 flight and the first H3 launch of an interplanetary mission. MMX is a sample-return mission to Phobos and carries a rover built by the French and German space agencies.",
+   "why": "It is Japan's first sample-return attempt from the Martian system and the first interplanetary mission for its H3 launcher. European and US agencies have instruments on board, so the schedule matters beyond Japan.",
+   "sources": [
+    {
+     "outlet": "JAXA",
+     "url": "https://www.jaxa.jp/press/2026/10/20261020-1_j.html",
+     "language": "ja",
+     "type": "government-or-embassy",
+     "primary": true
+    },
+    {
+     "outlet": "sorae",
+     "url": "https://sorae.info/ssn/20261020-h3f10-mmx.html",
+     "language": "ja",
+     "type": "national-language"
+    },
+    {
+     "outlet": "Mynavi News TECH+",
+     "url": "https://news.mynavi.jp/techplus/article/20261020-5156160/",
+     "language": "ja",
+     "type": "national-language"
+    },
+    {
+     "outlet": "AstroArts",
+     "url": "https://www.astroarts.co.jp/article/hl/a/14740_mmx",
+     "language": "ja",
+     "type": "national-language"
+    },
+    {
+     "outlet": "NASASpaceflight",
+     "url": "https://www.nasaspaceflight.com/2026/10/mmx-launch/",
+     "language": "en",
+     "type": "press"
+    }
+   ],
+   "bar": "A: government + national-language + independent",
+   "tags": [
+    "exploration",
+    "launch",
+    "Mars"
+   ],
+   "next": null
+  },
+  {
+   "date": "2026-10-22",
    "iso3": [
     "USA"
    ],
+   "status": "decision",
    "priority": "P1",
-   "next": {
-    "date": "2026-12-08",
-    "event": "NASA commercial space station proposals due"
-   },
+   "exposure": "market opportunity",
+   "title": "US Space Force signs first operational commercial reserve agreements for space surveillance",
+   "summary": "Space Systems Command announced on 22 October the first six operational purchase agreements under the Commercial Augmentation Space Reserve, known as CASR. The agreements give the Space Force access to commercial space-domain-awareness capacity that can be called on in a surge. The Command's release does not name the companies. Press reports name Anduril, LeoLabs, Slingshot, InTrack, EOS of Australia and NorthStar of Canada.",
+   "why": "CASR moves from concept to signed agreements, with commercial tracking capacity now contracted for wartime surge use. Two of the reported vendors are Australian and Canadian, which extends the arrangement to allied firms.",
    "sources": [
     {
-     "outlet": "NASA",
-     "primary": true,
-     "title": "NASA Shares Artemis Acceleration Plans for Moon Missions",
-     "url": "https://www.nasa.gov/blogs/missions/2026/10/23/nasa-shares-artemis-acceleration-plans-for-moon-missions/"
+     "outlet": "Space Systems Command",
+     "url": "https://www.ssc.spaceforce.mil/Newsroom/Article/4631645/ssc-awards-casr-agreements-to-establish-commercial-sda-surge-capability",
+     "language": "en",
+     "type": "government-or-embassy",
+     "primary": true
     },
     {
-     "outlet": "Bloomberg",
-     "title": "NASA Sticks to Artemis Moon Mission Timeline Despite Hardware Delays",
-     "url": "https://www.bloomberg.com/news/articles/2026-10-23/nasa-commits-to-lunar-mission-timeline-despite-hardware-concerns"
+     "outlet": "SpaceNews",
+     "url": "https://spacenews.com/space-force-taps-six-companies-for-wartime-satellite-surveillance-backup/",
+     "language": "en",
+     "type": "national-language"
     },
     {
-     "outlet": "Spectrum News 13",
-     "title": "NASA gives update to Artemis III mission",
-     "url": "https://mynews13.com/fl/orlando/space/2026/10/23/nasa-gives-update-to-artemis-iii-mission"
+     "outlet": "Breaking Defense",
+     "url": "https://breakingdefense.com/2026/10/space-force-reveals-first-6-operational-contracts-for-civil-reserve-support-in-space-monitoring/",
+     "language": "en",
+     "type": "national-language"
+    },
+    {
+     "outlet": "Air & Space Forces Magazine",
+     "url": "https://www.airandspaceforces.com/space-force-picks-six-companies-commercial-augmentation-space-reserve/",
+     "language": "en",
+     "type": "national-language"
     }
    ],
-   "status": "statement",
+   "bar": "A: government + national-language + independent",
    "tags": [
-    "human spaceflight",
-    "policy",
-    "industry"
+    "defence",
+    "space domain awareness",
+    "procurement"
    ],
-   "title": "NASA restates a 2028 Moon landing and details the Artemis III orbital test",
-   "summary": "NASA Administrator Jared Isaacman and agency leaders set out on 23 October the path to returning astronauts to the lunar surface in 2028. Artemis III will not land: it is a crewed mission in low Earth orbit, with officials pointing to a summer 2027 launch. Artemis programme manager Jeremy Parsons said the crew will dock with a Blue Moon lander test article for two days to check life support and other systems. Isaacman had told staff in a September memo that Artemis III was about three months behind schedule, and Bloomberg reports concern that hardware may not be ready in time. Lunar terrain vehicles for later surface operations are to come from Lunar Outpost and Venturi Astrolab.",
-   "why": "The briefing confirmed the restructured sequence rather than changing it: an orbital test in 2027 and a landing attempt in 2028. It follows the 23 October ledger entry that flagged the update, and keeps commercial landers, not SLS alone, at the centre of the schedule."
+   "next": null
   },
   {
-   "date": "2026-10-25",
-   "exposure": "competitive move",
+   "date": "2026-10-19",
    "iso3": [
-    "CHN"
+    "RUS",
+    "FIN"
    ],
+   "status": "event",
    "priority": "P2",
-   "next": null,
+   "exposure": "security risk",
+   "title": "Russian military satellite Kosmos 2612 made close approaches to an ICEYE radar satellite",
+   "summary": "A report by the tracking company LeoLabs, released on 19 October, described manoeuvres by the Russian military satellite Kosmos 2612 around ICEYE-X36 between 15 and 19 October. Reports put the closest approach at about 500 metres or less before Kosmos 2612 moved away. ICEYE is a Finnish company; ICEYE-X36 is registered in the United States and operated by its US arm. The first reports appeared on 16 and 17 October. No Finnish government statement was found.",
+   "why": "Close approaches by a military satellite to a commercial radar satellite bear on how states treat proximity operations in orbit. The case links a Finnish company, a US registry and a Russian military operator.",
    "sources": [
     {
-     "outlet": "Xinhua (state news agency)",
-     "primary": true,
-     "title": "China launches new internet satellite group",
-     "url": "https://english.news.cn/20261025/9db370bd21374619aa7ad7a637a20657/c.html"
+     "outlet": "Keskisuomalainen (STT)",
+     "url": "https://www.ksml.fi/uutissuomalainen/9883988",
+     "language": "fi",
+     "type": "national-language"
     },
     {
-     "outlet": "Guangming Online (state-owned)",
-     "title": "China launches new internet satellite group",
-     "url": "https://en.gmw.cn/2026-10/26/content_39065242.htm"
+     "outlet": "Tekniikan Maailma",
+     "url": "https://tekniikanmaailma.fi/venajan-satelliitti-tuli-uhkaavasti-yhdysvaltojen-iceye-x36-satelliitin-kylkeen-ja-vetaytyi-sitten-mita-ihmetta-avaruudessa-tapahtui/",
+     "language": "fi",
+     "type": "national-language"
     },
     {
-     "outlet": "New Space Economy",
-     "title": "China Launches Its 28th Low-Orbit Internet Satellite Group",
-     "url": "https://newspaceeconomy.ca/2026/10/25/china-launches-its-28th-low-orbit-internet-satellite-group/"
+     "outlet": "Uusi Suomi",
+     "url": "https://www.uusisuomi.fi/uutiset/a/6e7a854b-6941-4775-ac05-073f4b4e43ae",
+     "language": "fi",
+     "type": "national-language"
+    },
+    {
+     "outlet": "Tiedetuubi",
+     "url": "https://tiedetuubi.fi/index.php/juuri-nyt-venalainen-sotilassatelliitti-uhkaa-suomalaissatelliittia",
+     "language": "fi",
+     "type": "national-language"
+    },
+    {
+     "outlet": "RFE/RL",
+     "url": "https://www.rferl.org/a/russia-space-satellite-ukraine-finland/33879458.html",
+     "language": "en",
+     "type": "press"
+    },
+    {
+     "outlet": "Via Satellite",
+     "url": "https://www.satellitetoday.com/government-military/2026/10/19/russian-satellite-maneuvered-within-extreme-proximity-of-iceye-satellite-leolabs-reports/",
+     "language": "en",
+     "type": "press"
+    },
+    {
+     "outlet": "Air & Space Forces Magazine",
+     "url": "https://www.airandspaceforces.com/russian-satellite-shadowing-means-space-force/",
+     "language": "en",
+     "type": "press"
     }
    ],
-   "status": "launch",
+   "bar": "B: seven independent newsrooms",
    "tags": [
-    "launch",
-    "connectivity",
-    "industry"
+    "defence",
+    "proximity operations"
    ],
-   "title": "China launches the 28th batch of its state low-orbit internet constellation",
-   "summary": "A Long March 8A lifted off from the Hainan commercial spacecraft launch site at 10:03 Beijing time on 25 October and placed the 28th group of low-orbit internet satellites in orbit, according to Xinhua. The satellites were built by the China Academy of Space Technology. The state announcement gave the group number but not the number of spacecraft. The 27th group flew on a Long March 12 from the same site on 10 October. The Long March 8A is designed for constellation launches to medium and low Earth orbit.",
-   "why": "Two state broadband batches in fifteen days show a steady deployment cadence for the state-backed network. It is the Chinese counterpart to the sovereign connectivity question raised by the Starlink dispute in Ukraine recorded in the ledger."
+   "next": null
   }
  ],
  "regions": [
@@ -95,39 +180,20 @@
    "name": "ESA and EU",
    "items": [
     {
-     "date": "2026-10-22",
-     "exposure": "policy change",
-     "iso3": [
-      "FRA",
-      "ITA"
-     ],
-     "priority": "P2",
-     "next": {
-      "date": "2026-12-15",
-      "event": "ESA Intermediate Ministerial Meeting (IMM26) in Rome"
-     },
-     "sources": [
-      {
-       "outlet": "ESA",
-       "primary": true,
-       "title": "Key outcomes of the 350th ESA Council meeting",
-       "url": "https://www.esa.int/Newsroom/Press_Releases/Key_outcomes_of_the_350th_ESA_Council_meeting"
-      },
-      {
-       "outlet": "The Brussels Times",
-       "title": "ESA outlines 'realistic' space ambitions ahead of key funding and policy decisions",
-       "url": "https://www.brusselstimes.com/eu-affairs/2375069/esa-outlines-realistic-space-ambitions-ahead-of-key-funding-and-policy-decisions"
-      }
-     ],
-     "status": "decision",
+     "date": "2026-10-26",
+     "iso3": [],
+     "status": "overview",
+     "priority": "P3",
+     "exposure": "none",
+     "title": "ESA and EU: no development met the source bar in the five days to 26 October",
+     "summary": "No ESA or EU development from 22 to 26 October was confirmed by three independent sources, including a national-language source and a government page, or by five independent sources. Items that were reviewed and not carried are listed in the run report.",
+     "why": "",
+     "sources": [],
+     "bar": "quiet desk: no claim made that needs a source",
      "tags": [
-      "policy",
-      "human spaceflight",
-      "governance"
+      "overview"
      ],
-     "title": "ESA Council readies Rome exploration package and names two directors",
-     "summary": "The 350th ESA Council met at delegate level in Paris on 21 and 22 October. Member States discussed the Director General's proposal 'Europe's Future in Space Exploration', which sets out a scalable path in low Earth orbit, on the Moon and towards Mars, and advanced preparations for the Intermediate Ministerial Meeting in Rome on 15 December. ESA describes IMM26 as a step towards programme and financial decisions at CM28, while allowing early preparatory work within existing budgets. Delegates also reviewed ESA-EU relations, including the next EU Multiannual Financial Framework, the European Competitiveness Fund, the EU Space Act and the EUSPA regulation; ESA called for a clear division of responsibilities without duplication. The Council approved Andrzej Banasiak as Director of Commercialisation and Industry Partnership and Nicolaus Hanowski as Director of Space Operations, both from 1 January 2027.",
-     "why": "The Council fixed the agenda for Rome rather than taking funding decisions, and confirmed two senior appointments. It moves the 15 December IMM26 entry from a date to a defined exploration proposal."
+     "next": null
     }
    ]
   },
@@ -136,40 +202,95 @@
    "name": "Central and Eastern Europe",
    "items": [
     {
-     "date": "2026-10-23",
-     "exposure": "market opportunity",
+     "date": "2026-10-26",
      "iso3": [
-      "POL",
-      "IND"
+      "POL"
      ],
+     "status": "decision",
      "priority": "P2",
-     "next": null,
+     "exposure": "policy change",
+     "title": "Poland and Vietnam name space among areas of a new strategic partnership",
+     "summary": "Poland and Vietnam raised relations to a strategic partnership in Hanoi on 26 October, during a visit by Prime Minister Donald Tusk. Satellite and space cooperation is among the named areas. A Polish Space Agency delegation led by its president, Marta Wachowicz, visited the Vietnam National Space Center. No contract or amount was announced for space.",
+     "why": "The partnership puts space in a Polish framework with a South-East Asian state at head-of-government level. It gives Polish satellite firms a government channel into the Vietnamese market.",
      "sources": [
       {
-       "outlet": "Defence24",
-       "title": "Ambitious plans and the need for follow-up. Aftermath of Donald Tusk's visit to India",
-       "url": "https://defence24.com/geopolitics/ambitious-plans-and-the-need-for-follow-up-aftermath-of-donald-tusks-visit-to-india"
+       "outlet": "Polish Space Agency (POLSA)",
+       "url": "https://polsa.gov.pl/wydarzenia/polska-i-wietnam-zaciesniaja-wspolprace-kosmos-jednym-z-wazniejszych-elementow/",
+       "language": "pl",
+       "type": "government-or-embassy",
+       "primary": true
       },
       {
-       "outlet": "Space24 (Polish)",
-       "title": "Tusk w Indiach. Wielka szansa dla polskiego sektora kosmicznego?",
-       "url": "https://space24.pl/polityka-kosmiczna/polska/tusk-w-indiach-wielka-szansa-dla-polskiego-sektora-kosmicznego"
+       "outlet": "Space24.pl",
+       "url": "https://space24.pl/polityka-kosmiczna/swiat/polska-i-wietnam-zaciesniaja-wspolprace-kosmiczna",
+       "language": "pl",
+       "type": "national-language"
       },
       {
-       "outlet": "ANI",
-       "title": "Polish PM Tusk in Bengaluru; meets CM DK Shivakumar, aims to explore opportunities for collaboration",
-       "url": "https://www.aninews.in/news/world/asia/polish-pm-tusk-in-bengaluru-meets-cm-dk-shivakumar-aims-to-explore-opportunities-for-collaboration20261023105850/"
+       "outlet": "Notes from Poland",
+       "url": "https://notesfrompoland.com/2026/10/26/poland-and-vietnam-announce-strategic-partnership-during-tusk-visit-to-hanoi/",
+       "language": "en",
+       "type": "press"
+      },
+      {
+       "outlet": "Bankier.pl (PAP)",
+       "url": "https://www.bankier.pl/wiadomosc/Bezposrednie-loty-ulatwienia-wizowe-i-zbrojenia-Polska-i-Wietnam-oglaszaja-strategiczne-partnerstwo-9218126.html",
+       "language": "pl",
+       "type": "national-language"
       }
      ],
-     "status": "visit",
+     "bar": "A: government + national-language + independent",
      "tags": [
-      "policy",
-      "industry",
-      "defence"
+      "diplomacy",
+      "cooperation"
      ],
-     "title": "Tusk's Bengaluru stop closes without a published POLSA and ISRO agreement",
-     "summary": "Prime Minister Donald Tusk visited Bengaluru on 23 October with a business delegation of about 100, including the Polish Space Agency and ICEYE. Defence24 reports that both sides named space as an area with strong potential and that more than a dozen MoUs were signed at business forums in Delhi and Bengaluru. The two prime ministers set a goal of doubling bilateral trade to USD 12 billion by 2030. A POLSA and ISRO cooperation agreement had been trailed before the visit, but no signing had been publicly reported at the time of publication. Space24 notes that ICEYE set up an Indian subsidiary in August and cites reports that it is discussing a sovereign radar constellation for India.",
-     "why": "The visit ended with political backing for space cooperation but no confirmed agency-level text. It updates the 23 October ledger entry, which listed the POLSA and ISRO agreement as planned."
+     "next": null
+    },
+    {
+     "date": "2026-10-19",
+     "iso3": [
+      "POL",
+      "CHN"
+     ],
+     "status": "event",
+     "priority": "P3",
+     "exposure": "security risk",
+     "title": "Polish Space Agency closes its watch on a Chinese rocket stage that passed over Poland",
+     "summary": "The Polish Space Agency's space situational awareness centre tracked the second stage of a Chinese Zhuque-2E rocket, about five tonnes, on passes over Poland. In a final notice on 19 October, the agency said the stage re-entered on 18 October at about 12:33 Central European Summer Time over Borneo. A local monitoring network in Wrocław recorded a pass over Poland.",
+     "why": "It shows Poland's national tracking service issuing public re-entry notices for foreign debris crossing its territory. Uncontrolled re-entries of large stages remain a recurring issue for states under the ground track.",
+     "sources": [
+      {
+       "outlet": "Polish Space Agency (POLSA)",
+       "url": "https://polsa.gov.pl/wydarzenia/komunikat-polsa-19-10-2026-podsumowanie/",
+       "language": "pl",
+       "type": "government-or-embassy",
+       "primary": true
+      },
+      {
+       "outlet": "Gazeta Wrocławska",
+       "url": "https://gazetawroclawska.pl/5-tonowy-fragment-chinskiej-rakiety-przelecial-tuz-nad-polska-wroclawianie-widzieliscie-smuge-na-niebie/ar/c1p2-29454639",
+       "language": "pl",
+       "type": "national-language"
+      },
+      {
+       "outlet": "MILMAG",
+       "url": "https://milmag.pl/en/polsa-monitors-possible-deorbit-of-zhuque-2e-second-stage/",
+       "language": "en",
+       "type": "press"
+      },
+      {
+       "outlet": "Brunei Astronomy (PABD)",
+       "url": "https://bruneiastronomy.org/web/2026/10/2026-oct-18-space-debris-re-entry-over-brunei/",
+       "language": "en",
+       "type": "press"
+      }
+     ],
+     "bar": "A: government + national-language + independent",
+     "tags": [
+      "space safety",
+      "debris"
+     ],
+     "next": null
     }
    ]
   },
@@ -178,41 +299,55 @@
    "name": "Nordics",
    "items": [
     {
-     "date": "2026-10-22",
-     "exposure": "market opportunity",
+     "date": "2026-10-21",
      "iso3": [
-      "FIN",
+      "NOR",
       "UKR"
      ],
+     "status": "statement",
      "priority": "P2",
-     "next": null,
+     "exposure": "market opportunity",
+     "title": "Zelensky says Norway talks covered satellite communications for Ukrainian forces",
+     "summary": "During a visit to Oslo on 20 and 21 October, President Volodymyr Zelensky met Defence Minister Tore O. Sandvik and Kongsberg chief executive Eirik Lie. Zelensky said the talks gave special attention to starting work on new satellite communications for Ukrainian forces, as an alternative to Starlink. The Norwegian government's releases on the visit do not mention satellite communications. No agreement, amount or timeline was announced.",
+     "why": "If pursued, it would give Ukraine a European government-backed alternative for military satellite links. The claim rests on Ukraine's account; Norway has not confirmed it.",
      "sources": [
       {
-       "outlet": "ICEYE",
-       "primary": true,
-       "title": "ICEYE and Nokia partner with The Ministry of Defence of Ukraine to develop sovereign satcom capability",
-       "url": "https://www.iceye.com/newsroom/press-releases/iceye-and-nokia-partner-with-the-ministry-of-defence-of-ukraine-to-develop-sovereign-satcom-capability"
+       "outlet": "VG",
+       "url": "https://www.vg.no/nyheter/i/MAkQV5/stoler-ikke-paa-elon-musk-zelenskyj-ba-norge-om-satellittsamarbeid",
+       "language": "no",
+       "type": "national-language"
       },
       {
-       "outlet": "Kyiv Independent",
-       "title": "Amid Starlink crisis, Finnish tech giants announce plan to help Ukraine build its own sovereign satellite system",
-       "url": "https://kyivindependent.com/amid-starlink-crisis-finnish-tech-giants-announce-plan-to-help-ukraine-build-its-own-sovereign-satellite-system/"
+       "outlet": "CNBC",
+       "url": "https://www.cnbc.com/2026/10/22/elon-musk-ukraine-starlink-alternatives.html",
+       "language": "en",
+       "type": "press"
       },
       {
-       "outlet": "Breaking Defense",
-       "title": "Kyiv eyes purchase of planned ICEYE, Nokia 'sovereign' communication sats",
-       "url": "https://breakingdefense.com/2026/10/kyiv-eyes-purchase-of-planned-iceye-nokia-sovereign-communication-sats/"
+       "outlet": "Ukrinform",
+       "url": "https://www.ukrinform.net/rubric-polytics/4176702-zelensky-meets-norwegian-dm-and-representatives-of-nasams-manufacturer-kongsberg.html",
+       "language": "en",
+       "type": "press"
+      },
+      {
+       "outlet": "Euromaidan Press",
+       "url": "https://euromaidanpress.com/2026/10/21/in-oslo-us-envoy-pushes-zelenskyy-toward-deal-with-russia-again-day-later-in-same-city-norway-moves-to-arm-ukraine-with-more-nasams-missiles/",
+       "language": "en",
+       "type": "press"
+      },
+      {
+       "outlet": "NV (New Voice of Ukraine)",
+       "url": "https://english.nv.ua/nation/zelenskyy-meets-norwegian-pm-and-defense-minister-50652132.html",
+       "language": "en",
+       "type": "press"
       }
      ],
-     "status": "signature",
+     "bar": "B: five independent newsrooms",
      "tags": [
       "defence",
-      "satcom",
-      "industry"
+      "satellite communications"
      ],
-     "title": "Finnish firms ICEYE and Nokia sign satcom letter of intent with Ukraine's defence ministry",
-     "summary": "ICEYE and Nokia signed a Letter of Intent with Ukraine's Ministry of Defence on 22 October to explore cooperation on sovereign satellite communications. It was announced during Finnish Prime Minister Petteri Orpo's visit to Kyiv, where President Volodymyr Zelensky said seven agreements worth about EUR 300 million were concluded. The letter builds on the companies' 1 October partnership to offer government-owned LEO broadband systems, with nations controlling satellites, ground segment and terminals. An ICEYE spokesperson told Breaking Defense that the letter is an expression of intent and does not imply an order. No value or timetable has been attributed to the satcom element.",
-     "why": "It is the first government expression of interest in the ICEYE-Nokia sovereign satcom offer, and it came inside a Finnish state visit. It follows reported throttling of Starlink service in Ukraine earlier this month."
+     "next": null
     }
    ]
   },
@@ -221,34 +356,96 @@
    "name": "Western and Southern Europe",
    "items": [
     {
-     "date": "2026-10-22",
-     "exposure": "programme risk",
+     "date": "2026-10-19",
+     "iso3": [
+      "FRA",
+      "DEU"
+     ],
+     "status": "event",
+     "priority": "P2",
+     "exposure": "programme milestone",
+     "title": "French–German Idefix rover leaves for Phobos aboard Japan's MMX",
+     "summary": "Japan's MMX probe, launched at 19:41 UTC on 19 October, carries Idefix, a rover built jointly by the French space agency CNES and the German Aerospace Center DLR. It also carries MIRS, a French infrared spectrometer. DLR quoted German minister Dorothee Bär on the launch.",
+     "why": "Idefix is the main French and German hardware contribution to a Japanese-led planetary mission. It ties both agencies' Mars-system science to JAXA's schedule for arrival and landing.",
+     "sources": [
+      {
+       "outlet": "CNES",
+       "url": "https://cnes.fr/communiques/mission-japonaise-mmx-route-lexploration-lunes-de-mars",
+       "language": "fr",
+       "type": "government-or-embassy",
+       "primary": true
+      },
+      {
+       "outlet": "DLR",
+       "url": "https://www.dlr.de/de/aktuelles/nachrichten/2026/mmx-gestartet-rover-idefix-auf-dem-weg-zum-marsmond-phobos",
+       "language": "de",
+       "type": "government-or-embassy"
+      },
+      {
+       "outlet": "Presse-citron",
+       "url": "https://www.presse-citron.net/france-rover-idefix-decolle-mars-mission-japonaise-mmx-percer-mysteres-phobos/",
+       "language": "fr",
+       "type": "national-language"
+      },
+      {
+       "outlet": "Journal du Geek",
+       "url": "https://www.journaldugeek.com/2026/10/20/japon-vient-lancer-mission-historique-mars-sonde-mmx-vient-decoller-direction-phobos/",
+       "language": "fr",
+       "type": "national-language"
+      },
+      {
+       "outlet": "Cité de l'espace",
+       "url": "https://www.cite-espace.com/actualites-spatiales/lancement-reussi-pour-la-mission-mmx-a-destination-des-lunes-de-mars/",
+       "language": "fr",
+       "type": "national-language"
+      }
+     ],
+     "bar": "A: government + national-language + independent",
+     "tags": [
+      "exploration",
+      "cooperation",
+      "Mars"
+     ],
+     "next": null
+    },
+    {
+     "date": "2026-10-20",
      "iso3": [
       "ITA"
      ],
+     "status": "event",
      "priority": "P3",
-     "next": null,
+     "exposure": "programme milestone",
+     "title": "Italian Space Agency completes a new laser-ranging station at Matera",
+     "summary": "The Italian Space Agency announced on 20 October the completion of MSLR, a satellite laser-ranging station working at two wavelengths at its Giuseppe Colombo Space Centre in Matera. e-GEOS built the station, with a control system from DiGOS of Potsdam. The agency cited possible future use for tracking space debris.",
+     "why": "Laser ranging underpins precise orbits for geodesy and navigation satellites. A debris-tracking role would add a national sensor to European space surveillance.",
      "sources": [
       {
-       "outlet": "European Spaceflight",
-       "title": "ESA Provides New Details on Failed Space Rider Drop Test",
-       "url": "https://europeanspaceflight.com/esa-provides-new-details-on-failed-space-rider-drop-test/"
+       "outlet": "Agenzia Spaziale Italiana",
+       "url": "https://www.asi.it/2026/10/una-nuova-stazione-laser-per-il-centro-spaziale-asi-di-matera/",
+       "language": "it",
+       "type": "government-or-embassy",
+       "primary": true
       },
       {
-       "outlet": "Space.com",
-       "title": "Europe's Space Rider vehicle comes crashing down during drop test",
-       "url": "https://www.space.com/space-exploration/launches-spacecraft/europes-space-rider-vehicle-comes-crashing-down-during-drop-test"
+       "outlet": "AstroSpace.it",
+       "url": "https://www.astrospace.it/2026/10/21/lasi-ha-completato-una-nuova-stazione-laser-per-il-tracciamento-dei-satelliti-a-matera/",
+       "language": "it",
+       "type": "national-language"
+      },
+      {
+       "outlet": "FlyEurope.TV",
+       "url": "https://www.flyeurope.tv/aviation-tv/asi-matera-nuova-stazione-laser-tracciamento-satellitare",
+       "language": "it",
+       "type": "national-language"
       }
      ],
-     "status": "test",
+     "bar": "A: government + national-language + independent",
      "tags": [
-      "launch",
-      "reusability",
-      "testing"
+      "infrastructure",
+      "space safety"
      ],
-     "title": "Space Rider test model lost over Sardinia; ESA keeps 2028 maiden flight",
-     "summary": "ESA's Director of Space Transportation, Géraldine Naja, told a briefing on 22 October that a full-scale Space Rider test model was lost in a drop test on 6 October. The model was released from a helicopter at about three kilometres over a military range in Sardinia; the drogue parachute deployed, but the parafoil detached and the model struck the ground. Remnants were recovered and an investigation board has been set up. Naja said the remaining qualification work is not on the programme's critical path, but that the schedule will be reviewed once the board reports. ESA still targets the first half of 2028 for the first flight on Vega C.",
-     "why": "This is the first failure at system level in Space Rider's landing test campaign, which runs from an Italian range. The 2028 target stands for now, subject to the investigation."
+     "next": null
     }
    ]
   },
@@ -257,35 +454,20 @@
    "name": "Eurasia and Central Asia",
    "items": [
     {
-     "date": "2026-10-21",
-     "exposure": "competitive move",
-     "iso3": [
-      "RUS",
-      "CHN"
-     ],
+     "date": "2026-10-26",
+     "iso3": [],
+     "status": "overview",
      "priority": "P3",
-     "next": null,
-     "sources": [
-      {
-       "outlet": "RIA Novosti (state)",
-       "title": "Россия и Китай начали изготавливать технику для совместной миссии на Марс",
-       "url": "https://ria.ru/20261021/mars-2126028106.html"
-      },
-      {
-       "outlet": "Channel One (state)",
-       "title": "Баканов рассказал о планах с КНР по изготовлению техники для изучения Марса",
-       "url": "https://www.1tv.ru/news/2026-10-21/556716"
-      }
-     ],
-     "status": "statement",
+     "exposure": "none",
+     "title": "Eurasia and Central Asia: no development met the source bar in the five days to 26 October",
+     "summary": "No Russian or Central Asian development from 22 to 26 October was confirmed by three independent sources, including a national-language source and a government page, or by five independent sources. Russian government sites could not be reached during this run. Items that were reviewed and not carried are listed in the run report.",
+     "why": "",
+     "sources": [],
+     "bar": "quiet desk: no claim made that needs a source",
      "tags": [
-      "exploration",
-      "cooperation",
-      "Mars"
+      "overview"
      ],
-     "title": "Roscosmos head says Russia and China are starting work on joint Mars hardware",
-     "summary": "Roscosmos Director General Dmitry Bakanov said on 21 October, after taking part in the Russia-China heads-of-government meeting in St Petersburg, that the two countries are beginning a joint Mars mission, starting with building instruments and equipment. State agency RIA Novosti, quoting Roscosmos, reported that he cited the joint Chang'e-7 lunar mission as the existing precedent (translated from Russian by ATLAS). He called China one of Russia's key partners and said the two countries exchange Earth observation data and jointly use GLONASS and BeiDou navigation signals. No mission name, timeline, budget or signed agreement was published. Both outlets carrying the statement are state media.",
-     "why": "A named top official has put a Russia-China Mars effort on record for the first time in this cycle, though without a published agreement. It sits alongside existing Russian instruments on China's Chang'e-7 lunar mission."
+     "next": null
     }
    ]
   },
@@ -294,34 +476,43 @@
    "name": "Türkiye, Middle East and Africa",
    "items": [
     {
-     "date": "2026-10-25",
-     "exposure": "context",
+     "date": "2026-10-21",
      "iso3": [
-      "SAU"
+      "TUR"
      ],
-     "priority": "P3",
-     "next": null,
+     "status": "decision",
+     "priority": "P2",
+     "exposure": "policy change",
+     "title": "Türkiye's 2027 budget proposal nearly triples the space and aviation programme",
+     "summary": "Türkiye's 2027 central government budget justification raises the Space and Aviation programme from TL 8.73bn in 2026 to TL 24.59bn in 2027, an increase of 181.7 per cent. It plans TL 92.14bn for the programme over 2027 to 2029. The programme covers aviation as well as space; Gazete Oksijen calculates aviation at about 76 per cent of the 2027 total. The budget text gives no separate figure for space.",
+     "why": "The increase sets the funding envelope for Türkiye's space plans for the next three years. Because aviation takes most of it, the space share cannot be read from the headline figure.",
      "sources": [
       {
-       "outlet": "Saudi Press Agency (state)",
-       "primary": true,
-       "title": "AlUla Announces Commissioning of Two LaserSETI Astronomical Observation Stations at Project's First Site in Asia",
-       "url": "https://www.spa.gov.sa/en/w2709712"
+       "outlet": "Strategy and Budget Presidency (SBB)",
+       "url": "https://www.sbb.gov.tr/wp-content/uploads/2026/10/2027-Butce-Gerekcesi.pdf",
+       "language": "tr",
+       "type": "government-or-embassy",
+       "primary": true
       },
       {
-       "outlet": "SETI Institute",
-       "primary": true,
-       "title": "SETI Institute and Royal Commission for AlUla Bring Two LaserSETI Stations to Saudi Arabia",
-       "url": "https://www.seti.org/news/laserseti-stations-in-saudi-arabia/"
+       "outlet": "Anadolu Ajansı",
+       "url": "https://www.aa.com.tr/tr/bilim-teknoloji/turkiyenin-uzay-ve-havacilik-faaliyetleri-icin-gelecek-3-yilda-100-milyar-liraya-yakin-odenek/4095452",
+       "language": "tr",
+       "type": "national-language"
+      },
+      {
+       "outlet": "Gazete Oksijen",
+       "url": "https://gazeteoksijen.com/ekonomi/uzay-ve-havaciliga-uc-yilda-92-milyar-tl-odenek-ayrildi-293369",
+       "language": "tr",
+       "type": "national-language"
       }
      ],
-     "status": "commissioning",
+     "bar": "A: government + national-language + independent",
      "tags": [
-      "science"
+      "budget",
+      "policy"
      ],
-     "title": "Royal Commission for AlUla commissions two LaserSETI stations",
-     "summary": "The Royal Commission for AlUla announced on 25 October that two LaserSETI stations at AlUla Manara are installed and commissioned. The SETI Institute says the stations were installed on 19 August, are fully operational, and are the network's first site in Asia. The institute will run and maintain them for three years with the commission under a partnership announced in August 2024. The stations monitor the night sky for transient optical events. The state agency framed the step as part of Vision 2030.",
-     "why": "A state body is building ground-based astronomy capacity alongside the Saudi Space Agency's programmes. It is a new ledger entry for Saudi Arabia; the scale is small and the work is scientific rather than industrial."
+     "next": null
     }
    ]
   },
@@ -331,39 +522,48 @@
    "items": [
     {
      "date": "2026-10-25",
-     "exposure": "competitive move",
      "iso3": [
       "CHN"
      ],
+     "status": "event",
      "priority": "P2",
-     "next": null,
+     "exposure": "competitive move",
+     "title": "China launches the 28th group of its state low-orbit internet constellation",
+     "summary": "A Long March 8A rocket lifted off from the Hainan commercial spaceport at 10:03 Beijing time on 25 October, 02:03 UTC, carrying the Satellite Internet Low Orbit Group 28 satellites. The China National Space Administration said the satellites reached their planned orbit. The launch came fifteen days after Group 27. All sources found are state or state-aligned media.",
+     "why": "It keeps China's state broadband constellation on a launch rhythm of about two weeks. That pace determines how soon China can offer a national alternative to foreign low-orbit services.",
      "sources": [
       {
-       "outlet": "Xinhua (state news agency)",
-       "primary": true,
-       "title": "China launches new internet satellite group",
-       "url": "https://english.news.cn/20261025/9db370bd21374619aa7ad7a637a20657/c.html"
+       "outlet": "China National Space Administration",
+       "url": "https://www.cnsa.gov.cn/n6758823/n6758838/c10795397/content.html",
+       "language": "zh",
+       "type": "government-or-embassy",
+       "primary": true
       },
       {
-       "outlet": "Guangming Online (state-owned)",
-       "title": "China launches new internet satellite group",
-       "url": "https://en.gmw.cn/2026-10/26/content_39065242.htm"
+       "outlet": "Xinhua",
+       "url": "https://www.news.cn/tech/20261026/3f91555d8db941b4a9fc47e3d72330d5/c.html",
+       "language": "zh",
+       "type": "national-language"
       },
       {
-       "outlet": "New Space Economy",
-       "title": "China Launches Its 28th Low-Orbit Internet Satellite Group",
-       "url": "https://newspaceeconomy.ca/2026/10/25/china-launches-its-28th-low-orbit-internet-satellite-group/"
+       "outlet": "China News Service",
+       "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-25/1208792.shtml",
+       "language": "zh",
+       "type": "national-language"
+      },
+      {
+       "outlet": "Science and Technology Daily",
+       "url": "https://www.stdaily.com/web/gdxw/2026-10/25/content_602383.html",
+       "language": "zh",
+       "type": "national-language"
       }
      ],
-     "status": "launch",
+     "bar": "A: government + national-language + independent",
      "tags": [
       "launch",
-      "connectivity",
-      "industry"
+      "satellite internet"
      ],
-     "title": "China launches the 28th batch of its state low-orbit internet constellation",
-     "summary": "A Long March 8A lifted off from the Hainan commercial spacecraft launch site at 10:03 Beijing time on 25 October and placed the 28th group of low-orbit internet satellites in orbit, according to Xinhua. The satellites were built by the China Academy of Space Technology. The state announcement gave the group number but not the number of spacecraft. The 27th group flew on a Long March 12 from the same site on 10 October. The Long March 8A is designed for constellation launches to medium and low Earth orbit.",
-     "why": "Two state broadband batches in fifteen days show a steady deployment cadence for the state-backed network. It is the Chinese counterpart to the sovereign connectivity question raised by the Starlink dispute in Ukraine recorded in the ledger."
+     "next": null
     }
    ]
   },
@@ -373,170 +573,198 @@
    "items": [
     {
      "date": "2026-10-23",
-     "exposure": "market opportunity",
      "iso3": [
       "USA"
      ],
-     "priority": "P1",
-     "next": {
-      "date": "2026-12-08",
-      "event": "NASA commercial space station proposals due"
-     },
+     "status": "decision",
+     "priority": "P3",
+     "exposure": "programme milestone",
+     "title": "NASA ends Swift science operations as the observatory's orbit decays",
+     "summary": "NASA announced on 23 October the end of science operations for the Neil Gehrels Swift Observatory. Its orbit had decayed below 275 kilometres, and the final observation was made on 20 October. Re-entry is expected within weeks. A commercial reboost attempt was abandoned in August.",
+     "why": "Swift has been a main instrument for detecting gamma-ray bursts since 2004, and its loss leaves a gap in rapid-response astronomy. Life extension by commercial reboost was not achieved for this mission.",
      "sources": [
       {
-       "outlet": "NASA",
-       "primary": true,
-       "title": "NASA Shares Artemis Acceleration Plans for Moon Missions",
-       "url": "https://www.nasa.gov/blogs/missions/2026/10/23/nasa-shares-artemis-acceleration-plans-for-moon-missions/"
+       "outlet": "NASA Science",
+       "url": "https://science.nasa.gov/missions/swift/nasas-swift-mission-ends/",
+       "language": "en",
+       "type": "government-or-embassy",
+       "primary": true
       },
       {
-       "outlet": "Bloomberg",
-       "title": "NASA Sticks to Artemis Moon Mission Timeline Despite Hardware Delays",
-       "url": "https://www.bloomberg.com/news/articles/2026-10-23/nasa-commits-to-lunar-mission-timeline-despite-hardware-concerns"
+       "outlet": "SpaceNews",
+       "url": "https://spacenews.com/nasas-swift-space-telescope-ends-mission/",
+       "language": "en",
+       "type": "national-language"
       },
       {
-       "outlet": "Spectrum News 13",
-       "title": "NASA gives update to Artemis III mission",
-       "url": "https://mynews13.com/fl/orlando/space/2026/10/23/nasa-gives-update-to-artemis-iii-mission"
+       "outlet": "The Register",
+       "url": "https://www.theregister.com/science/2026/10/26/swift-operations-end-2004-spacecraft-headed-for-fiery-reentry/5305346",
+       "language": "en",
+       "type": "press"
       }
      ],
-     "status": "statement",
+     "bar": "A: government + national-language + independent",
      "tags": [
-      "human spaceflight",
-      "policy",
-      "industry"
+      "science",
+      "end of mission"
      ],
-     "title": "NASA restates a 2028 Moon landing and details the Artemis III orbital test",
-     "summary": "NASA Administrator Jared Isaacman and agency leaders set out on 23 October the path to returning astronauts to the lunar surface in 2028. Artemis III will not land: it is a crewed mission in low Earth orbit, with officials pointing to a summer 2027 launch. Artemis programme manager Jeremy Parsons said the crew will dock with a Blue Moon lander test article for two days to check life support and other systems. Isaacman had told staff in a September memo that Artemis III was about three months behind schedule, and Bloomberg reports concern that hardware may not be ready in time. Lunar terrain vehicles for later surface operations are to come from Lunar Outpost and Venturi Astrolab.",
-     "why": "The briefing confirmed the restructured sequence rather than changing it: an orbital test in 2027 and a landing attempt in 2028. It follows the 23 October ledger entry that flagged the update, and keeps commercial landers, not SLS alone, at the centre of the schedule."
+     "next": null
     }
    ]
   }
  ],
  "countries": [
   {
-   "iso3": "USA",
-   "items": [
-    {
-     "date": "2026-10-23",
-     "exposure": "market opportunity",
-     "iso3": [
-      "USA"
-     ],
-     "priority": "P1",
-     "next": {
-      "date": "2026-12-08",
-      "event": "NASA commercial space station proposals due"
-     },
-     "sources": [
-      {
-       "outlet": "NASA",
-       "primary": true,
-       "title": "NASA Shares Artemis Acceleration Plans for Moon Missions",
-       "url": "https://www.nasa.gov/blogs/missions/2026/10/23/nasa-shares-artemis-acceleration-plans-for-moon-missions/"
-      },
-      {
-       "outlet": "Bloomberg",
-       "title": "NASA Sticks to Artemis Moon Mission Timeline Despite Hardware Delays",
-       "url": "https://www.bloomberg.com/news/articles/2026-10-23/nasa-commits-to-lunar-mission-timeline-despite-hardware-concerns"
-      },
-      {
-       "outlet": "Spectrum News 13",
-       "title": "NASA gives update to Artemis III mission",
-       "url": "https://mynews13.com/fl/orlando/space/2026/10/23/nasa-gives-update-to-artemis-iii-mission"
-      }
-     ],
-     "status": "statement",
-     "tags": [
-      "human spaceflight",
-      "policy",
-      "industry"
-     ],
-     "title": "NASA restates a 2028 Moon landing and details the Artemis III orbital test",
-     "summary": "NASA Administrator Jared Isaacman and agency leaders set out on 23 October the path to returning astronauts to the lunar surface in 2028. Artemis III will not land: it is a crewed mission in low Earth orbit, with officials pointing to a summer 2027 launch. Artemis programme manager Jeremy Parsons said the crew will dock with a Blue Moon lander test article for two days to check life support and other systems. Isaacman had told staff in a September memo that Artemis III was about three months behind schedule, and Bloomberg reports concern that hardware may not be ready in time. Lunar terrain vehicles for later surface operations are to come from Lunar Outpost and Venturi Astrolab.",
-     "why": "The briefing confirmed the restructured sequence rather than changing it: an orbital test in 2027 and a landing attempt in 2028. It follows the 23 October ledger entry that flagged the update, and keeps commercial landers, not SLS alone, at the centre of the schedule."
-    }
-   ]
-  },
-  {
    "iso3": "CHN",
    "items": [
     {
+     "date": "2026-10-19",
+     "iso3": [
+      "POL",
+      "CHN"
+     ],
+     "status": "event",
+     "priority": "P3",
+     "exposure": "security risk",
+     "title": "Polish Space Agency closes its watch on a Chinese rocket stage that passed over Poland",
+     "summary": "The Polish Space Agency's space situational awareness centre tracked the second stage of a Chinese Zhuque-2E rocket, about five tonnes, on passes over Poland. In a final notice on 19 October, the agency said the stage re-entered on 18 October at about 12:33 Central European Summer Time over Borneo. A local monitoring network in Wrocław recorded a pass over Poland.",
+     "why": "It shows Poland's national tracking service issuing public re-entry notices for foreign debris crossing its territory. Uncontrolled re-entries of large stages remain a recurring issue for states under the ground track.",
+     "sources": [
+      {
+       "outlet": "Polish Space Agency (POLSA)",
+       "url": "https://polsa.gov.pl/wydarzenia/komunikat-polsa-19-10-2026-podsumowanie/",
+       "language": "pl",
+       "type": "government-or-embassy",
+       "primary": true
+      },
+      {
+       "outlet": "Gazeta Wrocławska",
+       "url": "https://gazetawroclawska.pl/5-tonowy-fragment-chinskiej-rakiety-przelecial-tuz-nad-polska-wroclawianie-widzieliscie-smuge-na-niebie/ar/c1p2-29454639",
+       "language": "pl",
+       "type": "national-language"
+      },
+      {
+       "outlet": "MILMAG",
+       "url": "https://milmag.pl/en/polsa-monitors-possible-deorbit-of-zhuque-2e-second-stage/",
+       "language": "en",
+       "type": "press"
+      },
+      {
+       "outlet": "Brunei Astronomy (PABD)",
+       "url": "https://bruneiastronomy.org/web/2026/10/2026-oct-18-space-debris-re-entry-over-brunei/",
+       "language": "en",
+       "type": "press"
+      }
+     ],
+     "bar": "A: government + national-language + independent",
+     "tags": [
+      "space safety",
+      "debris"
+     ],
+     "next": null
+    },
+    {
      "date": "2026-10-25",
-     "exposure": "competitive move",
      "iso3": [
       "CHN"
      ],
+     "status": "event",
      "priority": "P2",
-     "next": null,
+     "exposure": "competitive move",
+     "title": "China launches the 28th group of its state low-orbit internet constellation",
+     "summary": "A Long March 8A rocket lifted off from the Hainan commercial spaceport at 10:03 Beijing time on 25 October, 02:03 UTC, carrying the Satellite Internet Low Orbit Group 28 satellites. The China National Space Administration said the satellites reached their planned orbit. The launch came fifteen days after Group 27. All sources found are state or state-aligned media.",
+     "why": "It keeps China's state broadband constellation on a launch rhythm of about two weeks. That pace determines how soon China can offer a national alternative to foreign low-orbit services.",
      "sources": [
       {
-       "outlet": "Xinhua (state news agency)",
-       "primary": true,
-       "title": "China launches new internet satellite group",
-       "url": "https://english.news.cn/20261025/9db370bd21374619aa7ad7a637a20657/c.html"
+       "outlet": "China National Space Administration",
+       "url": "https://www.cnsa.gov.cn/n6758823/n6758838/c10795397/content.html",
+       "language": "zh",
+       "type": "government-or-embassy",
+       "primary": true
       },
       {
-       "outlet": "Guangming Online (state-owned)",
-       "title": "China launches new internet satellite group",
-       "url": "https://en.gmw.cn/2026-10/26/content_39065242.htm"
+       "outlet": "Xinhua",
+       "url": "https://www.news.cn/tech/20261026/3f91555d8db941b4a9fc47e3d72330d5/c.html",
+       "language": "zh",
+       "type": "national-language"
       },
       {
-       "outlet": "New Space Economy",
-       "title": "China Launches Its 28th Low-Orbit Internet Satellite Group",
-       "url": "https://newspaceeconomy.ca/2026/10/25/china-launches-its-28th-low-orbit-internet-satellite-group/"
+       "outlet": "China News Service",
+       "url": "http://www.chinanews.com.cn/tp/hd2011/2026/10-25/1208792.shtml",
+       "language": "zh",
+       "type": "national-language"
+      },
+      {
+       "outlet": "Science and Technology Daily",
+       "url": "https://www.stdaily.com/web/gdxw/2026-10/25/content_602383.html",
+       "language": "zh",
+       "type": "national-language"
       }
      ],
-     "status": "launch",
+     "bar": "A: government + national-language + independent",
      "tags": [
       "launch",
-      "connectivity",
-      "industry"
+      "satellite internet"
      ],
-     "title": "China launches the 28th batch of its state low-orbit internet constellation",
-     "summary": "A Long March 8A lifted off from the Hainan commercial spacecraft launch site at 10:03 Beijing time on 25 October and placed the 28th group of low-orbit internet satellites in orbit, according to Xinhua. The satellites were built by the China Academy of Space Technology. The state announcement gave the group number but not the number of spacecraft. The 27th group flew on a Long March 12 from the same site on 10 October. The Long March 8A is designed for constellation launches to medium and low Earth orbit.",
-     "why": "Two state broadband batches in fifteen days show a steady deployment cadence for the state-backed network. It is the Chinese counterpart to the sovereign connectivity question raised by the Starlink dispute in Ukraine recorded in the ledger."
+     "next": null
     }
    ]
   },
   {
-   "iso3": "POL",
+   "iso3": "DEU",
    "items": [
     {
-     "date": "2026-10-23",
-     "exposure": "market opportunity",
+     "date": "2026-10-19",
      "iso3": [
-      "POL",
-      "IND"
+      "FRA",
+      "DEU"
      ],
+     "status": "event",
      "priority": "P2",
-     "next": null,
+     "exposure": "programme milestone",
+     "title": "French–German Idefix rover leaves for Phobos aboard Japan's MMX",
+     "summary": "Japan's MMX probe, launched at 19:41 UTC on 19 October, carries Idefix, a rover built jointly by the French space agency CNES and the German Aerospace Center DLR. It also carries MIRS, a French infrared spectrometer. DLR quoted German minister Dorothee Bär on the launch.",
+     "why": "Idefix is the main French and German hardware contribution to a Japanese-led planetary mission. It ties both agencies' Mars-system science to JAXA's schedule for arrival and landing.",
      "sources": [
       {
-       "outlet": "Defence24",
-       "title": "Ambitious plans and the need for follow-up. Aftermath of Donald Tusk's visit to India",
-       "url": "https://defence24.com/geopolitics/ambitious-plans-and-the-need-for-follow-up-aftermath-of-donald-tusks-visit-to-india"
+       "outlet": "CNES",
+       "url": "https://cnes.fr/communiques/mission-japonaise-mmx-route-lexploration-lunes-de-mars",
+       "language": "fr",
+       "type": "government-or-embassy",
+       "primary": true
       },
       {
-       "outlet": "Space24 (Polish)",
-       "title": "Tusk w Indiach. Wielka szansa dla polskiego sektora kosmicznego?",
-       "url": "https://space24.pl/polityka-kosmiczna/polska/tusk-w-indiach-wielka-szansa-dla-polskiego-sektora-kosmicznego"
+       "outlet": "DLR",
+       "url": "https://www.dlr.de/de/aktuelles/nachrichten/2026/mmx-gestartet-rover-idefix-auf-dem-weg-zum-marsmond-phobos",
+       "language": "de",
+       "type": "government-or-embassy"
       },
       {
-       "outlet": "ANI",
-       "title": "Polish PM Tusk in Bengaluru; meets CM DK Shivakumar, aims to explore opportunities for collaboration",
-       "url": "https://www.aninews.in/news/world/asia/polish-pm-tusk-in-bengaluru-meets-cm-dk-shivakumar-aims-to-explore-opportunities-for-collaboration20261023105850/"
+       "outlet": "Presse-citron",
+       "url": "https://www.presse-citron.net/france-rover-idefix-decolle-mars-mission-japonaise-mmx-percer-mysteres-phobos/",
+       "language": "fr",
+       "type": "national-language"
+      },
+      {
+       "outlet": "Journal du Geek",
+       "url": "https://www.journaldugeek.com/2026/10/20/japon-vient-lancer-mission-historique-mars-sonde-mmx-vient-decoller-direction-phobos/",
+       "language": "fr",
+       "type": "national-language"
+      },
+      {
+       "outlet": "Cité de l'espace",
+       "url": "https://www.cite-espace.com/actualites-spatiales/lancement-reussi-pour-la-mission-mmx-a-destination-des-lunes-de-mars/",
+       "language": "fr",
+       "type": "national-language"
       }
      ],
-     "status": "visit",
+     "bar": "A: government + national-language + independent",
      "tags": [
-      "policy",
-      "industry",
-      "defence"
+      "exploration",
+      "cooperation",
+      "Mars"
      ],
-     "title": "Tusk's Bengaluru stop closes without a published POLSA and ISRO agreement",
-     "summary": "Prime Minister Donald Tusk visited Bengaluru on 23 October with a business delegation of about 100, including the Polish Space Agency and ICEYE. Defence24 reports that both sides named space as an area with strong potential and that more than a dozen MoUs were signed at business forums in Delhi and Bengaluru. The two prime ministers set a goal of doubling bilateral trade to USD 12 billion by 2030. A POLSA and ISRO cooperation agreement had been trailed before the visit, but no signing had been publicly reported at the time of publication. Space24 notes that ICEYE set up an Indian subsidiary in August and cites reports that it is discussing a sovereign radar constellation for India.",
-     "why": "The visit ended with political backing for space cooperation but no confirmed agency-level text. It updates the 23 October ledger entry, which listed the POLSA and ISRO agreement as planned."
+     "next": null
     }
    ]
   },
@@ -544,77 +772,125 @@
    "iso3": "FIN",
    "items": [
     {
-     "date": "2026-10-22",
-     "exposure": "market opportunity",
+     "date": "2026-10-19",
      "iso3": [
-      "FIN",
-      "UKR"
+      "RUS",
+      "FIN"
      ],
+     "status": "event",
      "priority": "P2",
-     "next": null,
+     "exposure": "security risk",
+     "title": "Russian military satellite Kosmos 2612 made close approaches to an ICEYE radar satellite",
+     "summary": "A report by the tracking company LeoLabs, released on 19 October, described manoeuvres by the Russian military satellite Kosmos 2612 around ICEYE-X36 between 15 and 19 October. Reports put the closest approach at about 500 metres or less before Kosmos 2612 moved away. ICEYE is a Finnish company; ICEYE-X36 is registered in the United States and operated by its US arm. The first reports appeared on 16 and 17 October. No Finnish government statement was found.",
+     "why": "Close approaches by a military satellite to a commercial radar satellite bear on how states treat proximity operations in orbit. The case links a Finnish company, a US registry and a Russian military operator.",
      "sources": [
       {
-       "outlet": "ICEYE",
-       "primary": true,
-       "title": "ICEYE and Nokia partner with The Ministry of Defence of Ukraine to develop sovereign satcom capability",
-       "url": "https://www.iceye.com/newsroom/press-releases/iceye-and-nokia-partner-with-the-ministry-of-defence-of-ukraine-to-develop-sovereign-satcom-capability"
+       "outlet": "Keskisuomalainen (STT)",
+       "url": "https://www.ksml.fi/uutissuomalainen/9883988",
+       "language": "fi",
+       "type": "national-language"
       },
       {
-       "outlet": "Kyiv Independent",
-       "title": "Amid Starlink crisis, Finnish tech giants announce plan to help Ukraine build its own sovereign satellite system",
-       "url": "https://kyivindependent.com/amid-starlink-crisis-finnish-tech-giants-announce-plan-to-help-ukraine-build-its-own-sovereign-satellite-system/"
+       "outlet": "Tekniikan Maailma",
+       "url": "https://tekniikanmaailma.fi/venajan-satelliitti-tuli-uhkaavasti-yhdysvaltojen-iceye-x36-satelliitin-kylkeen-ja-vetaytyi-sitten-mita-ihmetta-avaruudessa-tapahtui/",
+       "language": "fi",
+       "type": "national-language"
       },
       {
-       "outlet": "Breaking Defense",
-       "title": "Kyiv eyes purchase of planned ICEYE, Nokia 'sovereign' communication sats",
-       "url": "https://breakingdefense.com/2026/10/kyiv-eyes-purchase-of-planned-iceye-nokia-sovereign-communication-sats/"
+       "outlet": "Uusi Suomi",
+       "url": "https://www.uusisuomi.fi/uutiset/a/6e7a854b-6941-4775-ac05-073f4b4e43ae",
+       "language": "fi",
+       "type": "national-language"
+      },
+      {
+       "outlet": "Tiedetuubi",
+       "url": "https://tiedetuubi.fi/index.php/juuri-nyt-venalainen-sotilassatelliitti-uhkaa-suomalaissatelliittia",
+       "language": "fi",
+       "type": "national-language"
+      },
+      {
+       "outlet": "RFE/RL",
+       "url": "https://www.rferl.org/a/russia-space-satellite-ukraine-finland/33879458.html",
+       "language": "en",
+       "type": "press"
+      },
+      {
+       "outlet": "Via Satellite",
+       "url": "https://www.satellitetoday.com/government-military/2026/10/19/russian-satellite-maneuvered-within-extreme-proximity-of-iceye-satellite-leolabs-reports/",
+       "language": "en",
+       "type": "press"
+      },
+      {
+       "outlet": "Air & Space Forces Magazine",
+       "url": "https://www.airandspaceforces.com/russian-satellite-shadowing-means-space-force/",
+       "language": "en",
+       "type": "press"
       }
      ],
-     "status": "signature",
+     "bar": "B: seven independent newsrooms",
      "tags": [
       "defence",
-      "satcom",
-      "industry"
+      "proximity operations"
      ],
-     "title": "Finnish firms ICEYE and Nokia sign satcom letter of intent with Ukraine's defence ministry",
-     "summary": "ICEYE and Nokia signed a Letter of Intent with Ukraine's Ministry of Defence on 22 October to explore cooperation on sovereign satellite communications. It was announced during Finnish Prime Minister Petteri Orpo's visit to Kyiv, where President Volodymyr Zelensky said seven agreements worth about EUR 300 million were concluded. The letter builds on the companies' 1 October partnership to offer government-owned LEO broadband systems, with nations controlling satellites, ground segment and terminals. An ICEYE spokesperson told Breaking Defense that the letter is an expression of intent and does not imply an order. No value or timetable has been attributed to the satcom element.",
-     "why": "It is the first government expression of interest in the ICEYE-Nokia sovereign satcom offer, and it came inside a Finnish state visit. It follows reported throttling of Starlink service in Ukraine earlier this month."
+     "next": null
     }
    ]
   },
   {
-   "iso3": "RUS",
+   "iso3": "FRA",
    "items": [
     {
-     "date": "2026-10-21",
-     "exposure": "competitive move",
+     "date": "2026-10-19",
      "iso3": [
-      "RUS",
-      "CHN"
+      "FRA",
+      "DEU"
      ],
-     "priority": "P3",
-     "next": null,
+     "status": "event",
+     "priority": "P2",
+     "exposure": "programme milestone",
+     "title": "French–German Idefix rover leaves for Phobos aboard Japan's MMX",
+     "summary": "Japan's MMX probe, launched at 19:41 UTC on 19 October, carries Idefix, a rover built jointly by the French space agency CNES and the German Aerospace Center DLR. It also carries MIRS, a French infrared spectrometer. DLR quoted German minister Dorothee Bär on the launch.",
+     "why": "Idefix is the main French and German hardware contribution to a Japanese-led planetary mission. It ties both agencies' Mars-system science to JAXA's schedule for arrival and landing.",
      "sources": [
       {
-       "outlet": "RIA Novosti (state)",
-       "title": "Россия и Китай начали изготавливать технику для совместной миссии на Марс",
-       "url": "https://ria.ru/20261021/mars-2126028106.html"
+       "outlet": "CNES",
+       "url": "https://cnes.fr/communiques/mission-japonaise-mmx-route-lexploration-lunes-de-mars",
+       "language": "fr",
+       "type": "government-or-embassy",
+       "primary": true
       },
       {
-       "outlet": "Channel One (state)",
-       "title": "Баканов рассказал о планах с КНР по изготовлению техники для изучения Марса",
-       "url": "https://www.1tv.ru/news/2026-10-21/556716"
+       "outlet": "DLR",
+       "url": "https://www.dlr.de/de/aktuelles/nachrichten/2026/mmx-gestartet-rover-idefix-auf-dem-weg-zum-marsmond-phobos",
+       "language": "de",
+       "type": "government-or-embassy"
+      },
+      {
+       "outlet": "Presse-citron",
+       "url": "https://www.presse-citron.net/france-rover-idefix-decolle-mars-mission-japonaise-mmx-percer-mysteres-phobos/",
+       "language": "fr",
+       "type": "national-language"
+      },
+      {
+       "outlet": "Journal du Geek",
+       "url": "https://www.journaldugeek.com/2026/10/20/japon-vient-lancer-mission-historique-mars-sonde-mmx-vient-decoller-direction-phobos/",
+       "language": "fr",
+       "type": "national-language"
+      },
+      {
+       "outlet": "Cité de l'espace",
+       "url": "https://www.cite-espace.com/actualites-spatiales/lancement-reussi-pour-la-mission-mmx-a-destination-des-lunes-de-mars/",
+       "language": "fr",
+       "type": "national-language"
       }
      ],
-     "status": "statement",
+     "bar": "A: government + national-language + independent",
      "tags": [
       "exploration",
       "cooperation",
       "Mars"
      ],
-     "title": "Roscosmos head says Russia and China are starting work on joint Mars hardware",
-     "summary": "Roscosmos Director General Dmitry Bakanov said on 21 October, after taking part in the Russia-China heads-of-government meeting in St Petersburg, that the two countries are beginning a joint Mars mission, starting with building instruments and equipment. State agency RIA Novosti, quoting Roscosmos, reported that he cited the joint Chang'e-7 lunar mission as the existing precedent (translated from Russian by ATLAS). He called China one of Russia's key partners and said the two countries exchange Earth observation data and jointly use GLONASS and BeiDou navigation signals. No mission name, timeline, budget or signed agreement was published. Both outlets carrying the statement are state media.",
-     "why": "A named top official has put a Russia-China Mars effort on record for the first time in this cycle, though without a published agreement. It sits alongside existing Russian instruments on China's Chang'e-7 lunar mission."
+     "next": null
     }
    ]
   },
@@ -622,34 +898,510 @@
    "iso3": "ITA",
    "items": [
     {
-     "date": "2026-10-22",
-     "exposure": "programme risk",
+     "date": "2026-10-20",
      "iso3": [
       "ITA"
      ],
+     "status": "event",
      "priority": "P3",
-     "next": null,
+     "exposure": "programme milestone",
+     "title": "Italian Space Agency completes a new laser-ranging station at Matera",
+     "summary": "The Italian Space Agency announced on 20 October the completion of MSLR, a satellite laser-ranging station working at two wavelengths at its Giuseppe Colombo Space Centre in Matera. e-GEOS built the station, with a control system from DiGOS of Potsdam. The agency cited possible future use for tracking space debris.",
+     "why": "Laser ranging underpins precise orbits for geodesy and navigation satellites. A debris-tracking role would add a national sensor to European space surveillance.",
      "sources": [
       {
-       "outlet": "European Spaceflight",
-       "title": "ESA Provides New Details on Failed Space Rider Drop Test",
-       "url": "https://europeanspaceflight.com/esa-provides-new-details-on-failed-space-rider-drop-test/"
+       "outlet": "Agenzia Spaziale Italiana",
+       "url": "https://www.asi.it/2026/10/una-nuova-stazione-laser-per-il-centro-spaziale-asi-di-matera/",
+       "language": "it",
+       "type": "government-or-embassy",
+       "primary": true
       },
       {
-       "outlet": "Space.com",
-       "title": "Europe's Space Rider vehicle comes crashing down during drop test",
-       "url": "https://www.space.com/space-exploration/launches-spacecraft/europes-space-rider-vehicle-comes-crashing-down-during-drop-test"
+       "outlet": "AstroSpace.it",
+       "url": "https://www.astrospace.it/2026/10/21/lasi-ha-completato-una-nuova-stazione-laser-per-il-tracciamento-dei-satelliti-a-matera/",
+       "language": "it",
+       "type": "national-language"
+      },
+      {
+       "outlet": "FlyEurope.TV",
+       "url": "https://www.flyeurope.tv/aviation-tv/asi-matera-nuova-stazione-laser-tracciamento-satellitare",
+       "language": "it",
+       "type": "national-language"
       }
      ],
-     "status": "test",
+     "bar": "A: government + national-language + independent",
      "tags": [
-      "launch",
-      "reusability",
-      "testing"
+      "infrastructure",
+      "space safety"
      ],
-     "title": "Space Rider test model lost over Sardinia; ESA keeps 2028 maiden flight",
-     "summary": "ESA's Director of Space Transportation, Géraldine Naja, told a briefing on 22 October that a full-scale Space Rider test model was lost in a drop test on 6 October. The model was released from a helicopter at about three kilometres over a military range in Sardinia; the drogue parachute deployed, but the parafoil detached and the model struck the ground. Remnants were recovered and an investigation board has been set up. Naja said the remaining qualification work is not on the programme's critical path, but that the schedule will be reviewed once the board reports. ESA still targets the first half of 2028 for the first flight on Vega C.",
-     "why": "This is the first failure at system level in Space Rider's landing test campaign, which runs from an Italian range. The 2028 target stands for now, subject to the investigation."
+     "next": null
+    }
+   ]
+  },
+  {
+   "iso3": "JPN",
+   "items": [
+    {
+     "date": "2026-10-19",
+     "iso3": [
+      "JPN"
+     ],
+     "status": "event",
+     "priority": "P1",
+     "exposure": "programme milestone",
+     "title": "Japan launches MMX towards the moons of Mars on H3 flight 10",
+     "summary": "An H3 rocket lifted off from Tanegashima at 04:41 Japan time on 20 October, 19:41 UTC on 19 October, carrying JAXA's Martian Moons eXploration probe. JAXA confirmed separation into a Mars transfer orbit about one hour and eleven minutes after launch. It was the tenth H3 flight and the first H3 launch of an interplanetary mission. MMX is a sample-return mission to Phobos and carries a rover built by the French and German space agencies.",
+     "why": "It is Japan's first sample-return attempt from the Martian system and the first interplanetary mission for its H3 launcher. European and US agencies have instruments on board, so the schedule matters beyond Japan.",
+     "sources": [
+      {
+       "outlet": "JAXA",
+       "url": "https://www.jaxa.jp/press/2026/10/20261020-1_j.html",
+       "language": "ja",
+       "type": "government-or-embassy",
+       "primary": true
+      },
+      {
+       "outlet": "sorae",
+       "url": "https://sorae.info/ssn/20261020-h3f10-mmx.html",
+       "language": "ja",
+       "type": "national-language"
+      },
+      {
+       "outlet": "Mynavi News TECH+",
+       "url": "https://news.mynavi.jp/techplus/article/20261020-5156160/",
+       "language": "ja",
+       "type": "national-language"
+      },
+      {
+       "outlet": "AstroArts",
+       "url": "https://www.astroarts.co.jp/article/hl/a/14740_mmx",
+       "language": "ja",
+       "type": "national-language"
+      },
+      {
+       "outlet": "NASASpaceflight",
+       "url": "https://www.nasaspaceflight.com/2026/10/mmx-launch/",
+       "language": "en",
+       "type": "press"
+      }
+     ],
+     "bar": "A: government + national-language + independent",
+     "tags": [
+      "exploration",
+      "launch",
+      "Mars"
+     ],
+     "next": null
+    }
+   ]
+  },
+  {
+   "iso3": "NOR",
+   "items": [
+    {
+     "date": "2026-10-21",
+     "iso3": [
+      "NOR",
+      "UKR"
+     ],
+     "status": "statement",
+     "priority": "P2",
+     "exposure": "market opportunity",
+     "title": "Zelensky says Norway talks covered satellite communications for Ukrainian forces",
+     "summary": "During a visit to Oslo on 20 and 21 October, President Volodymyr Zelensky met Defence Minister Tore O. Sandvik and Kongsberg chief executive Eirik Lie. Zelensky said the talks gave special attention to starting work on new satellite communications for Ukrainian forces, as an alternative to Starlink. The Norwegian government's releases on the visit do not mention satellite communications. No agreement, amount or timeline was announced.",
+     "why": "If pursued, it would give Ukraine a European government-backed alternative for military satellite links. The claim rests on Ukraine's account; Norway has not confirmed it.",
+     "sources": [
+      {
+       "outlet": "VG",
+       "url": "https://www.vg.no/nyheter/i/MAkQV5/stoler-ikke-paa-elon-musk-zelenskyj-ba-norge-om-satellittsamarbeid",
+       "language": "no",
+       "type": "national-language"
+      },
+      {
+       "outlet": "CNBC",
+       "url": "https://www.cnbc.com/2026/10/22/elon-musk-ukraine-starlink-alternatives.html",
+       "language": "en",
+       "type": "press"
+      },
+      {
+       "outlet": "Ukrinform",
+       "url": "https://www.ukrinform.net/rubric-polytics/4176702-zelensky-meets-norwegian-dm-and-representatives-of-nasams-manufacturer-kongsberg.html",
+       "language": "en",
+       "type": "press"
+      },
+      {
+       "outlet": "Euromaidan Press",
+       "url": "https://euromaidanpress.com/2026/10/21/in-oslo-us-envoy-pushes-zelenskyy-toward-deal-with-russia-again-day-later-in-same-city-norway-moves-to-arm-ukraine-with-more-nasams-missiles/",
+       "language": "en",
+       "type": "press"
+      },
+      {
+       "outlet": "NV (New Voice of Ukraine)",
+       "url": "https://english.nv.ua/nation/zelenskyy-meets-norwegian-pm-and-defense-minister-50652132.html",
+       "language": "en",
+       "type": "press"
+      }
+     ],
+     "bar": "B: five independent newsrooms",
+     "tags": [
+      "defence",
+      "satellite communications"
+     ],
+     "next": null
+    }
+   ]
+  },
+  {
+   "iso3": "POL",
+   "items": [
+    {
+     "date": "2026-10-26",
+     "iso3": [
+      "POL"
+     ],
+     "status": "decision",
+     "priority": "P2",
+     "exposure": "policy change",
+     "title": "Poland and Vietnam name space among areas of a new strategic partnership",
+     "summary": "Poland and Vietnam raised relations to a strategic partnership in Hanoi on 26 October, during a visit by Prime Minister Donald Tusk. Satellite and space cooperation is among the named areas. A Polish Space Agency delegation led by its president, Marta Wachowicz, visited the Vietnam National Space Center. No contract or amount was announced for space.",
+     "why": "The partnership puts space in a Polish framework with a South-East Asian state at head-of-government level. It gives Polish satellite firms a government channel into the Vietnamese market.",
+     "sources": [
+      {
+       "outlet": "Polish Space Agency (POLSA)",
+       "url": "https://polsa.gov.pl/wydarzenia/polska-i-wietnam-zaciesniaja-wspolprace-kosmos-jednym-z-wazniejszych-elementow/",
+       "language": "pl",
+       "type": "government-or-embassy",
+       "primary": true
+      },
+      {
+       "outlet": "Space24.pl",
+       "url": "https://space24.pl/polityka-kosmiczna/swiat/polska-i-wietnam-zaciesniaja-wspolprace-kosmiczna",
+       "language": "pl",
+       "type": "national-language"
+      },
+      {
+       "outlet": "Notes from Poland",
+       "url": "https://notesfrompoland.com/2026/10/26/poland-and-vietnam-announce-strategic-partnership-during-tusk-visit-to-hanoi/",
+       "language": "en",
+       "type": "press"
+      },
+      {
+       "outlet": "Bankier.pl (PAP)",
+       "url": "https://www.bankier.pl/wiadomosc/Bezposrednie-loty-ulatwienia-wizowe-i-zbrojenia-Polska-i-Wietnam-oglaszaja-strategiczne-partnerstwo-9218126.html",
+       "language": "pl",
+       "type": "national-language"
+      }
+     ],
+     "bar": "A: government + national-language + independent",
+     "tags": [
+      "diplomacy",
+      "cooperation"
+     ],
+     "next": null
+    },
+    {
+     "date": "2026-10-19",
+     "iso3": [
+      "POL",
+      "CHN"
+     ],
+     "status": "event",
+     "priority": "P3",
+     "exposure": "security risk",
+     "title": "Polish Space Agency closes its watch on a Chinese rocket stage that passed over Poland",
+     "summary": "The Polish Space Agency's space situational awareness centre tracked the second stage of a Chinese Zhuque-2E rocket, about five tonnes, on passes over Poland. In a final notice on 19 October, the agency said the stage re-entered on 18 October at about 12:33 Central European Summer Time over Borneo. A local monitoring network in Wrocław recorded a pass over Poland.",
+     "why": "It shows Poland's national tracking service issuing public re-entry notices for foreign debris crossing its territory. Uncontrolled re-entries of large stages remain a recurring issue for states under the ground track.",
+     "sources": [
+      {
+       "outlet": "Polish Space Agency (POLSA)",
+       "url": "https://polsa.gov.pl/wydarzenia/komunikat-polsa-19-10-2026-podsumowanie/",
+       "language": "pl",
+       "type": "government-or-embassy",
+       "primary": true
+      },
+      {
+       "outlet": "Gazeta Wrocławska",
+       "url": "https://gazetawroclawska.pl/5-tonowy-fragment-chinskiej-rakiety-przelecial-tuz-nad-polska-wroclawianie-widzieliscie-smuge-na-niebie/ar/c1p2-29454639",
+       "language": "pl",
+       "type": "national-language"
+      },
+      {
+       "outlet": "MILMAG",
+       "url": "https://milmag.pl/en/polsa-monitors-possible-deorbit-of-zhuque-2e-second-stage/",
+       "language": "en",
+       "type": "press"
+      },
+      {
+       "outlet": "Brunei Astronomy (PABD)",
+       "url": "https://bruneiastronomy.org/web/2026/10/2026-oct-18-space-debris-re-entry-over-brunei/",
+       "language": "en",
+       "type": "press"
+      }
+     ],
+     "bar": "A: government + national-language + independent",
+     "tags": [
+      "space safety",
+      "debris"
+     ],
+     "next": null
+    }
+   ]
+  },
+  {
+   "iso3": "RUS",
+   "items": [
+    {
+     "date": "2026-10-19",
+     "iso3": [
+      "RUS",
+      "FIN"
+     ],
+     "status": "event",
+     "priority": "P2",
+     "exposure": "security risk",
+     "title": "Russian military satellite Kosmos 2612 made close approaches to an ICEYE radar satellite",
+     "summary": "A report by the tracking company LeoLabs, released on 19 October, described manoeuvres by the Russian military satellite Kosmos 2612 around ICEYE-X36 between 15 and 19 October. Reports put the closest approach at about 500 metres or less before Kosmos 2612 moved away. ICEYE is a Finnish company; ICEYE-X36 is registered in the United States and operated by its US arm. The first reports appeared on 16 and 17 October. No Finnish government statement was found.",
+     "why": "Close approaches by a military satellite to a commercial radar satellite bear on how states treat proximity operations in orbit. The case links a Finnish company, a US registry and a Russian military operator.",
+     "sources": [
+      {
+       "outlet": "Keskisuomalainen (STT)",
+       "url": "https://www.ksml.fi/uutissuomalainen/9883988",
+       "language": "fi",
+       "type": "national-language"
+      },
+      {
+       "outlet": "Tekniikan Maailma",
+       "url": "https://tekniikanmaailma.fi/venajan-satelliitti-tuli-uhkaavasti-yhdysvaltojen-iceye-x36-satelliitin-kylkeen-ja-vetaytyi-sitten-mita-ihmetta-avaruudessa-tapahtui/",
+       "language": "fi",
+       "type": "national-language"
+      },
+      {
+       "outlet": "Uusi Suomi",
+       "url": "https://www.uusisuomi.fi/uutiset/a/6e7a854b-6941-4775-ac05-073f4b4e43ae",
+       "language": "fi",
+       "type": "national-language"
+      },
+      {
+       "outlet": "Tiedetuubi",
+       "url": "https://tiedetuubi.fi/index.php/juuri-nyt-venalainen-sotilassatelliitti-uhkaa-suomalaissatelliittia",
+       "language": "fi",
+       "type": "national-language"
+      },
+      {
+       "outlet": "RFE/RL",
+       "url": "https://www.rferl.org/a/russia-space-satellite-ukraine-finland/33879458.html",
+       "language": "en",
+       "type": "press"
+      },
+      {
+       "outlet": "Via Satellite",
+       "url": "https://www.satellitetoday.com/government-military/2026/10/19/russian-satellite-maneuvered-within-extreme-proximity-of-iceye-satellite-leolabs-reports/",
+       "language": "en",
+       "type": "press"
+      },
+      {
+       "outlet": "Air & Space Forces Magazine",
+       "url": "https://www.airandspaceforces.com/russian-satellite-shadowing-means-space-force/",
+       "language": "en",
+       "type": "press"
+      }
+     ],
+     "bar": "B: seven independent newsrooms",
+     "tags": [
+      "defence",
+      "proximity operations"
+     ],
+     "next": null
+    }
+   ]
+  },
+  {
+   "iso3": "TUR",
+   "items": [
+    {
+     "date": "2026-10-21",
+     "iso3": [
+      "TUR"
+     ],
+     "status": "decision",
+     "priority": "P2",
+     "exposure": "policy change",
+     "title": "Türkiye's 2027 budget proposal nearly triples the space and aviation programme",
+     "summary": "Türkiye's 2027 central government budget justification raises the Space and Aviation programme from TL 8.73bn in 2026 to TL 24.59bn in 2027, an increase of 181.7 per cent. It plans TL 92.14bn for the programme over 2027 to 2029. The programme covers aviation as well as space; Gazete Oksijen calculates aviation at about 76 per cent of the 2027 total. The budget text gives no separate figure for space.",
+     "why": "The increase sets the funding envelope for Türkiye's space plans for the next three years. Because aviation takes most of it, the space share cannot be read from the headline figure.",
+     "sources": [
+      {
+       "outlet": "Strategy and Budget Presidency (SBB)",
+       "url": "https://www.sbb.gov.tr/wp-content/uploads/2026/10/2027-Butce-Gerekcesi.pdf",
+       "language": "tr",
+       "type": "government-or-embassy",
+       "primary": true
+      },
+      {
+       "outlet": "Anadolu Ajansı",
+       "url": "https://www.aa.com.tr/tr/bilim-teknoloji/turkiyenin-uzay-ve-havacilik-faaliyetleri-icin-gelecek-3-yilda-100-milyar-liraya-yakin-odenek/4095452",
+       "language": "tr",
+       "type": "national-language"
+      },
+      {
+       "outlet": "Gazete Oksijen",
+       "url": "https://gazeteoksijen.com/ekonomi/uzay-ve-havaciliga-uc-yilda-92-milyar-tl-odenek-ayrildi-293369",
+       "language": "tr",
+       "type": "national-language"
+      }
+     ],
+     "bar": "A: government + national-language + independent",
+     "tags": [
+      "budget",
+      "policy"
+     ],
+     "next": null
+    }
+   ]
+  },
+  {
+   "iso3": "UKR",
+   "items": [
+    {
+     "date": "2026-10-21",
+     "iso3": [
+      "NOR",
+      "UKR"
+     ],
+     "status": "statement",
+     "priority": "P2",
+     "exposure": "market opportunity",
+     "title": "Zelensky says Norway talks covered satellite communications for Ukrainian forces",
+     "summary": "During a visit to Oslo on 20 and 21 October, President Volodymyr Zelensky met Defence Minister Tore O. Sandvik and Kongsberg chief executive Eirik Lie. Zelensky said the talks gave special attention to starting work on new satellite communications for Ukrainian forces, as an alternative to Starlink. The Norwegian government's releases on the visit do not mention satellite communications. No agreement, amount or timeline was announced.",
+     "why": "If pursued, it would give Ukraine a European government-backed alternative for military satellite links. The claim rests on Ukraine's account; Norway has not confirmed it.",
+     "sources": [
+      {
+       "outlet": "VG",
+       "url": "https://www.vg.no/nyheter/i/MAkQV5/stoler-ikke-paa-elon-musk-zelenskyj-ba-norge-om-satellittsamarbeid",
+       "language": "no",
+       "type": "national-language"
+      },
+      {
+       "outlet": "CNBC",
+       "url": "https://www.cnbc.com/2026/10/22/elon-musk-ukraine-starlink-alternatives.html",
+       "language": "en",
+       "type": "press"
+      },
+      {
+       "outlet": "Ukrinform",
+       "url": "https://www.ukrinform.net/rubric-polytics/4176702-zelensky-meets-norwegian-dm-and-representatives-of-nasams-manufacturer-kongsberg.html",
+       "language": "en",
+       "type": "press"
+      },
+      {
+       "outlet": "Euromaidan Press",
+       "url": "https://euromaidanpress.com/2026/10/21/in-oslo-us-envoy-pushes-zelenskyy-toward-deal-with-russia-again-day-later-in-same-city-norway-moves-to-arm-ukraine-with-more-nasams-missiles/",
+       "language": "en",
+       "type": "press"
+      },
+      {
+       "outlet": "NV (New Voice of Ukraine)",
+       "url": "https://english.nv.ua/nation/zelenskyy-meets-norwegian-pm-and-defense-minister-50652132.html",
+       "language": "en",
+       "type": "press"
+      }
+     ],
+     "bar": "B: five independent newsrooms",
+     "tags": [
+      "defence",
+      "satellite communications"
+     ],
+     "next": null
+    }
+   ]
+  },
+  {
+   "iso3": "USA",
+   "items": [
+    {
+     "date": "2026-10-22",
+     "iso3": [
+      "USA"
+     ],
+     "status": "decision",
+     "priority": "P1",
+     "exposure": "market opportunity",
+     "title": "US Space Force signs first operational commercial reserve agreements for space surveillance",
+     "summary": "Space Systems Command announced on 22 October the first six operational purchase agreements under the Commercial Augmentation Space Reserve, known as CASR. The agreements give the Space Force access to commercial space-domain-awareness capacity that can be called on in a surge. The Command's release does not name the companies. Press reports name Anduril, LeoLabs, Slingshot, InTrack, EOS of Australia and NorthStar of Canada.",
+     "why": "CASR moves from concept to signed agreements, with commercial tracking capacity now contracted for wartime surge use. Two of the reported vendors are Australian and Canadian, which extends the arrangement to allied firms.",
+     "sources": [
+      {
+       "outlet": "Space Systems Command",
+       "url": "https://www.ssc.spaceforce.mil/Newsroom/Article/4631645/ssc-awards-casr-agreements-to-establish-commercial-sda-surge-capability",
+       "language": "en",
+       "type": "government-or-embassy",
+       "primary": true
+      },
+      {
+       "outlet": "SpaceNews",
+       "url": "https://spacenews.com/space-force-taps-six-companies-for-wartime-satellite-surveillance-backup/",
+       "language": "en",
+       "type": "national-language"
+      },
+      {
+       "outlet": "Breaking Defense",
+       "url": "https://breakingdefense.com/2026/10/space-force-reveals-first-6-operational-contracts-for-civil-reserve-support-in-space-monitoring/",
+       "language": "en",
+       "type": "national-language"
+      },
+      {
+       "outlet": "Air & Space Forces Magazine",
+       "url": "https://www.airandspaceforces.com/space-force-picks-six-companies-commercial-augmentation-space-reserve/",
+       "language": "en",
+       "type": "national-language"
+      }
+     ],
+     "bar": "A: government + national-language + independent",
+     "tags": [
+      "defence",
+      "space domain awareness",
+      "procurement"
+     ],
+     "next": null
+    },
+    {
+     "date": "2026-10-23",
+     "iso3": [
+      "USA"
+     ],
+     "status": "decision",
+     "priority": "P3",
+     "exposure": "programme milestone",
+     "title": "NASA ends Swift science operations as the observatory's orbit decays",
+     "summary": "NASA announced on 23 October the end of science operations for the Neil Gehrels Swift Observatory. Its orbit had decayed below 275 kilometres, and the final observation was made on 20 October. Re-entry is expected within weeks. A commercial reboost attempt was abandoned in August.",
+     "why": "Swift has been a main instrument for detecting gamma-ray bursts since 2004, and its loss leaves a gap in rapid-response astronomy. Life extension by commercial reboost was not achieved for this mission.",
+     "sources": [
+      {
+       "outlet": "NASA Science",
+       "url": "https://science.nasa.gov/missions/swift/nasas-swift-mission-ends/",
+       "language": "en",
+       "type": "government-or-embassy",
+       "primary": true
+      },
+      {
+       "outlet": "SpaceNews",
+       "url": "https://spacenews.com/nasas-swift-space-telescope-ends-mission/",
+       "language": "en",
+       "type": "national-language"
+      },
+      {
+       "outlet": "The Register",
+       "url": "https://www.theregister.com/science/2026/10/26/swift-operations-end-2004-spacecraft-headed-for-fiery-reentry/5305346",
+       "language": "en",
+       "type": "press"
+      }
+     ],
+     "bar": "A: government + national-language + independent",
+     "tags": [
+      "science",
+      "end of mission"
+     ],
+     "next": null
     }
    ]
   }
@@ -657,67 +1409,50 @@
  "priorities": [
   {
    "rank": "P1",
-   "title": "Artemis III stays an orbital test; landing still targeted for 2028",
+   "title": "MMX on its way to Phobos",
+   "iso3": [
+    "JPN",
+    "FRA",
+    "DEU"
+   ],
+   "status": "event",
+   "exposure": "programme milestone",
+   "implication": "Japan's first Martian-system sample return is under way, with French and German hardware on board.",
+   "next": null
+  },
+  {
+   "rank": "P1",
+   "title": "US commercial surveillance reserve becomes operational",
    "iso3": [
     "USA"
    ],
-   "status": "statement",
+   "status": "decision",
    "exposure": "market opportunity",
-   "implication": "Lander readiness, which NASA now treats as the pacing item, governs timing for partners planning lunar payloads or crew roles.",
-   "next": {
-    "date": "2026-12-08",
-    "event": "Commercial station proposals due"
-   }
-  },
-  {
-   "rank": "P2",
-   "title": "China's state LEO broadband network adds a 28th batch",
-   "iso3": [
-    "CHN"
-   ],
-   "status": "launch",
-   "exposure": "competitive move",
-   "implication": "Governments comparing sovereign connectivity options face a second state-scale constellation in deployment alongside Starlink.",
+   "implication": "Commercial tracking capacity is now contracted for surge use, including firms from Australia and Canada according to press reports.",
    "next": null
   },
   {
    "rank": "P2",
-   "title": "Poland and India name space a priority without a published agency agreement",
+   "title": "Kosmos 2612 approaches to ICEYE-X36",
    "iso3": [
-    "POL",
-    "IND"
+    "RUS",
+    "FIN"
    ],
-   "status": "visit",
-   "exposure": "market opportunity",
-   "implication": "Polish firms seeking Indian work have political cover but no new agency framework to point to yet.",
+   "status": "event",
+   "exposure": "security risk",
+   "implication": "The case involves a Finnish company, a US-registered satellite and a Russian military operator; no Finnish government statement was found.",
    "next": null
   },
   {
    "rank": "P2",
-   "title": "Ukraine signals interest in a Finnish sovereign satcom system",
+   "title": "Türkiye's 2027 space and aviation appropriation",
    "iso3": [
-    "FIN",
-    "UKR"
-   ],
-   "status": "signature",
-   "exposure": "market opportunity",
-   "implication": "Governments weighing alternatives to Starlink now have a first state customer signal for a European-owned LEO satcom offer, though no order has been placed.",
-   "next": null
-  },
-  {
-   "rank": "P2",
-   "title": "ESA Council sets up the Rome exploration package",
-   "iso3": [
-    "FRA",
-    "ITA"
+    "TUR"
    ],
    "status": "decision",
    "exposure": "policy change",
-   "implication": "Member States and industry planning LEO, lunar or Mars work should expect the proposal to frame discussion in Rome on 15 December.",
-   "next": {
-    "date": "2026-12-15",
-    "event": "IMM26, Rome"
-   }
+   "implication": "The programme rises to TL 24.59bn, but most of it is for aviation and no space figure is given.",
+   "next": null
   }
  ],
  "milestones": [
@@ -728,23 +1463,14 @@
     "USA"
    ],
    "status": "event",
-   "why": "Keeps station power upgrades on track ahead of the commercial transition"
+   "why": "Station power upgrade"
   },
   {
    "date": "2026-11-10",
    "event": "European Parliament industry committee vote on the EU Space Act",
    "iso3": [],
    "status": "event",
-   "why": "Sets the Parliament's line on rules for non-EU operators serving EU customers"
-  },
-  {
-   "date": "2026-12-08",
-   "event": "NASA commercial space station proposals due",
-   "iso3": [
-    "USA"
-   ],
-   "status": "deadline",
-   "why": "Shapes who hosts Western crews in LEO after the ISS"
+   "why": "Sets the Parliament's position on the EU Space Act"
   },
   {
    "date": "2026-12-15",
@@ -753,26 +1479,10 @@
     "ITA"
    ],
    "status": "event",
-   "why": "Next step on Europe's LEO, Moon and Mars path before CM28"
+   "why": "Exploration package ahead of CM28"
   }
  ],
  "watchlist": [
-  {
-   "date": "2026-10-26",
-   "event": "NASA Science virtual town hall on changes to mission competition and selection",
-   "iso3": [
-    "USA"
-   ],
-   "where": "Online"
-  },
-  {
-   "date": "2026-10-26",
-   "event": "ICG-20, International Committee on GNSS, continues until 30 October",
-   "iso3": [
-    "IND"
-   ],
-   "where": "Goa, India"
-  },
   {
    "date": "2026-10-27",
    "event": "APRSAF-32 Asia-Pacific Regional Space Agency Forum opens (to 30 October)",
@@ -780,7 +1490,7 @@
     "THA",
     "JPN"
    ],
-   "where": "Bangkok, Thailand"
+   "where": "Thailand"
   },
   {
    "date": "2026-10-27",
@@ -788,7 +1498,7 @@
    "iso3": [
     "GBR"
    ],
-   "where": "London, United Kingdom"
+   "where": "United Kingdom"
   },
   {
    "date": "2026-10-30",
@@ -800,87 +1510,75 @@
   },
   {
    "date": "2026-11-03",
-   "event": "US midterm elections",
-   "iso3": [
-    "USA"
-   ],
-   "where": "United States"
+   "event": "Monthly edition",
+   "iso3": [],
+   "where": ""
   }
  ],
- "competitive_watch": [
-  {
-   "competitor": "SpaceX",
-   "date": "2026-10-20",
-   "exposure": "competitive move",
-   "iso3": [
-    "USA",
-    "UKR"
-   ],
-   "next": null,
-   "sources": [
-    {
-     "outlet": "Spaceflight Now",
-     "title": "SpaceX launches Starlink 15-15 mission following a trio of scrubs",
-     "url": "https://spaceflightnow.com/2026/10/20/live-coverage-spacex-to-launch-27-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-5/"
-    },
-    {
-     "outlet": "CNBC",
-     "title": "In hunt for Starlink alternative, Ukraine partners with Nokia and satellite maker ICEYE",
-     "url": "https://www.cnbc.com/2026/10/23/ukraine-partners-with-nokia-and-iceye-for-starlink-alternative.html"
-    }
-   ],
-   "status": "filing",
-   "title": "SpaceX reports more than 11,100 Starlink satellites in orbit",
-   "summary": "SpaceX told the US Securities and Exchange Commission it closed the third quarter with more than 11,100 Starlink satellites in low Earth orbit, and said it added 1.6 million customers in the quarter. Analysts quoted by CNBC say no drop-in replacement exists for governments seeking alternatives."
-  }
- ],
+ "competitive_watch": [],
  "stats": {
-  "revised": "2026-10-26 morning edition, desks completed 2026-10-26T16:24 UTC",
-  "searches": 40,
-  "sources": 23
+  "revised": "2026-10-26 edition rebuilt to the three-source rule, 17:55 UTC",
+  "desks": 8,
+  "items": 13,
+  "sources": 47
  },
  "audio_sections": [
   {
    "id": "opening",
    "title": "Opening",
-   "text": "Good morning. It's Monday, the twenty sixth of October, and here's what's happening in space.\n\nNASA has laid out how it plans to get astronauts back on the Moon in twenty twenty eight. China has added another batch of satellites to its state internet network. And Poland's prime minister has wrapped up his visit to India, with space high on the agenda but no new agency deal on paper. Closer to home, Europe's space agency has set its agenda for a December meeting in Rome, and Finland's ICEYE and Nokia have signed a satellite deal with Ukraine."
+   "text": "Good morning. It is Monday, the twenty-sixth of October, and this is the Sovereign Space ATLAS briefing.\n\nJapan has sent a probe towards the moons of Mars. The United States Space Force has signed its first operational agreements to call on commercial satellite tracking in a crisis. And a Russian military satellite's close approaches to a commercial radar satellite have been set out in detail. Two desks, ESA and the European Union, and Eurasia, have nothing this morning that meets the publication's source standard."
   },
   {
    "id": "top",
    "title": "Top story",
-   "text": "The top story comes from Florida. On Friday, NASA Administrator Jared Isaacman and senior agency leaders gave an update on the Artemis programme at Kennedy Space Center.\n\nThe headline is that the plan hasn't changed. NASA still aims to land astronauts on the Moon in twenty twenty eight. Before that, Artemis three will fly as a crewed test in low Earth orbit, rather than going to the Moon, and officials pointed to a launch in the summer of twenty twenty seven.\n\nThe programme manager, Jeremy Parsons, explained what the crew will actually do. They'll dock with a test version of Blue Origin's Blue Moon lander and stay attached for two days, climbing inside to check life support and other key systems. It's a rehearsal for the hardware that will eventually carry people down to the surface.\n\nThere are question marks over timing, though. Isaacman told NASA staff in a memo last month that Artemis three was running about three months behind, and Bloomberg reports concern that some hardware may not be ready in time. NASA's answer, for now, is that the schedule holds.\n\nThe bigger picture is that commercial landers, not just NASA's own rocket, now set the pace for the whole programme."
+   "text": "The top story is Japan's Martian Moons eXploration mission, known as MMX. An H3 rocket lifted off from Tanegashima at 04:41 Japan time on Tuesday the twentieth, which was 19:41 UTC on the nineteenth. JAXA confirmed that the probe separated into a transfer orbit towards Mars about an hour and eleven minutes after launch. It was the tenth flight of the H3, and the first time the rocket has flown an interplanetary mission. MMX is designed to bring a sample back from Phobos, the larger of the two Martian moons. Europe has a direct stake: the probe carries a rover built jointly by the French and German space agencies.\n\nIn the United States, Space Systems Command announced on the twenty-second the first six operational purchase agreements under its Commercial Augmentation Space Reserve. These give the Space Force access to commercial space surveillance capacity that it can call on during a surge. The Command did not name the companies. Press reports name Anduril, LeoLabs, Slingshot, InTrack, EOS of Australia and NorthStar of Canada.\n\nAnd a report by the tracking company LeoLabs, released on the nineteenth, described manoeuvres by the Russian military satellite Kosmos 2612 around ICEYE-X36, a radar satellite of the Finnish company ICEYE, between the fifteenth and the nineteenth. Reports put the closest approach at about five hundred metres or less. The satellite is registered in the United States and operated by ICEYE's American arm. No Finnish government statement was found."
   },
   {
-   "id": "world",
-   "title": "Around the world",
-   "text": "In China, a Long March eight A rocket lifted off from the commercial launch site on Hainan island on Sunday morning, Beijing time. According to the state news agency Xinhua, it carried the twenty eighth group of satellites for China's low orbit internet network, built by the China Academy of Space Technology.\n\nThe official notice didn't say how many satellites were on board, only the group number. The previous batch went up just fifteen days earlier. Put simply, China is building a national broadband network in orbit, batch by batch, at a steady clip. For governments weighing up where their satellite connections come from, that's now a second network of this scale taking shape, alongside SpaceX's Starlink.\n\nIn Saudi Arabia, the Royal Commission for AlUla says two LaserSETI stations are now up and running at its AlUla Manara observatory site. They watch the night sky for brief flashes of light, and the SETI Institute says they're the network's first stations anywhere in Asia. It's a small, scientific step, but it shows Saudi institutions building research capacity on the ground, as well as in orbit."
+   "id": "esa_eu",
+   "title": "ESA and EU",
+   "text": "On the ESA and European Union desk, no development in the five days to today met the publication's standard of three independent sources, including one in a national language and one from a government. EU announcements on Galileo and space surveillance each rested on a single release."
   },
   {
-   "id": "region",
-   "title": "Closer to home",
-   "text": "In Poland, Prime Minister Donald Tusk finished his India trip in Bengaluru on Friday. He travelled with about a hundred business leaders, including the Polish Space Agency and the radar satellite company ICEYE.\n\nBoth governments said space has strong potential, and more than a dozen agreements were signed between companies at business forums in Delhi and Bengaluru. The two prime ministers also set a goal of doubling trade to twelve billion dollars by twenty thirty.\n\nWhat hasn't appeared, at least not publicly, is the cooperation agreement between the Polish Space Agency and India's space agency, ISRO, which had been talked about before the trip. So the political backing is there, but the formal framework is still to come.\n\nPolish coverage has focused on the openings for Polish space companies. The specialist site Space24 points out that ICEYE set up an Indian subsidiary in August, and cites reports that it's discussing a radar satellite constellation for India."
+   "id": "cee",
+   "title": "Central and Eastern Europe",
+   "text": "In Central and Eastern Europe, Poland and Vietnam raised their relations to a strategic partnership in Hanoi on Monday, during a visit by Prime Minister Donald Tusk. Satellite and space cooperation is among the named areas. A Polish Space Agency delegation led by its president, Marta Wachowicz, visited the Vietnam National Space Center. No contract or amount was announced for space.\n\nThe Polish Space Agency also closed its watch on the second stage of a Chinese Zhuque-2E rocket, about five tonnes, which passed over Poland. Its final notice, issued on the nineteenth, said the stage re-entered on the eighteenth over Borneo."
   },
   {
-   "id": "europe",
-   "title": "Europe and Eurasia",
-   "text": "Now to Europe. The European Space Agency's member states met in Paris on Wednesday and Thursday to prepare for a ministers' meeting in Rome on the fifteenth of December. On the table is a proposal called Europe's Future in Space Exploration, a step by step path in low Earth orbit, on the Moon and towards Mars.\n\nIn Western Europe, ESA confirmed that a full size Space Rider test model was lost over a military range in Sardinia on the sixth of October, when its main parafoil came away. ESA is still aiming for a first flight in the first half of twenty twenty eight.\n\nIn the Nordics, Finland's ICEYE and Nokia signed a letter of intent with Ukraine's defence ministry on Thursday, during the Finnish prime minister's Kyiv visit, to explore a satellite network Ukraine would own and control. ICEYE stresses it's not an order, and no price or timetable has been given.\n\nIn Russia, the head of Roscosmos, Dmitry Bakanov, said Russia and China are starting work on instruments for a joint Mars mission. The remarks were carried by state media, and no agreement or timeline has been published."
+   "id": "nordics",
+   "title": "Nordics",
+   "text": "On the Nordic desk, President Volodymyr Zelensky met Norway's Defence Minister, Tore Sandvik, and the head of Kongsberg, Eirik Lie, during his visit to Oslo on the twentieth and twenty-first. Zelensky said the talks gave special attention to new satellite communications for Ukrainian forces, as an alternative to Starlink. That account comes from the Ukrainian side. The Norwegian government's releases on the visit do not mention satellite communications, and no agreement, amount or timeline was announced."
   },
   {
-   "id": "industry",
-   "title": "Industry and markets",
-   "text": "On the business side, SpaceX has told US regulators it ended the third quarter with more than eleven thousand one hundred Starlink satellites in orbit, and that it added one point six million customers over those three months. Analysts quoted by CNBC say that, for governments looking for an alternative, there's still no ready replacement. That's the backdrop to Ukraine's recent move to explore a satellite network of its own."
+   "id": "west",
+   "title": "Western and Southern Europe",
+   "text": "In Western and Southern Europe, the French and German share of MMX is Idefix, a rover built jointly by the French space agency CNES and the German Aerospace Center, DLR. The probe also carries a French infrared spectrometer. DLR quoted German minister Dorothee Bär on the launch.\n\nIn Italy, the Italian Space Agency announced on the twentieth that it had completed a new satellite laser-ranging station at its space centre in Matera. The station was built by e-GEOS. The agency said it could later be used to track space debris."
   },
   {
-   "id": "ahead",
-   "title": "The days ahead",
-   "text": "Looking ahead, the Asia Pacific regional space agency forum opens in Bangkok tomorrow, and the Defence in Space conference begins in London. On Thursday, astronauts on the space station start the first of two spacewalks to fit new solar arrays. The European Parliament's industry committee votes on the EU Space Act on the tenth of November. NASA's commercial space station proposals are due on the eighth of December, and ESA ministers meet in Rome on the fifteenth."
+   "id": "eurasia",
+   "title": "Eurasia and Central Asia",
+   "text": "On the Eurasia and Central Asia desk, no development in the five days to today met the source standard. Russian government websites could not be reached during this run, and no Central Asian space item fell within the window. Statements by Russian officials in state media lacked a government page or enough independent confirmation."
+  },
+  {
+   "id": "mena",
+   "title": "Türkiye, Middle East and Africa",
+   "text": "On the Türkiye, Middle East and Africa desk, Türkiye's 2027 budget proposal raises the Space and Aviation programme from 8.73 billion lira this year to 24.59 billion lira next year, an increase of almost 182 per cent. It plans 92.14 billion lira over three years. The programme covers aviation as well as space. Gazete Oksijen calculates aviation at about three quarters of next year's total, and the budget text gives no separate figure for space. No Gulf item in the window met the standard."
+  },
+  {
+   "id": "asia_pac",
+   "title": "Asia Pacific",
+   "text": "In Asia Pacific, besides the MMX launch, China launched the twenty-eighth group of its state low-orbit internet satellites. A Long March 8A rocket lifted off from the Hainan commercial spaceport on Sunday at 10:03 Beijing time. The China National Space Administration said the satellites reached their planned orbit. This came fifteen days after the previous group. All sources found are state or state-aligned media."
+  },
+  {
+   "id": "americas",
+   "title": "Americas",
+   "text": "In the Americas, besides the Space Force agreements, NASA announced on the twenty-third the end of science operations for the Neil Gehrels Swift Observatory. Its orbit had decayed below two hundred and seventy-five kilometres. The final observation was made on the twentieth, and re-entry is expected within weeks. A commercial reboost attempt was abandoned in August. No Canadian or Brazilian item in the window met the standard."
   },
   {
    "id": "close",
    "title": "Close",
-   "text": "That's the briefing for today. You'll find the full edition, with links to every source, on the Briefing tab. Have a good day."
+   "text": "Looking ahead, the Asia-Pacific Regional Space Agency Forum opens in Thailand tomorrow, and the United Kingdom's Defence in Space Conference also opens tomorrow. The first of two spacewalks to install new solar arrays on the International Space Station is planned for Thursday. The European Parliament's industry committee votes on the EU Space Act on the tenth of November, and ESA ministers meet in Rome on the fifteenth of December. The next monthly edition is on Tuesday the third of November. That is the briefing for Monday the twenty-sixth of October."
   }
  ],
- "audio_script": "Good morning. It's Monday, the twenty sixth of October, and here's what's happening in space.\n\nNASA has laid out how it plans to get astronauts back on the Moon in twenty twenty eight. China has added another batch of satellites to its state internet network. And Poland's prime minister has wrapped up his visit to India, with space high on the agenda but no new agency deal on paper. Closer to home, Europe's space agency has set its agenda for a December meeting in Rome, and Finland's ICEYE and Nokia have signed a satellite deal with Ukraine.\n\nThe top story comes from Florida. On Friday, NASA Administrator Jared Isaacman and senior agency leaders gave an update on the Artemis programme at Kennedy Space Center.\n\nThe headline is that the plan hasn't changed. NASA still aims to land astronauts on the Moon in twenty twenty eight. Before that, Artemis three will fly as a crewed test in low Earth orbit, rather than going to the Moon, and officials pointed to a launch in the summer of twenty twenty seven.\n\nThe programme manager, Jeremy Parsons, explained what the crew will actually do. They'll dock with a test version of Blue Origin's Blue Moon lander and stay attached for two days, climbing inside to check life support and other key systems. It's a rehearsal for the hardware that will eventually carry people down to the surface.\n\nThere are question marks over timing, though. Isaacman told NASA staff in a memo last month that Artemis three was running about three months behind, and Bloomberg reports concern that some hardware may not be ready in time. NASA's answer, for now, is that the schedule holds.\n\nThe bigger picture is that commercial landers, not just NASA's own rocket, now set the pace for the whole programme.\n\nIn China, a Long March eight A rocket lifted off from the commercial launch site on Hainan island on Sunday morning, Beijing time. According to the state news agency Xinhua, it carried the twenty eighth group of satellites for China's low orbit internet network, built by the China Academy of Space Technology.\n\nThe official notice didn't say how many satellites were on board, only the group number. The previous batch went up just fifteen days earlier. Put simply, China is building a national broadband network in orbit, batch by batch, at a steady clip. For governments weighing up where their satellite connections come from, that's now a second network of this scale taking shape, alongside SpaceX's Starlink.\n\nIn Saudi Arabia, the Royal Commission for AlUla says two LaserSETI stations are now up and running at its AlUla Manara observatory site. They watch the night sky for brief flashes of light, and the SETI Institute says they're the network's first stations anywhere in Asia. It's a small, scientific step, but it shows Saudi institutions building research capacity on the ground, as well as in orbit.\n\nIn Poland, Prime Minister Donald Tusk finished his India trip in Bengaluru on Friday. He travelled with about a hundred business leaders, including the Polish Space Agency and the radar satellite company ICEYE.\n\nBoth governments said space has strong potential, and more than a dozen agreements were signed between companies at business forums in Delhi and Bengaluru. The two prime ministers also set a goal of doubling trade to twelve billion dollars by twenty thirty.\n\nWhat hasn't appeared, at least not publicly, is the cooperation agreement between the Polish Space Agency and India's space agency, ISRO, which had been talked about before the trip. So the political backing is there, but the formal framework is still to come.\n\nPolish coverage has focused on the openings for Polish space companies. The specialist site Space24 points out that ICEYE set up an Indian subsidiary in August, and cites reports that it's discussing a radar satellite constellation for India.\n\nNow to Europe. The European Space Agency's member states met in Paris on Wednesday and Thursday to prepare for a ministers' meeting in Rome on the fifteenth of December. On the table is a proposal called Europe's Future in Space Exploration, a step by step path in low Earth orbit, on the Moon and towards Mars.\n\nIn Western Europe, ESA confirmed that a full size Space Rider test model was lost over a military range in Sardinia on the sixth of October, when its main parafoil came away. ESA is still aiming for a first flight in the first half of twenty twenty eight.\n\nIn the Nordics, Finland's ICEYE and Nokia signed a letter of intent with Ukraine's defence ministry on Thursday, during the Finnish prime minister's Kyiv visit, to explore a satellite network Ukraine would own and control. ICEYE stresses it's not an order, and no price or timetable has been given.\n\nIn Russia, the head of Roscosmos, Dmitry Bakanov, said Russia and China are starting work on instruments for a joint Mars mission. The remarks were carried by state media, and no agreement or timeline has been published.\n\nOn the business side, SpaceX has told US regulators it ended the third quarter with more than eleven thousand one hundred Starlink satellites in orbit, and that it added one point six million customers over those three months. Analysts quoted by CNBC say that, for governments looking for an alternative, there's still no ready replacement. That's the backdrop to Ukraine's recent move to explore a satellite network of its own.\n\nLooking ahead, the Asia Pacific regional space agency forum opens in Bangkok tomorrow, and the Defence in Space conference begins in London. On Thursday, astronauts on the space station start the first of two spacewalks to fit new solar arrays. The European Parliament's industry committee votes on the EU Space Act on the tenth of November. NASA's commercial space station proposals are due on the eighth of December, and ESA ministers meet in Rome on the fifteenth.\n\nThat's the briefing for today. You'll find the full edition, with links to every source, on the Briefing tab. Have a good day.",
+ "audio_script": "Good morning. It is Monday, the twenty-sixth of October, and this is the Sovereign Space ATLAS briefing.\n\nJapan has sent a probe towards the moons of Mars. The United States Space Force has signed its first operational agreements to call on commercial satellite tracking in a crisis. And a Russian military satellite's close approaches to a commercial radar satellite have been set out in detail. Two desks, ESA and the European Union, and Eurasia, have nothing this morning that meets the publication's source standard.\n\nThe top story is Japan's Martian Moons eXploration mission, known as MMX. An H3 rocket lifted off from Tanegashima at 04:41 Japan time on Tuesday the twentieth, which was 19:41 UTC on the nineteenth. JAXA confirmed that the probe separated into a transfer orbit towards Mars about an hour and eleven minutes after launch. It was the tenth flight of the H3, and the first time the rocket has flown an interplanetary mission. MMX is designed to bring a sample back from Phobos, the larger of the two Martian moons. Europe has a direct stake: the probe carries a rover built jointly by the French and German space agencies.\n\nIn the United States, Space Systems Command announced on the twenty-second the first six operational purchase agreements under its Commercial Augmentation Space Reserve. These give the Space Force access to commercial space surveillance capacity that it can call on during a surge. The Command did not name the companies. Press reports name Anduril, LeoLabs, Slingshot, InTrack, EOS of Australia and NorthStar of Canada.\n\nAnd a report by the tracking company LeoLabs, released on the nineteenth, described manoeuvres by the Russian military satellite Kosmos 2612 around ICEYE-X36, a radar satellite of the Finnish company ICEYE, between the fifteenth and the nineteenth. Reports put the closest approach at about five hundred metres or less. The satellite is registered in the United States and operated by ICEYE's American arm. No Finnish government statement was found.\n\nOn the ESA and European Union desk, no development in the five days to today met the publication's standard of three independent sources, including one in a national language and one from a government. EU announcements on Galileo and space surveillance each rested on a single release.\n\nIn Central and Eastern Europe, Poland and Vietnam raised their relations to a strategic partnership in Hanoi on Monday, during a visit by Prime Minister Donald Tusk. Satellite and space cooperation is among the named areas. A Polish Space Agency delegation led by its president, Marta Wachowicz, visited the Vietnam National Space Center. No contract or amount was announced for space.\n\nThe Polish Space Agency also closed its watch on the second stage of a Chinese Zhuque-2E rocket, about five tonnes, which passed over Poland. Its final notice, issued on the nineteenth, said the stage re-entered on the eighteenth over Borneo.\n\nOn the Nordic desk, President Volodymyr Zelensky met Norway's Defence Minister, Tore Sandvik, and the head of Kongsberg, Eirik Lie, during his visit to Oslo on the twentieth and twenty-first. Zelensky said the talks gave special attention to new satellite communications for Ukrainian forces, as an alternative to Starlink. That account comes from the Ukrainian side. The Norwegian government's releases on the visit do not mention satellite communications, and no agreement, amount or timeline was announced.\n\nIn Western and Southern Europe, the French and German share of MMX is Idefix, a rover built jointly by the French space agency CNES and the German Aerospace Center, DLR. The probe also carries a French infrared spectrometer. DLR quoted German minister Dorothee Bär on the launch.\n\nIn Italy, the Italian Space Agency announced on the twentieth that it had completed a new satellite laser-ranging station at its space centre in Matera. The station was built by e-GEOS. The agency said it could later be used to track space debris.\n\nOn the Eurasia and Central Asia desk, no development in the five days to today met the source standard. Russian government websites could not be reached during this run, and no Central Asian space item fell within the window. Statements by Russian officials in state media lacked a government page or enough independent confirmation.\n\nOn the Türkiye, Middle East and Africa desk, Türkiye's 2027 budget proposal raises the Space and Aviation programme from 8.73 billion lira this year to 24.59 billion lira next year, an increase of almost 182 per cent. It plans 92.14 billion lira over three years. The programme covers aviation as well as space. Gazete Oksijen calculates aviation at about three quarters of next year's total, and the budget text gives no separate figure for space. No Gulf item in the window met the standard.\n\nIn Asia Pacific, besides the MMX launch, China launched the twenty-eighth group of its state low-orbit internet satellites. A Long March 8A rocket lifted off from the Hainan commercial spaceport on Sunday at 10:03 Beijing time. The China National Space Administration said the satellites reached their planned orbit. This came fifteen days after the previous group. All sources found are state or state-aligned media.\n\nIn the Americas, besides the Space Force agreements, NASA announced on the twenty-third the end of science operations for the Neil Gehrels Swift Observatory. Its orbit had decayed below two hundred and seventy-five kilometres. The final observation was made on the twentieth, and re-entry is expected within weeks. A commercial reboost attempt was abandoned in August. No Canadian or Brazilian item in the window met the standard.\n\nLooking ahead, the Asia-Pacific Regional Space Agency Forum opens in Thailand tomorrow, and the United Kingdom's Defence in Space Conference also opens tomorrow. The first of two spacewalks to install new solar arrays on the International Space Station is planned for Thursday. The European Parliament's industry committee votes on the EU Space Act on the tenth of November, and ESA ministers meet in Rome on the fifteenth of December. The next monthly edition is on Tuesday the third of November. That is the briefing for Monday the twenty-sixth of October.",
  "profile_updates": []
 }
