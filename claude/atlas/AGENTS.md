@@ -21,8 +21,9 @@ Run today's ATLAS morning briefing as the Editor in claude/atlas/AGENTS.md. Pull
 | Fetch feeds, build the reading packet, or refresh context | Reader |
 | Put an edition on the website, record the voice, or deploy | Publisher |
 | Change the site, the account pages, or the Laravel app | Site engineer |
+| Update the country files, or build the country database | Vice President of Data Analytics. Read `claude/atlas/country-data/AGENTS.md` and stop. Do not run this during a morning briefing. |
 
-Shared rules apply to every cause.
+Shared rules apply to every cause. A morning briefing does not launch the country-data team. The country-data team does not edit a briefing.
 
 ## Shared rules
 
@@ -33,6 +34,7 @@ The site repository is https://github.com/gabbus380/space-atlas. Staging tracks 
 Files in the drop:
 
 - `claude/atlas/AGENTS.md` — this prompt
+- `claude/atlas/country-data/AGENTS.md` — the Vice President of Data Analytics, the directors, and the country managers
 - `claude/atlas/source-feeds.json` — the standing sources
 - `claude/atlas/context/YYYY-MM-DD.md` — the reading packet for that morning
 - `claude/atlas/memory/threads.md` — what has already been filed, and what would count as a change
