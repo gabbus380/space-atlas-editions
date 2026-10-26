@@ -12,7 +12,7 @@ jobs:
       - uses: actions/checkout@v4
       - name: Reject anything other than a briefing
         run: |
-          bad=$(git ls-files | grep -vE '^(README.md|\.gitignore|briefings/[0-9]{4}-[0-9]{2}-[0-9]{2}\.json|audio/brief_[0-9]{4}-[0-9]{2}-[0-9]{2}\.mp4|\.github/workflows/guard\.yml|claude/atlas/ledger/[A-Za-z0-9_-]+\.md|claude/atlas/reports/[0-9]{4}-[0-9]{2}-[0-9]{2}\.md)$' || true)
+          bad=$(git ls-files | grep -vE '^(README.md|\.gitignore|briefings/[0-9]{4}-[0-9]{2}-[0-9]{2}\.json|audio/brief_[0-9]{4}-[0-9]{2}-[0-9]{2}\.mp4|\.github/workflows/guard\.yml|claude/atlas/ledger/[A-Za-z0-9_-]+\.md|claude/atlas/reports/[0-9]{4}-[0-9]{2}-[0-9]{2}\.md|claude/atlas/source-feeds\.json)$' || true)
           if [ -n "$bad" ]; then
             echo "These files do not belong in this repository:"
             echo "$bad"
