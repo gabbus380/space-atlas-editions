@@ -68,7 +68,9 @@ Dispatch eight desk researchers at once, one per desk, and do not let them cross
 
 A desk with nothing in the five-day window, even at low confidence, gets one item saying the desk was quiet. Status `overview`. That quiet claim is high confidence, because it only says the packet was empty. Do not use a quiet item to hide a low-confidence story you already have.
 
-You write the edition. Researchers do not. If today's JSON is already on main, change only the desks whose last state changed, and rewrite only those audio sections. Leave the rest of the narration as it is.
+You write the edition. Write for a reader, not for the newsroom. Never mention the source rule, a harvest, a run report, or a page that could not be reached. If a desk had no fresh event, say what the standing situation is and why the next date matters.
+
+ Researchers do not. If today's JSON is already on main, change only the desks whose last state changed, and rewrite only those audio sections. Leave the rest of the narration as it is.
 
  Schema: `date`, `edition` "06:00 UTC", `generated_at` today, `headline`, `summary`, `bottom_line`, `global[]`, `regions[]`, `countries[]`, `priorities[]` of at most 7, `milestones[]`, `watchlist[]`, `competitive_watch[]`, `stats`, `audio_script`, `audio_sections[]`, and `confidence` on each fresh item. Limits: global at most 8, each desk at most 6, each country at most 5, total at most 40. Fresh item dates fall within 7 days and are not in the future. Overview items use today's date. Two-sentence why on every fresh item. About five sentences of summary.
 
