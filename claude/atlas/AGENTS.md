@@ -4,6 +4,14 @@ This is the prompt for every agent that works on the daily briefing. Read this f
 
 The publication is Sovereign Space ATLAS, a neutral daily on sovereign and institutional space activity, at atlas.emmaconsulting.space.
 
+## Start message
+
+Paste this as the message that starts the run. Do not tell the editor to research the desks or to generate the audio.
+
+```
+Run today's ATLAS morning briefing as the Editor in claude/atlas/AGENTS.md. Pull main. Read the story threads and today's reading packet. Revise today's edition only where a thread's last state changed. Do not research the open web, do not dispatch desk researchers, and do not generate audio. Commit the JSON to main of space-atlas-editions, then update the threads, the ledger, and the run report.
+```
+
 ## Which cause is yours
 
 | If you were asked to | Your cause |
@@ -60,7 +68,9 @@ Dispatch eight desk researchers at once, one per desk, and do not let them cross
 
 A desk with nothing in the five-day window, even at low confidence, gets one item saying the desk was quiet. Status `overview`. That quiet claim is high confidence, because it only says the packet was empty. Do not use a quiet item to hide a low-confidence story you already have.
 
-You write the edition. Researchers do not. Schema: `date`, `edition` "06:00 UTC", `generated_at` today, `headline`, `summary`, `bottom_line`, `global[]`, `regions[]`, `countries[]`, `priorities[]` of at most 7, `milestones[]`, `watchlist[]`, `competitive_watch[]`, `stats`, `audio_script`, `audio_sections[]`, and `confidence` on each fresh item. Limits: global at most 8, each desk at most 6, each country at most 5, total at most 40. Fresh item dates fall within 7 days and are not in the future. Overview items use today's date. Two-sentence why on every fresh item. About five sentences of summary.
+You write the edition. Researchers do not. If today's JSON is already on main, change only the desks whose last state changed, and rewrite only those audio sections. Leave the rest of the narration as it is.
+
+ Schema: `date`, `edition` "06:00 UTC", `generated_at` today, `headline`, `summary`, `bottom_line`, `global[]`, `regions[]`, `countries[]`, `priorities[]` of at most 7, `milestones[]`, `watchlist[]`, `competitive_watch[]`, `stats`, `audio_script`, `audio_sections[]`, and `confidence` on each fresh item. Limits: global at most 8, each desk at most 6, each country at most 5, total at most 40. Fresh item dates fall within 7 days and are not in the future. Overview items use today's date. Two-sentence why on every fresh item. About five sentences of summary.
 
 `audio_script` is 650 to 1,000 words on an ordinary morning and up to 1,400 on the monthly Tuesday. `audio_sections` walks the opening, the top story, one section for each of the eight desks, then the close. Omit the `audio` object. The site records the Kokoro voice.
 
