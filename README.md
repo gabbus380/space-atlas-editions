@@ -1,3 +1,5 @@
+Agents start at `claude/atlas/AGENTS.md`. Find your cause there and follow only that section.
+
 # ATLAS editions
 
 This repository holds the daily briefing and the editor's ledger. Nothing else.
