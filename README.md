@@ -13,3 +13,13 @@ Ledger files belong in `claude/atlas/ledger/`. The run report belongs in `claude
 The site copies a file that passes its checks at 05:00 and 05:40 UTC, before the 06:20 UTC email. A briefing that contains a key, a private key, or a token is refused and is not published.
 
 Do not put application code or secrets in this repository.
+
+Pull `main` at the start of a run. A session opened earlier in the day is looking at an older file.
+
+`regions` is a list of `{id, name, items}`, in the desk order above. It is not a map, so `regions.items()` raises `AttributeError`. Count desks like this:
+
+```python
+{r["id"]: len(r["items"]) for r in d["regions"]}
+```
+
+`audio_script` is the section texts joined with a blank line. Join them as `"\n\n".join(...)`. Writing `chr(10)*2 .join(...)` is a syntax trap: Python treats `2 .join` as a method call on the integer 2.
