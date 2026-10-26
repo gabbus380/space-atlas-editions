@@ -22,9 +22,9 @@ Run today's ATLAS morning briefing as the Editor in claude/atlas/AGENTS.md. Pull
 | Put an edition on the website, record the voice, or deploy | Publisher |
 | Change the site, the account pages, or the Laravel app | Site engineer |
 | Update the country files | Vice President of Data Analytics. Read `claude/atlas/country-data/AGENTS.md` and stop. This is the monthly country-file agent. |
-| Update the ecosystem, the organizations, or the industry map | Vice President of Ecosystems. Read `claude/atlas/ecosystem/AGENTS.md` and stop. This is the monthly ecosystem agent. |
+| Build or update the ecosystem, the organizations, or the industry map | Vice President of Ecosystems. Read `claude/atlas/ecosystem/AGENTS.md` and stop. It is a worldwide builder until all 235 map entries are covered; only then does it become a monthly maintenance agent. |
 
-Shared rules apply to every cause. The morning briefing does not launch the country-file agent or the ecosystem agent. Those two do not edit a briefing. They run on the Wednesday after the monthly Tuesday briefing and read `claude/atlas/registry/watch.md`.
+Shared rules apply to every cause. The morning briefing does not launch the country-file agent or the ecosystem agent. Those two do not edit a briefing. The country-file agent runs monthly. The ecosystem agent is a worldwide bootstrap campaign until coverage and directory depth are complete, then it runs monthly. Both may read `claude/atlas/registry/watch.md`; the watch does not limit the worldwide build.
 
 ## Shared rules
 
@@ -38,7 +38,8 @@ Files in the drop:
 - `claude/atlas/registry/countries.json` — all 235 countries on the map, and whether each has a file and an ecosystem
 - `claude/atlas/registry/watch.md` — observed and expected changes, appended by the editor
 - `claude/atlas/country-data/AGENTS.md` — the monthly Vice President of Data Analytics
-- `claude/atlas/ecosystem/AGENTS.md` — the monthly Vice President of Ecosystems
+- `claude/atlas/ecosystem/AGENTS.md` — the worldwide Vice President of Ecosystems, and its later monthly maintenance cause
+- `claude/atlas/ecosystem/coverage.json` — worldwide ecosystem build progress across the map
 - `claude/atlas/source-feeds.json` — the standing sources
 - `claude/atlas/context/YYYY-MM-DD.md` — the reading packet for that morning
 - `claude/atlas/memory/threads.md` — what has already been filed, and what would count as a change
