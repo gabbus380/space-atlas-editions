@@ -10,6 +10,8 @@ Keep `audio_script` and `audio_sections` in the JSON, and cover every desk in th
 
 Ledger files belong in `claude/atlas/ledger/`. The run report belongs in `claude/atlas/reports/YYYY-MM-DD.md`.
 
+The memory is `claude/atlas/memory/threads.md`. Read it before writing. File an item only when today's packet changes a thread's last state, or a next date arrives. After publishing, update the thread.
+
 The reading packet for a morning is `claude/atlas/context/YYYY-MM-DD.md`. It is built by reading the feeds, and by a text reader when a page blocks a normal download. The editor writes from that file and does not browse.
 
 The standing source list is `claude/atlas/source-feeds.json`. Read those feeds and newsrooms before the open web. Each link was checked on 26 October 2026. A link marked unreachable refused or timed out on an automated read.
