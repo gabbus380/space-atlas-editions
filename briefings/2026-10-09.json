@@ -9,7 +9,7 @@
     "Russia may turn to nuclear space weapons to counter U.S. missile defenses, report says",
     "Blue Origin expands in Texas as its founder contemplates an IPO"
   ],
-  "bottom_line": "Memory record drawn from SpaceNews for this date. It is not a full eight-desk sweep, and a desk with no mapped story is a gap in the harvest.",
+  "bottom_line": "Memory record for this date from the space newsrooms we can archive: Space.com, SpaceNews. It is not a full eight-desk sweep, and a desk with no mapped story is a gap in the harvest.",
   "global": [
     {
       "date": "2026-10-09",
@@ -146,6 +146,142 @@
           "primary": true
         }
       ]
+    },
+    {
+      "date": "2026-10-09",
+      "title": "Why is Orion lying down? How The Hunter taught me how the sky moves",
+      "summary": "Stargazing Why is Orion lying down? How The Hunter taught me how the sky moves News By Jamie Carter <span class=\"vds-date block font-normal tracking-normal normal-ca",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "Why is Orion lying down? How The Hunter taught me how the sky moves",
+          "url": "https://www.space.com/stargazing/why-is-orion-lying-down-how-the-hunter-taught-me-how-the-sky-moves",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-10-09",
+      "title": "Did the Soviet Union really fire a cannon from a space station?",
+      "summary": "Space Exploration Did the Soviet Union really fire a cannon from a space station? News By Micah Hanks Published 9 October 2026",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "Did the Soviet Union really fire a cannon from a space station?",
+          "url": "https://www.space.com/space-exploration/did-the-soviet-union-really-fire-a-cannon-from-a-space-station",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-10-09",
+      "title": "Scientists engineer microbe to help humanity settle Mars",
+      "summary": "Astronomy Solar System Mars Scientists engineer microbe to help humanity settle Mars <div class=\"byline-social",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "Scientists engineer microbe to help humanity settle Mars",
+          "url": "https://www.space.com/astronomy/mars/scientists-engineer-microbe-to-help-humanity-settle-mars",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-10-09",
+      "title": "The Milky Way glows over telescopes in the Atacama Desert",
+      "summary": "Stargazing Astrophotography The Milky Way glows over telescopes in the Atacama Desert | Space photo of the day for Oct. 9, 2026 News By <a href=\"https://www.space.com/author/chelsea-gohd\" class=\"font-normal no-underline normal-case text-inheri",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "The Milky Way glows over telescopes in the Atacama Desert",
+          "url": "https://www.space.com/stargazing/astrophotography/the-milky-way-glows-over-telescopes-in-the-atacama-desert-space-photo-of-the-day-for-oct-9-2026",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-10-09",
+      "title": "Blast off this Halloween with my pick of the best space-themed costumes",
+      "summary": "Entertainment Space Toys & Lego Best space and sci-fi themed Halloween costumes for 2026 News By <a href=\"https://www.space.com/author/chris-mcmullen\" class=\"font-normal no-underline normal-case text-inherit vds-author__link",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "Blast off this Halloween with my pick of the best space-themed costumes",
+          "url": "https://www.space.com/entertainment/space-toys-lego/best-space-and-sci-fi-themed-halloween-costumes",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-10-09",
+      "title": "On this day in space! Oct. 9, 1992: Peekskill meteorite hits car in New York after streaking through the atmosphere",
+      "summary": "Space Exploration On this day in space! Oct. 9, 1992: Peekskill meteorite hits car in New York after streaking through the atmosphere News By Hanneke Weitering Published <time data-component-name=\"UI:Date",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "On this day in space! Oct. 9, 1992: Peekskill meteorite hits car in New York after streaking through the atmosphere",
+          "url": "https://www.space.com/space-exploration/on-this-day-in-space-october-9-2026",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-10-09",
+      "title": "Trump awards SpaceX founder Elon Musk National Medal of Science",
+      "summary": "Space Exploration Trump awards SpaceX founder Elon Musk National Medal of Science News By Mike Wall Published 9 October 2026",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "Trump awards SpaceX founder Elon Musk National Medal of Science",
+          "url": "https://www.space.com/space-exploration/trump-awards-spacex-founder-elon-musk-national-medal-of-science",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-10-09",
+      "title": "Private Cygnus XL cargo spacecraft departs the International Space Station after 6-month stay (video)",
+      "summary": "Space.com published this story on 2026-10-09.",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "Private Cygnus XL cargo spacecraft departs the International Space Station after 6-month stay (video)",
+          "url": "https://www.space.com/space-exploration/international-space-station/cygnus-xl-ng-24-cargo-spacecraft-depart-international-space-station",
+          "primary": true
+        }
+      ]
     }
   ],
   "regions": [
@@ -155,13 +291,20 @@
       "items": [
         {
           "date": "2026-10-09",
-          "title": "Nordics: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Canada, Norway space agencies sign first MOU",
+          "summary": "The Canadian Space Agency (CSA) has signed its first memorandum of understanding (MOU) with the Norwegian Space Agency (NOSA), an Arctic-focused partnership it highlighted on social media this week during the International Astronautical Congress in Antalya, Türkiye. The agreement was signed electronically the week of Sept. 14 by Jean-Claude Piedboeuf, the CSA’s acting president, and Christian Hauglie-Hanssen, NOSA’s director general, signed for their agencies, a CSA representative told SpaceQ in",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
           "confidence": "low",
-          "status": "overview",
+          "status": "record",
           "iso3": [],
-          "sources": []
+          "sources": [
+            {
+              "outlet": "SpaceQ",
+              "title": "Canada, Norway space agencies sign first MOU",
+              "url": "https://spaceq.ca/canada-norway-space-agencies-sign-mou/",
+              "primary": true
+            }
+          ]
         }
       ]
     },
@@ -208,6 +351,23 @@
               "primary": true
             }
           ]
+        },
+        {
+          "date": "2026-10-09",
+          "title": "A Student Finds Three Galaxies and Possibly Solves a Mystery",
+          "summary": "A Student Finds Three Galaxies and Possibly Solves a Mystery By Carolyn Collins Petersen - October 09, 2026 06:01 AM UTC | Extragalactic - 21K reads A composite image of three possible \"backsplash\" dwarf galaxies, created by Julian Shapiro using images from the Sloan Digital Sky Survey, Hyper Suprime-Cam Legacy Archive / National Astronomical Observatory of Japan, and Canada-France-Hawaii Telescope / Coelum. It's not too often that a high school student-turned undergraduate gets three galaxies n",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Universe Today",
+              "title": "A Student Finds Three Galaxies and Possibly Solves a Mystery",
+              "url": "https://www.universetoday.com/articles/a-student-finds-three-galaxies-and-possibly-solves-a-mystery",
+              "primary": true
+            }
+          ]
         }
       ]
     },
@@ -217,13 +377,54 @@
       "items": [
         {
           "date": "2026-10-09",
-          "title": "ESA and EU: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Europe’s Space Defenses Fall Just Shy of Weaponization",
+          "summary": "Europe doesn’t have any weapons in space—but that doesn’t mean the region is comfortable flying around in orbit defenseless. During the past few weeks, comments from US Air Force Secretary Troy Meink—confirming the presence of US weapons in orbit —have forced European leaders to urge caution. ESA Director General Josef Aschbacher told reporters this week at the International Astronautical Congress in Turkey that “Europe does not deploy weapons in space,” warning that the use of weapons to damage",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
           "confidence": "low",
-          "status": "overview",
+          "status": "record",
           "iso3": [],
-          "sources": []
+          "sources": [
+            {
+              "outlet": "Payload",
+              "title": "Europe’s Space Defenses Fall Just Shy of Weaponization",
+              "url": "https://payloadspace.com/europes-space-defenses-fall-just-shy-of-weaponization/",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-10-09",
+          "title": "Webb Observes \"Extreme Debris Disks,\" Providing a Window into the Early Solar System",
+          "summary": "Webb Observes \"Extreme Debris Disks,\" Providing a Window into the Early Solar System By Matthew Williams - October 09, 2026 02:25 AM UTC | Observing - 21K reads The types of collisions within young stellar systems known as extreme debris disks are relevant to scientists’ understanding of our own solar system, which is thought to have undergone similar impact events that created our Moon and shaped Earth’s initial state. Credit: NASA/ESA/CSA/Joseph Olmsted (STScI) Scientists theorize that early i",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Universe Today",
+              "title": "Webb Observes \"Extreme Debris Disks,\" Providing a Window into the Early Solar System",
+              "url": "https://www.universetoday.com/articles/webb-observes-extreme-debris-disks-providing-a-window-into-the-early-solar-system",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-10-09",
+          "title": "The Most Distant FRB Tells The Story Of Its Origin",
+          "summary": "The Most Distant FRB Tells The Story Of Its Origin By Brian Koberlein - October 09, 2026 05:06 PM UTC | Stars - 23K reads Astronomers using NASA’s James Webb Space Telescope were able to study the host galaxy of the most distant known fast radio burst (FRB). Credit: NASA, ESA, CSA, Joseph Olmsted (STScI); Science: Manisha Caleb (SIfA) Fast Radio Bursts (FRBs) are notoriously difficult to study. They are bright radio chirps that only last just milliseconds. When FRBs were first observed, it was d",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Universe Today",
+              "title": "The Most Distant FRB Tells The Story Of Its Origin",
+              "url": "https://www.universetoday.com/articles/the-most-distant-frb-tells-the-story-of-its-origin",
+              "primary": true
+            }
+          ]
         }
       ]
     },
@@ -313,9 +514,9 @@
       "items": [
         {
           "date": "2026-10-09",
-          "title": "Asia Pacific: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Asia Pacific: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -343,6 +544,91 @@
               "primary": true
             }
           ]
+        },
+        {
+          "date": "2026-10-09",
+          "title": "Trump awards SpaceX founder Elon Musk National Medal of Science",
+          "summary": "Space Exploration Trump awards SpaceX founder Elon Musk National Medal of Science News By Mike Wall Published 9 October 2026",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Space.com",
+              "title": "Trump awards SpaceX founder Elon Musk National Medal of Science",
+              "url": "https://www.space.com/space-exploration/trump-awards-spacex-founder-elon-musk-national-medal-of-science",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-10-09",
+          "title": "NASA Signs Space Nuclear Pact, Says Moon Base Is Ahead of Schedule",
+          "summary": "To paraphrase the White House, the US scientific enterprise is so back. On Thursday, the White House Office of Science and Technology Policy (OSTP) hosted the “Science: A New Golden Age Summit,” following up on the July namesake report . The biggest space news came from NASA Administrator Jared Isaacman and Energy Secretary Chris Wright, who signed an agreement to accelerate cooperation between the two agencies on space nuclear power and propulsion. Nuclear power plays a central role in the agen",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Payload",
+              "title": "NASA Signs Space Nuclear Pact, Says Moon Base Is Ahead of Schedule",
+              "url": "https://payloadspace.com/nasa-signs-space-nuclear-pact-says-moon-base-is-ahead-of-schedule/",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-10-09",
+          "title": "SpaceX scrubs launch attempt for 21 data transport satellites for the Space Development Agency – Spaceflight Now",
+          "summary": "SpaceX scrubs launch attempt for 21 data transport satellites for the Space Development Agency October 4, 2026 Will Robinson-Smith SpaceX scrubbed its launch attempt of the Space Development Agency’s Tranche 1 Transport Layer A mission on Monday, Oct. 5, 2026. Image: SpaceX via livestream Update Oct. 7, 10 p.m. EDT (0200 UTC): SpaceX is targeting launch no earlier than Saturday, Oct. 10. Update Oct. 5, 8:48 p.m. EDT (0048 UTC): SpaceX is foregoing its next launch attempt; next launch opportunity",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Spaceflight Now",
+              "title": "SpaceX scrubs launch attempt for 21 data transport satellites for the Space Development Agency – Spaceflight Now",
+              "url": "https://spaceflightnow.com/2026/10/04/live-coverage-spacex-to-launch-21-data-transport-satellites-for-the-space-development-agency/",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-10-09",
+          "title": "A down week for space stocks as the Canadian Space Index drops 5.4%",
+          "summary": "All nine companies on SpaceQ’s Canadian space board fell in the week ended Oct. 9, sending the SpaceQ Canadian Space Index down 5.4 per cent to 98.70. Even so, it was a momentous week for NorthStar Earth & Space, which completed its first week of trading on the NYSE American and rang the closing bell at the New York Stock Exchange today. The index closed below its 100.00 base, set Sept. 4, for the first time on Wednesday, when it ended at 99.80. The S&P/TSX Composite rose 0.5 per cent in the sam",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "SpaceQ",
+              "title": "A down week for space stocks as the Canadian Space Index drops 5.4%",
+              "url": "https://spaceq.ca/the-weekly-close-october-9-2026/",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-10-09",
+          "title": "NASA issues long-awaited call to industry for private space stations",
+          "summary": "CLDs for you and me NASA issues long-awaited call to industry for private space stations “We’ve made it",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Ars Technica",
+              "title": "NASA issues long-awaited call to industry for private space stations",
+              "url": "https://arstechnica.com/space/2026/10/nasa-issues-long-awaited-call-to-industry-for-private-space-stations/",
+              "primary": true
+            }
+          ]
         }
       ]
     }
@@ -354,8 +640,11 @@
   "competitive_watch": [],
   "stats": {
     "record": "memory",
-    "source": "SpaceNews",
-    "stories": 10
+    "sources": [
+      "Space.com",
+      "SpaceNews"
+    ],
+    "stories": 16
   },
   "audio_script": "This is a memory record for 2026-10-09, not a spoken briefing. It keeps the SpaceNews stories dated this day so later editions can see what had already been reported.",
   "audio_sections": [

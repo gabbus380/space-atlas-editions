@@ -2,7 +2,7 @@
 
 Read this file before writing an edition.
 
-The daily files `briefings/2026-09-01.json` through `briefings/2026-10-22.json` are a SpaceNews memory record, indexed in `chronicle.md`. They are not full desk sweeps. The editions of 23–26 October are the fuller filings.
+The daily files `briefings/2026-09-01.json` through `briefings/2026-10-22.json` are a low-confidence record from Space.com, SpaceNews, Spaceflight Now, Payload, NASASpaceflight, Ars Technica, The Verge, MIT Technology Review, Universe Today, SpaceQ, and SpacePolicyOnline, indexed in `chronicle.md`. They are not full desk sweeps. The editions of 23–26 October are the fuller filings.
 
  It is the memory of what has already been filed. An item belongs in the briefing only when today's reading packet changes the last state, or when a next date arrives. Repeating the last state is not news.
 

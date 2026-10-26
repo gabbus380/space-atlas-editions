@@ -9,7 +9,7 @@
     "Arianespace wins more Ariane 6 orders amid discussions about increased launch rates",
     "Consortium announces plans for billion-dollar AI-enabled satellite imaging constellation"
   ],
-  "bottom_line": "Memory record drawn from SpaceNews for this date. It is not a full eight-desk sweep, and a desk with no mapped story is a gap in the harvest.",
+  "bottom_line": "Memory record for this date from the space newsrooms we can archive: Space.com, SpaceNews. It is not a full eight-desk sweep, and a desk with no mapped story is a gap in the harvest.",
   "global": [
     {
       "date": "2026-09-10",
@@ -146,6 +146,142 @@
           "primary": true
         }
       ]
+    },
+    {
+      "date": "2026-09-10",
+      "title": "Scientists study 3,000 supernovas and discover that dark energy may be evolving",
+      "summary": "Astronomy Dark Universe Scientists study 3,000 supernovas and discover that dark energy may be evolving News By <a href=\"https://www.space.com/author/robert-lea\" class=\"font-normal no-underline normal-case text-inherit vds-author__link whitespace-break-spac",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "Scientists study 3,000 supernovas and discover that dark energy may be evolving",
+          "url": "https://www.space.com/astronomy/dark-universe/scientists-study-3-000-supernovas-and-discover-that-dark-energy-may-be-evolving",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-10",
+      "title": "On this day in space! Sept. 10, 2011: NASA launches GRAIL probes to the moon to map lumpy lunar gravity",
+      "summary": "Space Exploration On this day in space! Sept. 10, 2011: NASA launches GRAIL probes to the moon to map lumpy lunar gravity News By Hanneke Weitering Contributions by <a href=\"https://www.space.com/author/tariq-malik\" class=\"vds-collabs__link whitespace-nowrap text-inherit inline-block normal-case",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "On this day in space! Sept. 10, 2011: NASA launches GRAIL probes to the moon to map lumpy lunar gravity",
+          "url": "https://www.space.com/space-exploration/on-this-day-in-space-september-10-2026",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-10",
+      "title": "LINK spacecraft gets close to NASA's Swift Observatory, but not close enough to save it",
+      "summary": "Space Exploration Missions LINK spacecraft gets close to NASA's Swift Observatory, but not close enough to save it News By <a href=\"https://www.space.com/author/josh-dinner\" class=\"font-normal no-underline normal-case text-inherit v",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "LINK spacecraft gets close to NASA's Swift Observatory, but not close enough to save it",
+          "url": "https://www.space.com/space-exploration/missions/link-spacecraft-gets-close-to-nasas-swift-observatory-but-not-close-enough-to-save-it",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-10",
+      "title": "The Summer Triangle — 3 stars, 1 seasonal mystery",
+      "summary": "Stargazing The Summer Triangle — 3 stars, 1 seasonal mystery News By Joe Rao Published 10 September 2026 <span class=\"vds-read-time flex i",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "The Summer Triangle — 3 stars, 1 seasonal mystery",
+          "url": "https://www.space.com/stargazing/the-summer-triangle-3-stars-1-seasonal-mystery",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-10",
+      "title": "Strange 'fast radio bursts' across the universe could help solve major cosmic mysteries: 'It's only the beginning'",
+      "summary": "Astronomy Black Holes Strange 'fast radio bursts' across the universe could help solve major cosmic mysteries: 'It's only the beginning' News By <a href=\"https://www.space.com/author/robert-lea\" class=\"font-normal no-underline normal-case text-inherit vds-author_",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "Strange 'fast radio bursts' across the universe could help solve major cosmic mysteries: 'It's only the beginning'",
+          "url": "https://www.space.com/astronomy/black-holes/strange-fast-radio-bursts-across-the-universe-could-help-solve-major-cosmic-mysteries-its-only-the-beginning",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-10",
+      "title": "Iconic Star Trek filming location spotted from space",
+      "summary": "Astronomy Solar System Earth Iconic Star Trek filming location spotted from space | Space photo of the day for S",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "Iconic Star Trek filming location spotted from space",
+          "url": "https://www.space.com/astronomy/earth/iconic-star-trek-filming-location-spotted-from-space-space-photo-of-the-day-for-sept-10-2026",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-10",
+      "title": "The next 'Star Trek' movie will be inspired by 'Crimson Tide', and 'Strange New Worlds' latest episode just showed them how to do it",
+      "summary": "Entertainment Space Movies & Shows The next 'Star Trek' movie will be inspired by 'Crimson Tide', and 'Strange New Worlds' latest episode just showed them how to do it News By <a href=\"https://www.space.com/autho",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "The next 'Star Trek' movie will be inspired by 'Crimson Tide', and 'Strange New Worlds' latest episode just showed them how to do it",
+          "url": "https://www.space.com/entertainment/space-movies-shows/the-next-star-trek-movie-will-be-inspired-by-crimson-tide-and-strange-new-worlds-latest-episode-just-showed-them-how-to-do-it",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-10",
+      "title": "What comes after the moon? Artemis II commander and pilot shift to 'emeritus' status at NASA",
+      "summary": "Space Exploration Missions Artemis What comes after the moon? Artemis",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "What comes after the moon? Artemis II commander and pilot shift to 'emeritus' status at NASA",
+          "url": "https://www.space.com/space-exploration/artemis/what-comes-after-the-moon-artemis-ii-commander-and-pilot-shift-to-emeritus-status-at-nasa",
+          "primary": true
+        }
+      ]
     }
   ],
   "regions": [
@@ -155,9 +291,9 @@
       "items": [
         {
           "date": "2026-09-10",
-          "title": "Nordics: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Nordics: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -171,9 +307,9 @@
       "items": [
         {
           "date": "2026-09-10",
-          "title": "Central and Eastern Europe: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Central and Eastern Europe: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -218,6 +354,23 @@
               "primary": true
             }
           ]
+        },
+        {
+          "date": "2026-09-10",
+          "title": "Orbital Partners with Reflex Aerospace on ODC Platform",
+          "summary": "Building a data center in space is hard enough. Orbital is doing it across an ocean too. Orbital, an LA-based orbital data center startup, announced today it has selected German satellite manufacturer Reflex Aerospace as the exclusive platform partner for Orbital-1—the first satellite in a planned constellation of up to 100,000. Under the exclusive design-and-development deal, Reflex will bring the “brains” of the spacecraft—its flight-tested bus—freeing Orbital’s engineers to focus on the compu",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Payload",
+              "title": "Orbital Partners with Reflex Aerospace on ODC Platform",
+              "url": "https://payloadspace.com/orbital-partners-with-reflex-aerospace-on-odc-platform/",
+              "primary": true
+            }
+          ]
         }
       ]
     },
@@ -241,6 +394,40 @@
               "primary": true
             }
           ]
+        },
+        {
+          "date": "2026-09-10",
+          "title": "European Launcher Challenge contracts awarded as Canada eyes 2028",
+          "summary": "Rocket Factory Augsburg, PLD Space and Isar Aerospace will share roughly €544 million (about $871 million) to get their rockets flying by the end of 2027, under the first contracts signed under the European Launcher Challenge and announced on August 28. The Challenge is a European Space Agency (ESA) program built to grow the continent’s launch industry beyond the state-backed Ariane and Vega rockets. Just a week after the announcement, one of the three, Isar Aerospace, reached orbit for the firs",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "SpaceQ",
+              "title": "European Launcher Challenge contracts awarded as Canada eyes 2028",
+              "url": "https://spaceq.ca/european-launcher-challenge-kicks-off-canada-launch-the-north/",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-09-10",
+          "title": "A New Surface Atlas of Phobos Will Help JAXA's MMX Mission Collect its Samples",
+          "summary": "A New Surface Atlas of Phobos Will Help JAXA's MMX Mission Collect its Samples By Evan Gough - September 10, 2026 05:27 PM UTC | Planetary Science - 21K reads Phobos is an odd, potato-shaped moon. This image from the High Resolution Stereo Camera (HRSC) on board ESA’s Mars Express spacecraft shows how its surface is cratered, but also distinguished by grooves running along its surface. Deeper study locates what are called Regolith Migration Pathways on the small moon's surface, and they can info",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Universe Today",
+              "title": "A New Surface Atlas of Phobos Will Help JAXA's MMX Mission Collect its Samples",
+              "url": "https://www.universetoday.com/articles/a-new-surface-atlas-of-phobos-will-help-jaxas-mmx-mission-collect-its-samples",
+              "primary": true
+            }
+          ]
         }
       ]
     },
@@ -250,9 +437,9 @@
       "items": [
         {
           "date": "2026-09-10",
-          "title": "Türkiye, Middle East and Africa: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Türkiye, Middle East and Africa: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -266,9 +453,9 @@
       "items": [
         {
           "date": "2026-09-10",
-          "title": "Eurasia and Central Asia: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Eurasia and Central Asia: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -336,6 +523,108 @@
               "primary": true
             }
           ]
+        },
+        {
+          "date": "2026-09-10",
+          "title": "On this day in space! Sept. 10, 2011: NASA launches GRAIL probes to the moon to map lumpy lunar gravity",
+          "summary": "Space Exploration On this day in space! Sept. 10, 2011: NASA launches GRAIL probes to the moon to map lumpy lunar gravity News By Hanneke Weitering Contributions by <a href=\"https://www.space.com/author/tariq-malik\" class=\"vds-collabs__link whitespace-nowrap text-inherit inline-block normal-case",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Space.com",
+              "title": "On this day in space! Sept. 10, 2011: NASA launches GRAIL probes to the moon to map lumpy lunar gravity",
+              "url": "https://www.space.com/space-exploration/on-this-day-in-space-september-10-2026",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-09-10",
+          "title": "LINK spacecraft gets close to NASA's Swift Observatory, but not close enough to save it",
+          "summary": "Space Exploration Missions LINK spacecraft gets close to NASA's Swift Observatory, but not close enough to save it News By <a href=\"https://www.space.com/author/josh-dinner\" class=\"font-normal no-underline normal-case text-inherit v",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Space.com",
+              "title": "LINK spacecraft gets close to NASA's Swift Observatory, but not close enough to save it",
+              "url": "https://www.space.com/space-exploration/missions/link-spacecraft-gets-close-to-nasas-swift-observatory-but-not-close-enough-to-save-it",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-09-10",
+          "title": "What comes after the moon? Artemis II commander and pilot shift to 'emeritus' status at NASA",
+          "summary": "Space Exploration Missions Artemis What comes after the moon? Artemis",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Space.com",
+              "title": "What comes after the moon? Artemis II commander and pilot shift to 'emeritus' status at NASA",
+              "url": "https://www.space.com/space-exploration/artemis/what-comes-after-the-moon-artemis-ii-commander-and-pilot-shift-to-emeritus-status-at-nasa",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-09-10",
+          "title": "SpaceX launches classified mission for the US Space Force from California (video)",
+          "summary": "Space Exploration Launches & Spacecraft SpaceX launches classified mission for the US Space Force from California (video) News By <a href=\"https://www.space.com/author/mike-wall\" class=\"fon",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Space.com",
+              "title": "SpaceX launches classified mission for the US Space Force from California (video)",
+              "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launch-classified-space-force-mission-ussf-153",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-09-10",
+          "title": "Inversion Space Wins NASA Contract to Study Aerocapture Flight",
+          "summary": "Hitting the atmosphere at high speed can mean the end for unprepared spacecraft, but for Inversion Space’s Arc reentry vehicle? It could be the beginning of a new way to brake. NASA announced today it awarded Inversion a contract to study a new method of interplanetary travel—called aerocapture—which uses a planetary body’s atmosphere to slow incoming spacecraft looking to enter into orbit. What’s that mean? The contract tasks Inversion with studying how its Arc lifting-body reentry vehicle coul",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Payload",
+              "title": "Inversion Space Wins NASA Contract to Study Aerocapture Flight",
+              "url": "https://payloadspace.com/inversion-space-wins-nasa-contract-to-study-aerocapture-flight/",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-09-10",
+          "title": "CSMC unveils three reactor platforms, defence a priority",
+          "summary": "Canadian Strategic Missions Corporation (CSMC) has unveiled a restructured technology portfolio , introducing three nuclear reactor platforms aimed at defence, space and research applications. The technology platform update is part of a pivot the company began implementing in December 2025, when it moved away from space mining to broader technology development, looking for something nearer term it could build on. The reorganization retires the company’s previous Low Enriched Uranium Nuclear Reac",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "SpaceQ",
+              "title": "CSMC unveils three reactor platforms, defence a priority",
+              "url": "https://spaceq.ca/csmc-unveils-three-reactor-platforms-defence-a-priority/",
+              "primary": true
+            }
+          ]
         }
       ]
     }
@@ -347,8 +636,11 @@
   "competitive_watch": [],
   "stats": {
     "record": "memory",
-    "source": "SpaceNews",
-    "stories": 14
+    "sources": [
+      "Space.com",
+      "SpaceNews"
+    ],
+    "stories": 16
   },
   "audio_script": "This is a memory record for 2026-09-10, not a spoken briefing. It keeps the SpaceNews stories dated this day so later editions can see what had already been reported.",
   "audio_sections": [

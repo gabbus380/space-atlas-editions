@@ -4,9 +4,12 @@
   "generated_at": "2026-09-05T18:00:00+00:00",
   "headline": "Isar Aerospace reaches orbit on second Spectrum launch",
   "summary": [
-    "Isar Aerospace reaches orbit on second Spectrum launch"
+    "Isar Aerospace reaches orbit on second Spectrum launch",
+    "This Week In Space podcast: Episode 226 — Who Owns The Moon?",
+    "Private German rocket makes history, reaches orbit from European soil",
+    "On this day in space! Sept. 5, 1977: NASA launches Voyager 1 on epic journey across the solar system"
   ],
-  "bottom_line": "Memory record drawn from SpaceNews for this date. It is not a full eight-desk sweep, and a desk with no mapped story is a gap in the harvest.",
+  "bottom_line": "Memory record for this date from the space newsrooms we can archive: Space.com, SpaceNews, Spaceflight Now, Universe Today. It is not a full eight-desk sweep, and a desk with no mapped story is a gap in the harvest.",
   "global": [
     {
       "date": "2026-09-05",
@@ -24,6 +27,142 @@
           "primary": true
         }
       ]
+    },
+    {
+      "date": "2026-09-05",
+      "title": "This Week In Space podcast: Episode 226 — Who Owns The Moon?",
+      "summary": "Entertainment Space Movies & Shows This Week In Space podcast: Episode 226 — Who Owns The Moon? News By <a href=\"https://www.space.com/author/space-com-staff\" class=\"font-normal no-underline normal-case tex",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "This Week In Space podcast: Episode 226 — Who Owns The Moon?",
+          "url": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-226-who-owns-the-moon",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-05",
+      "title": "Private German rocket makes history, reaches orbit from European soil",
+      "summary": "Space Exploration Launches & Spacecraft Private German rocket makes history, reaches orbit from European soil News By <a href=\"https://www.space.com/author/mike-wall\" class=\"font-normal no-",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "Private German rocket makes history, reaches orbit from European soil",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-05",
+      "title": "On this day in space! Sept. 5, 1977: NASA launches Voyager 1 on epic journey across the solar system",
+      "summary": "Space Exploration On this day in space! Sept. 5, 1977: NASA launches Voyager 1 on epic journey across the solar system News By Hanneke Weitering Contributions by <a href=\"https://www.space.com/author/tariq-malik\" class=\"vds-collabs__link whitespace-nowrap text-inherit inline-block normal-case no-",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "On this day in space! Sept. 5, 1977: NASA launches Voyager 1 on epic journey across the solar system",
+          "url": "https://www.space.com/space-exploration/on-this-day-in-space-sept-5-1977-nasa-launches-voyager-1-on-epic-journey-across-the-solar-system",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-05",
+      "title": "This NASA-funded 'Slingshot' spacecraft idea could map minerals on planets and moons across our solar system",
+      "summary": "Technology This NASA-funded 'Slingshot' spacecraft idea could map minerals on planets and moons across our solar system News By Elizabeth Howell Published <time data-component-name=\"UI:DateTime\" datetime=\"2026-09-05T10:00:00Z\" c",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "This NASA-funded 'Slingshot' spacecraft idea could map minerals on planets and moons across our solar system",
+          "url": "https://www.space.com/technology/nasa-funds-spacecraft-concept-that-aims-to-map-minerals-on-solar-system-planets-and-moons",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-05",
+      "title": "The Lego AT-ST is an iconic display piece — now at its lowest ever price",
+      "summary": "Entertainment Space Toys & Lego This Lego Star Wars UCS AT-ST set is cheaper than ever — I'll always love this chicken walker News By <a href=\"https://www.space.com/author/chris-mcmullen\" class=\"font-normal no-under",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "The Lego AT-ST is an iconic display piece — now at its lowest ever price",
+          "url": "https://www.space.com/entertainment/space-toys-lego/this-lego-star-wars-ucs-at-st-set-is-cheaper-than-ever-and-ill-always-love-this-chicken-walker",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-05",
+      "title": "Venus is disappearing from the evening sky — here's how to see it while you can",
+      "summary": "Stargazing Venus is disappearing from the evening sky — here's how to see it while you can News By Joe Rao Published 5 September 2026 </di",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "Venus is disappearing from the evening sky — here's how to see it while you can",
+          "url": "https://www.space.com/stargazing/venus-is-disappearing-from-the-evening-sky-heres-how-to-see-it-while-you-can",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-05",
+      "title": "SpaceX launches Starlink mission from West Coast – Spaceflight Now",
+      "summary": "SpaceX launches Starlink mission from West Coast September 1, 2026 Steven Young Falcon 9 first stage B1063 lifts off from Vandenberg Space Force Base, California, on the Starlink 15-23 mission. Image: SpaceX. A SpaceX Falcon 9 lifted off from the company’s West Coast launch facility early Wednesday morning to add another batch of satellites to SpaceX’s Starlink constellation. Liftoff from Vandenberg Space Force Base in California occurred at 1:42 a.m. PDT (4:42 a.m. EDT / 0842 UTC). It was the c",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Spaceflight Now",
+          "title": "SpaceX launches Starlink mission from West Coast – Spaceflight Now",
+          "url": "https://spaceflightnow.com/2026/09/01/spacex-to-launch-starlink-mission-from-west-coast/",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-05",
+      "title": "Could life exist on Venus? Peptides survive harsh acid.",
+      "summary": "Could life exist on Venus? Peptides survive harsh acid. By Laurence Tognetti, MSc - September 05, 2026 08:40 AM UTC | Astrobiology - 27K reads Venus captured from orbit by Japan’s Akatsuki spacecraft. (Credit: JAXA/ISAS/DARTS/Damia Bouic) The planet Venus is arguably the most mischievous planetary body in the solar system. This is because like Saturn’s largest moon, Titan, Venus is shrouded in a thick atmosphere that can’t be viewed with optical telescopes and require radar images to see the sur",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Universe Today",
+          "title": "Could life exist on Venus? Peptides survive harsh acid.",
+          "url": "https://www.universetoday.com/articles/could-life-exist-on-venus-peptides-survive-harsh-acid",
+          "primary": true
+        }
+      ]
     }
   ],
   "regions": [
@@ -33,9 +172,9 @@
       "items": [
         {
           "date": "2026-09-05",
-          "title": "Nordics: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Nordics: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -49,9 +188,9 @@
       "items": [
         {
           "date": "2026-09-05",
-          "title": "Central and Eastern Europe: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Central and Eastern Europe: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -65,13 +204,20 @@
       "items": [
         {
           "date": "2026-09-05",
-          "title": "Western and Southern Europe: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Private German rocket makes history, reaches orbit from European soil",
+          "summary": "Space Exploration Launches & Spacecraft Private German rocket makes history, reaches orbit from European soil News By <a href=\"https://www.space.com/author/mike-wall\" class=\"font-normal no-",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
           "confidence": "low",
-          "status": "overview",
+          "status": "record",
           "iso3": [],
-          "sources": []
+          "sources": [
+            {
+              "outlet": "Space.com",
+              "title": "Private German rocket makes history, reaches orbit from European soil",
+              "url": "https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket",
+              "primary": true
+            }
+          ]
         }
       ]
     },
@@ -81,9 +227,9 @@
       "items": [
         {
           "date": "2026-09-05",
-          "title": "ESA and EU: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "ESA and EU: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -97,9 +243,9 @@
       "items": [
         {
           "date": "2026-09-05",
-          "title": "Türkiye, Middle East and Africa: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Türkiye, Middle East and Africa: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -113,9 +259,9 @@
       "items": [
         {
           "date": "2026-09-05",
-          "title": "Eurasia and Central Asia: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Eurasia and Central Asia: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -129,13 +275,20 @@
       "items": [
         {
           "date": "2026-09-05",
-          "title": "Asia Pacific: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Could life exist on Venus? Peptides survive harsh acid.",
+          "summary": "Could life exist on Venus? Peptides survive harsh acid. By Laurence Tognetti, MSc - September 05, 2026 08:40 AM UTC | Astrobiology - 27K reads Venus captured from orbit by Japan’s Akatsuki spacecraft. (Credit: JAXA/ISAS/DARTS/Damia Bouic) The planet Venus is arguably the most mischievous planetary body in the solar system. This is because like Saturn’s largest moon, Titan, Venus is shrouded in a thick atmosphere that can’t be viewed with optical telescopes and require radar images to see the sur",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
           "confidence": "low",
-          "status": "overview",
+          "status": "record",
           "iso3": [],
-          "sources": []
+          "sources": [
+            {
+              "outlet": "Universe Today",
+              "title": "Could life exist on Venus? Peptides survive harsh acid.",
+              "url": "https://www.universetoday.com/articles/could-life-exist-on-venus-peptides-survive-harsh-acid",
+              "primary": true
+            }
+          ]
         }
       ]
     },
@@ -145,13 +298,54 @@
       "items": [
         {
           "date": "2026-09-05",
-          "title": "Americas: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "On this day in space! Sept. 5, 1977: NASA launches Voyager 1 on epic journey across the solar system",
+          "summary": "Space Exploration On this day in space! Sept. 5, 1977: NASA launches Voyager 1 on epic journey across the solar system News By Hanneke Weitering Contributions by <a href=\"https://www.space.com/author/tariq-malik\" class=\"vds-collabs__link whitespace-nowrap text-inherit inline-block normal-case no-",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
           "confidence": "low",
-          "status": "overview",
+          "status": "record",
           "iso3": [],
-          "sources": []
+          "sources": [
+            {
+              "outlet": "Space.com",
+              "title": "On this day in space! Sept. 5, 1977: NASA launches Voyager 1 on epic journey across the solar system",
+              "url": "https://www.space.com/space-exploration/on-this-day-in-space-sept-5-1977-nasa-launches-voyager-1-on-epic-journey-across-the-solar-system",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-09-05",
+          "title": "This NASA-funded 'Slingshot' spacecraft idea could map minerals on planets and moons across our solar system",
+          "summary": "Technology This NASA-funded 'Slingshot' spacecraft idea could map minerals on planets and moons across our solar system News By Elizabeth Howell Published <time data-component-name=\"UI:DateTime\" datetime=\"2026-09-05T10:00:00Z\" c",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Space.com",
+              "title": "This NASA-funded 'Slingshot' spacecraft idea could map minerals on planets and moons across our solar system",
+              "url": "https://www.space.com/technology/nasa-funds-spacecraft-concept-that-aims-to-map-minerals-on-solar-system-planets-and-moons",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-09-05",
+          "title": "SpaceX launches Starlink mission from West Coast – Spaceflight Now",
+          "summary": "SpaceX launches Starlink mission from West Coast September 1, 2026 Steven Young Falcon 9 first stage B1063 lifts off from Vandenberg Space Force Base, California, on the Starlink 15-23 mission. Image: SpaceX. A SpaceX Falcon 9 lifted off from the company’s West Coast launch facility early Wednesday morning to add another batch of satellites to SpaceX’s Starlink constellation. Liftoff from Vandenberg Space Force Base in California occurred at 1:42 a.m. PDT (4:42 a.m. EDT / 0842 UTC). It was the c",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Spaceflight Now",
+              "title": "SpaceX launches Starlink mission from West Coast – Spaceflight Now",
+              "url": "https://spaceflightnow.com/2026/09/01/spacex-to-launch-starlink-mission-from-west-coast/",
+              "primary": true
+            }
+          ]
         }
       ]
     }
@@ -163,8 +357,13 @@
   "competitive_watch": [],
   "stats": {
     "record": "memory",
-    "source": "SpaceNews",
-    "stories": 1
+    "sources": [
+      "Space.com",
+      "SpaceNews",
+      "Spaceflight Now",
+      "Universe Today"
+    ],
+    "stories": 9
   },
   "audio_script": "This is a memory record for 2026-09-05, not a spoken briefing. It keeps the SpaceNews stories dated this day so later editions can see what had already been reported.",
   "audio_sections": [

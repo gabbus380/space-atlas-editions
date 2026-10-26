@@ -4,9 +4,12 @@
   "generated_at": "2026-09-27T18:00:00+00:00",
   "headline": "Aerospacelab to supply satellite platforms to Lockheed Martin",
   "summary": [
-    "Aerospacelab to supply satellite platforms to Lockheed Martin"
+    "Aerospacelab to supply satellite platforms to Lockheed Martin",
+    "Icy moons may hold on to their underground oceans even after being smashed apart",
+    "Asteroid samples from NASA's epic OSIRIS-REx mission show Bennu was born from fire and ice",
+    "On this day in space! Sept. 27, 1997: NASA's Mars Pathfinder lander sends its last transmission to Earth"
   ],
-  "bottom_line": "Memory record drawn from SpaceNews for this date. It is not a full eight-desk sweep, and a desk with no mapped story is a gap in the harvest.",
+  "bottom_line": "Memory record for this date from the space newsrooms we can archive: Space.com, SpaceNews, SpacePolicyOnline, Universe Today. It is not a full eight-desk sweep, and a desk with no mapped story is a gap in the harvest.",
   "global": [
     {
       "date": "2026-09-27",
@@ -24,6 +27,108 @@
           "primary": true
         }
       ]
+    },
+    {
+      "date": "2026-09-27",
+      "title": "Icy moons may hold on to their underground oceans even after being smashed apart",
+      "summary": "Astronomy Solar System Icy moons may hold on to their underground oceans even after being smashed apart News By <a href=\"https://www.space.com/author/keith-cooper\" class=\"font-normal no-underline normal-case text-inherit vds-author__link whitespace-break-space",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "Icy moons may hold on to their underground oceans even after being smashed apart",
+          "url": "https://www.space.com/astronomy/solar-system/icy-moons-may-hold-on-to-their-underground-oceans-even-after-being-smashed-apart",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-27",
+      "title": "Asteroid samples from NASA's epic OSIRIS-REx mission show Bennu was born from fire and ice",
+      "summary": "Astronomy Solar System Asteroids Asteroid samples from NASA's epic OSIRIS-REx mission show Bennu was",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "Asteroid samples from NASA's epic OSIRIS-REx mission show Bennu was born from fire and ice",
+          "url": "https://www.space.com/astronomy/asteroids/asteroid-samples-from-nasas-epic-osiris-rex-mission-show-bennu-was-born-from-fire-and-ice",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-27",
+      "title": "On this day in space! Sept. 27, 1997: NASA's Mars Pathfinder lander sends its last transmission to Earth",
+      "summary": "Space Exploration On this day in space! Sept. 27, 1997: NASA's Mars Pathfinder lander sends its last transmission to Earth News By Hanneke Weitering Contributions by <a href=\"https://www.space.com/author/tariq-malik\" class=\"vds-collabs__link whitespace-nowrap text-inherit inline-block normal-case",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "On this day in space! Sept. 27, 1997: NASA's Mars Pathfinder lander sends its last transmission to Earth",
+          "url": "https://www.space.com/space-exploration/on-this-day-in-space-september-27-2026",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-27",
+      "title": "SpaceX's Starship megarocket launching to orbit for 1st time ever today: Watch it live",
+      "summary": "Space Exploration Launches & Spacecraft SpaceX's Starship megarocket launching to orbit for 1st time ever today: Watch it live News By <a href=\"https://www.space.com/author/mike-wall\" class",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "SpaceX's Starship megarocket launching to orbit for 1st time ever today: Watch it live",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/spacexs-starship-megarocket-launching-to-orbit-for-1st-time-ever-on-sept-28-watch-it-live",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-27",
+      "title": "What’s Happening in Space Policy September 27-October 3, 2026",
+      "summary": "var addthis_config = { ui_click: true } <a class=\"a2a_button_email\" href=\"https://www.add",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "SpacePolicyOnline",
+          "title": "What’s Happening in Space Policy September 27-October 3, 2026",
+          "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-september-27-october-3-2026/",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-27",
+      "title": "JWST Finds Dynamic Structural Evolution in Chariklo’s Rings",
+      "summary": "JWST Finds Dynamic Structural Evolution in Chariklo’s Rings By Laurence Tognetti, MSc - September 27, 2026 05:12 AM UTC | Observing - 45K reads Artist's impression of Chariklo and its rongs. (Credit: Lucie Maquet, Observatoire de Paris - PSL) When we think of asteroids, we often think of the main asteroid belt between Mars and Jupiter that contains the majority of the known asteroids in our solar system. However, our solar system hosts several other populations of asteroids and icy rocks, includ",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Universe Today",
+          "title": "JWST Finds Dynamic Structural Evolution in Chariklo’s Rings",
+          "url": "https://www.universetoday.com/articles/jwst-finds-dynamic-structural-evolution-in-chariklos-rings",
+          "primary": true
+        }
+      ]
     }
   ],
   "regions": [
@@ -33,9 +138,9 @@
       "items": [
         {
           "date": "2026-09-27",
-          "title": "Nordics: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Nordics: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -49,9 +154,9 @@
       "items": [
         {
           "date": "2026-09-27",
-          "title": "Central and Eastern Europe: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Central and Eastern Europe: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -65,9 +170,9 @@
       "items": [
         {
           "date": "2026-09-27",
-          "title": "Western and Southern Europe: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Western and Southern Europe: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -81,9 +186,9 @@
       "items": [
         {
           "date": "2026-09-27",
-          "title": "ESA and EU: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "ESA and EU: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -97,9 +202,9 @@
       "items": [
         {
           "date": "2026-09-27",
-          "title": "Türkiye, Middle East and Africa: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Türkiye, Middle East and Africa: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -113,9 +218,9 @@
       "items": [
         {
           "date": "2026-09-27",
-          "title": "Eurasia and Central Asia: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Eurasia and Central Asia: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -129,9 +234,9 @@
       "items": [
         {
           "date": "2026-09-27",
-          "title": "Asia Pacific: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Asia Pacific: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -145,13 +250,54 @@
       "items": [
         {
           "date": "2026-09-27",
-          "title": "Americas: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Asteroid samples from NASA's epic OSIRIS-REx mission show Bennu was born from fire and ice",
+          "summary": "Astronomy Solar System Asteroids Asteroid samples from NASA's epic OSIRIS-REx mission show Bennu was",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
           "confidence": "low",
-          "status": "overview",
+          "status": "record",
           "iso3": [],
-          "sources": []
+          "sources": [
+            {
+              "outlet": "Space.com",
+              "title": "Asteroid samples from NASA's epic OSIRIS-REx mission show Bennu was born from fire and ice",
+              "url": "https://www.space.com/astronomy/asteroids/asteroid-samples-from-nasas-epic-osiris-rex-mission-show-bennu-was-born-from-fire-and-ice",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-09-27",
+          "title": "On this day in space! Sept. 27, 1997: NASA's Mars Pathfinder lander sends its last transmission to Earth",
+          "summary": "Space Exploration On this day in space! Sept. 27, 1997: NASA's Mars Pathfinder lander sends its last transmission to Earth News By Hanneke Weitering Contributions by <a href=\"https://www.space.com/author/tariq-malik\" class=\"vds-collabs__link whitespace-nowrap text-inherit inline-block normal-case",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Space.com",
+              "title": "On this day in space! Sept. 27, 1997: NASA's Mars Pathfinder lander sends its last transmission to Earth",
+              "url": "https://www.space.com/space-exploration/on-this-day-in-space-september-27-2026",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-09-27",
+          "title": "SpaceX's Starship megarocket launching to orbit for 1st time ever today: Watch it live",
+          "summary": "Space Exploration Launches & Spacecraft SpaceX's Starship megarocket launching to orbit for 1st time ever today: Watch it live News By <a href=\"https://www.space.com/author/mike-wall\" class",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Space.com",
+              "title": "SpaceX's Starship megarocket launching to orbit for 1st time ever today: Watch it live",
+              "url": "https://www.space.com/space-exploration/launches-spacecraft/spacexs-starship-megarocket-launching-to-orbit-for-1st-time-ever-on-sept-28-watch-it-live",
+              "primary": true
+            }
+          ]
         }
       ]
     }
@@ -163,8 +309,13 @@
   "competitive_watch": [],
   "stats": {
     "record": "memory",
-    "source": "SpaceNews",
-    "stories": 1
+    "sources": [
+      "Space.com",
+      "SpaceNews",
+      "SpacePolicyOnline",
+      "Universe Today"
+    ],
+    "stories": 7
   },
   "audio_script": "This is a memory record for 2026-09-27, not a spoken briefing. It keeps the SpaceNews stories dated this day so later editions can see what had already been reported.",
   "audio_sections": [

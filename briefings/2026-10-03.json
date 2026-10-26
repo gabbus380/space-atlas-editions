@@ -5,9 +5,11 @@
   "headline": "More than 600 soldiers join Army&#039;s new space operations career field",
   "summary": [
     "More than 600 soldiers join Army&#039;s new space operations career field",
-    "Army awards $67 million for technologies to counter space-enabled surveillance"
+    "Army awards $67 million for technologies to counter space-enabled surveillance",
+    "This Week In Space podcast: Episode 230 — Living on Lava Worlds",
+    "Ocean chemistry on ancient Earth could help scientists search for life on alien worlds"
   ],
-  "bottom_line": "Memory record drawn from SpaceNews for this date. It is not a full eight-desk sweep, and a desk with no mapped story is a gap in the harvest.",
+  "bottom_line": "Memory record for this date from the space newsrooms we can archive: Ars Technica, Space.com, SpaceNews, SpaceQ. It is not a full eight-desk sweep, and a desk with no mapped story is a gap in the harvest.",
   "global": [
     {
       "date": "2026-10-03",
@@ -42,6 +44,142 @@
           "primary": true
         }
       ]
+    },
+    {
+      "date": "2026-10-03",
+      "title": "This Week In Space podcast: Episode 230 — Living on Lava Worlds",
+      "summary": "Entertainment Space Movies & Shows This Week In Space podcast: Episode 230 — Living on Lava Worlds News By <a href=\"https://www.space.com/author/space-com-staff\" class=\"font-normal no-underline normal-case",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "This Week In Space podcast: Episode 230 — Living on Lava Worlds",
+          "url": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-230-living-on-lava-worlds",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-10-03",
+      "title": "Ocean chemistry on ancient Earth could help scientists search for life on alien worlds",
+      "summary": "Space Exploration Search for Life Ocean chemistry on ancient Earth could help scientists search for life on alien worlds News By <a href=\"https://www.space.com/author/sharmila-kuthunur\" class=\"font-normal no-und",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "Ocean chemistry on ancient Earth could help scientists search for life on alien worlds",
+          "url": "https://www.space.com/space-exploration/search-for-life/ocean-chemistry-on-ancient-earth-could-help-scientists-search-for-life-on-alien-worlds",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-10-03",
+      "title": "'Magic: The Gathering' is exploring strange new worlds with the 'Star Trek' 60th anniversary crossover (interview)",
+      "summary": "Entertainment Space Games 'Magic: The Gathering' is exploring strange new worlds with the 'Star Trek' 60th anniversary crossover (interview) Features By <a href=\"https://www.space.com/author/fran-ruiz\" class=\"font-normal no-underline n",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "'Magic: The Gathering' is exploring strange new worlds with the 'Star Trek' 60th anniversary crossover (interview)",
+          "url": "https://www.space.com/entertainment/space-games/magic-the-gathering-is-exploring-strange-new-worlds-with-the-star-trek-60th-anniversary-crossover-interview",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-10-03",
+      "title": "On this day in space! Oct. 3, 1942: 1st successful launch of Germany's V-2 rocket lays foundation for the space age",
+      "summary": "Space Exploration On this day in space! Oct. 3, 1942: 1st successful launch of Germany's V-2 rocket lays foundation for the space age News By Hanneke Weitering Contributions by <a href=\"https://www.space.com/author/mike-wall\" class=\"vds-collabs__link whitespace-nowrap text-inherit inline-block no",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "On this day in space! Oct. 3, 1942: 1st successful launch of Germany's V-2 rocket lays foundation for the space age",
+          "url": "https://www.space.com/space-exploration/on-this-day-in-space-october-3-2026",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-10-03",
+      "title": "8 things you need to know before booking the 2027 'eclipse of the century'",
+      "summary": "Stargazing Eclipses Solar Eclipses 8 things you need to know before booking the 2027 'eclipse of t",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "8 things you need to know before booking the 2027 'eclipse of the century'",
+          "url": "https://www.space.com/stargazing/solar-eclipses/8-things-you-need-to-know-before-booking-the-2027-eclipse-of-the-century",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-10-03",
+      "title": "'Back from outer space': How Karina Rykman escapes from Earth in her new album 'Late Checkout'",
+      "summary": "Entertainment 'Back from outer space': How Karina Rykman escapes from Earth in her new album 'Late Checkout' News By Steve Spaleta Published <time data-component-name=\"UI:DateTime\" datetime=\"2026-10-03T15:00:00Z\" class=\"relative",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "'Back from outer space': How Karina Rykman escapes from Earth in her new album 'Late Checkout'",
+          "url": "https://www.space.com/entertainment/back-from-outer-space-how-karina-rykman-escapes-from-earth-in-her-new-album-late-checkout",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-10-03",
+      "title": "Weekly ISS update: Joshua Kutryk aboard after record-fast docking",
+      "summary": "Eleven people are living on the International Space Station after the SpaceX’s Crew-13 e arrived Oct. 1, among them Canadian Space Agency (CSA) astronaut Joshua Kutryk, on what the NASA called a record-setting 7-hour, 55-minute Dragon flight from Florida. SpaceX’s Crew-13 Dragon, named Grace, lifted off at 11:10 a.m. Eastern Daylight Time (EDT) from Cape Canaveral Space Force Station and docked at 7:05 p.m. at the forward-facing port of the Harmony module, according to the NASA-SpaceX webcast .",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "SpaceQ",
+          "title": "Weekly ISS update: Joshua Kutryk aboard after record-fast docking",
+          "url": "https://spaceq.ca/weekly-iss-update-joshua-kutryk-aboard-after-record-fast-docking/",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-10-03",
+      "title": "Milt Windler, NASA flight director who helped save Apollo 13, dies at 94",
+      "summary": "Maroon Flight, 1932-2026 <h1 class=\"dusk:text-gray-100 mb-3 px-[15px] font-serif text-3xl font-semibold leading-none text-gray-700 sm:px-5 md:px-",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Ars Technica",
+          "title": "Milt Windler, NASA flight director who helped save Apollo 13, dies at 94",
+          "url": "https://arstechnica.com/space/2026/10/milt-windler-nasa-flight-director-who-helped-save-apollo-13-dies-at-94/",
+          "primary": true
+        }
+      ]
     }
   ],
   "regions": [
@@ -51,9 +189,9 @@
       "items": [
         {
           "date": "2026-10-03",
-          "title": "Nordics: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Nordics: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -67,9 +205,9 @@
       "items": [
         {
           "date": "2026-10-03",
-          "title": "Central and Eastern Europe: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Central and Eastern Europe: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -83,13 +221,20 @@
       "items": [
         {
           "date": "2026-10-03",
-          "title": "Western and Southern Europe: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "On this day in space! Oct. 3, 1942: 1st successful launch of Germany's V-2 rocket lays foundation for the space age",
+          "summary": "Space Exploration On this day in space! Oct. 3, 1942: 1st successful launch of Germany's V-2 rocket lays foundation for the space age News By Hanneke Weitering Contributions by <a href=\"https://www.space.com/author/mike-wall\" class=\"vds-collabs__link whitespace-nowrap text-inherit inline-block no",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
           "confidence": "low",
-          "status": "overview",
+          "status": "record",
           "iso3": [],
-          "sources": []
+          "sources": [
+            {
+              "outlet": "Space.com",
+              "title": "On this day in space! Oct. 3, 1942: 1st successful launch of Germany's V-2 rocket lays foundation for the space age",
+              "url": "https://www.space.com/space-exploration/on-this-day-in-space-october-3-2026",
+              "primary": true
+            }
+          ]
         }
       ]
     },
@@ -99,9 +244,9 @@
       "items": [
         {
           "date": "2026-10-03",
-          "title": "ESA and EU: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "ESA and EU: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -115,9 +260,9 @@
       "items": [
         {
           "date": "2026-10-03",
-          "title": "Türkiye, Middle East and Africa: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Türkiye, Middle East and Africa: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -131,9 +276,9 @@
       "items": [
         {
           "date": "2026-10-03",
-          "title": "Eurasia and Central Asia: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Eurasia and Central Asia: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -147,9 +292,9 @@
       "items": [
         {
           "date": "2026-10-03",
-          "title": "Asia Pacific: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Asia Pacific: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -163,13 +308,37 @@
       "items": [
         {
           "date": "2026-10-03",
-          "title": "Americas: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Weekly ISS update: Joshua Kutryk aboard after record-fast docking",
+          "summary": "Eleven people are living on the International Space Station after the SpaceX’s Crew-13 e arrived Oct. 1, among them Canadian Space Agency (CSA) astronaut Joshua Kutryk, on what the NASA called a record-setting 7-hour, 55-minute Dragon flight from Florida. SpaceX’s Crew-13 Dragon, named Grace, lifted off at 11:10 a.m. Eastern Daylight Time (EDT) from Cape Canaveral Space Force Station and docked at 7:05 p.m. at the forward-facing port of the Harmony module, according to the NASA-SpaceX webcast .",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
           "confidence": "low",
-          "status": "overview",
+          "status": "record",
           "iso3": [],
-          "sources": []
+          "sources": [
+            {
+              "outlet": "SpaceQ",
+              "title": "Weekly ISS update: Joshua Kutryk aboard after record-fast docking",
+              "url": "https://spaceq.ca/weekly-iss-update-joshua-kutryk-aboard-after-record-fast-docking/",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-10-03",
+          "title": "Milt Windler, NASA flight director who helped save Apollo 13, dies at 94",
+          "summary": "Maroon Flight, 1932-2026 <h1 class=\"dusk:text-gray-100 mb-3 px-[15px] font-serif text-3xl font-semibold leading-none text-gray-700 sm:px-5 md:px-",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Ars Technica",
+              "title": "Milt Windler, NASA flight director who helped save Apollo 13, dies at 94",
+              "url": "https://arstechnica.com/space/2026/10/milt-windler-nasa-flight-director-who-helped-save-apollo-13-dies-at-94/",
+              "primary": true
+            }
+          ]
         }
       ]
     }
@@ -181,8 +350,13 @@
   "competitive_watch": [],
   "stats": {
     "record": "memory",
-    "source": "SpaceNews",
-    "stories": 2
+    "sources": [
+      "Ars Technica",
+      "Space.com",
+      "SpaceNews",
+      "SpaceQ"
+    ],
+    "stories": 10
   },
   "audio_script": "This is a memory record for 2026-10-03, not a spoken briefing. It keeps the SpaceNews stories dated this day so later editions can see what had already been reported.",
   "audio_sections": [

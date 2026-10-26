@@ -2,25 +2,147 @@
   "date": "2026-10-17",
   "edition": "memory",
   "generated_at": "2026-10-17T18:00:00+00:00",
-  "headline": "No SpaceNews story dated 2026-10-17",
+  "headline": "Our curated list of star projectors to turn your home into a planetarium",
   "summary": [
-    "The SpaceNews archive has no story with a published date of 2026-10-17."
+    "Our curated list of star projectors to turn your home into a planetarium",
+    "The Orionid meteor shower peaks next week! Here's what to expect",
+    "This Week In Space podcast: Episode 232 — The Lunar Dump",
+    "On this day in space! Oct. 17, 2016: Private Antares rocket returns to flight after catastrophic launch explosion"
   ],
-  "bottom_line": "Memory record drawn from SpaceNews for this date. It is not a full eight-desk sweep, and a desk with no mapped story is a gap in the harvest.",
+  "bottom_line": "Memory record for this date from the space newsrooms we can archive: Space.com, SpaceQ, Universe Today. It is not a full eight-desk sweep, and a desk with no mapped story is a gap in the harvest.",
   "global": [
     {
       "date": "2026-10-17",
-      "title": "No SpaceNews story dated 2026-10-17",
-      "summary": "No SpaceNews story carried a published date of 2026-10-17.",
+      "title": "Our curated list of star projectors to turn your home into a planetarium",
+      "summary": "Stargazing Skywatching Kit 6 scientifically accurate star projectors to turn any room into a home planetarium References By <a href=\"https://www.space.com/author/chris-mcmullen\" class=\"f",
       "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
       "confidence": "low",
       "status": "record",
       "iso3": [],
       "sources": [
         {
-          "outlet": "SpaceNews",
-          "title": "No SpaceNews story dated 2026-10-17",
-          "url": "https://spacenews.com/",
+          "outlet": "Space.com",
+          "title": "Our curated list of star projectors to turn your home into a planetarium",
+          "url": "https://www.space.com/stargazing/skywatching-kit/six-scientifically-accurate-star-projectors-to-turn-any-room-into-a-home-planetarium",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-10-17",
+      "title": "The Orionid meteor shower peaks next week! Here's what to expect",
+      "summary": "Stargazing Meteors & Meteor Showers The Orionid meteor shower peaks next week! Here's what to expect News By <a href=\"https://www.space.com/author/anthony-wood\" class=\"font-normal no-underline normal-case text-inherit vds-author__l",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "The Orionid meteor shower peaks next week! Here's what to expect",
+          "url": "https://www.space.com/stargazing/meteor-showers/the-orionid-meteor-shower-peaks-oct-21-22-2026-heres-what-to-expect",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-10-17",
+      "title": "This Week In Space podcast: Episode 232 — The Lunar Dump",
+      "summary": "Entertainment Space Movies & Shows This Week In Space podcast: Episode 232 — The Lunar Dump News By <a href=\"https://www.space.com/author/space-com-staff\" class=\"font-normal no-underline normal-case text-in",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "This Week In Space podcast: Episode 232 — The Lunar Dump",
+          "url": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-232-the-lunar-dump",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-10-17",
+      "title": "On this day in space! Oct. 17, 2016: Private Antares rocket returns to flight after catastrophic launch explosion",
+      "summary": "Space Exploration On this day in space! Oct. 17, 2016: Private Antares rocket returns to flight after catastrophic launch explosion News By Hanneke Weitering Contributions by <a href=\"https://www.space.com/author/robert-z-pearlman\" class=\"vds-collabs__link whitespace-nowrap text-inherit inline-bl",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "On this day in space! Oct. 17, 2016: Private Antares rocket returns to flight after catastrophic launch explosion",
+          "url": "https://www.space.com/space-exploration/on-this-day-in-space-october-17-2026",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-10-17",
+      "title": "'Lanterns' shocking finale left us with a lot of unanswered questions for a potential season 2",
+      "summary": "Entertainment Space Movies & Shows 'Lanterns' shocking finale left us with a lot of unanswered questions for a potential season 2 News By <a href=\"https://www.space.com/author/jeff-spry\" class=\"font-normal no-und",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "'Lanterns' shocking finale left us with a lot of unanswered questions for a potential season 2",
+          "url": "https://www.space.com/entertainment/space-movies-shows/lanterns-shocking-finale-left-us-with-a-lot-of-unanswered-questions-for-a-potential-season-2",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-10-17",
+      "title": "Two space companies receive conditional TSX approval",
+      "summary": "Serhiy Beskrestnov, a technology adviser to Ukraine’s president, said Wednesday that SpaceX had overnight capped the speed of Starlink terminals in motion that Ukraine’s forces use through its Starshield military service, without warning. Investors sent Eutelsat, which owns the rival OneWeb network, up 23 per cent that day. A day earlier, Piper Sandler had downgraded AST SpaceMobile, citing SpaceX’s push into satellite-to-phone service. By Friday the Procure Space ETF, a fund that tracks space s",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "SpaceQ",
+          "title": "Two space companies receive conditional TSX approval",
+          "url": "https://spaceq.ca/the-weekly-close-october-16-2026/",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-10-17",
+      "title": "Enigmatic Mercury Will Remain A Puzzle Until Someone Sends A Lander",
+      "summary": "Enigmatic Mercury Will Remain A Puzzle Until Someone Sends A Lander By Bruce Dorminey - October 17, 2026 07:47 AM UTC | Planetary Science - 18K reads Mercury, the innermost planet in our solar system. Mercury remains one of our solar system’s most elusive and difficult planets to study. It's easier to send probes to the icy moons of Saturn or Jupiter, or even Pluto, than to land on our innermost planet of Mercury. Ground-based optical observatories don’t risk turning their sights on Mercury, wit",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Universe Today",
+          "title": "Enigmatic Mercury Will Remain A Puzzle Until Someone Sends A Lander",
+          "url": "https://www.universetoday.com/articles/enigmatic-mercury-will-remain-a-puzzle-until-someone-sends-a-lander",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-10-17",
+      "title": "New Research Reveals How Long Stays in Space Affects the Human Genome",
+      "summary": "New Research Reveals How Long Stays in Space Affects the Human Genome By Matthew Williams - October 17, 2026 11:11 PM UTC | Space Exploration - 19K reads Human cells with fluorescently labeled chromatin (green) and microtubules (magenta) appear elongated after 24-hour exposure to fluid flows. Credit: Kanellakopoulos/Zidovska/NYU Since its inception in 1990, the Human Genome Project has led to breakthroughs in our understanding of genetics. In April 2003, the project was declared complete after s",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Universe Today",
+          "title": "New Research Reveals How Long Stays in Space Affects the Human Genome",
+          "url": "https://www.universetoday.com/articles/new-research-reveals-how-long-stays-in-space-affects-the-human-genome",
           "primary": true
         }
       ]
@@ -33,9 +155,9 @@
       "items": [
         {
           "date": "2026-10-17",
-          "title": "Nordics: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Nordics: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -49,13 +171,20 @@
       "items": [
         {
           "date": "2026-10-17",
-          "title": "Central and Eastern Europe: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Two space companies receive conditional TSX approval",
+          "summary": "Serhiy Beskrestnov, a technology adviser to Ukraine’s president, said Wednesday that SpaceX had overnight capped the speed of Starlink terminals in motion that Ukraine’s forces use through its Starshield military service, without warning. Investors sent Eutelsat, which owns the rival OneWeb network, up 23 per cent that day. A day earlier, Piper Sandler had downgraded AST SpaceMobile, citing SpaceX’s push into satellite-to-phone service. By Friday the Procure Space ETF, a fund that tracks space s",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
           "confidence": "low",
-          "status": "overview",
+          "status": "record",
           "iso3": [],
-          "sources": []
+          "sources": [
+            {
+              "outlet": "SpaceQ",
+              "title": "Two space companies receive conditional TSX approval",
+              "url": "https://spaceq.ca/the-weekly-close-october-16-2026/",
+              "primary": true
+            }
+          ]
         }
       ]
     },
@@ -65,9 +194,9 @@
       "items": [
         {
           "date": "2026-10-17",
-          "title": "Western and Southern Europe: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Western and Southern Europe: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -81,9 +210,9 @@
       "items": [
         {
           "date": "2026-10-17",
-          "title": "ESA and EU: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "ESA and EU: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -97,9 +226,9 @@
       "items": [
         {
           "date": "2026-10-17",
-          "title": "Türkiye, Middle East and Africa: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Türkiye, Middle East and Africa: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -113,9 +242,9 @@
       "items": [
         {
           "date": "2026-10-17",
-          "title": "Eurasia and Central Asia: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Eurasia and Central Asia: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -129,9 +258,9 @@
       "items": [
         {
           "date": "2026-10-17",
-          "title": "Asia Pacific: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Asia Pacific: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -145,9 +274,9 @@
       "items": [
         {
           "date": "2026-10-17",
-          "title": "Americas: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Americas: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -163,8 +292,12 @@
   "competitive_watch": [],
   "stats": {
     "record": "memory",
-    "source": "SpaceNews",
-    "stories": 0
+    "sources": [
+      "Space.com",
+      "SpaceQ",
+      "Universe Today"
+    ],
+    "stories": 8
   },
   "audio_script": "This is a memory record for 2026-10-17, not a spoken briefing. It keeps the SpaceNews stories dated this day so later editions can see what had already been reported.",
   "audio_sections": [

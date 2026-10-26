@@ -4,9 +4,12 @@
   "generated_at": "2026-09-19T18:00:00+00:00",
   "headline": "Rocket Lab continues high Electron cadence with Synspective launch",
   "summary": [
-    "Rocket Lab continues high Electron cadence with Synspective launch"
+    "Rocket Lab continues high Electron cadence with Synspective launch",
+    "This Week In Space podcast: Episode 228 — What's a HOTOL?",
+    "The fall equinox doesn't really bring equal day and night — here's why",
+    "5 amazing lunar sights to explore on International Observe the Moon Night tonight!"
   ],
-  "bottom_line": "Memory record drawn from SpaceNews for this date. It is not a full eight-desk sweep, and a desk with no mapped story is a gap in the harvest.",
+  "bottom_line": "Memory record for this date from the space newsrooms we can archive: Space.com, SpaceNews, SpaceQ, Spaceflight Now, Universe Today. It is not a full eight-desk sweep, and a desk with no mapped story is a gap in the harvest.",
   "global": [
     {
       "date": "2026-09-19",
@@ -24,6 +27,210 @@
           "primary": true
         }
       ]
+    },
+    {
+      "date": "2026-09-19",
+      "title": "This Week In Space podcast: Episode 228 — What's a HOTOL?",
+      "summary": "Entertainment Space Movies & Shows This Week In Space podcast: Episode 228 — What's a HOTOL? News By <a href=\"https://www.space.com/author/space-com-staff\" class=\"font-normal no-underline normal-case text-i",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "This Week In Space podcast: Episode 228 — What's a HOTOL?",
+          "url": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-228-whats-a-hotol",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-19",
+      "title": "The fall equinox doesn't really bring equal day and night — here's why",
+      "summary": "Stargazing The fall equinox doesn't really bring equal day and night — here's why News By Joe Rao Published 19 September 2026 </div",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "The fall equinox doesn't really bring equal day and night — here's why",
+          "url": "https://www.space.com/stargazing/the-fall-equinox-doesnt-really-bring-equal-day-and-night-heres-why",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-19",
+      "title": "5 amazing lunar sights to explore on International Observe the Moon Night tonight!",
+      "summary": "Stargazing 5 amazing lunar sights to explore on International Observe the Moon Night tonight! News By Anthony Wood Published 19 September 2026 </",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "5 amazing lunar sights to explore on International Observe the Moon Night tonight!",
+          "url": "https://www.space.com/stargazing/5-amazing-lunar-sights-to-explore-on-international-observe-the-moon-night-tonight",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-19",
+      "title": "On this day in space! Sept. 19, 1996: NASA's space shuttle Atlantis docks at Russia's Mir space station on STS-79 for 1st US astronaut crew change",
+      "summary": "Space Exploration On this day in space! Sept. 19, 1996: NASA's space shuttle Atlantis docks at Russia's Mir space station on STS-79 for 1st US astronaut crew change News By Hanneke Weitering Contributions by <a href=\"https://www.space.com/author/tariq-malik\" class=\"vds-collabs__link whitespace-no",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "On this day in space! Sept. 19, 1996: NASA's space shuttle Atlantis docks at Russia's Mir space station on STS-79 for 1st US astronaut crew change",
+          "url": "https://www.space.com/space-exploration/on-this-day-in-space-sept-19-1996-nasas-space-shuttle-atlantis-docks-at-russias-mir-space-station-on-sts-79",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-19",
+      "title": "NASA awards SpaceX $946 million for 3 more astronaut missions to the ISS",
+      "summary": "Space Exploration Human Spaceflight NASA awards SpaceX $946 million for 3 more astronaut missions to the ISS News By <a href=\"https://www.space.com/author/mike-wall\" class=\"font-normal no-underline normal-",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "NASA awards SpaceX $946 million for 3 more astronaut missions to the ISS",
+          "url": "https://www.space.com/space-exploration/human-spaceflight/nasa-awards-spacex-usd946-million-for-3-more-astronaut-missions-to-the-iss",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-19",
+      "title": "Russian Progress spacecraft delivers 3 tons of cargo to the ISS (video)",
+      "summary": "Space.com published this story on 2026-09-19.",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "Russian Progress spacecraft delivers 3 tons of cargo to the ISS (video)",
+          "url": "https://www.space.com/space-exploration/international-space-station/russia-progress-96-cargo-spacecraft-iss-docking",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-19",
+      "title": "Avio launches pair of climate monitoring European spacecraft to study plants, oceans and atmospheric changes – Spaceflight Now",
+      "summary": "Avio launches pair of climate monitoring European spacecraft to study plants, oceans and atmospheric changes September 15, 2026 Will Robinson-Smith ESA’s state-of-the-art FLEX Earth Explorer satellite and the Copernicus Sentinel-3C satellite have been launched together aboard a Vega-C rocket from Europe’s Spaceport in French Guiana, marking a new milestone in Europe’s Earth Observation Programmes. Flight VV30 lifted off on 15 September at 03:21 (14 September at 22:21 local time). Image: ESA-CNES",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Spaceflight Now",
+          "title": "Avio launches pair of climate monitoring European spacecraft to study plants, oceans and atmospheric changes – Spaceflight Now",
+          "url": "https://spaceflightnow.com/2026/09/15/avio-launches-pair-of-climate-monitoring-european-spacecraft-to-study-plants-oceans-and-atmospheric-changes/",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-19",
+      "title": "SpaceX launches 700th Falcon rocket, carries final 3 O3b mPOWER satellites to orbit for SES – Spaceflight Now",
+      "summary": "SpaceX launches 700th Falcon rocket, carries final 3 O3b mPOWER satellites to orbit for SES September 13, 2026 Will Robinson-Smith A SpaceX Falcon 9 rocket soars past the American flag during the launch of the O3b mPOWER mission for SES. Image: John Pisani/Spaceflight Now SpaceX launched a trio of satellites for its oldest commercial customer, SES, on a Falcon 9 rocket flying Sunday afternoon from Florida. This was SpaceX’s 700th Falcon rocket launch to date, split between 687 Falcon 9 rockets a",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Spaceflight Now",
+          "title": "SpaceX launches 700th Falcon rocket, carries final 3 O3b mPOWER satellites to orbit for SES – Spaceflight Now",
+          "url": "https://spaceflightnow.com/2026/09/13/live-coverage-spacex-to-launch-final-3-o3b-mpower-satellites-for-ses/",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-19",
+      "title": "Weekly ISS update: New cargo ship launches to station as Crew-13 enters quarantine",
+      "summary": "A new Progress cargo ship lifted off for the International Space Station (ISS) this week, while the four astronauts assigned to the next crew rotation, including Canada’s Joshua Kutryk, began the final quarantine before their own flight. The uncrewed Progress 96 spacecraft, carrying about three tons of food, fuel and supplies for the Expedition 75 crew, launched on a Soyuz rocket from the Baikonur Cosmodrome in Kazakhstan on Sept. 16, NASA reported in its mission blog . NASA and SpaceX said this",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "SpaceQ",
+          "title": "Weekly ISS update: New cargo ship launches to station as Crew-13 enters quarantine",
+          "url": "https://spaceq.ca/weekly-iss-update-new-cargo-ship-launches-to-station-as-crew-13-enters-quarantine/",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-19",
+      "title": "The Weekly Close: MDA gains, index slips",
+      "summary": "MDA’s CHORUS unveiling MDA Space unveiled a three-tier software portfolio Wednesday that lets customers search its Earth observation archive and schedule new imagery, install a regional ground station for direct downlink and local processing, and, at the top tier, buy finished intelligence products such as vessel detection and ground-deformation monitoring. The shares rose 4.8 per cent to $42.05, the week’s largest gain among Canadian public companies and one of three that beat the S&P/TSX Compo",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "SpaceQ",
+          "title": "The Weekly Close: MDA gains, index slips",
+          "url": "https://spaceq.ca/the-weekly-close-september-18-2026/",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-19",
+      "title": "BepiColombo Makes Up-Close Measurement of Mercury's Solar Bombardment",
+      "summary": "BepiColombo Makes Up-Close Measurement of Mercury's Solar Bombardment By Matthew Williams - September 19, 2026 02:19 AM UTC | Missions - 29K reads None During the eight years since it was launched, the ESA/JAXA BepiColombo mission has made six close flybys of Mercury. During each pass, the twin orbiters collected vital information on one of the least explored planets in the Solar System, helping address its many fundamental mysteries. These include, but are not limited to, the existence of icy c",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Universe Today",
+          "title": "BepiColombo Makes Up-Close Measurement of Mercury's Solar Bombardment",
+          "url": "https://www.universetoday.com/articles/bepicolombo-makes-up-close-measurement-of-mercurys-solar-bombardment",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-19",
+      "title": "Researchers Measure the Environment Where the First Supermassive Black Holes Formed",
+      "summary": "Researchers Measure the Environment Where the First Supermassive Black Holes Formed By Matthew Williams - September 19, 2026 10:43 PM UTC | Physics - 27K reads Artistic impression of the event horizon around the black hole at the center of our galaxy. Credit: M. Moscibrodzka/T. Bronzwaar/H. Falcke/Radboud University When the James Webb Space Telescope pointed its powerful instruments toward the early Universe, scientists were surprised by what it found. At high-redshift (z) values, corresponding",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Universe Today",
+          "title": "Researchers Measure the Environment Where the First Supermassive Black Holes Formed",
+          "url": "https://www.universetoday.com/articles/researchers-measure-the-environment-where-the-first-supermassive-black-holes-formed",
+          "primary": true
+        }
+      ]
     }
   ],
   "regions": [
@@ -33,9 +240,9 @@
       "items": [
         {
           "date": "2026-09-19",
-          "title": "Nordics: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Nordics: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -49,9 +256,9 @@
       "items": [
         {
           "date": "2026-09-19",
-          "title": "Central and Eastern Europe: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Central and Eastern Europe: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -65,13 +272,20 @@
       "items": [
         {
           "date": "2026-09-19",
-          "title": "Western and Southern Europe: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Avio launches pair of climate monitoring European spacecraft to study plants, oceans and atmospheric changes – Spaceflight Now",
+          "summary": "Avio launches pair of climate monitoring European spacecraft to study plants, oceans and atmospheric changes September 15, 2026 Will Robinson-Smith ESA’s state-of-the-art FLEX Earth Explorer satellite and the Copernicus Sentinel-3C satellite have been launched together aboard a Vega-C rocket from Europe’s Spaceport in French Guiana, marking a new milestone in Europe’s Earth Observation Programmes. Flight VV30 lifted off on 15 September at 03:21 (14 September at 22:21 local time). Image: ESA-CNES",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
           "confidence": "low",
-          "status": "overview",
+          "status": "record",
           "iso3": [],
-          "sources": []
+          "sources": [
+            {
+              "outlet": "Spaceflight Now",
+              "title": "Avio launches pair of climate monitoring European spacecraft to study plants, oceans and atmospheric changes – Spaceflight Now",
+              "url": "https://spaceflightnow.com/2026/09/15/avio-launches-pair-of-climate-monitoring-european-spacecraft-to-study-plants-oceans-and-atmospheric-changes/",
+              "primary": true
+            }
+          ]
         }
       ]
     },
@@ -81,13 +295,20 @@
       "items": [
         {
           "date": "2026-09-19",
-          "title": "ESA and EU: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "BepiColombo Makes Up-Close Measurement of Mercury's Solar Bombardment",
+          "summary": "BepiColombo Makes Up-Close Measurement of Mercury's Solar Bombardment By Matthew Williams - September 19, 2026 02:19 AM UTC | Missions - 29K reads None During the eight years since it was launched, the ESA/JAXA BepiColombo mission has made six close flybys of Mercury. During each pass, the twin orbiters collected vital information on one of the least explored planets in the Solar System, helping address its many fundamental mysteries. These include, but are not limited to, the existence of icy c",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
           "confidence": "low",
-          "status": "overview",
+          "status": "record",
           "iso3": [],
-          "sources": []
+          "sources": [
+            {
+              "outlet": "Universe Today",
+              "title": "BepiColombo Makes Up-Close Measurement of Mercury's Solar Bombardment",
+              "url": "https://www.universetoday.com/articles/bepicolombo-makes-up-close-measurement-of-mercurys-solar-bombardment",
+              "primary": true
+            }
+          ]
         }
       ]
     },
@@ -97,9 +318,9 @@
       "items": [
         {
           "date": "2026-09-19",
-          "title": "Türkiye, Middle East and Africa: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Türkiye, Middle East and Africa: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -113,13 +334,54 @@
       "items": [
         {
           "date": "2026-09-19",
-          "title": "Eurasia and Central Asia: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "On this day in space! Sept. 19, 1996: NASA's space shuttle Atlantis docks at Russia's Mir space station on STS-79 for 1st US astronaut crew change",
+          "summary": "Space Exploration On this day in space! Sept. 19, 1996: NASA's space shuttle Atlantis docks at Russia's Mir space station on STS-79 for 1st US astronaut crew change News By Hanneke Weitering Contributions by <a href=\"https://www.space.com/author/tariq-malik\" class=\"vds-collabs__link whitespace-no",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
           "confidence": "low",
-          "status": "overview",
+          "status": "record",
           "iso3": [],
-          "sources": []
+          "sources": [
+            {
+              "outlet": "Space.com",
+              "title": "On this day in space! Sept. 19, 1996: NASA's space shuttle Atlantis docks at Russia's Mir space station on STS-79 for 1st US astronaut crew change",
+              "url": "https://www.space.com/space-exploration/on-this-day-in-space-sept-19-1996-nasas-space-shuttle-atlantis-docks-at-russias-mir-space-station-on-sts-79",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-09-19",
+          "title": "Russian Progress spacecraft delivers 3 tons of cargo to the ISS (video)",
+          "summary": "Space.com published this story on 2026-09-19.",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Space.com",
+              "title": "Russian Progress spacecraft delivers 3 tons of cargo to the ISS (video)",
+              "url": "https://www.space.com/space-exploration/international-space-station/russia-progress-96-cargo-spacecraft-iss-docking",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-09-19",
+          "title": "Weekly ISS update: New cargo ship launches to station as Crew-13 enters quarantine",
+          "summary": "A new Progress cargo ship lifted off for the International Space Station (ISS) this week, while the four astronauts assigned to the next crew rotation, including Canada’s Joshua Kutryk, began the final quarantine before their own flight. The uncrewed Progress 96 spacecraft, carrying about three tons of food, fuel and supplies for the Expedition 75 crew, launched on a Soyuz rocket from the Baikonur Cosmodrome in Kazakhstan on Sept. 16, NASA reported in its mission blog . NASA and SpaceX said this",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "SpaceQ",
+              "title": "Weekly ISS update: New cargo ship launches to station as Crew-13 enters quarantine",
+              "url": "https://spaceq.ca/weekly-iss-update-new-cargo-ship-launches-to-station-as-crew-13-enters-quarantine/",
+              "primary": true
+            }
+          ]
         }
       ]
     },
@@ -152,13 +414,54 @@
       "items": [
         {
           "date": "2026-09-19",
-          "title": "Americas: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "NASA awards SpaceX $946 million for 3 more astronaut missions to the ISS",
+          "summary": "Space Exploration Human Spaceflight NASA awards SpaceX $946 million for 3 more astronaut missions to the ISS News By <a href=\"https://www.space.com/author/mike-wall\" class=\"font-normal no-underline normal-",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
           "confidence": "low",
-          "status": "overview",
+          "status": "record",
           "iso3": [],
-          "sources": []
+          "sources": [
+            {
+              "outlet": "Space.com",
+              "title": "NASA awards SpaceX $946 million for 3 more astronaut missions to the ISS",
+              "url": "https://www.space.com/space-exploration/human-spaceflight/nasa-awards-spacex-usd946-million-for-3-more-astronaut-missions-to-the-iss",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-09-19",
+          "title": "SpaceX launches 700th Falcon rocket, carries final 3 O3b mPOWER satellites to orbit for SES – Spaceflight Now",
+          "summary": "SpaceX launches 700th Falcon rocket, carries final 3 O3b mPOWER satellites to orbit for SES September 13, 2026 Will Robinson-Smith A SpaceX Falcon 9 rocket soars past the American flag during the launch of the O3b mPOWER mission for SES. Image: John Pisani/Spaceflight Now SpaceX launched a trio of satellites for its oldest commercial customer, SES, on a Falcon 9 rocket flying Sunday afternoon from Florida. This was SpaceX’s 700th Falcon rocket launch to date, split between 687 Falcon 9 rockets a",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Spaceflight Now",
+              "title": "SpaceX launches 700th Falcon rocket, carries final 3 O3b mPOWER satellites to orbit for SES – Spaceflight Now",
+              "url": "https://spaceflightnow.com/2026/09/13/live-coverage-spacex-to-launch-final-3-o3b-mpower-satellites-for-ses/",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-09-19",
+          "title": "The Weekly Close: MDA gains, index slips",
+          "summary": "MDA’s CHORUS unveiling MDA Space unveiled a three-tier software portfolio Wednesday that lets customers search its Earth observation archive and schedule new imagery, install a regional ground station for direct downlink and local processing, and, at the top tier, buy finished intelligence products such as vessel detection and ground-deformation monitoring. The shares rose 4.8 per cent to $42.05, the week’s largest gain among Canadian public companies and one of three that beat the S&P/TSX Compo",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "SpaceQ",
+              "title": "The Weekly Close: MDA gains, index slips",
+              "url": "https://spaceq.ca/the-weekly-close-september-18-2026/",
+              "primary": true
+            }
+          ]
         }
       ]
     }
@@ -170,8 +473,14 @@
   "competitive_watch": [],
   "stats": {
     "record": "memory",
-    "source": "SpaceNews",
-    "stories": 1
+    "sources": [
+      "Space.com",
+      "SpaceNews",
+      "SpaceQ",
+      "Spaceflight Now",
+      "Universe Today"
+    ],
+    "stories": 13
   },
   "audio_script": "This is a memory record for 2026-09-19, not a spoken briefing. It keeps the SpaceNews stories dated this day so later editions can see what had already been reported.",
   "audio_sections": [

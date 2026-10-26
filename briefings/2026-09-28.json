@@ -9,7 +9,7 @@
     "Three countries join the Artemis Accords",
     "Northrop Grumman delivers 21 data-relay satellites for military constellation"
   ],
-  "bottom_line": "Memory record drawn from SpaceNews for this date. It is not a full eight-desk sweep, and a desk with no mapped story is a gap in the harvest.",
+  "bottom_line": "Memory record for this date from the space newsrooms we can archive: Space.com, SpaceNews. It is not a full eight-desk sweep, and a desk with no mapped story is a gap in the harvest.",
   "global": [
     {
       "date": "2026-09-28",
@@ -146,6 +146,142 @@
           "primary": true
         }
       ]
+    },
+    {
+      "date": "2026-09-28",
+      "title": "On this day in space! Sept. 28, 1962: Canada's 1st satellite Alouette 1 launches into orbit from California on a Thor-Agena rocket",
+      "summary": "Space Exploration On this day in space! Sept. 28, 1962: Canada's 1st satellite Alouette 1 launches into orbit from California on a Thor-Agena rocket News By Hanneke Weitering Contributions by <a href=\"https://www.space.com/author/tariq-malik\" class=\"vds-collabs__link whitespace-nowrap text-inheri",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "On this day in space! Sept. 28, 1962: Canada's 1st satellite Alouette 1 launches into orbit from California on a Thor-Agena rocket",
+          "url": "https://www.space.com/space-exploration/on-this-day-in-space-september-28-2026",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-28",
+      "title": "Jupiter-bound JUICE spacecraft just got an 8,000 mph speed boost from Earth: 'This is great news for science'",
+      "summary": "Space Exploration Jupiter-bound JUICE spacecraft just got an 8,000 mph speed boost from Earth: 'This is great news for science' News By Robert Lea Published <time data-component-name=\"UI:DateTime\" datetime=\"2026-09-28T15:00:0",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "Jupiter-bound JUICE spacecraft just got an 8,000 mph speed boost from Earth: 'This is great news for science'",
+          "url": "https://www.space.com/space-exploration/jupiter-bound-juice-spacecraft-just-got-an-8-000-mph-speed-boost-from-earth-this-is-great-news-for-science",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-28",
+      "title": "Stunning Harvest Moon serves up a treat for skywatchers worldwide (photos)",
+      "summary": "Stargazing Stunning Harvest Moon serves up a treat for skywatchers worldwide (photos) News By Daisy Dobrijevic Published 28 September",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "Stunning Harvest Moon serves up a treat for skywatchers worldwide (photos)",
+          "url": "https://www.space.com/stargazing/stunning-harvest-moon-serves-up-a-treat-for-skywatchers-worldwide-photos",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-28",
+      "title": "SpaceX launches Starship into orbit for 1st time — largest rocket ever built notches key milestone on dramatic Flight 14 test",
+      "summary": "Space Exploration Launches & Spacecraft SpaceX launches Starship into orbit for 1st time — largest rocket ever built notches key milestone on dramatic Flight 14 test News By <a href=\"",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "SpaceX launches Starship into orbit for 1st time — largest rocket ever built notches key milestone on dramatic Flight 14 test",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-megarocket-flight-14-orbital-launch-success",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-28",
+      "title": "Millions of satellites orbiting Earth? Astronomers hope the UN can slow the coming data center doom",
+      "summary": "Space Exploration Satellites Millions of satellites orbiting Earth? Astronomers hope the UN can slow the coming data center doom News By <a href=\"https://www.space.com/author/tereza-pultarova\" class=\"font-normal no-underline n",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "Millions of satellites orbiting Earth? Astronomers hope the UN can slow the coming data center doom",
+          "url": "https://www.space.com/space-exploration/satellites/millions-of-satellites-orbiting-earth-astronomers-hope-the-un-can-slow-the-coming-data-center-doom",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-28",
+      "title": "Wow! Watch SpaceX's Starship megarocket deploy satellites into orbit for 1st time ever (photos, video)",
+      "summary": "Space Exploration Launches & Spacecraft Wow! Watch SpaceX's Starship megarocket deploy satellites into orbit for 1st time ever (photos, video) News By <a href=\"https://www.space.com/author/",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "Wow! Watch SpaceX's Starship megarocket deploy satellites into orbit for 1st time ever (photos, video)",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/wow-watch-spacexs-starship-megarocket-deploy-satellites-into-orbit-for-1st-time-ever-photos-video",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-28",
+      "title": "Odd 'coral reef' deposits reveal Mars' climate history",
+      "summary": "Astronomy Solar System Mars Strange 'coral reef' deposits reveal Mars' climate history | Space photo of the day for",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "Odd 'coral reef' deposits reveal Mars' climate history",
+          "url": "https://www.space.com/astronomy/mars/strange-coral-reef-deposits-reveal-mars-climate-history-space-photo-of-the-day-for-sept-28-2026",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-28",
+      "title": "Boeing's Starliner won't launch astronauts until 2028 (and may need a new rocket), NASA says",
+      "summary": "Space Exploration Human Spaceflight Boeing's Starliner won't launch astronauts until 2028 (and may need a new rocket), NASA says News By <a href=\"https://www.space.com/author/mike-wall\" class=\"font-normal",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "Boeing's Starliner won't launch astronauts until 2028 (and may need a new rocket), NASA says",
+          "url": "https://www.space.com/space-exploration/human-spaceflight/boeing-starliner-wont-launch-astronauts-until-2028-and-may-need-a-new-rocket-nasa-says",
+          "primary": true
+        }
+      ]
     }
   ],
   "regions": [
@@ -155,9 +291,9 @@
       "items": [
         {
           "date": "2026-09-28",
-          "title": "Nordics: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Nordics: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -171,9 +307,9 @@
       "items": [
         {
           "date": "2026-09-28",
-          "title": "Central and Eastern Europe: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Central and Eastern Europe: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -187,9 +323,9 @@
       "items": [
         {
           "date": "2026-09-28",
-          "title": "Western and Southern Europe: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Western and Southern Europe: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -203,13 +339,54 @@
       "items": [
         {
           "date": "2026-09-28",
-          "title": "ESA and EU: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "NorthStar promotes Peter Klimas to chief technology officer",
+          "summary": "NorthStar Earth & Space announced Monday it has promoted Peter Klimas, its engineering chief, to chief technology officer, effective Sept. 24. The Montreal company catalogs objects in orbit and dubs itself as a space intelligence and data analytics company for defence and civil customers including Canada’s 3 Canadian Space Division, the U.S. Space Force and the European Space Agency. Klimas moves up from Executive Director of Engineering, a post he reached after working through Technical Directo",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
           "confidence": "low",
-          "status": "overview",
+          "status": "record",
           "iso3": [],
-          "sources": []
+          "sources": [
+            {
+              "outlet": "SpaceQ",
+              "title": "NorthStar promotes Peter Klimas to chief technology officer",
+              "url": "https://spaceq.ca/northstar-promotes-peter-klimas-to-chief-technology-officer/",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-09-28",
+          "title": "Diving into an Out-of-sync Galaxy",
+          "summary": "Diving into an Out-of-sync Galaxy By Carolyn Collins Petersen - September 28, 2026 11:30 PM UTC | Extragalactic - 22K reads The spiral galaxy NGC 4698 is a member of the Virgo Cluster of galaxies. Its serene vision hides the fact that it has a tail of hydrogen gas stretching away from it; the spin of its arms is decoupled from the spin of the stars and gas in the center, and its bulge stretches out in an odd shape. Credit: ESA/Hubble &amp; NASA, D. Thilker, the MAUVE-HST Team Galaxies are like s",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Universe Today",
+              "title": "Diving into an Out-of-sync Galaxy",
+              "url": "https://www.universetoday.com/articles/diving-into-an-out-of-sync-galaxy",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-09-28",
+          "title": "ESA And JAXA's Planetary Defense Mission Powers On For The First Time",
+          "summary": "ESA And JAXA's Planetary Defense Mission Powers On For The First Time By Andy Tomaswick - September 28, 2026 12:55 PM UTC | Missions - 17K reads Image of Ramses' Core module in its test configuration during start-up. Credit - ESA There’s a once-in-a-millennia astronomical opportunity coming up in about three years, and space agencies are rushing to make sure they’re ready for it. On Friday April 13th, 2029, the asteroid 99942 Apophis will fly within 32,000km of the Earth’s surface. The cruise li",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Universe Today",
+              "title": "ESA And JAXA's Planetary Defense Mission Powers On For The First Time",
+              "url": "https://www.universetoday.com/articles/esa-and-jaxas-planetary-defense-mission-powers-on-for-the-first-time",
+              "primary": true
+            }
+          ]
         }
       ]
     },
@@ -219,9 +396,9 @@
       "items": [
         {
           "date": "2026-09-28",
-          "title": "Türkiye, Middle East and Africa: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Türkiye, Middle East and Africa: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -235,9 +412,9 @@
       "items": [
         {
           "date": "2026-09-28",
-          "title": "Eurasia and Central Asia: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Eurasia and Central Asia: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -305,6 +482,108 @@
               "primary": true
             }
           ]
+        },
+        {
+          "date": "2026-09-28",
+          "title": "On this day in space! Sept. 28, 1962: Canada's 1st satellite Alouette 1 launches into orbit from California on a Thor-Agena rocket",
+          "summary": "Space Exploration On this day in space! Sept. 28, 1962: Canada's 1st satellite Alouette 1 launches into orbit from California on a Thor-Agena rocket News By Hanneke Weitering Contributions by <a href=\"https://www.space.com/author/tariq-malik\" class=\"vds-collabs__link whitespace-nowrap text-inheri",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Space.com",
+              "title": "On this day in space! Sept. 28, 1962: Canada's 1st satellite Alouette 1 launches into orbit from California on a Thor-Agena rocket",
+              "url": "https://www.space.com/space-exploration/on-this-day-in-space-september-28-2026",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-09-28",
+          "title": "SpaceX launches Starship into orbit for 1st time — largest rocket ever built notches key milestone on dramatic Flight 14 test",
+          "summary": "Space Exploration Launches & Spacecraft SpaceX launches Starship into orbit for 1st time — largest rocket ever built notches key milestone on dramatic Flight 14 test News By <a href=\"",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Space.com",
+              "title": "SpaceX launches Starship into orbit for 1st time — largest rocket ever built notches key milestone on dramatic Flight 14 test",
+              "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-megarocket-flight-14-orbital-launch-success",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-09-28",
+          "title": "Wow! Watch SpaceX's Starship megarocket deploy satellites into orbit for 1st time ever (photos, video)",
+          "summary": "Space Exploration Launches & Spacecraft Wow! Watch SpaceX's Starship megarocket deploy satellites into orbit for 1st time ever (photos, video) News By <a href=\"https://www.space.com/author/",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Space.com",
+              "title": "Wow! Watch SpaceX's Starship megarocket deploy satellites into orbit for 1st time ever (photos, video)",
+              "url": "https://www.space.com/space-exploration/launches-spacecraft/wow-watch-spacexs-starship-megarocket-deploy-satellites-into-orbit-for-1st-time-ever-photos-video",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-09-28",
+          "title": "Boeing's Starliner won't launch astronauts until 2028 (and may need a new rocket), NASA says",
+          "summary": "Space Exploration Human Spaceflight Boeing's Starliner won't launch astronauts until 2028 (and may need a new rocket), NASA says News By <a href=\"https://www.space.com/author/mike-wall\" class=\"font-normal",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Space.com",
+              "title": "Boeing's Starliner won't launch astronauts until 2028 (and may need a new rocket), NASA says",
+              "url": "https://www.space.com/space-exploration/human-spaceflight/boeing-starliner-wont-launch-astronauts-until-2028-and-may-need-a-new-rocket-nasa-says",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-09-28",
+          "title": "Starship Reaches Orbit on 14th Test Flight",
+          "summary": "SpaceX’s Starship reached orbit for the first time Monday morning. Flight 14 was the first operational mission for Starship. That’s good news for many in the space industry, who are planning their missions around the capacity offered by the spacecraft. Flight details: Starship lifted off from SpaceX’s Starbase, TX launch pad at 8:48am ET. During its ascent, the ship lost one of its six engines, briefly putting SpaceX’s orbital ambitions in doubt as engineers double-checked that the ship was in t",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Payload",
+              "title": "Starship Reaches Orbit on 14th Test Flight",
+              "url": "https://payloadspace.com/starship-reaches-orbit-on-14th-test-flight/",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-09-28",
+          "title": "Starliner Targets Uncrewed Flight NET December, Crewed Follow Up in 2028",
+          "summary": "Starliner is getting a redo of its failed crewed demo—but first it has to prove it can fly safely without humans onboard. NASA and Boeing officials announced Monday that they have upgraded and redesigned Starliner following a dicey crewed test flight in 2024, which left NASA astronauts Butch Wilmore and Sunita Williams stuck on ISS for nine months. Mark your calendars: NASA is targeting an uncrewed Starliner mission NET December. The capsule is set to fly its next crewed mission to the ISS in mi",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Payload",
+              "title": "Starliner Targets Uncrewed Flight NET December, Crewed Follow Up in 2028",
+              "url": "https://payloadspace.com/starliner-targets-uncrewed-flight-net-december-crewed-follow-up-in-2028/",
+              "primary": true
+            }
+          ]
         }
       ]
     }
@@ -316,8 +595,11 @@
   "competitive_watch": [],
   "stats": {
     "record": "memory",
-    "source": "SpaceNews",
-    "stories": 9
+    "sources": [
+      "Space.com",
+      "SpaceNews"
+    ],
+    "stories": 16
   },
   "audio_script": "This is a memory record for 2026-09-28, not a spoken briefing. It keeps the SpaceNews stories dated this day so later editions can see what had already been reported.",
   "audio_sections": [

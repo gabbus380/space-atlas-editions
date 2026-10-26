@@ -5,9 +5,11 @@
   "headline": "Space Force backs startup seeking to change how satellites move in orbit",
   "summary": [
     "Space Force backs startup seeking to change how satellites move in orbit",
-    "Pixxel raises $100 million to expand satellite production across India and US"
+    "Pixxel raises $100 million to expand satellite production across India and US",
+    "'The Last Starship' is 2026's most slept-on space game — you need to check out this 'FTL'-like shipbuilding strategy gem",
+    "The moon will hide Jupiter in broad daylight today — here's how to see it"
   ],
-  "bottom_line": "Memory record drawn from SpaceNews for this date. It is not a full eight-desk sweep, and a desk with no mapped story is a gap in the harvest.",
+  "bottom_line": "Memory record for this date from the space newsrooms we can archive: Space.com, SpaceNews, SpacePolicyOnline, SpaceQ, Universe Today. It is not a full eight-desk sweep, and a desk with no mapped story is a gap in the harvest.",
   "global": [
     {
       "date": "2026-09-07",
@@ -42,6 +44,210 @@
           "primary": true
         }
       ]
+    },
+    {
+      "date": "2026-09-07",
+      "title": "'The Last Starship' is 2026's most slept-on space game — you need to check out this 'FTL'-like shipbuilding strategy gem",
+      "summary": "Entertainment Space Games 'The Last Starship' is 2026's most slept-on space game — you need to check out this 'FTL'-like shipbuilding strategy gem News By <a href=\"https://www.space.com/author/jeff-spry\" class=\"font-normal no-underline n",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "'The Last Starship' is 2026's most slept-on space game — you need to check out this 'FTL'-like shipbuilding strategy gem",
+          "url": "https://www.space.com/entertainment/space-games/the-last-starship-is-2026s-most-slept-on-space-game-you-need-to-check-out-this-ftl-like-shipbuilding-strategy-gem",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-07",
+      "title": "The moon will hide Jupiter in broad daylight today — here's how to see it",
+      "summary": "Stargazing The moon will hide Jupiter in broad daylight today — here's how to see it News By Joe Rao Last updated 8 September 2026",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "The moon will hide Jupiter in broad daylight today — here's how to see it",
+          "url": "https://www.space.com/stargazing/the-moon-will-hide-jupiter-in-broad-daylight-on-sept-8-2026-here-is-how-to-see-it",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-07",
+      "title": "Earth's moon could have formed in just 5 hours after giant impact",
+      "summary": "Astronomy Solar System The moon Earth's moon could have formed in just 5 hours after giant impact <div cla",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "Earth's moon could have formed in just 5 hours after giant impact",
+          "url": "https://www.space.com/astronomy/moon/earths-moon-could-have-formed-in-just-5-hours-after-giant-impact",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-07",
+      "title": "Galaxies tangled in science and spirit",
+      "summary": "Astronomy Galaxies Galaxies tangled in science and spirit | Space photo of the day for Sept. 7, 2026 News By <a href=\"https://www.space.com/author/monisha-ravisetti\" class=\"font-normal no-underline normal-case text-inherit vds-author__link whitespace-break-spaces hover:un",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "Galaxies tangled in science and spirit",
+          "url": "https://www.space.com/astronomy/galaxies/galaxies-tangled-in-science-and-spirit-space-photo-of-the-day-for-sept-7-2026",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-07",
+      "title": "My choice for speedy skywatching — this tabletop telescope is 20% off",
+      "summary": "Stargazing Skywatching Kit Cheaper than Prime Day, this super-portable, beginner-friendly telescope is my number one choice for skywatching News By <a href=\"https://www.space.com/author/chris-mcmullen\" class=\"font-normal no-underline normal-case",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "My choice for speedy skywatching — this tabletop telescope is 20% off",
+          "url": "https://www.space.com/stargazing/skywatching-kit/cheaper-than-prime-day-this-super-portable-beginner-friendly-telescope-is-my-number-one-choice-for-skywatching",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-07",
+      "title": "The future of Earth observation: Private satellites and AI bring benefits but also pose risks",
+      "summary": "Astronomy Solar System Earth <img alt=\"SPACE.com Columnist Leonard David\" src=\"https://",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "The future of Earth observation: Private satellites and AI bring benefits but also pose risks",
+          "url": "https://www.space.com/astronomy/earth/the-future-of-earth-observation-private-satellites-and-ai-bring-benefits-but-also-pose-risks",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-07",
+      "title": "On this day in space! Sept. 7, 1995: NASA launches its 100th astronaut flight on space shuttle Endeavour's STS-69 mission",
+      "summary": "Space Exploration On this day in space! Sept. 7, 1995: NASA launches its 100th astronaut flight on space shuttle Endeavour's STS-69 mission News By Hanneke Weitering Contributions by <a href=\"https://www.space.com/author/tariq-malik\" class=\"vds-collabs__link whitespace-nowrap text-inherit inline-",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "On this day in space! Sept. 7, 1995: NASA launches its 100th astronaut flight on space shuttle Endeavour's STS-69 mission",
+          "url": "https://www.space.com/space-exploration/on-this-day-in-space-september-7-2026",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-07",
+      "title": "Labor Day in space: NASA astronauts get the holiday off",
+      "summary": "Space.com published this story on 2026-09-07.",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "Labor Day in space: NASA astronauts get the holiday off",
+          "url": "https://www.space.com/space-exploration/international-space-station/labor-day-in-space-nasa-astronauts-get-the-holiday-off",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-07",
+      "title": "Isar Aerospace Spectrum rocket reaches orbit, eyes 2028 launch from Canada",
+      "summary": "Isar Aerospace, the German launch services company that builds the Spectrum launch vehicle, achieved a major company and European milestone on Saturday when it reached orbit successfully on its second flight and deployed five satellites. It’s the first time a commercial company has reached orbit from Western European soil. The two-stage rocket lifted off from Andøya Space in northern Norway just after 10 p.m. local time. Europe’s only other operational orbital rockets (not including Russia’s), A",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "SpaceQ",
+          "title": "Isar Aerospace Spectrum rocket reaches orbit, eyes 2028 launch from Canada",
+          "url": "https://spaceq.ca/isar-aerospace-spectrum-rocket-reaches-orbit-eyes-2028-launch-from-canada/",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-07",
+      "title": "What’s Happening in Space Policy September 6-12, 2026",
+      "summary": "var addthis_config = { ui_click: true } <a class=\"a2a_button_email\" href=\"https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fspacepolicyonline.com%2Fnews%2Fwhats-ha",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "SpacePolicyOnline",
+          "title": "What’s Happening in Space Policy September 6-12, 2026",
+          "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-september-6-12-2026/",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-07",
+      "title": "Quiet Black Holes With a Stellar Companion Raise Questions About How They Form",
+      "summary": "Quiet Black Holes With a Stellar Companion Raise Questions About How They Form By Brian Koberlein - September 07, 2026 04:03 PM UTC | Black Holes - 18K reads Image of the Milky Way showing the locations of three black holes. Credit: ESA/Gaia/DPAC Active black holes are pretty easy to detect. Their superheated accretion disks emit bright x-rays, and the jets streaming from their poles are easily seen at visible and radio wavelengths. But most stellar-mass black holes are inactive. They either dri",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Universe Today",
+          "title": "Quiet Black Holes With a Stellar Companion Raise Questions About How They Form",
+          "url": "https://www.universetoday.com/articles/quiet-black-holes-with-a-stellar-companion-raise-questions-about-how-they-form",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-07",
+      "title": "Rubin Observatory Peers Deep Into the Famous COSMOS Field",
+      "summary": "Rubin Observatory Peers Deep Into the Famous COSMOS Field By Matthew Williams - September 07, 2026 10:21 PM UTC | Observing - 22K reads This exceptionally deep image from NSF–DOE Vera C. Rubin Observatory reveals the renowned COSMOS field and its surroundings in the constellation Sextans. Credit: NSF–DOE Vera C. Rubin Observatory/NOIRLab/SLAC/AURA The COSMOS field, or Cosmic Evolution Survey Deep Field , is one of the most famous patches of the Universe observed by astronomers. Located in the co",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Universe Today",
+          "title": "Rubin Observatory Peers Deep Into the Famous COSMOS Field",
+          "url": "https://www.universetoday.com/articles/rubin-observatory-peers-deep-into-the-famous-cosmos-field",
+          "primary": true
+        }
+      ]
     }
   ],
   "regions": [
@@ -51,13 +257,20 @@
       "items": [
         {
           "date": "2026-09-07",
-          "title": "Nordics: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Isar Aerospace Spectrum rocket reaches orbit, eyes 2028 launch from Canada",
+          "summary": "Isar Aerospace, the German launch services company that builds the Spectrum launch vehicle, achieved a major company and European milestone on Saturday when it reached orbit successfully on its second flight and deployed five satellites. It’s the first time a commercial company has reached orbit from Western European soil. The two-stage rocket lifted off from Andøya Space in northern Norway just after 10 p.m. local time. Europe’s only other operational orbital rockets (not including Russia’s), A",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
           "confidence": "low",
-          "status": "overview",
+          "status": "record",
           "iso3": [],
-          "sources": []
+          "sources": [
+            {
+              "outlet": "SpaceQ",
+              "title": "Isar Aerospace Spectrum rocket reaches orbit, eyes 2028 launch from Canada",
+              "url": "https://spaceq.ca/isar-aerospace-spectrum-rocket-reaches-orbit-eyes-2028-launch-from-canada/",
+              "primary": true
+            }
+          ]
         }
       ]
     },
@@ -67,9 +280,9 @@
       "items": [
         {
           "date": "2026-09-07",
-          "title": "Central and Eastern Europe: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Central and Eastern Europe: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -83,9 +296,9 @@
       "items": [
         {
           "date": "2026-09-07",
-          "title": "Western and Southern Europe: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Western and Southern Europe: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -99,13 +312,20 @@
       "items": [
         {
           "date": "2026-09-07",
-          "title": "ESA and EU: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Quiet Black Holes With a Stellar Companion Raise Questions About How They Form",
+          "summary": "Quiet Black Holes With a Stellar Companion Raise Questions About How They Form By Brian Koberlein - September 07, 2026 04:03 PM UTC | Black Holes - 18K reads Image of the Milky Way showing the locations of three black holes. Credit: ESA/Gaia/DPAC Active black holes are pretty easy to detect. Their superheated accretion disks emit bright x-rays, and the jets streaming from their poles are easily seen at visible and radio wavelengths. But most stellar-mass black holes are inactive. They either dri",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
           "confidence": "low",
-          "status": "overview",
+          "status": "record",
           "iso3": [],
-          "sources": []
+          "sources": [
+            {
+              "outlet": "Universe Today",
+              "title": "Quiet Black Holes With a Stellar Companion Raise Questions About How They Form",
+              "url": "https://www.universetoday.com/articles/quiet-black-holes-with-a-stellar-companion-raise-questions-about-how-they-form",
+              "primary": true
+            }
+          ]
         }
       ]
     },
@@ -115,9 +335,9 @@
       "items": [
         {
           "date": "2026-09-07",
-          "title": "Türkiye, Middle East and Africa: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Türkiye, Middle East and Africa: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -131,9 +351,9 @@
       "items": [
         {
           "date": "2026-09-07",
-          "title": "Eurasia and Central Asia: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Eurasia and Central Asia: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -184,6 +404,40 @@
               "primary": true
             }
           ]
+        },
+        {
+          "date": "2026-09-07",
+          "title": "On this day in space! Sept. 7, 1995: NASA launches its 100th astronaut flight on space shuttle Endeavour's STS-69 mission",
+          "summary": "Space Exploration On this day in space! Sept. 7, 1995: NASA launches its 100th astronaut flight on space shuttle Endeavour's STS-69 mission News By Hanneke Weitering Contributions by <a href=\"https://www.space.com/author/tariq-malik\" class=\"vds-collabs__link whitespace-nowrap text-inherit inline-",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Space.com",
+              "title": "On this day in space! Sept. 7, 1995: NASA launches its 100th astronaut flight on space shuttle Endeavour's STS-69 mission",
+              "url": "https://www.space.com/space-exploration/on-this-day-in-space-september-7-2026",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-09-07",
+          "title": "Labor Day in space: NASA astronauts get the holiday off",
+          "summary": "Space.com published this story on 2026-09-07.",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Space.com",
+              "title": "Labor Day in space: NASA astronauts get the holiday off",
+              "url": "https://www.space.com/space-exploration/international-space-station/labor-day-in-space-nasa-astronauts-get-the-holiday-off",
+              "primary": true
+            }
+          ]
         }
       ]
     }
@@ -195,8 +449,14 @@
   "competitive_watch": [],
   "stats": {
     "record": "memory",
-    "source": "SpaceNews",
-    "stories": 2
+    "sources": [
+      "Space.com",
+      "SpaceNews",
+      "SpacePolicyOnline",
+      "SpaceQ",
+      "Universe Today"
+    ],
+    "stories": 14
   },
   "audio_script": "This is a memory record for 2026-09-07, not a spoken briefing. It keeps the SpaceNews stories dated this day so later editions can see what had already been reported.",
   "audio_sections": [

@@ -5,9 +5,11 @@
   "headline": "Saudi Arabia’s stc Group orders small GEO satellite in another Astranis Block 3 reshuffle",
   "summary": [
     "Saudi Arabia’s stc Group orders small GEO satellite in another Astranis Block 3 reshuffle",
-    "NOAA contract signals sharp increase in commercial weather data purchases"
+    "NOAA contract signals sharp increase in commercial weather data purchases",
+    "This Week In Space podcast: Episode 227 — Star Trek icon Michael Okuda warps in for Trek's 60th anniversary",
+    "Perseid meteors meet mesmerizing star trails over Egypt's Western Desert"
   ],
-  "bottom_line": "Memory record drawn from SpaceNews for this date. It is not a full eight-desk sweep, and a desk with no mapped story is a gap in the harvest.",
+  "bottom_line": "Memory record for this date from the space newsrooms we can archive: Space.com, SpaceNews, SpaceQ, Universe Today. It is not a full eight-desk sweep, and a desk with no mapped story is a gap in the harvest.",
   "global": [
     {
       "date": "2026-09-12",
@@ -42,6 +44,176 @@
           "primary": true
         }
       ]
+    },
+    {
+      "date": "2026-09-12",
+      "title": "This Week In Space podcast: Episode 227 — Star Trek icon Michael Okuda warps in for Trek's 60th anniversary",
+      "summary": "Entertainment Space Movies & Shows This Week In Space podcast: Episode 227 — Star Trek icon Michael Okuda warps in for Trek's 60th anniversary News By <a href=\"https://www.space.com/author/space-com-staff\"",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "This Week In Space podcast: Episode 227 — Star Trek icon Michael Okuda warps in for Trek's 60th anniversary",
+          "url": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-227-trekmania",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-12",
+      "title": "Perseid meteors meet mesmerizing star trails over Egypt's Western Desert",
+      "summary": "Stargazing Astrophotography Perseid meteors meet mesmerizing star trails over Egypt's Western Desert News By <a href=\"https://www.space.com/author/anthony-wood\" class=\"font-normal no-underline normal-case text-inherit vds-author__link whitespa",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "Perseid meteors meet mesmerizing star trails over Egypt's Western Desert",
+          "url": "https://www.space.com/stargazing/astrophotography/perseid-meteors-meet-mesmerizing-star-trails-over-egypts-western-desert",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-12",
+      "title": "NASA, IBM launch new AI model for studying the moon",
+      "summary": "Astronomy Solar System The moon NASA, IBM launch new AI model for studying the moon <div class=\"byline-soc",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "NASA, IBM launch new AI model for studying the moon",
+          "url": "https://www.space.com/astronomy/moon/nasa-ibm-launch-new-ai-model-for-studying-the-moon",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-12",
+      "title": "On this day in space! Sept. 12, 1992: NASA astronaut Mae Jemison makes history as the 1st Black woman in space",
+      "summary": "Space Exploration On this day in space! Sept. 12, 1992: NASA astronaut Mae Jemison makes history as the 1st Black woman in space News By Hanneke Weitering Contributions by <a href=\"https://www.space.com/author/tariq-malik\" class=\"vds-collabs__link whitespace-nowrap text-inherit inline-block norma",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "On this day in space! Sept. 12, 1992: NASA astronaut Mae Jemison makes history as the 1st Black woman in space",
+          "url": "https://www.space.com/space-exploration/on-this-day-in-space-september-12-2026",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-12",
+      "title": "Trump is proposing a US Space Academy — if created, it could blur the lines between NASA and the military (op-ed)",
+      "summary": "Space Exploration Trump is proposing a US Space Academy — if created, it could blur the lines between NASA and the military (op-ed) News By Wendy Whitman Cobb <div class=\"flex gap-1 vds-byline-",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "Trump is proposing a US Space Academy — if created, it could blur the lines between NASA and the military (op-ed)",
+          "url": "https://www.space.com/space-exploration/trump-is-proposing-a-us-space-academy-if-created-it-could-blur-the-lines-between-nasa-and-the-military-op-ed",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-12",
+      "title": "The best 'Star Trek' spaceships: 14 classic vessels from the Federation and beyond",
+      "summary": "Entertainment Space Movies & Shows The best 'Star Trek' spaceships: 14 classic vessels from the Federation and beyond Features By <a href=\"https://www.space.com/author/richard-edwards\" class=\"font-normal",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "The best 'Star Trek' spaceships: 14 classic vessels from the Federation and beyond",
+          "url": "https://www.space.com/entertainment/space-movies-shows/the-best-star-trek-spaceships-14-classic-vessels-from-the-federation-and-beyond",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-12",
+      "title": "Weekly ISS update: cargo ship undocks after half-year stay",
+      "summary": "A Russian Progress cargo ship undocked from the International Space Station on Sept. 8, wrapping up a resupply run that began when it launched from the Baikonur Cosmodrome in Kazakhstan in March 2026 carrying about three tons of food, fuel and supplies for the station’s crew. Progress 94 backed away from the station’s Poisk module at 11:18 a.m. EDT and, according to a NASA mission update , burned up in a planned, destructive re-entry over the South Pacific later that day. Canadian connection The",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "SpaceQ",
+          "title": "Weekly ISS update: cargo ship undocks after half-year stay",
+          "url": "https://spaceq.ca/weekly-iss-update-cargo-ship-undocks-after-half-year-stay/",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-12",
+      "title": "A New Design For A Plasma Engine Fuels On Only Thin Air",
+      "summary": "A New Design For A Plasma Engine Fuels On Only Thin Air By Andy Tomaswick - September 12, 2026 12:10 PM UTC | Space Exploration - 31K reads Fully Assembled RF Helicon-based Plasma Thruster. Credit - F. Romano Choosing what orbit to put a satellite in always comes with trade-offs. When it comes to Very Low Earth Orbit (VLEO), between 100-450 km, there are distinct advantages. Remote sensing cameras can take better pictures, comms and radar require less power, and atmospheric drag will automatical",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Universe Today",
+          "title": "A New Design For A Plasma Engine Fuels On Only Thin Air",
+          "url": "https://www.universetoday.com/articles/a-new-design-for-a-plasma-engine-fuels-on-only-thin-air",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-12",
+      "title": "Earth From Orbit Is Unpredictable and Messy. Could 'Liquid' AI Clear the View?",
+      "summary": "Earth From Orbit Is Unpredictable and Messy. Could 'Liquid' AI Clear the View? By Andy Tomaswick - September 12, 2026 12:27 PM UTC | Observing - 22K reads View of Eritrea, partially covered in clouds, taken form the ISS. Credit - Earth Science and Remote Sensing Unit, NASA Johnson Space Center Monitoring Earth from above is a messy, inconsistent business. Clouds can block a satellite view, the angle of the Sun can create huge shadows, and orbital paths might not take a system across the same gen",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Universe Today",
+          "title": "Earth From Orbit Is Unpredictable and Messy. Could 'Liquid' AI Clear the View?",
+          "url": "https://www.universetoday.com/articles/earth-from-orbit-is-unpredictable-and-messy-could-liquid-ai-clear-the-view",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-12",
+      "title": "Venus Moon Would Have Been Doomed From The Start, Says New Paper",
+      "summary": "Venus Moon Would Have Been Doomed From The Start, Says New Paper By Bruce Dorminey - September 12, 2026 01:45 AM UTC | Planetary Science - 25K reads Ultraviolet image of Venus. Credit: Wikipedia One of our solar system's biggest puzzles has long been why Venus has no moon. Often referred to as Earth's twin, Venus is almost the same mass and size as our own planet. But it does have an incredibly bizarre 243-day retrograde rotation. In a new paper just being published by The Astrophysical Journal",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Universe Today",
+          "title": "Venus Moon Would Have Been Doomed From The Start, Says New Paper",
+          "url": "https://www.universetoday.com/articles/venus-moon-would-have-been-doomed-from-the-start-says-new-paper",
+          "primary": true
+        }
+      ]
     }
   ],
   "regions": [
@@ -51,9 +223,9 @@
       "items": [
         {
           "date": "2026-09-12",
-          "title": "Nordics: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Nordics: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -67,9 +239,9 @@
       "items": [
         {
           "date": "2026-09-12",
-          "title": "Central and Eastern Europe: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Central and Eastern Europe: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -83,9 +255,9 @@
       "items": [
         {
           "date": "2026-09-12",
-          "title": "Western and Southern Europe: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Western and Southern Europe: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -99,9 +271,9 @@
       "items": [
         {
           "date": "2026-09-12",
-          "title": "ESA and EU: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "ESA and EU: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -129,6 +301,23 @@
               "primary": true
             }
           ]
+        },
+        {
+          "date": "2026-09-12",
+          "title": "Perseid meteors meet mesmerizing star trails over Egypt's Western Desert",
+          "summary": "Stargazing Astrophotography Perseid meteors meet mesmerizing star trails over Egypt's Western Desert News By <a href=\"https://www.space.com/author/anthony-wood\" class=\"font-normal no-underline normal-case text-inherit vds-author__link whitespa",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Space.com",
+              "title": "Perseid meteors meet mesmerizing star trails over Egypt's Western Desert",
+              "url": "https://www.space.com/stargazing/astrophotography/perseid-meteors-meet-mesmerizing-star-trails-over-egypts-western-desert",
+              "primary": true
+            }
+          ]
         }
       ]
     },
@@ -138,13 +327,20 @@
       "items": [
         {
           "date": "2026-09-12",
-          "title": "Eurasia and Central Asia: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Weekly ISS update: cargo ship undocks after half-year stay",
+          "summary": "A Russian Progress cargo ship undocked from the International Space Station on Sept. 8, wrapping up a resupply run that began when it launched from the Baikonur Cosmodrome in Kazakhstan in March 2026 carrying about three tons of food, fuel and supplies for the station’s crew. Progress 94 backed away from the station’s Poisk module at 11:18 a.m. EDT and, according to a NASA mission update , burned up in a planned, destructive re-entry over the South Pacific later that day. Canadian connection The",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
           "confidence": "low",
-          "status": "overview",
+          "status": "record",
           "iso3": [],
-          "sources": []
+          "sources": [
+            {
+              "outlet": "SpaceQ",
+              "title": "Weekly ISS update: cargo ship undocks after half-year stay",
+              "url": "https://spaceq.ca/weekly-iss-update-cargo-ship-undocks-after-half-year-stay/",
+              "primary": true
+            }
+          ]
         }
       ]
     },
@@ -154,9 +350,9 @@
       "items": [
         {
           "date": "2026-09-12",
-          "title": "Asia Pacific: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Asia Pacific: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -170,13 +366,71 @@
       "items": [
         {
           "date": "2026-09-12",
-          "title": "Americas: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "NASA, IBM launch new AI model for studying the moon",
+          "summary": "Astronomy Solar System The moon NASA, IBM launch new AI model for studying the moon <div class=\"byline-soc",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
           "confidence": "low",
-          "status": "overview",
+          "status": "record",
           "iso3": [],
-          "sources": []
+          "sources": [
+            {
+              "outlet": "Space.com",
+              "title": "NASA, IBM launch new AI model for studying the moon",
+              "url": "https://www.space.com/astronomy/moon/nasa-ibm-launch-new-ai-model-for-studying-the-moon",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-09-12",
+          "title": "On this day in space! Sept. 12, 1992: NASA astronaut Mae Jemison makes history as the 1st Black woman in space",
+          "summary": "Space Exploration On this day in space! Sept. 12, 1992: NASA astronaut Mae Jemison makes history as the 1st Black woman in space News By Hanneke Weitering Contributions by <a href=\"https://www.space.com/author/tariq-malik\" class=\"vds-collabs__link whitespace-nowrap text-inherit inline-block norma",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Space.com",
+              "title": "On this day in space! Sept. 12, 1992: NASA astronaut Mae Jemison makes history as the 1st Black woman in space",
+              "url": "https://www.space.com/space-exploration/on-this-day-in-space-september-12-2026",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-09-12",
+          "title": "Trump is proposing a US Space Academy — if created, it could blur the lines between NASA and the military (op-ed)",
+          "summary": "Space Exploration Trump is proposing a US Space Academy — if created, it could blur the lines between NASA and the military (op-ed) News By Wendy Whitman Cobb <div class=\"flex gap-1 vds-byline-",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Space.com",
+              "title": "Trump is proposing a US Space Academy — if created, it could blur the lines between NASA and the military (op-ed)",
+              "url": "https://www.space.com/space-exploration/trump-is-proposing-a-us-space-academy-if-created-it-could-blur-the-lines-between-nasa-and-the-military-op-ed",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-09-12",
+          "title": "Earth From Orbit Is Unpredictable and Messy. Could 'Liquid' AI Clear the View?",
+          "summary": "Earth From Orbit Is Unpredictable and Messy. Could 'Liquid' AI Clear the View? By Andy Tomaswick - September 12, 2026 12:27 PM UTC | Observing - 22K reads View of Eritrea, partially covered in clouds, taken form the ISS. Credit - Earth Science and Remote Sensing Unit, NASA Johnson Space Center Monitoring Earth from above is a messy, inconsistent business. Clouds can block a satellite view, the angle of the Sun can create huge shadows, and orbital paths might not take a system across the same gen",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Universe Today",
+              "title": "Earth From Orbit Is Unpredictable and Messy. Could 'Liquid' AI Clear the View?",
+              "url": "https://www.universetoday.com/articles/earth-from-orbit-is-unpredictable-and-messy-could-liquid-ai-clear-the-view",
+              "primary": true
+            }
+          ]
         }
       ]
     }
@@ -188,8 +442,13 @@
   "competitive_watch": [],
   "stats": {
     "record": "memory",
-    "source": "SpaceNews",
-    "stories": 2
+    "sources": [
+      "Space.com",
+      "SpaceNews",
+      "SpaceQ",
+      "Universe Today"
+    ],
+    "stories": 12
   },
   "audio_script": "This is a memory record for 2026-09-12, not a spoken briefing. It keeps the SpaceNews stories dated this day so later editions can see what had already been reported.",
   "audio_sections": [

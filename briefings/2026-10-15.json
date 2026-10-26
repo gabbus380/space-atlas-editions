@@ -9,7 +9,7 @@
     "How NASA is thinking about a moon base",
     "Rocket Lab delays first Neutron launch again"
   ],
-  "bottom_line": "Memory record drawn from SpaceNews for this date. It is not a full eight-desk sweep, and a desk with no mapped story is a gap in the harvest.",
+  "bottom_line": "Memory record for this date from the space newsrooms we can archive: Space.com, SpaceNews. It is not a full eight-desk sweep, and a desk with no mapped story is a gap in the harvest.",
   "global": [
     {
       "date": "2026-10-15",
@@ -146,6 +146,142 @@
           "primary": true
         }
       ]
+    },
+    {
+      "date": "2026-10-15",
+      "title": "Scientists discover 'chemical starter kit' for life in planetary birthplaces",
+      "summary": "Space Exploration Search for Life Scientists discover 'chemical starter kit' for life in planetary birthplaces News By <a href=\"https://www.space.com/author/keith-cooper\" class=\"font-normal no-underline normal-c",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "Scientists discover 'chemical starter kit' for life in planetary birthplaces",
+          "url": "https://www.space.com/space-exploration/search-for-life/scientists-discover-chemical-starter-kit-for-life-in-planetary-birthplaces",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-10-15",
+      "title": "The Vaonis Atlas is here — the first-ever modular smart telescope from Vaonis",
+      "summary": "Stargazing Skywatching Kit Vaonis unveils Atlas, the world's 1st modular smart telescope system News By <a href=\"https://www.space.com/author/harry-bennett\" class=\"font-normal no-underline normal-case text-inherit vds-author__link whitespace-brea",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "The Vaonis Atlas is here — the first-ever modular smart telescope from Vaonis",
+          "url": "https://www.space.com/stargazing/skywatching-kit/modularity-is-here-vaonis-uveils-their-new-atlas-smart-telescope-system",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-10-15",
+      "title": "SpaceX launches classified mission for the US Space Force (video)",
+      "summary": "Space Exploration Launches & Spacecraft SpaceX launches classified mission for the US Space Force (video) News By <a href=\"https://www.space.com/author/mike-wall\" class=\"font-normal no-unde",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "SpaceX launches classified mission for the US Space Force (video)",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-space-force-launch-ussf-481-vandenberg",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-10-15",
+      "title": "SpaceX wants to launch Starship more than 450 times per year from South Texas",
+      "summary": "Space Exploration Launches & Spacecraft SpaceX wants to launch Starship more than 450 times per year from South Texas News By <a href=\"https://www.space.com/author/mike-wall\" class=\"font-no",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "SpaceX wants to launch Starship more than 450 times per year from South Texas",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-wants-to-launch-starship-more-than-450-times-per-year-from-south-texas",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-10-15",
+      "title": "NASA's SkyFall helicopters will 'show us parts of Mars we've never seen before', scientists say",
+      "summary": "Astronomy Solar System Mars <img alt=\"SPACE.com Columnist Leonard David\" src=\"https://www.",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "NASA's SkyFall helicopters will 'show us parts of Mars we've never seen before', scientists say",
+          "url": "https://www.space.com/astronomy/mars/nasas-skyfall-helicopters-will-show-us-parts-of-mars-weve-never-seen-before-scientists-say",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-10-15",
+      "title": "Escape light pollution with these six portable telescopes",
+      "summary": "Stargazing Skywatching Kit Beat light pollution with these six portable telescopes References By <a href=\"https://www.space.com/author/chris-mcmullen\" class=\"font-normal no-underline nor",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "Escape light pollution with these six portable telescopes",
+          "url": "https://www.space.com/stargazing/skywatching-kit/beat-light-pollution-with-these-six-portable-telescopes",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-10-15",
+      "title": "Windblown yardangs on Mars",
+      "summary": "Astronomy Stars Windblown yardangs on Mars | Space photo of the day for Oct. 15, 2026 News By <a href=\"https://www.space.com/author/brett-tingley\" class=\"font-normal no-underline normal-case text-inherit vds-author__link whitespace-break-spaces hover:underline hover:decoration-pri",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "Windblown yardangs on Mars",
+          "url": "https://www.space.com/astronomy/stars/windblown-yardangs-on-mars-space-photo-of-the-day-for-oct-15-2026",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-10-15",
+      "title": "Astronomers discover the 1st ever green star, a cosmic zombie just in time for Halloween",
+      "summary": "Astronomy Stars Astronomers discover the 1st ever green star, a cosmic zombie just in time for Halloween News By <a href=\"https://www.space.com/author/robert-lea\" class=\"font-normal no-underline normal-case text-inherit vds-author__link whitespace-break-spaces hover:underline hove",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "Astronomers discover the 1st ever green star, a cosmic zombie just in time for Halloween",
+          "url": "https://www.space.com/astronomy/stars/astronomers-discover-the-1st-ever-green-star-a-cosmic-zombie-just-in-time-for-halloween",
+          "primary": true
+        }
+      ]
     }
   ],
   "regions": [
@@ -155,9 +291,9 @@
       "items": [
         {
           "date": "2026-10-15",
-          "title": "Nordics: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Nordics: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -171,9 +307,9 @@
       "items": [
         {
           "date": "2026-10-15",
-          "title": "Central and Eastern Europe: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Central and Eastern Europe: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -201,6 +337,23 @@
               "primary": true
             }
           ]
+        },
+        {
+          "date": "2026-10-15",
+          "title": "UKSA Taps ClearSpace for Country’s First Debris Removal Mission",
+          "summary": "The UK Space Agency is dressing up as a waste-management company for Halloween. Yesterday, the agency announced its selection of ClearSpace, the in-orbit servicing startup with offices in the UK, to act as the prime contractor for UKSA’s first active debris removal (ADR) mission launching NET 2029. Under the contract worth ~£61M ($81M), ClearSpace will attempt to remove two UK-registered defunct satellites from LEO using giant robotic claws. The mission will require ClearSpace to demonstrate new",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Payload",
+              "title": "UKSA Taps ClearSpace for Country’s First Debris Removal Mission",
+              "url": "https://payloadspace.com/uksa-taps-clearspace-for-countrys-first-debris-removal-mission/",
+              "primary": true
+            }
+          ]
         }
       ]
     },
@@ -210,9 +363,9 @@
       "items": [
         {
           "date": "2026-10-15",
-          "title": "ESA and EU: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "ESA and EU: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -226,9 +379,9 @@
       "items": [
         {
           "date": "2026-10-15",
-          "title": "Türkiye, Middle East and Africa: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Türkiye, Middle East and Africa: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -242,9 +395,9 @@
       "items": [
         {
           "date": "2026-10-15",
-          "title": "Eurasia and Central Asia: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Eurasia and Central Asia: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -269,6 +422,40 @@
               "outlet": "SpaceNews",
               "title": "Chinese launches boost Guowang constellation, add space computing sats",
               "url": "https://spacenews.com/chinese-launches-boost-guowang-constellation-add-space-computing-sats/",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-10-15",
+          "title": "JAXA Taps ArkEdge for Two Lunar Navigation Demos",
+          "summary": "Today’s Moon explorers won’t have the luxury of GPS-like tech for navigation. But JAXA is trying to change that for future lunar visitors. The space agency tapped Japanese space startup ArkEdge Space for two projects designed to improve navigation on the Moon. These awards build on work the startup is already doing with the Japanese space agency, including designing a constellation of small satellites around the Moon to enable navigation. MoonQuest: Under the first contract, ArkEdge will conduct",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Payload",
+              "title": "JAXA Taps ArkEdge for Two Lunar Navigation Demos",
+              "url": "https://payloadspace.com/jaxa-taps-arkedge-for-two-lunar-navigation-demos/",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-10-15",
+          "title": "JAXA’S MMX Mars Mission Readies for Launch with Two NASA Instruments",
+          "summary": "var addthis_config = { ui_click: true } <a class=\"a2a_button_twitter\" href=\"https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fspacepolicyonline.com%2Fnews%2Fjaxas-mmx-mars-mission-readies-for-launch-with-two-nasa-instruments%2F&linkname=JAXA%E2%80%99S%20MMX%20Mars%20Mission%20Readies%20for%20Launch%20with%20Two%20NASA%20Instruments\" title=\"Twitter\" rel=\"nofollo",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "SpacePolicyOnline",
+              "title": "JAXA’S MMX Mars Mission Readies for Launch with Two NASA Instruments",
+              "url": "https://spacepolicyonline.com/news/jaxas-mmx-mars-mission-readies-for-launch-with-two-nasa-instruments/",
               "primary": true
             }
           ]
@@ -312,6 +499,108 @@
               "primary": true
             }
           ]
+        },
+        {
+          "date": "2026-10-15",
+          "title": "SpaceX launches classified mission for the US Space Force (video)",
+          "summary": "Space Exploration Launches & Spacecraft SpaceX launches classified mission for the US Space Force (video) News By <a href=\"https://www.space.com/author/mike-wall\" class=\"font-normal no-unde",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Space.com",
+              "title": "SpaceX launches classified mission for the US Space Force (video)",
+              "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-space-force-launch-ussf-481-vandenberg",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-10-15",
+          "title": "SpaceX wants to launch Starship more than 450 times per year from South Texas",
+          "summary": "Space Exploration Launches & Spacecraft SpaceX wants to launch Starship more than 450 times per year from South Texas News By <a href=\"https://www.space.com/author/mike-wall\" class=\"font-no",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Space.com",
+              "title": "SpaceX wants to launch Starship more than 450 times per year from South Texas",
+              "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-wants-to-launch-starship-more-than-450-times-per-year-from-south-texas",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-10-15",
+          "title": "NASA's SkyFall helicopters will 'show us parts of Mars we've never seen before', scientists say",
+          "summary": "Astronomy Solar System Mars <img alt=\"SPACE.com Columnist Leonard David\" src=\"https://www.",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Space.com",
+              "title": "NASA's SkyFall helicopters will 'show us parts of Mars we've never seen before', scientists say",
+              "url": "https://www.space.com/astronomy/mars/nasas-skyfall-helicopters-will-show-us-parts-of-mars-weve-never-seen-before-scientists-say",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-10-15",
+          "title": "On this day in space! Oct. 15, 1997: NASA launches Cassini-Hugyens probe on 7-year voyage to Saturn",
+          "summary": "Space Exploration On this day in space! Oct. 15, 1997: NASA launches Cassini-Hugyens probe on 7-year voyage to Saturn News By Hanneke Weitering Contributions by <a href=\"https://www.space.com/author/tariq-malik\" class=\"vds-collabs__link whitespace-nowrap text-inherit inline-block normal-case no-u",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Space.com",
+              "title": "On this day in space! Oct. 15, 1997: NASA launches Cassini-Hugyens probe on 7-year voyage to Saturn",
+              "url": "https://www.space.com/space-exploration/on-this-day-in-space-october-15-2026",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-10-15",
+          "title": "SpaceX Cargo Dragon delivers more than 6,000 pounds of supplies to the ISS",
+          "summary": "Space Exploration Launches & Spacecraft SpaceX Cargo Dragon delivers more than 6,000 pounds of supplies to the ISS News By <a href=\"https://www.space.com/author/josh-dinner\" class=\"font-nor",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Space.com",
+              "title": "SpaceX Cargo Dragon delivers more than 6,000 pounds of supplies to the ISS",
+              "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-crs-35-iss-cargo-mission-docking",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-10-15",
+          "title": "SpaceX launches 21 data satellites for the Space Development Agency – Spaceflight Now",
+          "summary": "SpaceX launches 21 data satellites for the Space Development Agency October 9, 2026 Spaceflight Now A Falcon 9 rocket lifts off from Vandenberg Space Force Base in California on the fourth Space Development Agency Tranche 1 mission. Image: SpaceX. SpaceX launched a Falcon 9 rocket early Saturday carrying a batch of data satellites for the U.S. military’s Space Development Agency (SDA), five days after a last-minute abort scrubbed the first attempt. Liftoff from Vandenberg Space Force Base in Cal",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Spaceflight Now",
+              "title": "SpaceX launches 21 data satellites for the Space Development Agency – Spaceflight Now",
+              "url": "https://spaceflightnow.com/2026/10/09/spacex-to-make-another-attempt-to-launch-21-data-satellites-for-space-development-agency/",
+              "primary": true
+            }
+          ]
         }
       ]
     }
@@ -323,8 +612,11 @@
   "competitive_watch": [],
   "stats": {
     "record": "memory",
-    "source": "SpaceNews",
-    "stories": 9
+    "sources": [
+      "Space.com",
+      "SpaceNews"
+    ],
+    "stories": 16
   },
   "audio_script": "This is a memory record for 2026-10-15, not a spoken briefing. It keeps the SpaceNews stories dated this day so later editions can see what had already been reported.",
   "audio_sections": [

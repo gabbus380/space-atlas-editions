@@ -9,7 +9,7 @@
     "Eight African nations signed the Artemis Accords. Now give them a path to the moon.",
     "Rocket Lab on track to complete Iridium acquisition"
   ],
-  "bottom_line": "Memory record drawn from SpaceNews for this date. It is not a full eight-desk sweep, and a desk with no mapped story is a gap in the harvest.",
+  "bottom_line": "Memory record for this date from the space newsrooms we can archive: Space.com, SpaceNews. It is not a full eight-desk sweep, and a desk with no mapped story is a gap in the harvest.",
   "global": [
     {
       "date": "2026-09-17",
@@ -146,6 +146,142 @@
           "primary": true
         }
       ]
+    },
+    {
+      "date": "2026-09-17",
+      "title": "Save big on these five-star, expert-approved Nikon binoculars",
+      "summary": "Technology Our expert gave these powerful, budget-friendly binoculars five stars and now they're over $100 off News By Chris McMullen Published <time data-component-name=\"UI:DateTime\" datetime=\"2026-09-17T19:00:00Z\" class=\"relative-da",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "Save big on these five-star, expert-approved Nikon binoculars",
+          "url": "https://www.space.com/technology/our-expert-gave-these-powerful-budget-friendly-binoculars-five-stars-and-now-theyre-over-usd100-off",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-17",
+      "title": "50 years ago, NASA rolled out its 1st space shuttle Enterprise. The shuttle 'was one of the things that really inspired me,' ISS astronaut says",
+      "summary": "Space Exploration Missions Space Shuttle 50 years ag",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "50 years ago, NASA rolled out its 1st space shuttle Enterprise. The shuttle 'was one of the things that really inspired me,' ISS astronaut says",
+          "url": "https://www.space.com/space-exploration/space-shuttle/50-years-ago-nasa-rolled-out-its-1st-space-shuttle-enterprise-the-shuttle-was-one-of-the-things-that-really-inspired-me-iss-astronaut-says",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-17",
+      "title": "ZWO has released the Seestar S50 Pro — order for $999",
+      "summary": "Stargazing Skywatching Kit You can order the new Seestar S50 Pro right now for $999 News By <a href=\"https://www.space.com/author/harry-bennett\" class=\"font-normal no-underline normal-case text-inherit vds-author__link whitespace-break-spaces hov",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "ZWO has released the Seestar S50 Pro — order for $999",
+          "url": "https://www.space.com/stargazing/skywatching-kit/you-can-order-the-new-seestar-s50-pro-right-now-for-usd999",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-17",
+      "title": "Mars settlers may live in houses made of yeast and gelatin",
+      "summary": "Astronomy Solar System Mars Mars settlers may live in houses made of yeast and gelatin <div class=\"byline-soci",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "Mars settlers may live in houses made of yeast and gelatin",
+          "url": "https://www.space.com/astronomy/mars/future-humans-could-live-in-yeast-houses-on-mars",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-17",
+      "title": "Astronomers discover 50 missing 'ghost' dwarf galaxies",
+      "summary": "Astronomy Galaxies Astronomers discover 50 missing 'ghost' dwarf galaxies News By <a href=\"https://www.space.com/author/robert-lea\" class=\"font-normal no-underline normal-case text-inherit vds-author__link whitespace-break-spaces hover:underline hover:decoration-primary-5",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "Astronomers discover 50 missing 'ghost' dwarf galaxies",
+          "url": "https://www.space.com/astronomy/galaxies/astronomers-discover-50-missing-ghost-dwarf-galaxies",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-17",
+      "title": "New 'Strange New Worlds' episode 'Once La'an a Time' is just another excuse for a 'Star Trek' crew to play dress-up",
+      "summary": "Entertainment Space Movies & Shows New 'Strange New Worlds' episode 'Once La'an a Time' is just another excuse for a 'Star Trek' crew to play dress-up Features By <a href=\"https://www.space.com/author/ric",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "New 'Strange New Worlds' episode 'Once La'an a Time' is just another excuse for a 'Star Trek' crew to play dress-up",
+          "url": "https://www.space.com/entertainment/space-movies-shows/new-strange-new-worlds-episode-once-laan-a-time-is-just-another-excuse-for-a-star-trek-crew-to-play-dress-up",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-17",
+      "title": "A NASA spacecraft just found a giant new crater on the moon. Here's why everyone's talking about the 'once-in-a-century' discovery",
+      "summary": "Astronomy Solar System The moon A NASA spacecraft just found a giant new crater on the moon. Here's why everyon",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "A NASA spacecraft just found a giant new crater on the moon. Here's why everyone's talking about the 'once-in-a-century' discovery",
+          "url": "https://www.space.com/astronomy/moon/nasa-just-found-a-giant-new-crater-on-the-moon-heres-why-everyones-talking-the-once-in-a-century-discovery",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-17",
+      "title": "On this day in space! Sept. 17, 1789: Astronomer William Herschel discovers Saturn's 'Death Star' moon Mimas",
+      "summary": "Space Exploration On this day in space! Sept. 17, 1789: Astronomer William Herschel discovers Saturn's 'Death Star' moon Mimas News By Tariq Malik Published <time data-component-name=\"UI:DateTime\" datetime=\"2026-09-17T20:2",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "On this day in space! Sept. 17, 1789: Astronomer William Herschel discovers Saturn's 'Death Star' moon Mimas",
+          "url": "https://www.space.com/space-exploration/on-this-day-in-space-september-17-2026",
+          "primary": true
+        }
+      ]
     }
   ],
   "regions": [
@@ -155,13 +291,20 @@
       "items": [
         {
           "date": "2026-09-17",
-          "title": "Nordics: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "MDA unveils CHORUS Earth observation portfolio ahead of launch",
+          "summary": "MDA Space unveiled a three-tier software portfolio Wednesday that lets customers search its Earth observation archive, schedule new satellite imagery and, at the top tier, pull the data straight into their own ground stations. MDA made the announcement at the World Space Business Week conference in Paris, ahead of the late-2026 launch of its three-satellite CHORUS constellation. Two new spacecraft — a C-band satellite built by MDA and an X-band satellite supplied by Finland’s ICEYE — will join R",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
           "confidence": "low",
-          "status": "overview",
+          "status": "record",
           "iso3": [],
-          "sources": []
+          "sources": [
+            {
+              "outlet": "SpaceQ",
+              "title": "MDA unveils CHORUS Earth observation portfolio ahead of launch",
+              "url": "https://spaceq.ca/mda-unveils-chorus-earth-observation-portfolio-ahead-of-launch/",
+              "primary": true
+            }
+          ]
         }
       ]
     },
@@ -171,9 +314,9 @@
       "items": [
         {
           "date": "2026-09-17",
-          "title": "Central and Eastern Europe: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Central and Eastern Europe: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -187,9 +330,9 @@
       "items": [
         {
           "date": "2026-09-17",
-          "title": "Western and Southern Europe: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Western and Southern Europe: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -217,6 +360,40 @@
               "primary": true
             }
           ]
+        },
+        {
+          "date": "2026-09-17",
+          "title": "The Sun May Have Swallowed a Planet",
+          "summary": "The Sun May Have Swallowed a Planet By Scott Johnston - September 17, 2026 01:31 AM UTC | Solar Astronomy - 27K reads An artist’s impression of a star engulfing a planet. The blue line traces the path of the planet as it spirals toward the star and ultimately collides with it. NASA, ESA, CSA, Ralf Crawford (STScI) Licence type Attribution (CC BY 4.0) New research suggests that some unusual characteristics of the Sun may be explained if it swallowed a large planet sometime during the Solar System",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Universe Today",
+              "title": "The Sun May Have Swallowed a Planet",
+              "url": "https://www.universetoday.com/articles/the-sun-may-have-swallowed-a-planet",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-09-17",
+          "title": "Little Red Dots Are The Seeds of Quasars and Supermassive Black Holes",
+          "summary": "Little Red Dots Are The Seeds of Quasars and Supermassive Black Holes By Brian Koberlein - September 17, 2026 03:08 PM UTC | Black Holes - 22K reads A sample of Little Red Dots observed by JWST's NIRCam detector. Credit: NASA, ESA, CSA, STScI, Dale Kocevski (Colby College) When the James Webb Space Telescope (JWST) first looked at the darkest regions of the sky, it was able to see objects fainter and more distant than ever before. It revealed a few surprises about the early cosmos, and one of th",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Universe Today",
+              "title": "Little Red Dots Are The Seeds of Quasars and Supermassive Black Holes",
+              "url": "https://www.universetoday.com/articles/little-red-dots-are-the-seeds-of-quasars-and-supermassive-black-holes",
+              "primary": true
+            }
+          ]
         }
       ]
     },
@@ -226,9 +403,9 @@
       "items": [
         {
           "date": "2026-09-17",
-          "title": "Türkiye, Middle East and Africa: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Türkiye, Middle East and Africa: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -242,9 +419,9 @@
       "items": [
         {
           "date": "2026-09-17",
-          "title": "Eurasia and Central Asia: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Eurasia and Central Asia: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -346,6 +523,91 @@
               "primary": true
             }
           ]
+        },
+        {
+          "date": "2026-09-17",
+          "title": "50 years ago, NASA rolled out its 1st space shuttle Enterprise. The shuttle 'was one of the things that really inspired me,' ISS astronaut says",
+          "summary": "Space Exploration Missions Space Shuttle 50 years ag",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Space.com",
+              "title": "50 years ago, NASA rolled out its 1st space shuttle Enterprise. The shuttle 'was one of the things that really inspired me,' ISS astronaut says",
+              "url": "https://www.space.com/space-exploration/space-shuttle/50-years-ago-nasa-rolled-out-its-1st-space-shuttle-enterprise-the-shuttle-was-one-of-the-things-that-really-inspired-me-iss-astronaut-says",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-09-17",
+          "title": "A NASA spacecraft just found a giant new crater on the moon. Here's why everyone's talking about the 'once-in-a-century' discovery",
+          "summary": "Astronomy Solar System The moon A NASA spacecraft just found a giant new crater on the moon. Here's why everyon",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Space.com",
+              "title": "A NASA spacecraft just found a giant new crater on the moon. Here's why everyone's talking about the 'once-in-a-century' discovery",
+              "url": "https://www.space.com/astronomy/moon/nasa-just-found-a-giant-new-crater-on-the-moon-heres-why-everyones-talking-the-once-in-a-century-discovery",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-09-17",
+          "title": "'I'm so looking forward to seeing nature again': SpaceX's Crew-12 astronauts gearing up for trip home to Earth",
+          "summary": "Space.com published this story on 2026-09-17.",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Space.com",
+              "title": "'I'm so looking forward to seeing nature again': SpaceX's Crew-12 astronauts gearing up for trip home to Earth",
+              "url": "https://www.space.com/space-exploration/international-space-station/im-so-looking-forward-to-seeing-nature-again-spacexs-crew-12-astronauts-gearing-up-for-trip-home-to-earth",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-09-17",
+          "title": "BDC Defence Platform names space for the first time",
+          "summary": "The Business Development Bank of Canada (BDC) named space for the first time in a Defence Platform release, as it detailed Tuesday how $1 billion will move into two investment vehicles under the $6-billion program. BDC, a federal Crown corporation that lends to and invests in small and medium-sized Canadian businesses, introduced the platform in December with $4 billion, when its list of priority sectors included manufacturing, critical minerals, robotics, quantum computing, aerospace, artificia",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "SpaceQ",
+              "title": "BDC Defence Platform names space for the first time",
+              "url": "https://spaceq.ca/bdc-defence-platform-space/",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-09-17",
+          "title": "After being sidelined, Boeing's Starliner to get starring role in NASA's spaceflight plans",
+          "summary": "Starliner the survivor After being sidelined, Boeing’s Starliner to get starring role in NASA’s spaceflight plans “They should fly their capsule. The government paid a lot of money for that.” <",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Ars Technica",
+              "title": "After being sidelined, Boeing's Starliner to get starring role in NASA's spaceflight plans",
+              "url": "https://arstechnica.com/space/2026/09/nasa-to-order-more-starliner-missions-and-help-certify-a-new-rocket-to-keep-it-flying/",
+              "primary": true
+            }
+          ]
         }
       ]
     }
@@ -357,8 +619,11 @@
   "competitive_watch": [],
   "stats": {
     "record": "memory",
-    "source": "SpaceNews",
-    "stories": 12
+    "sources": [
+      "Space.com",
+      "SpaceNews"
+    ],
+    "stories": 16
   },
   "audio_script": "This is a memory record for 2026-09-17, not a spoken briefing. It keeps the SpaceNews stories dated this day so later editions can see what had already been reported.",
   "audio_sections": [

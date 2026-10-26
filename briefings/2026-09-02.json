@@ -9,7 +9,7 @@
     "Agile Space Industries Celebrates Durango Headquarters Expansion with Ribbon Cutting",
     "Sierra Space books national security customers for first Dream Chaser mission"
   ],
-  "bottom_line": "Memory record drawn from SpaceNews for this date. It is not a full eight-desk sweep, and a desk with no mapped story is a gap in the harvest.",
+  "bottom_line": "Memory record for this date from the space newsrooms we can archive: Space.com, SpaceNews. It is not a full eight-desk sweep, and a desk with no mapped story is a gap in the harvest.",
   "global": [
     {
       "date": "2026-09-02",
@@ -146,6 +146,142 @@
           "primary": true
         }
       ]
+    },
+    {
+      "date": "2026-09-02",
+      "title": "2 spacecraft headed to Mercury are about to begin their long-awaited arrival for Europe and Japan — watch it live today",
+      "summary": "Space Exploration Launches & Spacecraft 2 spacecraft headed to Mercury are about to begin their long-awaited arrival for Europe and Japan — watch it live today News By <a href=\"https:",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "2 spacecraft headed to Mercury are about to begin their long-awaited arrival for Europe and Japan — watch it live today",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/bepicolombo-mission-begins-mercury-arrival-phase-esa-jaxa",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-02",
+      "title": "Astronomers discover mysterious 10-sided cloud structure at Saturn's south pole",
+      "summary": "Astronomy Solar System Saturn Astronomers discover mysterious 10-sided cloud structure at Saturn's south pole",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "Astronomers discover mysterious 10-sided cloud structure at Saturn's south pole",
+          "url": "https://www.space.com/astronomy/saturn/astronomers-discover-mysterious-10-sided-cloud-structure-at-saturns-south-pole",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-02",
+      "title": "Blue Origin wins $700 million contract to build NASA's next Mars orbiter",
+      "summary": "Space Exploration Missions Blue Origin wins $700 million contract to build NASA's next Mars orbiter News By <a href=\"https://www.space.com/author/mike-wall\" class=\"font-normal no-underline normal-case text-inherit vds-author__link w",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "Blue Origin wins $700 million contract to build NASA's next Mars orbiter",
+          "url": "https://www.space.com/space-exploration/missions/blue-origin-wins-usd700-million-contract-to-build-nasas-next-mars-orbiter",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-02",
+      "title": "A bright space station will soar over the US this week — and it's not the ISS. Here's how to see it",
+      "summary": "Stargazing A bright space station will soar over the US this week — and it's not the ISS. Here's how to see it News By Jamie Carter Published <time data-component-name=\"UI:DateTime\" datetime=\"2026-09-02T12:00:00Z\" class=\"relative-date",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "A bright space station will soar over the US this week — and it's not the ISS. Here's how to see it",
+          "url": "https://www.space.com/stargazing/a-bright-space-station-will-soar-over-the-us-this-week-and-its-not-the-iss-heres-how-to-see-it",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-02",
+      "title": "SpaceX Falcon 9 rocket launches Starlink satellites to orbit on its 35th flight",
+      "summary": "Space Exploration Launches & Spacecraft SpaceX Falcon 9 rocket launches Starlink satellites to orbit on its 35th flight News By <a href=\"https://www.space.com/author/mike-wall\" class=\"font-",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "SpaceX Falcon 9 rocket launches Starlink satellites to orbit on its 35th flight",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-starlink-group-15-23-launch-ocisly",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-02",
+      "title": "Falcon Heavy brings the heat",
+      "summary": "Space Exploration Launches & Spacecraft Falcon Heavy brings the heat | Space photo of the day for Sept. 2, 2026 News By <a href=\"https://www.space.com/author/brett-tingley\" class=\"font-norm",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "Falcon Heavy brings the heat",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/falcon-heavy-brings-the-heat-space-photo-of-the-day-for-sept-2-2026",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-02",
+      "title": "The moon might be hiding a history of ancient supernova explosions",
+      "summary": "Astronomy Solar System The moon The moon might be hiding a history of ancient supernova explosions <div cl",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "The moon might be hiding a history of ancient supernova explosions",
+          "url": "https://www.space.com/astronomy/moon/the-moon-might-be-hiding-a-history-of-ancient-supernova-explosions",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-02",
+      "title": "China's private, reusable Pallas-1 rocket aces debut launch (video)",
+      "summary": "Space Exploration Launches & Spacecraft China's private, reusable Pallas-1 rocket aces debut launch (video) News By <a href=\"https://www.space.com/author/mike-wall\" class=\"font-normal no-un",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "China's private, reusable Pallas-1 rocket aces debut launch (video)",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/chinas-private-reusable-pallas-1-rocket-aces-debut-launch-video",
+          "primary": true
+        }
+      ]
     }
   ],
   "regions": [
@@ -155,13 +291,20 @@
       "items": [
         {
           "date": "2026-09-02",
-          "title": "Nordics: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Astroscale Selects Isar to Launch Debris Removal Mission",
+          "summary": "Astroscale Japan selected Germany’s Isar Aerospace to launch its ADRAS-J2 mission—which aims to be the first spacecraft to capture and remove a piece of large orbital debris. The mission is slated to fly during Japan’s FY2027 (April 2027 to March 2028) on Isar’s Spectrum rocket, from the launcher’s pad at Norway’s Andøya Space spaceport. ADRAS-J2 builds on the success of its predecessor, ADRAS-J, which demoed autonomous RPO around a non-cooperative object in 2024. The mission photographed a Japa",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
           "confidence": "low",
-          "status": "overview",
+          "status": "record",
           "iso3": [],
-          "sources": []
+          "sources": [
+            {
+              "outlet": "Payload",
+              "title": "Astroscale Selects Isar to Launch Debris Removal Mission",
+              "url": "https://payloadspace.com/astroscale-selects-isar-to-launch-debris-removal-mission/",
+              "primary": true
+            }
+          ]
         }
       ]
     },
@@ -171,9 +314,9 @@
       "items": [
         {
           "date": "2026-09-02",
-          "title": "Central and Eastern Europe: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Central and Eastern Europe: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -187,9 +330,9 @@
       "items": [
         {
           "date": "2026-09-02",
-          "title": "Western and Southern Europe: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Western and Southern Europe: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -203,13 +346,37 @@
       "items": [
         {
           "date": "2026-09-02",
-          "title": "ESA and EU: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "NorthStar leads new ESA project on re-entry prediction",
+          "summary": "NorthStar Earth & Space’s Luxembourg office said Monday it will lead a second research team funded by the European Space Agency (ESA), this one working out where and when objects re-entering the atmosphere without control will land. The project , called FALCON (Forecasting of Atmospheric Location and Chronology of Re-entry), will assess where today’s re-entry forecasts fall short and build a framework for probability-based estimates of timing and landing zone. It also covers Very Low Earth Orbit",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
           "confidence": "low",
-          "status": "overview",
+          "status": "record",
           "iso3": [],
-          "sources": []
+          "sources": [
+            {
+              "outlet": "SpaceQ",
+              "title": "NorthStar leads new ESA project on re-entry prediction",
+              "url": "https://spaceq.ca/northstar-leads-new-esa-project-on-re-entry-prediction/",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-09-02",
+          "title": "Physicists Determine Cause of \"Runaway\" Supermassive Black Hole",
+          "summary": "Physicists Determine Cause of \"Runaway\" Supermassive Black Hole By Matthew Williams - September 02, 2026 08:55 PM UTC | Observing - 30K reads The rogue super-massive black hole compresses gas in its wake, forming a long “contrail” of young, blue stars. This unusual event happened when the universe was approximately half its current age. Credit: NASA/ESA/Leah Hustak/STScI In September 2022, astronomers observed something very odd in a galaxy around 7.5 billion light-years from Earth. Extending fr",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Universe Today",
+              "title": "Physicists Determine Cause of \"Runaway\" Supermassive Black Hole",
+              "url": "https://www.universetoday.com/articles/physicists-determine-cause-of-runaway-supermassive-black-hole",
+              "primary": true
+            }
+          ]
         }
       ]
     },
@@ -219,9 +386,9 @@
       "items": [
         {
           "date": "2026-09-02",
-          "title": "Türkiye, Middle East and Africa: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Türkiye, Middle East and Africa: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -235,13 +402,20 @@
       "items": [
         {
           "date": "2026-09-02",
-          "title": "Eurasia and Central Asia: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Is Russia's rival to Starlink failing? Here's what we know.",
+          "summary": "An assessment Is Russia’s rival to Starlink failing? Here’s what we know. At least thr",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
           "confidence": "low",
-          "status": "overview",
+          "status": "record",
           "iso3": [],
-          "sources": []
+          "sources": [
+            {
+              "outlet": "Ars Technica",
+              "title": "Is Russia's rival to Starlink failing? Here's what we know.",
+              "url": "https://arstechnica.com/space/2026/09/rassvet-russias-rival-to-starlink-is-getting-off-to-a-slow-start/",
+              "primary": true
+            }
+          ]
         }
       ]
     },
@@ -262,6 +436,57 @@
               "outlet": "SpaceNews",
               "title": "Rocket Lab launches 11th Synspective satellite",
               "url": "https://spacenews.com/rocket-lab-launches-11th-synspective-satellite/",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-09-02",
+          "title": "2 spacecraft headed to Mercury are about to begin their long-awaited arrival for Europe and Japan — watch it live today",
+          "summary": "Space Exploration Launches & Spacecraft 2 spacecraft headed to Mercury are about to begin their long-awaited arrival for Europe and Japan — watch it live today News By <a href=\"https:",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Space.com",
+              "title": "2 spacecraft headed to Mercury are about to begin their long-awaited arrival for Europe and Japan — watch it live today",
+              "url": "https://www.space.com/space-exploration/launches-spacecraft/bepicolombo-mission-begins-mercury-arrival-phase-esa-jaxa",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-09-02",
+          "title": "China's private, reusable Pallas-1 rocket aces debut launch (video)",
+          "summary": "Space Exploration Launches & Spacecraft China's private, reusable Pallas-1 rocket aces debut launch (video) News By <a href=\"https://www.space.com/author/mike-wall\" class=\"font-normal no-un",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Space.com",
+              "title": "China's private, reusable Pallas-1 rocket aces debut launch (video)",
+              "url": "https://www.space.com/space-exploration/launches-spacecraft/chinas-private-reusable-pallas-1-rocket-aces-debut-launch-video",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-09-02",
+          "title": "Toyohiro Akiyama, first Japanese citizen and journalist in space, dies at 84",
+          "summary": "1942-2026 <h1 class=\"dusk:text-gray-100 mb-3 font-serif text-4xl font-bold text-gray-700 md:text-6xl md:leading-[1.05]",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Ars Technica",
+              "title": "Toyohiro Akiyama, first Japanese citizen and journalist in space, dies at 84",
+              "url": "https://arstechnica.com/space/2026/09/toyohiro-akiyama-first-japanese-citizen-and-journalist-in-space-dies-at-84/",
               "primary": true
             }
           ]
@@ -339,6 +564,74 @@
               "primary": true
             }
           ]
+        },
+        {
+          "date": "2026-09-02",
+          "title": "Blue Origin wins $700 million contract to build NASA's next Mars orbiter",
+          "summary": "Space Exploration Missions Blue Origin wins $700 million contract to build NASA's next Mars orbiter News By <a href=\"https://www.space.com/author/mike-wall\" class=\"font-normal no-underline normal-case text-inherit vds-author__link w",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Space.com",
+              "title": "Blue Origin wins $700 million contract to build NASA's next Mars orbiter",
+              "url": "https://www.space.com/space-exploration/missions/blue-origin-wins-usd700-million-contract-to-build-nasas-next-mars-orbiter",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-09-02",
+          "title": "SpaceX Falcon 9 rocket launches Starlink satellites to orbit on its 35th flight",
+          "summary": "Space Exploration Launches & Spacecraft SpaceX Falcon 9 rocket launches Starlink satellites to orbit on its 35th flight News By <a href=\"https://www.space.com/author/mike-wall\" class=\"font-",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Space.com",
+              "title": "SpaceX Falcon 9 rocket launches Starlink satellites to orbit on its 35th flight",
+              "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-starlink-group-15-23-launch-ocisly",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-09-02",
+          "title": "MDA Space wants to build $1-billion Canadian suppliers",
+          "summary": "MDA Space wants to grow into what chief executive Mike Greenley floated as a possible $10-billion-a-year company. Getting there, he says, means deliberately growing a handful of Canadian suppliers into billion-dollar companies of their own. Greenley made the comments in a recent episode of the podcast In the Money with Amber Kanwar, using the $10-billion figure loosely, as an illustration of how big MDA Space could become “over the next several years.” Watch the full In the Money podcast The com",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "SpaceQ",
+              "title": "MDA Space wants to build $1-billion Canadian suppliers",
+              "url": "https://spaceq.ca/mda-space-wants-1-billion-canadian-suppliers/",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-09-02",
+          "title": "Wary of Artemis IV timeline, NASA is changing lunar spacesuit design",
+          "summary": "AxEMU goes on a diet Wary of Artemis IV timeline, NASA is changing lunar spacesuit design “Requirements are being",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Ars Technica",
+              "title": "Wary of Artemis IV timeline, NASA is changing lunar spacesuit design",
+              "url": "https://arstechnica.com/space/2026/09/wary-of-artemis-iv-timeline-nasa-is-changing-lunar-spacesuit-design/",
+              "primary": true
+            }
+          ]
         }
       ]
     }
@@ -350,8 +643,11 @@
   "competitive_watch": [],
   "stats": {
     "record": "memory",
-    "source": "SpaceNews",
-    "stories": 11
+    "sources": [
+      "Space.com",
+      "SpaceNews"
+    ],
+    "stories": 16
   },
   "audio_script": "This is a memory record for 2026-09-02, not a spoken briefing. It keeps the SpaceNews stories dated this day so later editions can see what had already been reported.",
   "audio_sections": [

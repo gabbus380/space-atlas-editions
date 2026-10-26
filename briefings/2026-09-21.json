@@ -9,7 +9,7 @@
     "Pentagon plans phased Golden Dome buildout through 2035",
     "GHGSat to improve methane detection with second-generation satellite"
   ],
-  "bottom_line": "Memory record drawn from SpaceNews for this date. It is not a full eight-desk sweep, and a desk with no mapped story is a gap in the harvest.",
+  "bottom_line": "Memory record for this date from the space newsrooms we can archive: Space.com, SpaceNews. It is not a full eight-desk sweep, and a desk with no mapped story is a gap in the harvest.",
   "global": [
     {
       "date": "2026-09-21",
@@ -146,6 +146,142 @@
           "primary": true
         }
       ]
+    },
+    {
+      "date": "2026-09-21",
+      "title": "On this day in space! Sept. 21, 2003: NASA's Galileo spacecraft at Jupiter ends its mission with a fiery death dive into the gas giant",
+      "summary": "Space Exploration On this day in space! Sept. 21, 2003: NASA's Galileo spacecraft at Jupiter ends its mission with a fiery death dive into the gas giant News By Hanneke Weitering Contributions by <a href=\"https://www.space.com/author/tariq-malik\" class=\"vds-collabs__link whitespace-nowrap text-in",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "On this day in space! Sept. 21, 2003: NASA's Galileo spacecraft at Jupiter ends its mission with a fiery death dive into the gas giant",
+          "url": "https://www.space.com/space-exploration/on-this-day-in-space-september-21-2026",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-21",
+      "title": "A giant new crater on the moon",
+      "summary": "Astronomy Solar System The moon A giant new crater on the moon | Space photo of the day for Sept. 21, 2026",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "A giant new crater on the moon",
+          "url": "https://www.space.com/astronomy/moon/a-giant-new-crater-on-the-moon-space-photo-of-the-day-for-sept-21-2026",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-21",
+      "title": "How supermassive black holes are the architects of entire galaxies",
+      "summary": "Astronomy Black Holes How supermassive black holes are the architects of entire galaxies News By <a href=\"https://www.space.com/author/robert-lea\" class=\"font-normal no-underline normal-case text-inherit vds-author__link whitespace-break-spaces hover:underline ho",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "How supermassive black holes are the architects of entire galaxies",
+          "url": "https://www.space.com/astronomy/black-holes/supermassive-black-holes-are-the-architects-of-entire-galaxies-scientists-learn-how",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-21",
+      "title": "The James Webb Space Telescope is helping astronomers become alien weather forecasters",
+      "summary": "Astronomy James Webb Space Telescope The James Webb Space Telescope is helping astronomers become alien weather forecasters News By <a href=\"https://www.space.com/author/stefanie-waldek\" class=\"font-normal no-underline",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "The James Webb Space Telescope is helping astronomers become alien weather forecasters",
+          "url": "https://www.space.com/astronomy/james-webb-space-telescope/the-james-webb-space-telescope-is-helping-astronomers-become-alien-weather-forecasters",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-21",
+      "title": "Scientists track 27 years of a supermassive black hole blasting plasma at our planet",
+      "summary": "Astronomy Black Holes Scientists track 27 years of a supermassive black hole blasting plasma at our planet News By <a href=\"https://www.space.com/author/robert-lea\" class=\"font-normal no-underline normal-case text-inherit vds-author__link whitespace-break-spaces",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "Scientists track 27 years of a supermassive black hole blasting plasma at our planet",
+          "url": "https://www.space.com/astronomy/black-holes/scientists-track-27-years-of-a-supermassive-black-hole-blasting-plasma-at-our-planet",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-21",
+      "title": "'Project Hail Mary: Journey Among the Stars' lets players do jazz hands with Rocky in mixed reality",
+      "summary": "Entertainment Space Games 'Project Hail Mary: Journey Among the Stars' lets players do jazz hands with Rocky in mixed reality Features By <a href=\"https://www.space.com/author/fran-ruiz\" class=\"font-normal no-underline normal-case text",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "'Project Hail Mary: Journey Among the Stars' lets players do jazz hands with Rocky in mixed reality",
+          "url": "https://www.space.com/entertainment/space-games/project-hail-mary-journey-among-the-stars-lets-players-do-jazz-hands-with-rocky-in-mixed-reality",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-21",
+      "title": "Large Hadron Collider is still on the hunt for short-lived quantum black holes and a theory of everything",
+      "summary": "Astronomy Black Holes Large Hadron Collider is still on the hunt for short-lived quantum black holes and a theory of everything News By <a href=\"https://www.space.com/author/robert-lea\" class=\"font-normal no-underline normal-case text-inherit vds-author__link whi",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "Large Hadron Collider is still on the hunt for short-lived quantum black holes and a theory of everything",
+          "url": "https://www.space.com/astronomy/black-holes/large-hadron-collider-is-still-on-the-hunt-for-short-lived-quantum-black-holes-and-a-theory-of-everything",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-21",
+      "title": "SpaceX rolls giant Super Heavy booster to pad ahead of Starship's 1st orbital flight (photos)",
+      "summary": "Space Exploration Launches & Spacecraft SpaceX rolls giant Super Heavy booster to pad ahead of Starship's 1st orbital flight (photos) News By <a href=\"https://www.space.com/author/mike-wall",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "SpaceX rolls giant Super Heavy booster to pad ahead of Starship's 1st orbital flight (photos)",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-rolls-giant-super-heavy-booster-to-pad-ahead-of-starships-1st-orbital-flight-photos",
+          "primary": true
+        }
+      ]
     }
   ],
   "regions": [
@@ -155,13 +291,20 @@
       "items": [
         {
           "date": "2026-09-21",
-          "title": "Nordics: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Canada, Norway finalize space agreement, add industry deals",
+          "summary": "Canada and Norway said Sunday their space agencies have finalized a cooperation agreement, as Prime Minister Mark Carney hosted Norwegian Prime Minister Jonas Gahr Støre in Ottawa and two more companies signed onto a space-and-defence relationship the two countries have been developing since March. The Canadian Space Agency (CSA) and the Norwegian Space Agency (NOSA) will now work together on space-based technology that supports Arctic needs — Earth observation, navigation, communications and ma",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
           "confidence": "low",
-          "status": "overview",
+          "status": "record",
           "iso3": [],
-          "sources": []
+          "sources": [
+            {
+              "outlet": "SpaceQ",
+              "title": "Canada, Norway finalize space agreement, add industry deals",
+              "url": "https://spaceq.ca/canada-norway-space-agreement/",
+              "primary": true
+            }
+          ]
         }
       ]
     },
@@ -194,13 +337,37 @@
       "items": [
         {
           "date": "2026-09-21",
-          "title": "Western and Southern Europe: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Exclusive: Exolaunch Books its first Starfall Mission",
+          "summary": "German launch integrator Exolaunch signed an agreement to support customer payloads on a SpaceX Starfall reentry mission scheduled to launch on a Starship NET 2029, the company announced today. The deal marks Exolaunch’s first time supporting payloads on an Earth-return mission, as well as the company’s first commitment to Starship. What goes up: Under the agreement, Exolaunch will serve as the payload integrator, filling the vehicle with customer payloads spanning biotech, pharmaceutical, and i",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
           "confidence": "low",
-          "status": "overview",
+          "status": "record",
           "iso3": [],
-          "sources": []
+          "sources": [
+            {
+              "outlet": "Payload",
+              "title": "Exclusive: Exolaunch Books its first Starfall Mission",
+              "url": "https://payloadspace.com/exclusive-exolaunch-books-its-first-starfall-mission/",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-09-21",
+          "title": "Carney, Macron direct new Canada-France space push",
+          "summary": "Canada and France have directed their space agencies and defence ministries to develop and share space-launch and ground infrastructure, Prime Minister Mark Carney and French President Emmanuel Macron said Sunday — a push that already includes a new contract for the French firm Aldoria to supply Canada’s military with space-surveillance data. The two leaders met in Saint-Pierre-et-Miquelon, the French archipelago off Newfoundland’s Burin Peninsula, in the first official visit by a Canadian prime",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "SpaceQ",
+              "title": "Carney, Macron direct new Canada-France space push",
+              "url": "https://spaceq.ca/carney-macron-direct-new-canada-france-space-push/",
+              "primary": true
+            }
+          ]
         }
       ]
     },
@@ -210,13 +377,37 @@
       "items": [
         {
           "date": "2026-09-21",
-          "title": "ESA and EU: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "On this day in space! Sept. 21, 2003: NASA's Galileo spacecraft at Jupiter ends its mission with a fiery death dive into the gas giant",
+          "summary": "Space Exploration On this day in space! Sept. 21, 2003: NASA's Galileo spacecraft at Jupiter ends its mission with a fiery death dive into the gas giant News By Hanneke Weitering Contributions by <a href=\"https://www.space.com/author/tariq-malik\" class=\"vds-collabs__link whitespace-nowrap text-in",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
           "confidence": "low",
-          "status": "overview",
+          "status": "record",
           "iso3": [],
-          "sources": []
+          "sources": [
+            {
+              "outlet": "Space.com",
+              "title": "On this day in space! Sept. 21, 2003: NASA's Galileo spacecraft at Jupiter ends its mission with a fiery death dive into the gas giant",
+              "url": "https://www.space.com/space-exploration/on-this-day-in-space-september-21-2026",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-09-21",
+          "title": "Astronomers Uncover \"Hypersoft\" X-ray Sources",
+          "summary": "Astronomers Uncover \"Hypersoft\" X-ray Sources By Andy Tomaswick - September 21, 2026 10:53 AM UTC | Extragalactic - 22K reads Image of M101, the Pinwheel Galaxy, one of the homes of some of the HSSs. Credit: X-ray: NASA/CXC/Univ. of Alabama/M. Muhibullah et al.; Optical: NASA/ESA/STScI; Image Processing: NASA/CXC/SAO/N. Wolk X-rays showcase some of the most unique astronomical objects in the universe. Neutron stars and black holes siphoning gas from companion stars stick out like sore thumbs at",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Universe Today",
+              "title": "Astronomers Uncover \"Hypersoft\" X-ray Sources",
+              "url": "https://www.universetoday.com/articles/astronomers-uncover-hypersoft-x-ray-sources",
+              "primary": true
+            }
+          ]
         }
       ]
     },
@@ -226,9 +417,9 @@
       "items": [
         {
           "date": "2026-09-21",
-          "title": "Türkiye, Middle East and Africa: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Türkiye, Middle East and Africa: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -242,9 +433,9 @@
       "items": [
         {
           "date": "2026-09-21",
-          "title": "Eurasia and Central Asia: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Eurasia and Central Asia: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -258,13 +449,20 @@
       "items": [
         {
           "date": "2026-09-21",
-          "title": "Asia Pacific: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Solar Orbiter Catches the Sun’s Missing High-Speed Vibrations",
+          "summary": "Solar Orbiter Catches the Sun’s Missing High-Speed Vibrations By Andy Tomaswick - September 21, 2026 02:18 PM UTC | Solar Astronomy - 20K reads Images from the EUI of the Solar Orbiter show the fine plumes and \"transverse\" wave motion in the upper atmosphere of the Sun. Credit - Science China Press The Sun’s magnetic fields are a twisty, curvy, ever changing mess. In particular, our star’s polar regions host regions called polar coronal holes that host invisible magnetic highways that stretch ou",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
           "confidence": "low",
-          "status": "overview",
+          "status": "record",
           "iso3": [],
-          "sources": []
+          "sources": [
+            {
+              "outlet": "Universe Today",
+              "title": "Solar Orbiter Catches the Sun’s Missing High-Speed Vibrations",
+              "url": "https://www.universetoday.com/articles/solar-orbiter-catches-the-suns-missing-high-speed-vibrations",
+              "primary": true
+            }
+          ]
         }
       ]
     },
@@ -339,6 +537,74 @@
               "primary": true
             }
           ]
+        },
+        {
+          "date": "2026-09-21",
+          "title": "SpaceX rolls giant Super Heavy booster to pad ahead of Starship's 1st orbital flight (photos)",
+          "summary": "Space Exploration Launches & Spacecraft SpaceX rolls giant Super Heavy booster to pad ahead of Starship's 1st orbital flight (photos) News By <a href=\"https://www.space.com/author/mike-wall",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Space.com",
+              "title": "SpaceX rolls giant Super Heavy booster to pad ahead of Starship's 1st orbital flight (photos)",
+              "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-rolls-giant-super-heavy-booster-to-pad-ahead-of-starships-1st-orbital-flight-photos",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-09-21",
+          "title": "DIU and SSC Announce Joint GHOST-R Mission",
+          "summary": "The Space Force wants to know what goes bump in geosynchronous orbit. On Friday, the Defense Innovation Unit (DIU) and Space Systems Command (SSC) announced GHOST-R, a joint effort to bring low-cost reconnaissance to GEO under SSC’s RG-XX program—the program of record for the Space Force’s proliferated in-space reconnaissance layer. Slated for launch in 2028, GHOST-R aims to leverage commercial space vehicles, buses, and electro-optical payloads to characterize resident space objects, provide ba",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Payload",
+              "title": "DIU and SSC Announce Joint GHOST-R Mission",
+              "url": "https://payloadspace.com/diu-and-ssc-announce-joint-ghost-r-mission/",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-09-21",
+          "title": "SpaceX launches national security payload for U.S. Space Force from Vandenberg – Spaceflight Now",
+          "summary": "SpaceX launches national security payload for U.S. Space Force from Vandenberg September 15, 2026 Will Robinson-Smith A Falcon 9 stands on Space Launch Complex 4E ahead of the USSF-259 mission at Vandenberg Space Force Base, California. Image: SpaceX. Update Sept. 16, 9:40 p.m. EDT (0140 UTC): SpaceX landed the booster on the droneship. Update Sept. 15, 9:05 p.m. EDT (0105 UTC): SpaceX scrubbed the launch attempt for the mission prior to fueling; targets backup opportunity on Wednesday, Sept. 16",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Spaceflight Now",
+              "title": "SpaceX launches national security payload for U.S. Space Force from Vandenberg – Spaceflight Now",
+              "url": "https://spaceflightnow.com/2026/09/15/live-coverage-spacex-to-launch-national-security-payload-for-the-u-s-space-force-on-falcon-9-rocket-from-vandenberg/",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-09-21",
+          "title": "SpaceX launches 27 Starlink V2 Mini satellites on Falcon 9 rocket from Vandenberg – Spaceflight Now",
+          "summary": "SpaceX launches 27 Starlink V2 Mini satellites on Falcon 9 rocket from Vandenberg September 19, 2026 Will Robinson-Smith A SpaceX Falcon 9 rocket lifts off from Vandenberg Space Force Base in California on Sept. 19, 2026, carrying 27 satellites into orbit on the Starlink 15-27 mission. Image: SpaceX. An early-evening Falcon 9 launch from Vandenberg Space Force Base Saturday added another 27 satellites to SpaceX’s Starlink constellation. The Falcon 9 rocket lifted off from Space Launch Complex 4",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Spaceflight Now",
+              "title": "SpaceX launches 27 Starlink V2 Mini satellites on Falcon 9 rocket from Vandenberg – Spaceflight Now",
+              "url": "https://spaceflightnow.com/2026/09/19/live-coverage-spacex-to-launch-27-starlink-v2-mini-satellites-on-falcon-9-rocket-from-vandenberg/",
+              "primary": true
+            }
+          ]
         }
       ]
     }
@@ -350,8 +616,11 @@
   "competitive_watch": [],
   "stats": {
     "record": "memory",
-    "source": "SpaceNews",
-    "stories": 9
+    "sources": [
+      "Space.com",
+      "SpaceNews"
+    ],
+    "stories": 16
   },
   "audio_script": "This is a memory record for 2026-09-21, not a spoken briefing. It keeps the SpaceNews stories dated this day so later editions can see what had already been reported.",
   "audio_sections": [

@@ -9,7 +9,7 @@
     "Samara Aerospace tests reliability of attitude control technology with National Science Foundation award",
     "NASA revising requirements to keep Artemis spacesuit on schedule"
   ],
-  "bottom_line": "Memory record drawn from SpaceNews for this date. It is not a full eight-desk sweep, and a desk with no mapped story is a gap in the harvest.",
+  "bottom_line": "Memory record for this date from the space newsrooms we can archive: Space.com, SpaceNews. It is not a full eight-desk sweep, and a desk with no mapped story is a gap in the harvest.",
   "global": [
     {
       "date": "2026-09-03",
@@ -146,6 +146,142 @@
           "primary": true
         }
       ]
+    },
+    {
+      "date": "2026-09-03",
+      "title": "'Strange New Worlds'' latest episode is a soap opera spoof, but hasn't 'Star Trek' always been a soap opera in space?",
+      "summary": "Entertainment Space Movies & Shows 'Strange New Worlds'' latest episode is a soap opera spoof, but hasn't 'Star Trek' always been a soap opera in space? News By <a href=\"https://www.space.com/author/richard-edwar",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "'Strange New Worlds'' latest episode is a soap opera spoof, but hasn't 'Star Trek' always been a soap opera in space?",
+          "url": "https://www.space.com/entertainment/space-movies-shows/strange-new-worlds-latest-episode-is-a-soap-opera-spoof-but-hasnt-star-trek-always-been-a-soap-opera-in-space-anyway",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-03",
+      "title": "'A new mission starting today': 8 years after launch, BepiColombo begins Mercury arrival",
+      "summary": "Space Exploration Missions 'A new mission starting today': 8 years after launch, BepiColombo begins Mercury arrival News By <a href=\"https://www.space.com/author/josh-dinner\" class=\"font-normal no-underline normal-case text-inherit",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "'A new mission starting today': 8 years after launch, BepiColombo begins Mercury arrival",
+          "url": "https://www.space.com/space-exploration/missions/a-new-mission-starting-today-8-years-after-launch-bepicolombo-begins-mercury-arrival",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-03",
+      "title": "2 spacecraft will soon reach Mercury after 8 years in space. Here's what BepiColombo can do",
+      "summary": "Astronomy Solar System Mercury 2 spacecraft will soon reach Mercury after 8 years in space. Here's what Be",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "2 spacecraft will soon reach Mercury after 8 years in space. Here's what BepiColombo can do",
+          "url": "https://www.space.com/astronomy/mercury/2-spacecraft-will-soon-reach-mercury-after-8-years-in-space-heres-what-bepicolombo-can-do",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-03",
+      "title": "Mesmerizing plasma loops on the sun",
+      "summary": "Stargazing Astrophotography Mesmerizing plasma loops on the sun | Space photo of the day for Sept. 3, 2026 News By <a href=\"https://www.space.com/author/daisy-dobrijevic\" class=\"font-normal no-underline normal-case text-inherit vds-author__lin",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "Mesmerizing plasma loops on the sun",
+          "url": "https://www.space.com/stargazing/astrophotography/mesmerizing-plasma-loops-on-the-sun-space-photo-of-the-day-for-sept-3-2026",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-03",
+      "title": "On this day in space! Sept. 3, 2006: Europe's SMART-1 spacecraft crashes into the moon in lunar death dive",
+      "summary": "Space Exploration On this day in space! Sept. 3, 2006: Europe's SMART-1 spacecraft crashes into the moon in lunar death dive News By Hanneke Weitering Contributions by <a href=\"https://www.space.com/author/tariq-malik\" class=\"vds-collabs__link whitespace-nowrap text-inherit inline-block normal-ca",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "On this day in space! Sept. 3, 2006: Europe's SMART-1 spacecraft crashes into the moon in lunar death dive",
+          "url": "https://www.space.com/space-exploration/on-this-day-in-space-september-3-2026",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-03",
+      "title": "Comet McNaught put on a surprise show this summer: Here's how to spot it before it fades",
+      "summary": "Astronomy Solar System Comets Comet McNaught put on a surprise show this summer: Here's how to spot it before",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "Comet McNaught put on a surprise show this summer: Here's how to spot it before it fades",
+          "url": "https://www.space.com/astronomy/comets/comet-mcnaught-put-on-a-surprise-show-this-summer-heres-how-to-spot-it-before-it-fades",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-03",
+      "title": "India sends Earth-imaging satellite toward geosynchronous orbit in milestone launch (video)",
+      "summary": "Space Exploration Launches & Spacecraft India sends Earth-imaging satellite toward geosynchronous orbit in milestone launch (video) News By <a href=\"https://www.space.com/author/mike-wall\"",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "India sends Earth-imaging satellite toward geosynchronous orbit in milestone launch (video)",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/gslv-mark-ii-eos-05-launch-first-indian-geo-earth-observing-satellite",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-03",
+      "title": "Rocket issues delay 1st-ever private mission to Venus: 'We are awaiting Neutron readiness'",
+      "summary": "Astronomy Solar System Venus <img alt=\"SPACE.com Columnist Leonard David\" src=\"https://",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "Rocket issues delay 1st-ever private mission to Venus: 'We are awaiting Neutron readiness'",
+          "url": "https://www.space.com/astronomy/venus/rocket-issues-delay-1st-ever-private-mission-to-venus-we-are-awaiting-neutron-readiness",
+          "primary": true
+        }
+      ]
     }
   ],
   "regions": [
@@ -155,9 +291,9 @@
       "items": [
         {
           "date": "2026-09-03",
-          "title": "Nordics: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Nordics: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -171,9 +307,9 @@
       "items": [
         {
           "date": "2026-09-03",
-          "title": "Central and Eastern Europe: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Central and Eastern Europe: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -201,6 +337,23 @@
               "primary": true
             }
           ]
+        },
+        {
+          "date": "2026-09-03",
+          "title": "PLD Space, HyImpulse Close Major Extension Rounds",
+          "summary": "In recent years, VC appetite for investing in European space companies has paled in comparison to the US, but recent funding rounds from European launchers show the gap is starting to close. This week, two European launch hopefuls—Spain’s PLD Space, and Germany’s HyImpulse Technologies GmbH—closed major extension rounds to support their efforts to create sovereign-launch capabilities for the European space ecosystem. PLD Space closed a €108M ($125.1M) Series C extension round, which was led by M",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Payload",
+              "title": "PLD Space, HyImpulse Close Major Extension Rounds",
+              "url": "https://payloadspace.com/pld-space-hyimpulse-close-major-extension-rounds/",
+              "primary": true
+            }
+          ]
         }
       ]
     },
@@ -210,9 +363,9 @@
       "items": [
         {
           "date": "2026-09-03",
-          "title": "ESA and EU: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "ESA and EU: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -226,9 +379,9 @@
       "items": [
         {
           "date": "2026-09-03",
-          "title": "Türkiye, Middle East and Africa: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Türkiye, Middle East and Africa: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -265,13 +418,20 @@
       "items": [
         {
           "date": "2026-09-03",
-          "title": "Asia Pacific: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "India sends Earth-imaging satellite toward geosynchronous orbit in milestone launch (video)",
+          "summary": "Space Exploration Launches & Spacecraft India sends Earth-imaging satellite toward geosynchronous orbit in milestone launch (video) News By <a href=\"https://www.space.com/author/mike-wall\"",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
           "confidence": "low",
-          "status": "overview",
+          "status": "record",
           "iso3": [],
-          "sources": []
+          "sources": [
+            {
+              "outlet": "Space.com",
+              "title": "India sends Earth-imaging satellite toward geosynchronous orbit in milestone launch (video)",
+              "url": "https://www.space.com/space-exploration/launches-spacecraft/gslv-mark-ii-eos-05-launch-first-indian-geo-earth-observing-satellite",
+              "primary": true
+            }
+          ]
         }
       ]
     },
@@ -363,6 +523,57 @@
               "primary": true
             }
           ]
+        },
+        {
+          "date": "2026-09-03",
+          "title": "NASA Taps Blue Origin for Mars Communications Network",
+          "summary": "NASA has been communicating with Mars on hardware that predates the iPhone, the cloud, and 4G. On Tuesday, the agency announced that it had selected Blue Origin to give that infrastructure a modern upgrade. The contract—valued at ~$700M—tasks Blue Origin with developing NASA’s Mars Telecommunications Network (MTN). The next-gen comms system will enable high-bandwidth comms and navigation services for current and future missions to the Red Planet. With all eyes turned to the Moon in recent months",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Payload",
+              "title": "NASA Taps Blue Origin for Mars Communications Network",
+              "url": "https://payloadspace.com/nasa-taps-blue-origin-for-mars-communications-network/",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-09-03",
+          "title": "Isaacman: Commercial Won’t Solve Every NASA Problem",
+          "summary": "NASA’s goal is to further scientific research, accomplish the impossible, and inspire humanity. Its prime role is not to generate new commercial industries, according to NASA Administrator Jared Isaacman. “If the objective is to force an economy out of every NASA endeavor, then NASA should probably sit inside the Department of Commerce,” Isaacman wrote in a lengthy post on X late Wednesday night. “But NASA is an independent agency with a broader mission.” The right stuff: NASA has had some succe",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Payload",
+              "title": "Isaacman: Commercial Won’t Solve Every NASA Problem",
+              "url": "https://payloadspace.com/isaacman-commercial-wont-solve-every-nasa-problem/",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-09-03",
+          "title": "Canadian Space Agency opens latest smartEarth funding opportunity with up to $3M",
+          "summary": "The Canadian Space Agency (CSA) is accepting applications for its latest round of smartEarth funding , offering Canadian universities up to $3 million to develop new applications that put satellite data to work on climate, safety and resource questions. smartEarth is the agency’s funding initiative for satellite Earth observation. This is the Enabler stream of its three funding tracks, the one built to grow capacity and expertise at Canadian institutions. The other two, Accelerator and Integrato",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "SpaceQ",
+              "title": "Canadian Space Agency opens latest smartEarth funding opportunity with up to $3M",
+              "url": "https://spaceq.ca/canadian-space-agency-opens-latest-smartearth-funding-opportunity-with-up-to-3m/",
+              "primary": true
+            }
+          ]
         }
       ]
     }
@@ -374,8 +585,11 @@
   "competitive_watch": [],
   "stats": {
     "record": "memory",
-    "source": "SpaceNews",
-    "stories": 8
+    "sources": [
+      "Space.com",
+      "SpaceNews"
+    ],
+    "stories": 16
   },
   "audio_script": "This is a memory record for 2026-09-03, not a spoken briefing. It keeps the SpaceNews stories dated this day so later editions can see what had already been reported.",
   "audio_sections": [

@@ -9,7 +9,7 @@
     "Czech defense company CSG buys stake in MDA Space",
     "Reflect Orbital books two launches with India’s Skyroot Aerospace"
   ],
-  "bottom_line": "Memory record drawn from SpaceNews for this date. It is not a full eight-desk sweep, and a desk with no mapped story is a gap in the harvest.",
+  "bottom_line": "Memory record for this date from the space newsrooms we can archive: Space.com, SpaceNews. It is not a full eight-desk sweep, and a desk with no mapped story is a gap in the harvest.",
   "global": [
     {
       "date": "2026-10-14",
@@ -112,6 +112,176 @@
           "primary": true
         }
       ]
+    },
+    {
+      "date": "2026-10-14",
+      "title": "Life after the moon: Artemis II's Christina Koch steps down from active astronaut duty",
+      "summary": "Space Exploration Missions Artemis Life after the moon: Artemis II's C",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "Life after the moon: Artemis II's Christina Koch steps down from active astronaut duty",
+          "url": "https://www.space.com/space-exploration/artemis/life-after-the-moon-artemis-iis-christina-koch-steps-down-from-active-astronaut-duty",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-10-14",
+      "title": "Cosmic 'jellyfish' wows skywatchers after SpaceX launch",
+      "summary": "Space Exploration Launches & Spacecraft Cosmic 'jellyfish' wows skywatchers after SpaceX launch | Space photo of the day for Oct. 14, 2026 News By <a href=\"https://www.space.com/author/chel",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "Cosmic 'jellyfish' wows skywatchers after SpaceX launch",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/cosmic-jellyfish-wows-skywatchers-after-spacex-launch-space-photo-of-the-day-for-oct-14-2026",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-10-14",
+      "title": "Planetary genealogy: Milky Way worlds belong to 1 of 2 'families,' scientists find",
+      "summary": "Astronomy Exoplanets Planetary genealogy: Milky Way worlds belong to 1 of 2 'families,' scientists find News By <a href=\"https://www.space.com/author/robert-lea\" class=\"font-normal no-underline normal-case text-inherit vds-author__link whitespace-break-spaces hover:",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "Planetary genealogy: Milky Way worlds belong to 1 of 2 'families,' scientists find",
+          "url": "https://www.space.com/astronomy/exoplanets/planetary-genealogy-milky-way-worlds-belong-to-1-of-2-families-scientists-find",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-10-14",
+      "title": "Scientists discover that some of the universe's biggest explosions may have never happened at all",
+      "summary": "Astronomy Stars Scientists discover that some of the universe's biggest explosions may have never happened at all News By <a href=\"https://www.space.com/author/robert-lea\" class=\"font-normal no-underline normal-case text-inherit vds-author__link whitespace-break-spaces hover:under",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "Scientists discover that some of the universe's biggest explosions may have never happened at all",
+          "url": "https://www.space.com/astronomy/stars/scientists-discover-that-some-of-the-universes-biggest-explosions-may-never-have-happened",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-10-14",
+      "title": "'Dungeon Crawler Carl' author Matt Dinniman talks inspirations, success, and the upcoming Peacock TV series (interview)",
+      "summary": "Entertainment Space Books 'Dungeon Crawler Carl' author Matt Dinniman talks inspirations, success, and the upcoming Peacock TV series (interview) News By <a href=\"https://www.space.com/author/jeff-spry\" class=\"font-normal no-underline normal-c",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "'Dungeon Crawler Carl' author Matt Dinniman talks inspirations, success, and the upcoming Peacock TV series (interview)",
+          "url": "https://www.space.com/entertainment/space-books/dungeon-crawler-carl-author-matt-dinniman-talks-inspirations-success-and-the-upcoming-peacock-tv-series-interview",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-10-14",
+      "title": "SpaceX's Starship just turned 10 years old. When will it go to Mars?",
+      "summary": "Space Exploration Launches & Spacecraft SpaceX's Starship just turned 10 years old. When will it go to Mars? News By <a href=\"https://www.space.com/author/andrew-jones\" class=\"font-normal n",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "SpaceX's Starship just turned 10 years old. When will it go to Mars?",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/spacexs-starship-just-turned-10-years-old-when-will-it-go-to-mars",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-10-14",
+      "title": "'The X-Files' is officially returning as Hulu picks up Ryan Coogler's 'reimagining' of the sci-fi icon",
+      "summary": "Entertainment Space Movies & Shows 'The X-Files' is officially returning as Hulu picks up Ryan Coogler's 'reimagining' of the sci-fi icon News By <a href=\"https://www.space.com/author/ian-stokes\" class=\"font-norm",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "'The X-Files' is officially returning as Hulu picks up Ryan Coogler's 'reimagining' of the sci-fi icon",
+          "url": "https://www.space.com/entertainment/space-movies-shows/the-x-files-is-officially-returning-as-hulu-picks-up-ryan-cooglers-reimagining-of-the-sci-fi-icon",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-10-14",
+      "title": "Four years ago, NASA punched an asteroid. Europe's Hera probe arrives this month to inspect the wreckage",
+      "summary": "Space Exploration Missions Asteroid & Co",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "Four years ago, NASA punched an asteroid. Europe's Hera probe arrives this month to inspect the wreckage",
+          "url": "https://www.space.com/space-exploration/asteroid-comet-missions/four-years-ago-nasa-punched-an-asteroid-europes-hera-probe-arrives-this-month-to-inspect-the-wreckage",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-10-14",
+      "title": "On this day in space! Oct. 14, 1947: Test pilot Chuck Yeager breaks the sound barrier in the Bell X-1, the first X-plane",
+      "summary": "Space Exploration On this day in space! Oct. 14, 1947: Test pilot Chuck Yeager breaks the sound barrier in the Bell X-1, the first X-plane News By Hanneke Weitering Contributions by <a href=\"https://www.space.com/author/tariq-malik\" class=\"vds-collabs__link whitespace-nowrap text-inherit inline-b",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "On this day in space! Oct. 14, 1947: Test pilot Chuck Yeager breaks the sound barrier in the Bell X-1, the first X-plane",
+          "url": "https://www.space.com/space-exploration/on-this-day-in-space-october-14-2026",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-10-14",
+      "title": "The 1st SpaceX Starship to survive a launch to space just came home to its launch site",
+      "summary": "Space Exploration Launches & Spacecraft The 1st SpaceX Starship to survive a launch to space just came home to its launch site News By <a href=\"https://www.space.com/author/josh-dinner\" cla",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "The 1st SpaceX Starship to survive a launch to space just came home to its launch site",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/the-1st-spacex-starship-to-survive-a-launch-to-space-just-came-home-to-its-launch-site",
+          "primary": true
+        }
+      ]
     }
   ],
   "regions": [
@@ -121,9 +291,9 @@
       "items": [
         {
           "date": "2026-10-14",
-          "title": "Nordics: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Nordics: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -151,6 +321,23 @@
               "primary": true
             }
           ]
+        },
+        {
+          "date": "2026-10-14",
+          "title": "Czech group CSG becomes MDA Space's largest shareholder",
+          "summary": "Czechoslovak Group (CSG), a Prague-based defence and industrial group, has paid about $656 million for a 9.5 per cent stake in MDA Space, a U.S. securities filing shows , and says it is now the Canadian company’s largest shareholder. CSG announced the investment this week, its first major move into space. The group said it wants to be “a long-term strategic shareholder” and could work with MDA Space on manufacturing or assembly plants in Europe, on joint acquisitions, and by introducing MDA to C",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "SpaceQ",
+              "title": "Czech group CSG becomes MDA Space's largest shareholder",
+              "url": "https://spaceq.ca/csg-mda-space-largest-shareholder/",
+              "primary": true
+            }
+          ]
         }
       ]
     },
@@ -160,9 +347,9 @@
       "items": [
         {
           "date": "2026-10-14",
-          "title": "Western and Southern Europe: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Western and Southern Europe: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -176,9 +363,9 @@
       "items": [
         {
           "date": "2026-10-14",
-          "title": "ESA and EU: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "ESA and EU: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -192,9 +379,9 @@
       "items": [
         {
           "date": "2026-10-14",
-          "title": "Türkiye, Middle East and Africa: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Türkiye, Middle East and Africa: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -208,9 +395,9 @@
       "items": [
         {
           "date": "2026-10-14",
-          "title": "Eurasia and Central Asia: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Eurasia and Central Asia: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -238,6 +425,40 @@
               "primary": true
             }
           ]
+        },
+        {
+          "date": "2026-10-14",
+          "title": "Reflect Orbital Buys Two Skyroot Aerospace Launches",
+          "summary": "Reflect Orbital, the startup attempting to offer sunlight on-demand with in-space mirrors, announced the purchase of two launches today from Indian launcher Skyroot Aerospace. The deal includes: One launch on Skyroot’s Vikram-1 launch vehicle, which debuted in July , and can carry ~350kg to LEO. One launch on Skyroot’s upgraded Vikram-1U vehicle, which is expected to fly its first mission in Q1 2027, and will be capable of carrying ~550kg to LEO. Reflect Orbital did not disclose the cost of each",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Payload",
+              "title": "Reflect Orbital Buys Two Skyroot Aerospace Launches",
+              "url": "https://payloadspace.com/reflect-orbital-buys-two-skyroot-aerospace-launches/",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-10-14",
+          "title": "Astronomers Uncover More Intriguing Detail in an Ancient Supernova Remnant",
+          "summary": "Astronomers Uncover More Intriguing Detail in an Ancient Supernova Remnant By Evan Gough - October 14, 2026 03:44 PM UTC | Stars - 25K reads Pa30 is probably the remnant of an ancient supernova recorded by Chinese and Japanese astronomers in 1181. In new research, astronomers studied it intently with the Gemini North Telescope and its Multi-Object Spectrograph. The new observations revealed more detail than ever. Image Credit: International Gemini Observatory/NOIRLab/NSF/AURA In 1181, astronomer",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Universe Today",
+              "title": "Astronomers Uncover More Intriguing Detail in an Ancient Supernova Remnant",
+              "url": "https://www.universetoday.com/articles/astronomers-uncover-more-intriguing-detail-in-an-ancient-supernova-remnant",
+              "primary": true
+            }
+          ]
         }
       ]
     },
@@ -261,6 +482,125 @@
               "primary": true
             }
           ]
+        },
+        {
+          "date": "2026-10-14",
+          "title": "Cosmic 'jellyfish' wows skywatchers after SpaceX launch",
+          "summary": "Space Exploration Launches & Spacecraft Cosmic 'jellyfish' wows skywatchers after SpaceX launch | Space photo of the day for Oct. 14, 2026 News By <a href=\"https://www.space.com/author/chel",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Space.com",
+              "title": "Cosmic 'jellyfish' wows skywatchers after SpaceX launch",
+              "url": "https://www.space.com/space-exploration/launches-spacecraft/cosmic-jellyfish-wows-skywatchers-after-spacex-launch-space-photo-of-the-day-for-oct-14-2026",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-10-14",
+          "title": "SpaceX's Starship just turned 10 years old. When will it go to Mars?",
+          "summary": "Space Exploration Launches & Spacecraft SpaceX's Starship just turned 10 years old. When will it go to Mars? News By <a href=\"https://www.space.com/author/andrew-jones\" class=\"font-normal n",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Space.com",
+              "title": "SpaceX's Starship just turned 10 years old. When will it go to Mars?",
+              "url": "https://www.space.com/space-exploration/launches-spacecraft/spacexs-starship-just-turned-10-years-old-when-will-it-go-to-mars",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-10-14",
+          "title": "Four years ago, NASA punched an asteroid. Europe's Hera probe arrives this month to inspect the wreckage",
+          "summary": "Space Exploration Missions Asteroid & Co",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Space.com",
+              "title": "Four years ago, NASA punched an asteroid. Europe's Hera probe arrives this month to inspect the wreckage",
+              "url": "https://www.space.com/space-exploration/asteroid-comet-missions/four-years-ago-nasa-punched-an-asteroid-europes-hera-probe-arrives-this-month-to-inspect-the-wreckage",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-10-14",
+          "title": "The 1st SpaceX Starship to survive a launch to space just came home to its launch site",
+          "summary": "Space Exploration Launches & Spacecraft The 1st SpaceX Starship to survive a launch to space just came home to its launch site News By <a href=\"https://www.space.com/author/josh-dinner\" cla",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Space.com",
+              "title": "The 1st SpaceX Starship to survive a launch to space just came home to its launch site",
+              "url": "https://www.space.com/space-exploration/launches-spacecraft/the-1st-spacex-starship-to-survive-a-launch-to-space-just-came-home-to-its-launch-site",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-10-14",
+          "title": "Exclusive: In Orbit Aerospace Pivots From Re-entry Vehicles to Spacecraft Autonomy",
+          "summary": "In Orbit Aerospace has swapped reentry vehicles for autonomy software, and NASA and the Space Force are funding the shift. The Torrance, CA-based startup has won new government contracts for its onboard AI system, which the company says can run a spacecraft’s operations without waiting on ground control. “We’re scaling to the point where you simply can’t have one, or even more, ground operators monitoring the satellite,” In Orbit CTO and cofounder Ishaan Patel told Payload. “When the problem sca",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Payload",
+              "title": "Exclusive: In Orbit Aerospace Pivots From Re-entry Vehicles to Spacecraft Autonomy",
+              "url": "https://payloadspace.com/exclusive-in-orbit-aerospace-pivots-from-re-entry-vehicles-to-spacecraft-autonomy/",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-10-14",
+          "title": "Canadian astronaut Josh Kutryk says his ISS mission is a space-industry moment",
+          "summary": "LONGUEUIL, Que. — From the International Space Station (ISS), Canadian astronaut Josh Kutryk says he wants the country to see his mission as a symbol not only of what he’s doing now, but what is possible in space. Speaking with SpaceQ Tuesday, Oct. 13 during a news conference at the Canadian Space Agency headquarters, Kutryk said his mission is important because “it puts industry and academia and commercial entities from Canada here with me, on that leading edge of space flight.” “The science is",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "SpaceQ",
+              "title": "Canadian astronaut Josh Kutryk says his ISS mission is a space-industry moment",
+              "url": "https://spaceq.ca/canadian-astronaut-josh-kutryk-says-his-iss-mission-is-a-space-industry-moment/",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-10-14",
+          "title": "SpaceX wants up to 456 Starship launches a year from Texas",
+          "summary": "SpaceX wants permission to launch Starship from its South Texas base as many as 456 times a year, a Federal Aviation Administration (FAA) notice shows, more than 18 times what the company is allowed today. In the notice , filed Tuesday and published in the Federal Register Wednesday, the FAA said it will prepare a programmatic environmental impact statement on the plan. That is a broad review of the whole program, and it would also cover the licence changes and renewals that follow from it. Publ",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "SpaceQ",
+              "title": "SpaceX wants up to 456 Starship launches a year from Texas",
+              "url": "https://spaceq.ca/starship-launches-456-a-year-starbase-faa-review/",
+              "primary": true
+            }
+          ]
         }
       ]
     }
@@ -272,8 +612,11 @@
   "competitive_watch": [],
   "stats": {
     "record": "memory",
-    "source": "SpaceNews",
-    "stories": 6
+    "sources": [
+      "Space.com",
+      "SpaceNews"
+    ],
+    "stories": 16
   },
   "audio_script": "This is a memory record for 2026-10-14, not a spoken briefing. It keeps the SpaceNews stories dated this day so later editions can see what had already been reported.",
   "audio_sections": [

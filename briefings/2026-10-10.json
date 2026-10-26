@@ -4,9 +4,12 @@
   "generated_at": "2026-10-10T18:00:00+00:00",
   "headline": "SpaceX launches 21 Northrop Grumman satellites for U.S. military data network",
   "summary": [
-    "SpaceX launches 21 Northrop Grumman satellites for U.S. military data network"
+    "SpaceX launches 21 Northrop Grumman satellites for U.S. military data network",
+    "SpaceX launches 21 satellites to orbit for the US military after 5-day delay (video)",
+    "On this day in space! Oct. 10, 1967: The Outer Space Treaty is ratified to lay out how countries can use outer space",
+    "10 times 'Red Dwarf' beat other TV shows and movies to brilliant sci-fi ideas"
   ],
-  "bottom_line": "Memory record drawn from SpaceNews for this date. It is not a full eight-desk sweep, and a desk with no mapped story is a gap in the harvest.",
+  "bottom_line": "Memory record for this date from the space newsrooms we can archive: Space.com, SpaceNews, SpaceQ, Universe Today. It is not a full eight-desk sweep, and a desk with no mapped story is a gap in the harvest.",
   "global": [
     {
       "date": "2026-10-10",
@@ -24,6 +27,125 @@
           "primary": true
         }
       ]
+    },
+    {
+      "date": "2026-10-10",
+      "title": "SpaceX launches 21 satellites to orbit for the US military after 5-day delay (video)",
+      "summary": "Space Exploration Launches & Spacecraft SpaceX launches 21 satellites to orbit for the US military after 5-day delay (video) News By <a href=\"https://www.space.com/author/mike-wall\" class=\"",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "SpaceX launches 21 satellites to orbit for the US military after 5-day delay (video)",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-rocket-launch-data-transport-satellites-military-proliferated-architecture",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-10-10",
+      "title": "On this day in space! Oct. 10, 1967: The Outer Space Treaty is ratified to lay out how countries can use outer space",
+      "summary": "Space Exploration On this day in space! Oct. 10, 1967: The Outer Space Treaty is ratified to lay out how countries can use outer space News By Hanneke Weitering Contributions by <a href=\"https://www.space.com/author/robert-z-pearlman\" class=\"vds-collabs__link whitespace-nowrap text-inherit inline",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "On this day in space! Oct. 10, 1967: The Outer Space Treaty is ratified to lay out how countries can use outer space",
+          "url": "https://www.space.com/space-exploration/on-this-day-in-space-october-10-2026",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-10-10",
+      "title": "10 times 'Red Dwarf' beat other TV shows and movies to brilliant sci-fi ideas",
+      "summary": "Entertainment Space Movies & Shows 10 times 'Red Dwarf' beat other TV shows and movies to brilliant sci-fi ideas News By <a href=\"https://www.space.com/author/richard-edwards\" class=\"font-normal no-underline norm",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "10 times 'Red Dwarf' beat other TV shows and movies to brilliant sci-fi ideas",
+          "url": "https://www.space.com/entertainment/space-movies-shows/10-times-red-dwarf-beat-other-tv-shows-and-movies-to-brilliant-sci-fi-ideas",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-10-10",
+      "title": "This Week In Space podcast: Episode 231 — Sailing the Stellar Seas",
+      "summary": "Entertainment Space Movies & Shows This Week In Space podcast: Episode 231 — Sailing the Stellar Seas News By <a href=\"https://www.space.com/author/space-com-staff\" class=\"font-normal no-underline normal-ca",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "This Week In Space podcast: Episode 231 — Sailing the Stellar Seas",
+          "url": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-231-sailing-the-stellar-seas",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-10-10",
+      "title": "10 incredible places to see the 2027 'eclipse of the century' — beyond Luxor",
+      "summary": "Stargazing Eclipses Solar Eclipses 10 incredible places to see the 2027 'eclipse of the century' &",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "10 incredible places to see the 2027 'eclipse of the century' — beyond Luxor",
+          "url": "https://www.space.com/stargazing/solar-eclipses/10-incredible-places-to-see-the-2027-eclipse-of-the-century-beyond-luxor",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-10-10",
+      "title": "Weekly ISS update: Crew-12 departs as Dubrov takes command",
+      "summary": "Four crew members of SpaceX’s Crew-12 mission splashed down in the Pacific Ocean off Los Angeles on Oct. 8, days after cosmonaut Pyotr Dubrov took command of the International Space Station , leaving Canada’s Joshua Kutryk among seven residents aboard the orbiting lab. Command changes hands Roscosmos cosmonaut Pyotr Dubrov accepted command of the space station from NASA’s Jessica Meir in a change-of-command ceremony Oct. 4, NASA said. Dubrov, fellow cosmonaut Anna Kikina and NASA astronaut Anil",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "SpaceQ",
+          "title": "Weekly ISS update: Crew-12 departs as Dubrov takes command",
+          "url": "https://spaceq.ca/weekly-iss-update-crew-12-departs-as-dubrov-takes-command/",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-10-10",
+      "title": "Stratospheric Balloon Telescope Peeks Above The Clouds At The Sun",
+      "summary": "Stratospheric Balloon Telescope Peeks Above The Clouds At The Sun By Andy Tomaswick - October 10, 2026 11:30 AM UTC | Solar Astronomy - 19K reads Depicition of som eof the magnetic field and reconnection points in the Sun's chromosphere. Credit - NAOJ / MPS / Sunrise-III/SCIP There’s lots of things you can do with balloons. Children’s birthday parties come to mind, as do retirement parties. But you can also observe the Sun in unprecedented detail with one - or at least with a suite of equipment",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Universe Today",
+          "title": "Stratospheric Balloon Telescope Peeks Above The Clouds At The Sun",
+          "url": "https://www.universetoday.com/articles/stratospheric-balloon-telescope-peeks-above-the-clouds-at-the-sun",
+          "primary": true
+        }
+      ]
     }
   ],
   "regions": [
@@ -33,9 +155,9 @@
       "items": [
         {
           "date": "2026-10-10",
-          "title": "Nordics: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Nordics: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -49,9 +171,9 @@
       "items": [
         {
           "date": "2026-10-10",
-          "title": "Central and Eastern Europe: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Central and Eastern Europe: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -65,9 +187,9 @@
       "items": [
         {
           "date": "2026-10-10",
-          "title": "Western and Southern Europe: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Western and Southern Europe: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -81,9 +203,9 @@
       "items": [
         {
           "date": "2026-10-10",
-          "title": "ESA and EU: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "ESA and EU: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -97,9 +219,9 @@
       "items": [
         {
           "date": "2026-10-10",
-          "title": "Türkiye, Middle East and Africa: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Türkiye, Middle East and Africa: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -113,13 +235,20 @@
       "items": [
         {
           "date": "2026-10-10",
-          "title": "Eurasia and Central Asia: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Weekly ISS update: Crew-12 departs as Dubrov takes command",
+          "summary": "Four crew members of SpaceX’s Crew-12 mission splashed down in the Pacific Ocean off Los Angeles on Oct. 8, days after cosmonaut Pyotr Dubrov took command of the International Space Station , leaving Canada’s Joshua Kutryk among seven residents aboard the orbiting lab. Command changes hands Roscosmos cosmonaut Pyotr Dubrov accepted command of the space station from NASA’s Jessica Meir in a change-of-command ceremony Oct. 4, NASA said. Dubrov, fellow cosmonaut Anna Kikina and NASA astronaut Anil",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
           "confidence": "low",
-          "status": "overview",
+          "status": "record",
           "iso3": [],
-          "sources": []
+          "sources": [
+            {
+              "outlet": "SpaceQ",
+              "title": "Weekly ISS update: Crew-12 departs as Dubrov takes command",
+              "url": "https://spaceq.ca/weekly-iss-update-crew-12-departs-as-dubrov-takes-command/",
+              "primary": true
+            }
+          ]
         }
       ]
     },
@@ -129,9 +258,9 @@
       "items": [
         {
           "date": "2026-10-10",
-          "title": "Asia Pacific: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Asia Pacific: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -159,6 +288,23 @@
               "primary": true
             }
           ]
+        },
+        {
+          "date": "2026-10-10",
+          "title": "SpaceX launches 21 satellites to orbit for the US military after 5-day delay (video)",
+          "summary": "Space Exploration Launches & Spacecraft SpaceX launches 21 satellites to orbit for the US military after 5-day delay (video) News By <a href=\"https://www.space.com/author/mike-wall\" class=\"",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Space.com",
+              "title": "SpaceX launches 21 satellites to orbit for the US military after 5-day delay (video)",
+              "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-rocket-launch-data-transport-satellites-military-proliferated-architecture",
+              "primary": true
+            }
+          ]
         }
       ]
     }
@@ -170,8 +316,13 @@
   "competitive_watch": [],
   "stats": {
     "record": "memory",
-    "source": "SpaceNews",
-    "stories": 1
+    "sources": [
+      "Space.com",
+      "SpaceNews",
+      "SpaceQ",
+      "Universe Today"
+    ],
+    "stories": 8
   },
   "audio_script": "This is a memory record for 2026-10-10, not a spoken briefing. It keeps the SpaceNews stories dated this day so later editions can see what had already been reported.",
   "audio_sections": [

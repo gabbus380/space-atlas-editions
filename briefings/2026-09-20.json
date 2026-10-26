@@ -4,9 +4,12 @@
   "generated_at": "2026-09-20T18:00:00+00:00",
   "headline": "Space Force expands use of commercial satellites to track electronic interference",
   "summary": [
-    "Space Force expands use of commercial satellites to track electronic interference"
+    "Space Force expands use of commercial satellites to track electronic interference",
+    "On this day in space! Sept. 20, 1970: The Soviet Union's Luna 16 lands on the moon to collect 1st lunar samples to return to Earth",
+    "SpaceX launches 27 Starlink satellites to orbit from California (video, photos)",
+    "China launches 4 different rockets to orbit in 45 hours (video)"
   ],
-  "bottom_line": "Memory record drawn from SpaceNews for this date. It is not a full eight-desk sweep, and a desk with no mapped story is a gap in the harvest.",
+  "bottom_line": "Memory record for this date from the space newsrooms we can archive: Space.com, SpaceNews, Universe Today. It is not a full eight-desk sweep, and a desk with no mapped story is a gap in the harvest.",
   "global": [
     {
       "date": "2026-09-20",
@@ -24,6 +27,108 @@
           "primary": true
         }
       ]
+    },
+    {
+      "date": "2026-09-20",
+      "title": "On this day in space! Sept. 20, 1970: The Soviet Union's Luna 16 lands on the moon to collect 1st lunar samples to return to Earth",
+      "summary": "Space Exploration On this day in space! Sept. 20, 1970: The Soviet Union's Luna 16 lands on the moon to collect 1st lunar samples to return to Earth News By Hanneke Weitering Contributions by <a href=\"https://www.space.com/author/tariq-malik\" class=\"vds-collabs__link whitespace-nowrap text-inheri",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "On this day in space! Sept. 20, 1970: The Soviet Union's Luna 16 lands on the moon to collect 1st lunar samples to return to Earth",
+          "url": "https://www.space.com/space-exploration/on-this-day-in-space-september-20-2026",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-20",
+      "title": "SpaceX launches 27 Starlink satellites to orbit from California (video, photos)",
+      "summary": "Space Exploration Launches & Spacecraft SpaceX launches 27 Starlink satellites to orbit from California (video, photos) News By <a href=\"https://www.space.com/author/mike-wall\" class=\"font-",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "SpaceX launches 27 Starlink satellites to orbit from California (video, photos)",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-launch-group-15-27-landing-ocisly",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-20",
+      "title": "China launches 4 different rockets to orbit in 45 hours (video)",
+      "summary": "Space Exploration Launches & Spacecraft China launches 4 different rockets to orbit in 45 hours (video) News By <a href=\"https://www.space.com/author/mike-wall\" class=\"font-normal no-underl",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "China launches 4 different rockets to orbit in 45 hours (video)",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/china-launches-4-different-rockets-to-orbit-in-45-hours-video",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-20",
+      "title": "Flavor-changing 'ghost particles' may reveal which stars go supernova — and which turn into black holes",
+      "summary": "Astronomy Stars Flavor-changing 'ghost particles' may reveal which stars go supernova — and which turn into black holes News By <a href=\"https://www.space.com/author/charles-q-choi\" class=\"font-normal no-underline normal-case text-inherit vds-author__link whitespace-break-sp",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "Flavor-changing 'ghost particles' may reveal which stars go supernova — and which turn into black holes",
+          "url": "https://www.space.com/astronomy/stars/flavor-changing-ghost-particles-may-reveal-which-stars-go-supernova-and-which-turn-into-black-holes",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-20",
+      "title": "The Sun Is Physically Capable of Producing a \"Superflare\" According To A New Study",
+      "summary": "The Sun Is Physically Capable of Producing a \"Superflare\" According To A New Study By Andy Tomaswick - September 20, 2026 10:36 PM UTC | Solar Astronomy - 25K reads Hand-drawn image of sunspots from the Great Sunspot of 1947. Credit - Mount Wilson Observatory We have long known that the Sun is active. It “flares” quite often, sending huge amounts of energy off in a certain direction - sometimes directly at Earth. But we also know that, compared to other Sun-like stars, it seems relatively quiet,",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Universe Today",
+          "title": "The Sun Is Physically Capable of Producing a \"Superflare\" According To A New Study",
+          "url": "https://www.universetoday.com/articles/the-sun-is-physically-capable-of-producing-a-superflare-according-to-a-new-study",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-20",
+      "title": "MIT Research Could Lead to Refueling Depots on Mars",
+      "summary": "MIT Research Could Lead to Refueling Depots on Mars By Matthew Williams - September 20, 2026 02:36 AM UTC | Space Exploration - 26K reads NASA artwork of a potential Mars habitat in conjunction with other surface elements on Mars. Credit: NASA If we ever intend to send crewed missions to Mars, as NASA and China plan for the coming decades, several criteria must be met. Some of the most pressing are the need for more advanced propulsion, technologies that will ensure astronaut health and safety,",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Universe Today",
+          "title": "MIT Research Could Lead to Refueling Depots on Mars",
+          "url": "https://www.universetoday.com/articles/mit-research-could-lead-to-refueling-depots-on-mars",
+          "primary": true
+        }
+      ]
     }
   ],
   "regions": [
@@ -33,9 +138,9 @@
       "items": [
         {
           "date": "2026-09-20",
-          "title": "Nordics: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Nordics: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -49,9 +154,9 @@
       "items": [
         {
           "date": "2026-09-20",
-          "title": "Central and Eastern Europe: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Central and Eastern Europe: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -65,9 +170,9 @@
       "items": [
         {
           "date": "2026-09-20",
-          "title": "Western and Southern Europe: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Western and Southern Europe: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -81,9 +186,9 @@
       "items": [
         {
           "date": "2026-09-20",
-          "title": "ESA and EU: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "ESA and EU: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -97,9 +202,9 @@
       "items": [
         {
           "date": "2026-09-20",
-          "title": "Türkiye, Middle East and Africa: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Türkiye, Middle East and Africa: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -113,9 +218,9 @@
       "items": [
         {
           "date": "2026-09-20",
-          "title": "Eurasia and Central Asia: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Eurasia and Central Asia: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -129,13 +234,37 @@
       "items": [
         {
           "date": "2026-09-20",
-          "title": "Asia Pacific: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "China launches 4 different rockets to orbit in 45 hours (video)",
+          "summary": "Space Exploration Launches & Spacecraft China launches 4 different rockets to orbit in 45 hours (video) News By <a href=\"https://www.space.com/author/mike-wall\" class=\"font-normal no-underl",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
           "confidence": "low",
-          "status": "overview",
+          "status": "record",
           "iso3": [],
-          "sources": []
+          "sources": [
+            {
+              "outlet": "Space.com",
+              "title": "China launches 4 different rockets to orbit in 45 hours (video)",
+              "url": "https://www.space.com/space-exploration/launches-spacecraft/china-launches-4-different-rockets-to-orbit-in-45-hours-video",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-09-20",
+          "title": "MIT Research Could Lead to Refueling Depots on Mars",
+          "summary": "MIT Research Could Lead to Refueling Depots on Mars By Matthew Williams - September 20, 2026 02:36 AM UTC | Space Exploration - 26K reads NASA artwork of a potential Mars habitat in conjunction with other surface elements on Mars. Credit: NASA If we ever intend to send crewed missions to Mars, as NASA and China plan for the coming decades, several criteria must be met. Some of the most pressing are the need for more advanced propulsion, technologies that will ensure astronaut health and safety,",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Universe Today",
+              "title": "MIT Research Could Lead to Refueling Depots on Mars",
+              "url": "https://www.universetoday.com/articles/mit-research-could-lead-to-refueling-depots-on-mars",
+              "primary": true
+            }
+          ]
         }
       ]
     },
@@ -159,6 +288,23 @@
               "primary": true
             }
           ]
+        },
+        {
+          "date": "2026-09-20",
+          "title": "SpaceX launches 27 Starlink satellites to orbit from California (video, photos)",
+          "summary": "Space Exploration Launches & Spacecraft SpaceX launches 27 Starlink satellites to orbit from California (video, photos) News By <a href=\"https://www.space.com/author/mike-wall\" class=\"font-",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Space.com",
+              "title": "SpaceX launches 27 Starlink satellites to orbit from California (video, photos)",
+              "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-launch-group-15-27-landing-ocisly",
+              "primary": true
+            }
+          ]
         }
       ]
     }
@@ -170,8 +316,12 @@
   "competitive_watch": [],
   "stats": {
     "record": "memory",
-    "source": "SpaceNews",
-    "stories": 1
+    "sources": [
+      "Space.com",
+      "SpaceNews",
+      "Universe Today"
+    ],
+    "stories": 7
   },
   "audio_script": "This is a memory record for 2026-09-20, not a spoken briefing. It keeps the SpaceNews stories dated this day so later editions can see what had already been reported.",
   "audio_sections": [

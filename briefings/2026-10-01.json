@@ -9,7 +9,7 @@
     "Galileo Space Is Building Satellites That Turn Signals Into Answers in Orbit",
     "LMT Group and Novaspace partner to develop strategy for 5G/6G satellite communications hub in Latvia"
   ],
-  "bottom_line": "Memory record drawn from SpaceNews for this date. It is not a full eight-desk sweep, and a desk with no mapped story is a gap in the harvest.",
+  "bottom_line": "Memory record for this date from the space newsrooms we can archive: Space.com, SpaceNews. It is not a full eight-desk sweep, and a desk with no mapped story is a gap in the harvest.",
   "global": [
     {
       "date": "2026-10-01",
@@ -146,6 +146,142 @@
           "primary": true
         }
       ]
+    },
+    {
+      "date": "2026-10-01",
+      "title": "Record breaker! SpaceX Crew-13 astronauts dock at ISS less than 8 hours after launch in fastest American flight ever (video)",
+      "summary": "Space.com published this story on 2026-10-01.",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "Record breaker! SpaceX Crew-13 astronauts dock at ISS less than 8 hours after launch in fastest American flight ever (video)",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-crew-13-astronaut-mission-docks-iss-fastest-trip-us-spacecraft",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-10-01",
+      "title": "Jupiter disappears behind the moon, Saturn shines at its best, and Mars meets the Beehive: October 2026 planet guide",
+      "summary": "Stargazing Jupiter disappears behind the moon, Saturn shines at its best, and Mars meets the Beehive: October 2026 planet guide News By Joe Rao Published 1 Octo",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "Jupiter disappears behind the moon, Saturn shines at its best, and Mars meets the Beehive: October 2026 planet guide",
+          "url": "https://www.space.com/stargazing/jupiter-disappears-behind-the-moon-saturn-shines-at-its-best-and-mars-meets-the-beehive-october-2026-planet-guide",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-10-01",
+      "title": "Liftoff! SpaceX launches Crew-13 astronauts on fastest Dragon trip to International Space Station yet (video)",
+      "summary": "Space Exploration Launches & Spacecraft Liftoff! SpaceX launches Crew-13 astronauts on fastest Dragon trip to International Space Station yet (video) News By <a href=\"https://www.space.com/",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "Liftoff! SpaceX launches Crew-13 astronauts on fastest Dragon trip to International Space Station yet (video)",
+          "url": "https://www.space.com/space-exploration/human-spaceflight/spacex-crew-13-astronaut-mission-iss-launch",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-10-01",
+      "title": "Mars rover explores 'Wild West' on the Red Planet",
+      "summary": "Astronomy Solar System Mars Mars rover explores 'Wild West' on the Red Planet | Space photo of the day for Oct. 1,",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "Mars rover explores 'Wild West' on the Red Planet",
+          "url": "https://www.space.com/astronomy/mars/mars-rover-explores-wild-west-on-the-red-planet-space-photo-of-the-day-for-oct-1-2026",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-10-01",
+      "title": "Launch tripleheader! SpaceX to fly 3 rockets in 13 hours today",
+      "summary": "Space Exploration Launches & Spacecraft Launch tripleheader! SpaceX to fly 3 rockets in 13 hours today News By <a href=\"https://www.space.com/author/mike-wall\" class=\"font-normal no-underli",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "Launch tripleheader! SpaceX to fly 3 rockets in 13 hours today",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/launch-tripleheader-spacex-to-fly-3-rockets-in-13-hours-today",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-10-01",
+      "title": "On this day in space! Oct. 1, 1958: Happy Birthday, NASA! A US space agency is born to explore the final frontier",
+      "summary": "Space Exploration On this day in space! Oct. 1, 1958: Happy Birthday, NASA! A US space agency is born to explore the final frontier News By Hanneke Weitering Contributions by <a href=\"https://www.space.com/author/tariq-malik\" class=\"vds-collabs__link whitespace-nowrap text-inherit inline-block no",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "On this day in space! Oct. 1, 1958: Happy Birthday, NASA! A US space agency is born to explore the final frontier",
+          "url": "https://www.space.com/space-exploration/on-this-day-in-space-october-1-2026",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-10-01",
+      "title": "SpaceX just launched the 1st US astronaut mission to embrace the 'unlucky' number 13 since the Apollo era",
+      "summary": "Space Exploration Human Spaceflight SpaceX just launched the 1st US astronaut mission to embrace the 'unlucky' number 13 since the Apollo era News By <a href=\"https://www.space.com/author/robert-z-pearlman",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "SpaceX just launched the 1st US astronaut mission to embrace the 'unlucky' number 13 since the Apollo era",
+          "url": "https://www.space.com/space-exploration/human-spaceflight/spacex-just-launched-the-1st-us-astronaut-mission-to-embrace-the-unlucky-number-13-since-the-apollo-era",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-10-01",
+      "title": "3 for 3! Falcon Heavy rocket launches secret US spy mission to complete SpaceX tripleheader (video)",
+      "summary": "Space Exploration Launches & Spacecraft 3 for 3! Falcon Heavy rocket launches secret US spy mission to complete SpaceX tripleheader (video) News By <a href=\"https://www.space.com/author/mik",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "3 for 3! Falcon Heavy rocket launches secret US spy mission to complete SpaceX tripleheader (video)",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-heavy-nro-97-spy-satellite-launch",
+          "primary": true
+        }
+      ]
     }
   ],
   "regions": [
@@ -178,9 +314,9 @@
       "items": [
         {
           "date": "2026-10-01",
-          "title": "Central and Eastern Europe: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Central and Eastern Europe: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -248,6 +384,23 @@
               "primary": true
             }
           ]
+        },
+        {
+          "date": "2026-10-01",
+          "title": "NASA's Hubble Marks its 200,000th Orbit by Watching Lensed Supernova",
+          "summary": "NASA's Hubble Marks its 200,000th Orbit by Watching Lensed Supernova By Matthew Williams - October 01, 2026 08:29 PM UTC | Observing - 27K reads An image from NASA's Hubble Space Telescope of the galaxy cluster MACS J0417, part of repeated observations to monitor for the reappearance of supernova Athena. Credit: NASA/ESA/STScI/UCLA On Saturday, September 19th , the Hubble Space Telescope completed its 200,000th orbit of Earth, marking yet another milestone for this venerable observatory. In addi",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Universe Today",
+              "title": "NASA's Hubble Marks its 200,000th Orbit by Watching Lensed Supernova",
+              "url": "https://www.universetoday.com/articles/nasas-hubble-marks-its-200000th-orbit-by-watching-lensed-supernova",
+              "primary": true
+            }
+          ]
         }
       ]
     },
@@ -257,13 +410,20 @@
       "items": [
         {
           "date": "2026-10-01",
-          "title": "Türkiye, Middle East and Africa: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Satlyt Raises $8M Seed to Expand Its Virtual ODC Network",
+          "summary": "While investors pour billions of dollars into orbital-data-center (ODC) concepts that require new feats of engineering, Satlyt’s virtual ODC network is already flying above us—and growing rapidly. The startup—with joint headquarters in Nairobi, Kenya, and Sunnyvale, CA—unveiled a $8M seed round today to expand its team and its virtual ODC network. non sibi ventures led the round, which included additional participation from TLCOM, Antler, Slauson & Co., Launch Africa Ventures, Enza Capital, Demo",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
           "confidence": "low",
-          "status": "overview",
+          "status": "record",
           "iso3": [],
-          "sources": []
+          "sources": [
+            {
+              "outlet": "Payload",
+              "title": "Satlyt Raises $8M Seed to Expand Its Virtual ODC Network",
+              "url": "https://payloadspace.com/satlyt-raises-8m-seed-to-expand-its-virtual-odc-network/",
+              "primary": true
+            }
+          ]
         }
       ]
     },
@@ -273,13 +433,20 @@
       "items": [
         {
           "date": "2026-10-01",
-          "title": "Eurasia and Central Asia: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Josh Kutryk reaches space for the first time aboard SpaceX Crew-13",
+          "summary": "CAPE CANAVERAL, Florida — Astronaut Josh Kutryk reached space today aboard SpaceX, marking the beginning of the Canadian Space Agency’s (CSA) fourth long-duration mission — the first such one in eight years. Kutryk launched from Cape Canaveral Space Force Station on Florida’s Space Coast at 11:10 a.m. EDT along with the rest of Crew-13: NASA’s Jessica Watkins and Luke Delaney, and Roscosmos’ Sergey Teteryatnikov. Assuming docking goes as planned later tonight (no earlier than 7 p.m.), Kutryk — o",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
           "confidence": "low",
-          "status": "overview",
+          "status": "record",
           "iso3": [],
-          "sources": []
+          "sources": [
+            {
+              "outlet": "SpaceQ",
+              "title": "Josh Kutryk reaches space for the first time aboard SpaceX Crew-13",
+              "url": "https://spaceq.ca/josh-kutryk-reaches-space-for-the-first-time-aboard-spacex-crew-13/",
+              "primary": true
+            }
+          ]
         }
       ]
     },
@@ -360,6 +527,91 @@
               "primary": true
             }
           ]
+        },
+        {
+          "date": "2026-10-01",
+          "title": "Record breaker! SpaceX Crew-13 astronauts dock at ISS less than 8 hours after launch in fastest American flight ever (video)",
+          "summary": "Space.com published this story on 2026-10-01.",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Space.com",
+              "title": "Record breaker! SpaceX Crew-13 astronauts dock at ISS less than 8 hours after launch in fastest American flight ever (video)",
+              "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-crew-13-astronaut-mission-docks-iss-fastest-trip-us-spacecraft",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-10-01",
+          "title": "Liftoff! SpaceX launches Crew-13 astronauts on fastest Dragon trip to International Space Station yet (video)",
+          "summary": "Space Exploration Launches & Spacecraft Liftoff! SpaceX launches Crew-13 astronauts on fastest Dragon trip to International Space Station yet (video) News By <a href=\"https://www.space.com/",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Space.com",
+              "title": "Liftoff! SpaceX launches Crew-13 astronauts on fastest Dragon trip to International Space Station yet (video)",
+              "url": "https://www.space.com/space-exploration/human-spaceflight/spacex-crew-13-astronaut-mission-iss-launch",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-10-01",
+          "title": "Launch tripleheader! SpaceX to fly 3 rockets in 13 hours today",
+          "summary": "Space Exploration Launches & Spacecraft Launch tripleheader! SpaceX to fly 3 rockets in 13 hours today News By <a href=\"https://www.space.com/author/mike-wall\" class=\"font-normal no-underli",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Space.com",
+              "title": "Launch tripleheader! SpaceX to fly 3 rockets in 13 hours today",
+              "url": "https://www.space.com/space-exploration/launches-spacecraft/launch-tripleheader-spacex-to-fly-3-rockets-in-13-hours-today",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-10-01",
+          "title": "On this day in space! Oct. 1, 1958: Happy Birthday, NASA! A US space agency is born to explore the final frontier",
+          "summary": "Space Exploration On this day in space! Oct. 1, 1958: Happy Birthday, NASA! A US space agency is born to explore the final frontier News By Hanneke Weitering Contributions by <a href=\"https://www.space.com/author/tariq-malik\" class=\"vds-collabs__link whitespace-nowrap text-inherit inline-block no",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Space.com",
+              "title": "On this day in space! Oct. 1, 1958: Happy Birthday, NASA! A US space agency is born to explore the final frontier",
+              "url": "https://www.space.com/space-exploration/on-this-day-in-space-october-1-2026",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-10-01",
+          "title": "SpaceX just launched the 1st US astronaut mission to embrace the 'unlucky' number 13 since the Apollo era",
+          "summary": "Space Exploration Human Spaceflight SpaceX just launched the 1st US astronaut mission to embrace the 'unlucky' number 13 since the Apollo era News By <a href=\"https://www.space.com/author/robert-z-pearlman",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Space.com",
+              "title": "SpaceX just launched the 1st US astronaut mission to embrace the 'unlucky' number 13 since the Apollo era",
+              "url": "https://www.space.com/space-exploration/human-spaceflight/spacex-just-launched-the-1st-us-astronaut-mission-to-embrace-the-unlucky-number-13-since-the-apollo-era",
+              "primary": true
+            }
+          ]
         }
       ]
     }
@@ -371,8 +623,11 @@
   "competitive_watch": [],
   "stats": {
     "record": "memory",
-    "source": "SpaceNews",
-    "stories": 13
+    "sources": [
+      "Space.com",
+      "SpaceNews"
+    ],
+    "stories": 16
   },
   "audio_script": "This is a memory record for 2026-10-01, not a spoken briefing. It keeps the SpaceNews stories dated this day so later editions can see what had already been reported.",
   "audio_sections": [

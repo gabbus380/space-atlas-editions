@@ -9,7 +9,7 @@
     "SpaceX, analysts satisfied with latest Starship flight",
     "SpaceX launches Transporter-18 rideshare mission"
   ],
-  "bottom_line": "Memory record drawn from SpaceNews for this date. It is not a full eight-desk sweep, and a desk with no mapped story is a gap in the harvest.",
+  "bottom_line": "Memory record for this date from the space newsrooms we can archive: Space.com, SpaceNews. It is not a full eight-desk sweep, and a desk with no mapped story is a gap in the harvest.",
   "global": [
     {
       "date": "2026-10-02",
@@ -112,6 +112,176 @@
           "primary": true
         }
       ]
+    },
+    {
+      "date": "2026-10-02",
+      "title": "Star Wars: Galactic Racer is a fantastic sci-fi racing game that captures the wonderful weirdness of the galaxy far, far away",
+      "summary": "Entertainment Space Games Star Wars: Galactic Racer is a fantastic sci-fi racing game that captures the wonderful weirdness of the galaxy far, far away News By <a href=\"https://www.space.com/author/hayes-madsen\" class=\"font-normal no-underline",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "Star Wars: Galactic Racer is a fantastic sci-fi racing game that captures the wonderful weirdness of the galaxy far, far away",
+          "url": "https://www.space.com/entertainment/space-games/star-wars-galactic-racer-is-a-fantastic-sci-fi-racing-game-that-captures-the-wonderful-weirdness-of-the-galaxy-far-far-away",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-10-02",
+      "title": "On this day in space! Oct. 2, 2015: The United Launch Alliance launches its 100th rocket with Atlas V flight for Mexico",
+      "summary": "Space Exploration On this day in space! Oct. 2, 2015: The United Launch Alliance launches its 100th rocket with Atlas V flight for Mexico News By Hanneke Weitering Contributions by <a href=\"https://www.space.com/author/tariq-malik\" class=\"vds-collabs__link whitespace-nowrap text-inherit inline-bl",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "On this day in space! Oct. 2, 2015: The United Launch Alliance launches its 100th rocket with Atlas V flight for Mexico",
+          "url": "https://www.space.com/space-exploration/on-this-day-in-space-october-2-2026",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-10-02",
+      "title": "'The Day the Earth Stood Still' at 75: A sci-fi classic whose timeless themes still resonate today",
+      "summary": "Entertainment Space Movies & Shows 'The Day the Earth Stood Still' at 75: A sci-fi classic whose timeless themes still resonate today News By <a href=\"https://www.space.com/author/richard-edwards\" class=\"font-nor",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "'The Day the Earth Stood Still' at 75: A sci-fi classic whose timeless themes still resonate today",
+          "url": "https://www.space.com/entertainment/space-movies-shows/the-day-the-earth-stood-still-at-75-a-sci-fi-classic-whose-timeless-themes-still-resonate-today",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-10-02",
+      "title": "Earth's hidden daytime auroras revealed from space",
+      "summary": "Stargazing Auroras Earth's hidden daytime auroras revealed from space | Space photo of the day for Oct. 2, 2026 News By <a href=\"https://www.space.com/author/daisy-dobrijevic\" class=\"font-normal no-underline normal-case text-inherit vds-author__link whitespace-break-spa",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "Earth's hidden daytime auroras revealed from space",
+          "url": "https://www.space.com/stargazing/auroras/earths-hidden-daytime-auroras-revealed-from-space-space-photo-of-the-day-for-oct-2-2026",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-10-02",
+      "title": "Scientists connect cosmic fingerprints of the universe's first stars with MEGATRON simulation",
+      "summary": "Astronomy Galaxies Scientists connect cosmic fingerprints of the universe's first stars with MEGATRON simulation News By <a href=\"https://www.space.com/author/robert-lea\" class=\"font-normal no-underline normal-case text-inherit vds-author__link whitespace-break-spaces hov",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "Scientists connect cosmic fingerprints of the universe's first stars with MEGATRON simulation",
+          "url": "https://www.space.com/astronomy/galaxies/scientists-connect-cosmic-fingerprints-of-the-universes-first-stars-with-megatron-simulation",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-10-02",
+      "title": "Supermassive black holes 'kill' their host galaxies using plasma jets as their murder weapons",
+      "summary": "Astronomy Black Holes Supermassive black holes 'kill' their host galaxies using plasma jets as their murder weapons News By <a href=\"https://www.space.com/author/robert-lea\" class=\"font-normal no-underline normal-case text-inherit vds-author__link whitespace-brea",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "Supermassive black holes 'kill' their host galaxies using plasma jets as their murder weapons",
+          "url": "https://www.space.com/astronomy/black-holes/supermassive-black-holes-kill-their-host-galaxies-using-plasma-jets-as-their-murder-weapons",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-10-02",
+      "title": "I photographed a supernova with this budget smart telescope!",
+      "summary": "Space Verdict The latest flagship Seestar from ZWO is a powerful smart telescope featuring sharp optics and hardware, making it perfect for capturing the moon, the sun and deep sky objects with ease. <a data-google-interstitial=\"false\" aria-label=\"View ZWO Seestar S50 Pro on Amazon\" href=\"https://target.georiot.com/Proxy.ashx?tsid=72128&GR_URL=https%3A%2F%2Fwww.amazon.com%2Fs%3Fk%3DZWO%2BSeestar%2BS50%2BPro%26tag%3Dftr-space-us-20%26ascsubtag%3Dspace-us-1755356243665805525\" referrerpolicy=\"no-re",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "I photographed a supernova with this budget smart telescope!",
+          "url": "https://www.space.com/stargazing/skywatching-kit/why-i-recommend-the-zwo-seestar-s50-pro-smart-telescope-for-your-backyard-full-review",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-10-02",
+      "title": "NASA's new PRIMA 'Probe Explorer' mission is truly the 1st of its kind. Here's what it will do",
+      "summary": "Science Astrophysics NASA's new PRIMA 'Probe Explorer' mission is truly the 1st of its kind. Here's what it will do News By <a href=\"https://www.space.com/author/chelsea-gohd\" class=\"font-normal no-underline normal-case text-inherit vds-author__link whitespace-break-spa",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "NASA's new PRIMA 'Probe Explorer' mission is truly the 1st of its kind. Here's what it will do",
+          "url": "https://www.space.com/science/astrophysics/nasas-new-prima-probe-explorer-mission-is-truly-the-1st-of-its-kind-heres-what-it-will-do",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-10-02",
+      "title": "Jupiter will disappear behind the moon on Oct. 6 — and if you're in the right place, you can watch it happen",
+      "summary": "Stargazing Jupiter will disappear behind the moon on Oct. 6 — and if you're in the right place, you can watch it happen News By Joe Rao Published 2 Octobe",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "Jupiter will disappear behind the moon on Oct. 6 — and if you're in the right place, you can watch it happen",
+          "url": "https://www.space.com/stargazing/jupiter-will-disappear-behind-the-moon-on-oct-6-and-if-youre-in-the-right-place-you-can-watch-it-happen",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-10-02",
+      "title": "The Draconids peak this week — Finally, a meteor shower that respects bedtime",
+      "summary": "Stargazing Meteors & Meteor Showers The Draconids peak this week — Finally, a meteor shower that respects bedtime News <div class=\"my-auto vds-simple-b",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "The Draconids peak this week — Finally, a meteor shower that respects bedtime",
+          "url": "https://www.space.com/stargazing/meteor-showers/the-draconids-peak-next-week-finally-a-meteor-shower-that-respects-bedtime",
+          "primary": true
+        }
+      ]
     }
   ],
   "regions": [
@@ -144,9 +314,9 @@
       "items": [
         {
           "date": "2026-10-02",
-          "title": "Central and Eastern Europe: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Central and Eastern Europe: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -191,6 +361,23 @@
               "primary": true
             }
           ]
+        },
+        {
+          "date": "2026-10-02",
+          "title": "Skyrora Shifts Orbital Launch Timeline to 2030",
+          "summary": "First-mover advantage isn’t all it’s cracked up to be—at least, that’s the thought process for UK launch startup Skyrora. The company announced this week that it completed a 45-second hotfire test of a scaled-down version of the engine that will power the first stage of Skyrora’s orbital Skylark XL rocket. The test will inform the company’s development of the larger 70 kN engine, and Skyrora will use the data to make upgrades on the engine interface, firing operations, and tank design, according",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Payload",
+              "title": "Skyrora Shifts Orbital Launch Timeline to 2030",
+              "url": "https://payloadspace.com/skyrora-shifts-orbital-launch-timeline-to-2030/",
+              "primary": true
+            }
+          ]
         }
       ]
     },
@@ -200,9 +387,9 @@
       "items": [
         {
           "date": "2026-10-02",
-          "title": "ESA and EU: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "ESA and EU: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -216,9 +403,9 @@
       "items": [
         {
           "date": "2026-10-02",
-          "title": "Türkiye, Middle East and Africa: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Türkiye, Middle East and Africa: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -232,9 +419,9 @@
       "items": [
         {
           "date": "2026-10-02",
-          "title": "Eurasia and Central Asia: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Eurasia and Central Asia: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -248,9 +435,9 @@
       "items": [
         {
           "date": "2026-10-02",
-          "title": "Asia Pacific: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Asia Pacific: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -295,6 +482,108 @@
               "primary": true
             }
           ]
+        },
+        {
+          "date": "2026-10-02",
+          "title": "NASA's new PRIMA 'Probe Explorer' mission is truly the 1st of its kind. Here's what it will do",
+          "summary": "Science Astrophysics NASA's new PRIMA 'Probe Explorer' mission is truly the 1st of its kind. Here's what it will do News By <a href=\"https://www.space.com/author/chelsea-gohd\" class=\"font-normal no-underline normal-case text-inherit vds-author__link whitespace-break-spa",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Space.com",
+              "title": "NASA's new PRIMA 'Probe Explorer' mission is truly the 1st of its kind. Here's what it will do",
+              "url": "https://www.space.com/science/astrophysics/nasas-new-prima-probe-explorer-mission-is-truly-the-1st-of-its-kind-heres-what-it-will-do",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-10-02",
+          "title": "Canada Rocket Company breaks ground on engine test site in London, Ont.",
+          "summary": "Canada Rocket Company held a groundbreaking ceremony Thursday for a $30-million rocket engine test site at London International Airport in southwestern Ontario and will name it for astronaut Jeremy Hansen . The Toronto headquartered company is developing a reusable rocket meant to lift up to 12,500 kilograms to sun-synchronous orbit, the near-polar path many Earth-observation satellites use. The company calls the London site Canada’s first large-scale static test facility. Competitors NordSpace",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "SpaceQ",
+              "title": "Canada Rocket Company breaks ground on engine test site in London, Ont.",
+              "url": "https://spaceq.ca/canada-rocket-company-engine-test-facility-london/",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-10-02",
+          "title": "Crew-13 docking: Kutryk reaches station in under eight hours",
+          "summary": "Canadian Space Agency (CSA) astronaut Josh Kutryk entered the International Space Station (ISS) on Thursday night, hours after NASA said his SpaceX Dragon capsule made the fastest trip to the orbiting laboratory by any U.S. spacecraft. The capsule, named Grace, docked with the forward port of the station’s Harmony module at 7:05 p.m. Eastern time. NASA put the trip from launch at seven hours and 55 minutes. The hatch then opened at 9:19 p.m. Kutryk floated in with NASA astronauts Jessica Watkins",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "SpaceQ",
+              "title": "Crew-13 docking: Kutryk reaches station in under eight hours",
+              "url": "https://spaceq.ca/crew-13-docking-kutryk-station/",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-10-02",
+          "title": "Canadian Centre for Space Isotopes launches in Toronto",
+          "summary": "The Nuclear Innovation Institute (NII) said Thursday it has launched the Canadian Centre for Space Isotopes in Toronto, a group that will study how Canada can become a leader in supplying the radioactive isotopes that power deep-space probes. The institute is a member-based not-for-profit that works on nuclear and clean energy. According to its release , the centre will run research, policy work and industry meetings through 2030, with a report on the opportunity to make Canada a leader in space",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "SpaceQ",
+              "title": "Canadian Centre for Space Isotopes launches in Toronto",
+              "url": "https://spaceq.ca/canadian-centre-for-space-isotopes/",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-10-02",
+          "title": "Rocket Report: SpaceX completes launch triple-header; Rocket Lab nets big contract",
+          "summary": "Highly inclined Rocket Report: SpaceX completes launch triple-header; Rocket Lab nets big contract <p class=\"text-gray-550",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Ars Technica",
+              "title": "Rocket Report: SpaceX completes launch triple-header; Rocket Lab nets big contract",
+              "url": "https://arstechnica.com/space/2026/10/rocket-report-spacex-completes-launch-triple-header-rocket-lab-nets-big-contract/",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-10-02",
+          "title": "Asteroid Bennu Has an Identity Crisis, and Jupiter Might Be to Blame",
+          "summary": "Asteroid Bennu Has an Identity Crisis, and Jupiter Might Be to Blame By Andy Tomaswick - October 02, 2026 10:00 AM UTC | Planetary Science - 25K reads The half a gram of Bennu material that was sent to ETH Zurich. Credit - Erika Blumenfeld &amp; Joseph Aebersold / NASA Asteroid sample return missions have brought well preserved samples of the early solar system (that hadn’t been roasted in a fireball) back to Earth for the first time. But those samples, like the OSIRIS-REx sample from asteroid (",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Universe Today",
+              "title": "Asteroid Bennu Has an Identity Crisis, and Jupiter Might Be to Blame",
+              "url": "https://www.universetoday.com/articles/asteroid-bennu-has-an-identity-crisis-and-jupiter-might-be-to-blame",
+              "primary": true
+            }
+          ]
         }
       ]
     }
@@ -306,8 +595,11 @@
   "competitive_watch": [],
   "stats": {
     "record": "memory",
-    "source": "SpaceNews",
-    "stories": 6
+    "sources": [
+      "Space.com",
+      "SpaceNews"
+    ],
+    "stories": 16
   },
   "audio_script": "This is a memory record for 2026-10-02, not a spoken briefing. It keeps the SpaceNews stories dated this day so later editions can see what had already been reported.",
   "audio_sections": [

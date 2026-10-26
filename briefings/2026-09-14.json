@@ -9,7 +9,7 @@
     "Pentagon seeks AI to turn space, missile data into decisions within seconds",
     "U.S. Air Force awards Antares $161 million to advance nuclear reactor for space"
   ],
-  "bottom_line": "Memory record drawn from SpaceNews for this date. It is not a full eight-desk sweep, and a desk with no mapped story is a gap in the harvest.",
+  "bottom_line": "Memory record for this date from the space newsrooms we can archive: Space.com, SpaceNews. It is not a full eight-desk sweep, and a desk with no mapped story is a gap in the harvest.",
   "global": [
     {
       "date": "2026-09-14",
@@ -146,6 +146,142 @@
           "primary": true
         }
       ]
+    },
+    {
+      "date": "2026-09-14",
+      "title": "Interstellar comet 3I/ATLAS likely formed where its star's light couldn't touch it",
+      "summary": "Astronomy Solar System Comets Interstellar comet 3I/ATLAS likely formed where its star's light couldn't touch",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "Interstellar comet 3I/ATLAS likely formed where its star's light couldn't touch it",
+          "url": "https://www.space.com/astronomy/comets/interstellar-comet-3i-atlas-likely-formed-where-its-stars-light-couldnt-touch-it",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-14",
+      "title": "The warmest summer on record: 2026 hit a scorching new high in the US",
+      "summary": "Science Climate Change The warmest summer on record: 2026 hit a scorching new high in the US News By <a href=\"https://www.space.com/author/chelsea-gohd\" class=\"font-normal no-underline normal-case text-inherit vds-author__link whitespace-break-spaces hover:underli",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "The warmest summer on record: 2026 hit a scorching new high in the US",
+          "url": "https://www.space.com/science/climate-change/the-warmest-summer-on-record-2026-hit-a-scorching-new-high-in-the-us",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-14",
+      "title": "The wait is over — pre-order the Unistellar Envision smart binoculars now",
+      "summary": "Stargazing Skywatching Kit Pre-order the Unistellar Envision AR binoculars and learn about the night sky in real-time News By <a href=\"https://www.space.com/author/harry-bennett\" class=\"font-normal no-underline normal-case text-inherit vds-author",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "The wait is over — pre-order the Unistellar Envision smart binoculars now",
+          "url": "https://www.space.com/stargazing/skywatching-kit/pre-order-the-unistellar-envision-ar-binoculars-and-learn-about-the-night-sky-in-real-time",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-14",
+      "title": "On this day in space! Sept. 14, 1966: NASA's Gemini 11 astronauts set altitude record for Earth orbit that went unbroken for 58 years",
+      "summary": "Space Exploration On this day in space! Sept. 14, 1966: NASA's Gemini 11 astronauts set altitude record for Earth orbit that went unbroken for 58 years News By Hanneke Weitering Contributions by <a href=\"https://www.space.com/author/tariq-malik\" class=\"vds-collabs__link whitespace-nowrap text-inh",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "On this day in space! Sept. 14, 1966: NASA's Gemini 11 astronauts set altitude record for Earth orbit that went unbroken for 58 years",
+          "url": "https://www.space.com/space-exploration/on-this-day-in-space-september-14-2026",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-14",
+      "title": "No cities on the moon — there isn't enough water, scientists say (op-ed)",
+      "summary": "Astronomy Solar System The moon No cities on the moon — there isn't enough water, scientists say (op-ed)<",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "No cities on the moon — there isn't enough water, scientists say (op-ed)",
+          "url": "https://www.space.com/astronomy/moon/no-cities-on-the-moon-there-isnt-enough-water-scientists-say-op-ed",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-14",
+      "title": "Vega C rocket launches 2 European Earth-observing satellites to orbit from South America (video)",
+      "summary": "Space Exploration Launches & Spacecraft Vega C rocket launches 2 European Earth-observing satellites to orbit from South America (video) News By <a href=\"https://www.space.com/author/mike-w",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "Vega C rocket launches 2 European Earth-observing satellites to orbit from South America (video)",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/vega-rocket-launch-europe-flex-sentinel-3c-earth-observation-satellites",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-14",
+      "title": "The original 'Star Wars' is coming to IMAX for the first time ever in 2027",
+      "summary": "Entertainment Space Movies & Shows The original 'Star Wars' is coming to IMAX for the first time ever in 2027 News By <a href=\"https://www.space.com/author/jeff-spry\" class=\"font-normal no-underline normal-case t",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "The original 'Star Wars' is coming to IMAX for the first time ever in 2027",
+          "url": "https://www.space.com/entertainment/space-movies-shows/the-original-star-wars-is-coming-to-imax-for-the-first-time-ever-in-2027",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-14",
+      "title": "The US government is 'sincere in its efforts to understand UAP', new White House council chair says",
+      "summary": "Space Exploration Search for Life The US government is 'sincere in its efforts to understand UAP', new White House council chair says News <div",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "The US government is 'sincere in its efforts to understand UAP', new White House council chair says",
+          "url": "https://www.space.com/space-exploration/search-for-life/the-us-government-is-sincere-in-its-efforts-to-understand-uap-new-white-house-council-chair-says",
+          "primary": true
+        }
+      ]
     }
   ],
   "regions": [
@@ -155,9 +291,9 @@
       "items": [
         {
           "date": "2026-09-14",
-          "title": "Nordics: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Nordics: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -217,9 +353,9 @@
       "items": [
         {
           "date": "2026-09-14",
-          "title": "ESA and EU: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "ESA and EU: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -233,9 +369,9 @@
       "items": [
         {
           "date": "2026-09-14",
-          "title": "Türkiye, Middle East and Africa: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Türkiye, Middle East and Africa: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -249,9 +385,9 @@
       "items": [
         {
           "date": "2026-09-14",
-          "title": "Eurasia and Central Asia: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Eurasia and Central Asia: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -387,6 +523,57 @@
               "primary": true
             }
           ]
+        },
+        {
+          "date": "2026-09-14",
+          "title": "On this day in space! Sept. 14, 1966: NASA's Gemini 11 astronauts set altitude record for Earth orbit that went unbroken for 58 years",
+          "summary": "Space Exploration On this day in space! Sept. 14, 1966: NASA's Gemini 11 astronauts set altitude record for Earth orbit that went unbroken for 58 years News By Hanneke Weitering Contributions by <a href=\"https://www.space.com/author/tariq-malik\" class=\"vds-collabs__link whitespace-nowrap text-inh",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Space.com",
+              "title": "On this day in space! Sept. 14, 1966: NASA's Gemini 11 astronauts set altitude record for Earth orbit that went unbroken for 58 years",
+              "url": "https://www.space.com/space-exploration/on-this-day-in-space-september-14-2026",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-09-14",
+          "title": "SpaceX launches 80th Starlink mission of 2026 – Spaceflight Now",
+          "summary": "SpaceX launches 80th Starlink mission of 2026 September 5, 2026 Will Robinson-Smith A SpaceX Falcon 9 rocket lifts off from Space Launch Complex 4 East at Vandenberg Space Force Base on the Starlink 15-24 mission on Sept. 6, 2026. Image: SpaceX Update Sept. 5, 11:46 a.m. EDT (1546 UTC): SpaceX deployed its 27 Starlink satellites. SpaceX completed a Labor Day weekend launch of its Falcon 9 rocket from Vandenberg Space Force Base. The Sunday morning flight was the 80th Starlink mission this year.",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Spaceflight Now",
+              "title": "SpaceX launches 80th Starlink mission of 2026 – Spaceflight Now",
+              "url": "https://spaceflightnow.com/2026/09/05/live-coverage-spacex-to-launch-80th-starlink-mission-of-2026/",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-09-14",
+          "title": "Canada Investment Summit prospectus lists four space opportunities",
+          "summary": "The federal government is asking global investors to help finance four Canadian space-sector projects as part of the Canada Investment Summit that opened in Toronto on Monday. One company though has a CapEx figure we haven’t see publicly yet which is of interest. Prime Minister Mark Carney first announced the summit on April 17, pitching it as a way to help catalyze a trillion dollars in investment in Canada over five years. He returned to the theme Sunday evening at a welcome reception at the R",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "SpaceQ",
+              "title": "Canada Investment Summit prospectus lists four space opportunities",
+              "url": "https://spaceq.ca/canada-investment-summit-space-projects/",
+              "primary": true
+            }
+          ]
         }
       ]
     }
@@ -398,7 +585,10 @@
   "competitive_watch": [],
   "stats": {
     "record": "memory",
-    "source": "SpaceNews",
+    "sources": [
+      "Space.com",
+      "SpaceNews"
+    ],
     "stories": 16
   },
   "audio_script": "This is a memory record for 2026-09-14, not a spoken briefing. It keeps the SpaceNews stories dated this day so later editions can see what had already been reported.",

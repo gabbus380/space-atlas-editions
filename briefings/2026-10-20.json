@@ -9,7 +9,7 @@
     "Sound decisions will enable U.S. crewed lunar landings",
     "Chinese on-orbit servicing startup Space Robot raises funds for constellation plans"
   ],
-  "bottom_line": "Memory record drawn from SpaceNews for this date. It is not a full eight-desk sweep, and a desk with no mapped story is a gap in the harvest.",
+  "bottom_line": "Memory record for this date from the space newsrooms we can archive: Space.com, SpaceNews. It is not a full eight-desk sweep, and a desk with no mapped story is a gap in the harvest.",
   "global": [
     {
       "date": "2026-10-20",
@@ -146,6 +146,142 @@
           "primary": true
         }
       ]
+    },
+    {
+      "date": "2026-10-20",
+      "title": "Jeff Bezos is playing the long game with Blue Origin (op-ed)",
+      "summary": "Space Exploration Private Spaceflight Jeff Bezos is playing the long game with Blue Origin (op-ed) News",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "Jeff Bezos is playing the long game with Blue Origin (op-ed)",
+          "url": "https://www.space.com/space-exploration/private-spaceflight/jeff-bezos-is-playing-the-long-game-with-blue-origin-op-ed",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-10-20",
+      "title": "The view from the edge of a sparkling spiral galaxy",
+      "summary": "Astronomy Galaxies The view from the edge of a sparkling spiral galaxy | Space photo of the day for Oct. 20, 2026 News By <a href=\"https://www.space.com/author/chelsea-gohd\" class=\"font-normal no-underline normal-case text-inherit vds-author__link whitespace-break-spaces",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "The view from the edge of a sparkling spiral galaxy",
+          "url": "https://www.space.com/astronomy/galaxies/the-view-from-the-edge-of-a-spiral-galaxy-space-photo-of-the-day-for-oct-20-2026",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-10-20",
+      "title": "On this day in space! Oct. 20, 1970: The Soviet Union launches last-ever Zond moon mission",
+      "summary": "Space Exploration On this day in space! Oct. 20, 1970: The Soviet Union launches last-ever Zond moon mission News By Hanneke Weitering Contributions by <a href=\"https://www.space.com/author/tariq-malik\" class=\"vds-collabs__link whitespace-nowrap text-inherit inline-block normal-case no-underline",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "On this day in space! Oct. 20, 1970: The Soviet Union launches last-ever Zond moon mission",
+          "url": "https://www.space.com/space-exploration/on-this-day-in-space-october-20-2026",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-10-20",
+      "title": "How to use skywatching apps without ruining your night vision",
+      "summary": "Stargazing Skywatching Kit Red light, white light: How to preserve your night vision while using stargazing apps News By <a href=\"https://www.space.com/author/chris-mcmullen\" class=\"font-normal no-underline normal-case text-inherit vds-author__li",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "How to use skywatching apps without ruining your night vision",
+          "url": "https://www.space.com/stargazing/skywatching-kit/red-light-white-light-how-to-preserve-your-night-vision-while-using-stargazing-apps",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-10-20",
+      "title": "SpaceX will attempt 1st-ever double Starship rocket catch on next test launch, a 'profound technology milestone,' Elon Musk says",
+      "summary": "Space Exploration Launches & Spacecraft SpaceX will attempt 1st-ever double Starship rocket catch on next test launch, a 'profound technology milestone,' Elon Musk says News By <a href=\"htt",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "SpaceX will attempt 1st-ever double Starship rocket catch on next test launch, a 'profound technology milestone,' Elon Musk says",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-will-attempt-1st-ever-double-starship-rocket-catch-on-next-test-launch-a-profound-technology-milestone-elon-musk-says",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-10-20",
+      "title": "NASA closes the book on epic OSIRIS-REx asteroid-sampling mission: 'I am immensely proud of what we did'",
+      "summary": "Astronomy Solar System Asteroids NASA closes the book on epic OSIRIS-REx asteroid-sampling mission:",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "NASA closes the book on epic OSIRIS-REx asteroid-sampling mission: 'I am immensely proud of what we did'",
+          "url": "https://www.space.com/astronomy/asteroids/nasa-closes-the-book-on-epic-osiris-rex-asteroid-sampling-mission-i-am-immensely-proud-of-what-we-did",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-10-20",
+      "title": "A supercomputer is about to launch to the moon aboard a rover named FLIP",
+      "summary": "Space Exploration A supercomputer is about to launch to the moon aboard a rover named FLIP News By Chelsea Gohd Published 20",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "A supercomputer is about to launch to the moon aboard a rover named FLIP",
+          "url": "https://www.space.com/space-exploration/a-supercomputer-is-about-to-launch-to-the-moon-for-the-1st-time-aboard-a-rover-named-flip",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-10-20",
+      "title": "Can’t make it to the Lucas Museum of Narrative Art for the 'Star Wars' display? This is the companion book set you’re looking for!",
+      "summary": "Entertainment Space Books Can’t make it to the Lucas Museum of Narrative Art for the 'Star Wars' display? This is the companion book set you’re looking for! News By <a href=\"https://www.space.com/author/jeff-spry\" class=\"font-norma",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "Can’t make it to the Lucas Museum of Narrative Art for the 'Star Wars' display? This is the companion book set you’re looking for!",
+          "url": "https://www.space.com/entertainment/space-books/cant-make-it-to-the-lucas-museum-of-narrative-art-for-the-star-wars-display-this-is-the-companion-book-set-youre-looking-for",
+          "primary": true
+        }
+      ]
     }
   ],
   "regions": [
@@ -155,9 +291,9 @@
       "items": [
         {
           "date": "2026-10-20",
-          "title": "Nordics: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Nordics: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -171,13 +307,20 @@
       "items": [
         {
           "date": "2026-10-20",
-          "title": "Central and Eastern Europe: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Congress Seeks Answers On Starlink Disruptions in Ukraine",
+          "summary": "Senators are demanding answers about what caused the disruptions to SpaceX Starlink connectivity in Ukraine—and what consequences the comms outage had. Starlink terminals supporting Ukrainian operations reportedly had speed restrictions imposed between Oct. 12 and 14. The limitations impacted Ukrainian drone and aircraft operations, potentially impacting the military’s response to Russian drone and missile attacks, according to the senators, who also raised concerns about “glitches” that affecte",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
           "confidence": "low",
-          "status": "overview",
+          "status": "record",
           "iso3": [],
-          "sources": []
+          "sources": [
+            {
+              "outlet": "Payload",
+              "title": "Congress Seeks Answers On Starlink Disruptions in Ukraine",
+              "url": "https://payloadspace.com/senators-ask-ig-to-investigate-starlink-disruptions-in-ukraine/",
+              "primary": true
+            }
+          ]
         }
       ]
     },
@@ -187,9 +330,9 @@
       "items": [
         {
           "date": "2026-10-20",
-          "title": "Western and Southern Europe: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Western and Southern Europe: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -203,9 +346,9 @@
       "items": [
         {
           "date": "2026-10-20",
-          "title": "ESA and EU: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "ESA and EU: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -219,9 +362,9 @@
       "items": [
         {
           "date": "2026-10-20",
-          "title": "Türkiye, Middle East and Africa: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Türkiye, Middle East and Africa: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -235,9 +378,9 @@
       "items": [
         {
           "date": "2026-10-20",
-          "title": "Eurasia and Central Asia: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Eurasia and Central Asia: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -262,6 +405,57 @@
               "outlet": "SpaceNews",
               "title": "Chinese on-orbit servicing startup Space Robot raises funds for constellation plans",
               "url": "https://spacenews.com/chinese-on-orbit-servicing-startup-space-robot-raises-funds-for-constellation-plans/",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-10-20",
+          "title": "Japan launches mission to bring home a piece of the Martian moon Phobos",
+          "summary": "Sample return Japan launches mission to bring home a piece of the Martian moon Phobos <p class=\"text-gr",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Ars Technica",
+              "title": "Japan launches mission to bring home a piece of the Martian moon Phobos",
+              "url": "https://arstechnica.com/space/2026/10/japan-launches-mission-to-bring-home-a-piece-of-the-martian-moon-phobos/",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-10-20",
+          "title": "JAXA's Martian Moons eXploration Mission is on its Way to Mars and Phobos",
+          "summary": "JAXA's Martian Moons eXploration Mission is on its Way to Mars and Phobos By Evan Gough - October 20, 2026 08:09 PM UTC | Missions - 9.7K reads JAXA launched its MMX sample return mission to Phobos on October 20th. It was sent on its way in an H3 launch vehicle, Japan's next-generation heavy-lift launch vehicle. It will reach Mars in August 2027, and after several years will return a sample from Phobos to Earth. Image Credit: JAXA. JAXA, the Japan Aerospace Exploration Agency, has finally launch",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Universe Today",
+              "title": "JAXA's Martian Moons eXploration Mission is on its Way to Mars and Phobos",
+              "url": "https://www.universetoday.com/articles/jaxas-martian-moons-exploration-mission-is-on-its-way-to-mars-and-phobos",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-10-20",
+          "title": "Launch Preview: H3, Falcon 9, Electron, and others to launch during busy week",
+          "summary": "Nine rockets are set to launch this week from California, Florida, New Zealand, Japan, and&#8230; The post Launch Preview: H3, Falcon 9, Electron, and others to launch during busy week appeared first on NASASpaceFlight.com .",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "NASASpaceflight",
+              "title": "Launch Preview: H3, Falcon 9, Electron, and others to launch during busy week",
+              "url": "https://www.nasaspaceflight.com/2026/10/launch-preview-102026/",
               "primary": true
             }
           ]
@@ -373,6 +567,40 @@
               "primary": true
             }
           ]
+        },
+        {
+          "date": "2026-10-20",
+          "title": "Jeff Bezos is playing the long game with Blue Origin (op-ed)",
+          "summary": "Space Exploration Private Spaceflight Jeff Bezos is playing the long game with Blue Origin (op-ed) News",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Space.com",
+              "title": "Jeff Bezos is playing the long game with Blue Origin (op-ed)",
+              "url": "https://www.space.com/space-exploration/private-spaceflight/jeff-bezos-is-playing-the-long-game-with-blue-origin-op-ed",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-10-20",
+          "title": "SpaceX will attempt 1st-ever double Starship rocket catch on next test launch, a 'profound technology milestone,' Elon Musk says",
+          "summary": "Space Exploration Launches & Spacecraft SpaceX will attempt 1st-ever double Starship rocket catch on next test launch, a 'profound technology milestone,' Elon Musk says News By <a href=\"htt",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Space.com",
+              "title": "SpaceX will attempt 1st-ever double Starship rocket catch on next test launch, a 'profound technology milestone,' Elon Musk says",
+              "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-will-attempt-1st-ever-double-starship-rocket-catch-on-next-test-launch-a-profound-technology-milestone-elon-musk-says",
+              "primary": true
+            }
+          ]
         }
       ]
     }
@@ -384,8 +612,11 @@
   "competitive_watch": [],
   "stats": {
     "record": "memory",
-    "source": "SpaceNews",
-    "stories": 8
+    "sources": [
+      "Space.com",
+      "SpaceNews"
+    ],
+    "stories": 16
   },
   "audio_script": "This is a memory record for 2026-10-20, not a spoken briefing. It keeps the SpaceNews stories dated this day so later editions can see what had already been reported.",
   "audio_sections": [

@@ -9,7 +9,7 @@
     "Companies defend Bromo joint venture",
     "Vega launches two Earth science satellites"
   ],
-  "bottom_line": "Memory record drawn from SpaceNews for this date. It is not a full eight-desk sweep, and a desk with no mapped story is a gap in the harvest.",
+  "bottom_line": "Memory record for this date from the space newsrooms we can archive: Space.com, SpaceNews. It is not a full eight-desk sweep, and a desk with no mapped story is a gap in the harvest.",
   "global": [
     {
       "date": "2026-09-15",
@@ -146,6 +146,142 @@
           "primary": true
         }
       ]
+    },
+    {
+      "date": "2026-09-15",
+      "title": "US Space Force says it operates weapons in orbit: 'Our aim is deterrence'",
+      "summary": "Space Exploration Satellites US Space Force says it operates weapons in orbit: 'Our aim is deterrence' News By <a href=\"https://www.space.com/author/josh-dinner\" class=\"font-normal no-underline normal-case text-inherit vds-aut",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "US Space Force says it operates weapons in orbit: 'Our aim is deterrence'",
+          "url": "https://www.space.com/space-exploration/satellites/us-space-force-says-it-operates-weapons-in-orbit-our-aim-is-deterrence",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-15",
+      "title": "SpaceX pushes next Starship launch back to Sept. 28, a 6-day delay for megarocket's 1st orbital flight",
+      "summary": "Space Exploration Launches & Spacecraft SpaceX pushes next Starship launch back to Sept. 28, a 6-day delay for megarocket's 1st orbital flight News By <a href=\"https://www.space.com/author/",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "SpaceX pushes next Starship launch back to Sept. 28, a 6-day delay for megarocket's 1st orbital flight",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-next-starship-launch-now-on-sept-28-for-1st-orbital-flight",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-15",
+      "title": "Making rocket fuel out of Mars' thin air: New breakthrough could make it happen",
+      "summary": "Astronomy Solar System Mars Making rocket fuel out of Mars' thin air: New breakthrough could make it happen <d",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "Making rocket fuel out of Mars' thin air: New breakthrough could make it happen",
+          "url": "https://www.space.com/astronomy/mars/making-rocket-fuel-out-of-mars-thin-air-new-breakthrough-could-make-it-happen",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-15",
+      "title": "'The violence leaves a mark': How satellites are helping the world monitor war and atrocities",
+      "summary": "Space Exploration Satellites 'The violence leaves a mark': How satellites are helping the world monitor war and atrocities News By <a href=\"https://www.space.com/author/tereza-pultarova\" class=\"font-normal no-underline normal-",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "'The violence leaves a mark': How satellites are helping the world monitor war and atrocities",
+          "url": "https://www.space.com/space-exploration/satellites/the-violence-leaves-a-mark-how-satellites-are-helping-the-world-monitor-war-and-atrocities",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-15",
+      "title": "New 'StarCraft' game announced, but it's a grim open-world shooter and it's not coming until 2030",
+      "summary": "Entertainment Space Games New 'StarCraft' game announced, but it's a grim open-world shooter and it's not coming until 2030 News By <a href=\"https://www.space.com/author/fran-ruiz\" class=\"font-normal no-underline normal-case text-inherit vds-a",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "New 'StarCraft' game announced, but it's a grim open-world shooter and it's not coming until 2030",
+          "url": "https://www.space.com/entertainment/space-games/new-starcraft-game-announced-but-its-a-grim-open-world-shooter-and-its-not-coming-until-2030",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-15",
+      "title": "'Captain EO' at 40: Michael Jackson's wild sci-fi movie that you could only watch at Disney theme parks",
+      "summary": "Entertainment Space Movies & Shows 'Captain EO' at 40: Michael Jackson's wild sci-fi movie that you could only watch at Disney theme parks Features By <a href=\"https://www.space.com/author/jeff-spry\" clas",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "'Captain EO' at 40: Michael Jackson's wild sci-fi movie that you could only watch at Disney theme parks",
+          "url": "https://www.space.com/entertainment/space-movies-shows/captain-eo-at-40-michael-jacksons-wild-sci-fi-movie-that-you-could-only-watch-at-disney-theme-parks",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-15",
+      "title": "'If I wanted to go to space, I would have stayed at NASA': What's next for Artemis II astronaut Victor Glover after his mission to the moon",
+      "summary": "Space Exploration Missions Artemis 'If I wanted to go to space, I woul",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "'If I wanted to go to space, I would have stayed at NASA': What's next for Artemis II astronaut Victor Glover after his mission to the moon",
+          "url": "https://www.space.com/space-exploration/artemis/if-i-wanted-to-go-to-space-i-would-have-stayed-at-nasa-whats-next-for-artemis-ii-astronaut-victor-glover-after-his-mission-to-the-moon",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-15",
+      "title": "On this day in space! Sept. 15, 1968: Russian tortoises (& other critters) launch around the moon on Zond 5 spacecraft in wild first circumlunar flight",
+      "summary": "Space Exploration On this day in space! Sept. 15, 1968: Russian tortoises (& other critters) launch around the moon on Zond 5 spacecraft in wild first circumlunar flight News By Hanneke Weitering Contributions by <a href=\"https://www.space.com/author/tariq-malik\" class=\"vds-collabs__link whit",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "On this day in space! Sept. 15, 1968: Russian tortoises (& other critters) launch around the moon on Zond 5 spacecraft in wild first circumlunar flight",
+          "url": "https://www.space.com/space-exploration/on-this-day-in-space-september-15-2026",
+          "primary": true
+        }
+      ]
     }
   ],
   "regions": [
@@ -178,9 +314,9 @@
       "items": [
         {
           "date": "2026-09-15",
-          "title": "Central and Eastern Europe: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Central and Eastern Europe: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -194,13 +330,37 @@
       "items": [
         {
           "date": "2026-09-15",
-          "title": "Western and Southern Europe: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Maverick Books 10 Kepler Sats to Fill Excess Capacity On Portal’s Dedicated Launch",
+          "summary": "PARIS, FRANCE — Everybody’s looking for launch capacity these days, and for those who have it, the phones are ringing off the hook. Maverick Space Systems announced yesterday it booked 10 400-kg class Kepler Communications Tranche-2 sats to fly aboard Portal Space Systems’ Motus Via Sol mission, which is expected to launch on a SpaceX Falcon 9 in mid-2028. “Signing 10 Kepler communications Tranche-2 spacecraft to this mission fills the majority of the remaining capacity, leaving just a single ha",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
           "confidence": "low",
-          "status": "overview",
+          "status": "record",
           "iso3": [],
-          "sources": []
+          "sources": [
+            {
+              "outlet": "Payload",
+              "title": "Maverick Books 10 Kepler Sats to Fill Excess Capacity On Portal’s Dedicated Launch",
+              "url": "https://payloadspace.com/maverick-books-10-kepler-sats-to-fill-excess-capacity-on-portals-dedicated-launch/",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-09-15",
+          "title": "Launch preview: Avio to launch spacecraft to monitor plant health and ocean conditions – Spaceflight Now",
+          "summary": "Launch preview: Avio to launch spacecraft to monitor plant health and ocean conditions September 14, 2026 Will Robinson-Smith An artist’s interpretation of the Vega-C payload fairing halves separating to reveal the Sentinel-3C spacecraft on top of a Vespa adaptor, which houses the Fluorescence Explorer (FLEX) spacecraft. Graphic: ESA/P. Carril The penultimate Vega-C launch of the year is scheduled to take flight from Europe’s Spaceport in French Guiana Monday night. The launch, carrying the desi",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Spaceflight Now",
+              "title": "Launch preview: Avio to launch spacecraft to monitor plant health and ocean conditions – Spaceflight Now",
+              "url": "https://spaceflightnow.com/2026/09/14/live-coverage-avio-to-launch-spacecraft-to-monitor-plant-health-and-ocean-conditions/",
+              "primary": true
+            }
+          ]
         }
       ]
     },
@@ -224,6 +384,40 @@
               "primary": true
             }
           ]
+        },
+        {
+          "date": "2026-09-15",
+          "title": "Kuva Space Spots Illegal Poppy Farms from Orbit",
+          "summary": "Finnish hyperspectral satellite operator Kuva Space released data today from a pilot program that demonstrated its ability to monitor illegal crop farming from space. The study used Kuva’s Hyperfield-1 satellites to analyze an area in Afghanistan’s Helmand Province. It combined data from the EU’s Copernicus Sentinel-2 sats with 363 hyperspectral images gathered by Hyperfield to identify 8,835 potential poppy fields in a survey of ~250,000 agricultural plots in the area. New model, who dis: The r",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Payload",
+              "title": "Kuva Space Spots Illegal Poppy Farms from Orbit",
+              "url": "https://payloadspace.com/kuva-space-spots-illegal-poppy-farms-from-orbit/",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-09-15",
+          "title": "CubeSat Instrument Extends Solar Storm Warnings 10x",
+          "summary": "CubeSat Instrument Extends Solar Storm Warnings 10x By Laurence Tognetti, MSc - September 15, 2026 02:29 AM UTC | Solar Astronomy - 20K reads Diagram mapping HENON’s Distant Retrograde Orbit. (Credit: ESA/Argotec) Our Sun is the very reason life exists on our small, blue planet. It provides solar radiation that warms the planet and ignites the intricate biochemical processes like photosynthesis producing oxygen for life to breathe. However, while the Sun is known for giving life, it can also pot",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Universe Today",
+              "title": "CubeSat Instrument Extends Solar Storm Warnings 10x",
+              "url": "https://www.universetoday.com/articles/cubesat-instrument-extends-solar-storm-warnings-10x",
+              "primary": true
+            }
+          ]
         }
       ]
     },
@@ -233,9 +427,9 @@
       "items": [
         {
           "date": "2026-09-15",
-          "title": "Türkiye, Middle East and Africa: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Türkiye, Middle East and Africa: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -249,13 +443,20 @@
       "items": [
         {
           "date": "2026-09-15",
-          "title": "Eurasia and Central Asia: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "On this day in space! Sept. 15, 1968: Russian tortoises (& other critters) launch around the moon on Zond 5 spacecraft in wild first circumlunar flight",
+          "summary": "Space Exploration On this day in space! Sept. 15, 1968: Russian tortoises (& other critters) launch around the moon on Zond 5 spacecraft in wild first circumlunar flight News By Hanneke Weitering Contributions by <a href=\"https://www.space.com/author/tariq-malik\" class=\"vds-collabs__link whit",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
           "confidence": "low",
-          "status": "overview",
+          "status": "record",
           "iso3": [],
-          "sources": []
+          "sources": [
+            {
+              "outlet": "Space.com",
+              "title": "On this day in space! Sept. 15, 1968: Russian tortoises (& other critters) launch around the moon on Zond 5 spacecraft in wild first circumlunar flight",
+              "url": "https://www.space.com/space-exploration/on-this-day-in-space-september-15-2026",
+              "primary": true
+            }
+          ]
         }
       ]
     },
@@ -265,9 +466,9 @@
       "items": [
         {
           "date": "2026-09-15",
-          "title": "Asia Pacific: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Asia Pacific: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -329,6 +530,91 @@
               "primary": true
             }
           ]
+        },
+        {
+          "date": "2026-09-15",
+          "title": "US Space Force says it operates weapons in orbit: 'Our aim is deterrence'",
+          "summary": "Space Exploration Satellites US Space Force says it operates weapons in orbit: 'Our aim is deterrence' News By <a href=\"https://www.space.com/author/josh-dinner\" class=\"font-normal no-underline normal-case text-inherit vds-aut",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Space.com",
+              "title": "US Space Force says it operates weapons in orbit: 'Our aim is deterrence'",
+              "url": "https://www.space.com/space-exploration/satellites/us-space-force-says-it-operates-weapons-in-orbit-our-aim-is-deterrence",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-09-15",
+          "title": "SpaceX pushes next Starship launch back to Sept. 28, a 6-day delay for megarocket's 1st orbital flight",
+          "summary": "Space Exploration Launches & Spacecraft SpaceX pushes next Starship launch back to Sept. 28, a 6-day delay for megarocket's 1st orbital flight News By <a href=\"https://www.space.com/author/",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Space.com",
+              "title": "SpaceX pushes next Starship launch back to Sept. 28, a 6-day delay for megarocket's 1st orbital flight",
+              "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-next-starship-launch-now-on-sept-28-for-1st-orbital-flight",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-09-15",
+          "title": "'If I wanted to go to space, I would have stayed at NASA': What's next for Artemis II astronaut Victor Glover after his mission to the moon",
+          "summary": "Space Exploration Missions Artemis 'If I wanted to go to space, I woul",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Space.com",
+              "title": "'If I wanted to go to space, I would have stayed at NASA': What's next for Artemis II astronaut Victor Glover after his mission to the moon",
+              "url": "https://www.space.com/space-exploration/artemis/if-i-wanted-to-go-to-space-i-would-have-stayed-at-nasa-whats-next-for-artemis-ii-astronaut-victor-glover-after-his-mission-to-the-moon",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-09-15",
+          "title": "SpaceX launches 2nd classified mission for US Space Force in less than a week (video, photos)",
+          "summary": "Space Exploration Launches & Spacecraft SpaceX launches 2nd classified mission for US Space Force in less than a week (video, photos) News By <a href=\"https://www.space.com/author/mike-wall",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Space.com",
+              "title": "SpaceX launches 2nd classified mission for US Space Force in less than a week (video, photos)",
+              "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launching-2nd-classified-mission-for-us-space-force-in-less-than-a-week-tonight-watch-it-live",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-09-15",
+          "title": "NASA's Roman Space Telescope doubles its lifetime with super-precise engine burn",
+          "summary": "Astronomy 22 years of science! NASA's Roman Space Telescope doubles its lifetime with super-precise engine burn News By Keith Cooper Published 15 Se",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Space.com",
+              "title": "NASA's Roman Space Telescope doubles its lifetime with super-precise engine burn",
+              "url": "https://www.space.com/astronomy/22-years-of-science-nasas-roman-space-telescope-doubles-its-lifetime-with-super-precise-engine-burn",
+              "primary": true
+            }
+          ]
         }
       ]
     }
@@ -340,8 +626,11 @@
   "competitive_watch": [],
   "stats": {
     "record": "memory",
-    "source": "SpaceNews",
-    "stories": 8
+    "sources": [
+      "Space.com",
+      "SpaceNews"
+    ],
+    "stories": 16
   },
   "audio_script": "This is a memory record for 2026-09-15, not a spoken briefing. It keeps the SpaceNews stories dated this day so later editions can see what had already been reported.",
   "audio_sections": [

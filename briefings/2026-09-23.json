@@ -9,7 +9,7 @@
     "Space Force orders another Mira vehicle from Impulse Space for surveillance mission",
     "Hubble raises $200 million to expand Bluetooth satellite constellation"
   ],
-  "bottom_line": "Memory record drawn from SpaceNews for this date. It is not a full eight-desk sweep, and a desk with no mapped story is a gap in the harvest.",
+  "bottom_line": "Memory record for this date from the space newsrooms we can archive: Space.com, SpaceNews. It is not a full eight-desk sweep, and a desk with no mapped story is a gap in the harvest.",
   "global": [
     {
       "date": "2026-09-23",
@@ -146,6 +146,142 @@
           "primary": true
         }
       ]
+    },
+    {
+      "date": "2026-09-23",
+      "title": "SpaceX stacks massive Starship rocket ahead of 1st orbital launch attempt (video)",
+      "summary": "Space Exploration Launches & Spacecraft SpaceX stacks massive Starship rocket ahead of 1st orbital launch attempt (video) News By <a href=\"https://www.space.com/author/josh-dinner\" class=\"f",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "SpaceX stacks massive Starship rocket ahead of 1st orbital launch attempt (video)",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-stacks-massive-starship-rocket-ahead-of-1st-orbital-launch-attempt-video",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-23",
+      "title": "Asteroid-mining company AstroForge to launch world's 1st autonomous space mission in 2027",
+      "summary": "Technology 'Without a single command from the ground': Asteroid-mining company to launch world's 1st autonomous space mission in 2027 News By Mike Wall Published <time data-component-name=\"UI:DateTime\" datetime=\"2026-09-23T15:00:00Z\" class=\"relative",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "Asteroid-mining company AstroForge to launch world's 1st autonomous space mission in 2027",
+          "url": "https://www.space.com/technology/without-a-single-command-from-the-ground-asteroid-mining-company-to-launch-worlds-1st-autonomous-space-mission-in-2027",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-23",
+      "title": "James Webb Space Telescope finds water near our nearest supermassive black hole",
+      "summary": "Astronomy James Webb Space Telescope finds water near our nearest supermassive black hole | Space photo of the day for Sept. 23, 2026 News By Chelsea Gohd Published <time data-component-name=\"UI:DateTime\" datetime=\"2026-09-23T14:00:00Z\" class=",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "James Webb Space Telescope finds water near our nearest supermassive black hole",
+          "url": "https://www.space.com/astronomy/james-webb-space-telescope-finds-water-near-our-nearest-supermassive-black-hole-space-photo-of-the-day-for-sept-23-2026",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-23",
+      "title": "SpaceX's next astronaut launch for NASA now set for Oct. 1 after delay",
+      "summary": "Space Exploration Launches & Spacecraft SpaceX's next astronaut launch for NASA now set for Oct. 1 after delay News By <a href=\"https://www.space.com/author/mike-wall\" class=\"font-normal no",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "SpaceX's next astronaut launch for NASA now set for Oct. 1 after delay",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/spacexs-next-astronaut-launch-for-nasa-now-set-for-oct-1-after-delay",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-23",
+      "title": "SpaceX Starship Flight 14 live updates: Starship is in orbit!",
+      "summary": "Space Exploration Launches & Spacecraft SpaceX Starship Flight 14 live updates: Mission success! SpaceX Starship Flight 14 is underway. News <div class=\"my-auto vds-simple-byli",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "SpaceX Starship Flight 14 live updates: Starship is in orbit!",
+          "url": "https://www.space.com/news/live/spacex-starship-flight-14-live-updates-sept-28-2026-starship-first-orbital-launch-attempt",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-23",
+      "title": "12.5 trillion tons of polar ice has disappeared since the 70s, longest satellite record shows",
+      "summary": "Science Climate Change 12.5 trillion tons of polar ice has disappeared since the 70s, longest satellite record shows News By <a href=\"https://www.space.com/author/chelsea-gohd\" class=\"font-normal no-underline normal-case text-inherit vds-author__link whitespace-br",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "12.5 trillion tons of polar ice has disappeared since the 70s, longest satellite record shows",
+          "url": "https://www.space.com/science/climate-change/12-5-trillion-tons-of-polar-ice-has-disappeared-since-the-70s-longest-satellite-record-shows",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-23",
+      "title": "Could warp drives ever be possible?",
+      "summary": "Space Exploration Could warp drives ever be possible? News By Micah Hanks Published 23 September 2026 </",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "Could warp drives ever be possible?",
+          "url": "https://www.space.com/space-exploration/could-warp-drives-ever-be-possible",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-23",
+      "title": "'Dark Skies' at 30: An alternative US history viewed through a prism of 'X-Files' paranoia",
+      "summary": "Entertainment Space Movies & Shows 'Dark Skies' at 30: An alternative US history viewed through a prism of 'X-Files' paranoia Features By <a href=\"https://www.space.com/author/richard-edwards\" class=\"font",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "'Dark Skies' at 30: An alternative US history viewed through a prism of 'X-Files' paranoia",
+          "url": "https://www.space.com/entertainment/space-movies-shows/dark-skies-at-30-an-alternative-us-history-viewed-through-a-prism-of-x-files-paranoia",
+          "primary": true
+        }
+      ]
     }
   ],
   "regions": [
@@ -155,9 +291,9 @@
       "items": [
         {
           "date": "2026-09-23",
-          "title": "Nordics: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Nordics: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -171,9 +307,9 @@
       "items": [
         {
           "date": "2026-09-23",
-          "title": "Central and Eastern Europe: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Central and Eastern Europe: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -187,9 +323,9 @@
       "items": [
         {
           "date": "2026-09-23",
-          "title": "Western and Southern Europe: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Western and Southern Europe: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -217,6 +353,23 @@
               "primary": true
             }
           ]
+        },
+        {
+          "date": "2026-09-23",
+          "title": "JUICE Mission to Swing by Earth on September 28",
+          "summary": "JUICE Mission to Swing by Earth on September 28 By Matthew Williams - September 23, 2026 09:20 PM UTC | Missions - 28K reads Infographic showing Juice's flight past Earth with a dotted orange line. Credit: ESA On April 23rd, the European Space Agency launched its JUpiter ICy moons Explorer (JUICE), a robotic explorer mission bound for Jupiter's moons Ganymede and Europa. Since then, mission controllers have performed several maneuvers intended to put the spacecraft on a trajectory that will depo",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Universe Today",
+              "title": "JUICE Mission to Swing by Earth on September 28",
+              "url": "https://www.universetoday.com/articles/juice-mission-to-swing-by-earth-on-september-28",
+              "primary": true
+            }
+          ]
         }
       ]
     },
@@ -226,9 +379,9 @@
       "items": [
         {
           "date": "2026-09-23",
-          "title": "Türkiye, Middle East and Africa: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Türkiye, Middle East and Africa: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -242,9 +395,9 @@
       "items": [
         {
           "date": "2026-09-23",
-          "title": "Eurasia and Central Asia: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Eurasia and Central Asia: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -286,6 +439,23 @@
               "outlet": "SpaceNews",
               "title": "China continues rapid launch cadence with Long March 2D, Kinetica-1 missions",
               "url": "https://spacenews.com/china-continues-rapid-launch-cadence-with-long-march-2d-kinetica-1-missions/",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-09-23",
+          "title": "Former NASA chief sounds alarm on China's lunar \"exploration\" plans",
+          "summary": "Red flag warning Former NASA chief sounds alarm on China’s lunar “exploration” plans “",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Ars Technica",
+              "title": "Former NASA chief sounds alarm on China's lunar \"exploration\" plans",
+              "url": "https://arstechnica.com/space/2026/09/former-nasa-chief-sounds-alarm-on-chinas-lunar-exploration-plans/",
               "primary": true
             }
           ]
@@ -363,6 +533,74 @@
               "primary": true
             }
           ]
+        },
+        {
+          "date": "2026-09-23",
+          "title": "SpaceX stacks massive Starship rocket ahead of 1st orbital launch attempt (video)",
+          "summary": "Space Exploration Launches & Spacecraft SpaceX stacks massive Starship rocket ahead of 1st orbital launch attempt (video) News By <a href=\"https://www.space.com/author/josh-dinner\" class=\"f",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Space.com",
+              "title": "SpaceX stacks massive Starship rocket ahead of 1st orbital launch attempt (video)",
+              "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-stacks-massive-starship-rocket-ahead-of-1st-orbital-launch-attempt-video",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-09-23",
+          "title": "SpaceX's next astronaut launch for NASA now set for Oct. 1 after delay",
+          "summary": "Space Exploration Launches & Spacecraft SpaceX's next astronaut launch for NASA now set for Oct. 1 after delay News By <a href=\"https://www.space.com/author/mike-wall\" class=\"font-normal no",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Space.com",
+              "title": "SpaceX's next astronaut launch for NASA now set for Oct. 1 after delay",
+              "url": "https://www.space.com/space-exploration/launches-spacecraft/spacexs-next-astronaut-launch-for-nasa-now-set-for-oct-1-after-delay",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-09-23",
+          "title": "SpaceX Starship Flight 14 live updates: Starship is in orbit!",
+          "summary": "Space Exploration Launches & Spacecraft SpaceX Starship Flight 14 live updates: Mission success! SpaceX Starship Flight 14 is underway. News <div class=\"my-auto vds-simple-byli",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Space.com",
+              "title": "SpaceX Starship Flight 14 live updates: Starship is in orbit!",
+              "url": "https://www.space.com/news/live/spacex-starship-flight-14-live-updates-sept-28-2026-starship-first-orbital-launch-attempt",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-09-23",
+          "title": "Vast Announces New Lunar Programs Division",
+          "summary": "Just like your favorite Pokémon, Vast is evolving! The space infrastructure company is establishing a Lunar Programs division, Vast announced today. The company will build on its commercial space station and satellite development work to support NASA’s Moon Base ambitions. “Vast has the manufacturing capability, flight heritage, and technical expertise needed to help build humanity’s first lunar outpost,” Vast CEO Max Haot said in a statement. “By vertically integrating the engineering, manufact",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Payload",
+              "title": "Vast Announces New Lunar Programs Division",
+              "url": "https://payloadspace.com/vast-announces-new-lunar-programs/",
+              "primary": true
+            }
+          ]
         }
       ]
     }
@@ -374,8 +612,11 @@
   "competitive_watch": [],
   "stats": {
     "record": "memory",
-    "source": "SpaceNews",
-    "stories": 10
+    "sources": [
+      "Space.com",
+      "SpaceNews"
+    ],
+    "stories": 16
   },
   "audio_script": "This is a memory record for 2026-09-23, not a spoken briefing. It keeps the SpaceNews stories dated this day so later editions can see what had already been reported.",
   "audio_sections": [

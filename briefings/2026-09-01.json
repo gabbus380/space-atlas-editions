@@ -9,7 +9,7 @@
     "PLD Space raises an additional $125 million",
     "Planet Tanager-2 and 18 SuperDoves arrive at launch site"
   ],
-  "bottom_line": "Memory record drawn from SpaceNews for this date. It is not a full eight-desk sweep, and a desk with no mapped story is a gap in the harvest.",
+  "bottom_line": "Memory record for this date from the space newsrooms we can archive: Space.com, SpaceNews. It is not a full eight-desk sweep, and a desk with no mapped story is a gap in the harvest.",
   "global": [
     {
       "date": "2026-09-01",
@@ -146,6 +146,142 @@
           "primary": true
         }
       ]
+    },
+    {
+      "date": "2026-09-01",
+      "title": "On this day in space! Sept. 1, 1979: NASA's Pioneer 11 probe becomes 1st spacecraft to visit Saturn",
+      "summary": "Space Exploration On this day in space! Sept. 1, 1979: NASA's Pioneer 11 probe becomes 1st spacecraft to visit Saturn News By Hanneke Weitering Contributions by <a href=\"https://www.space.com/author/tariq-malik\" class=\"vds-collabs__link whitespace-nowrap text-inherit inline-block normal-case no-u",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "On this day in space! Sept. 1, 1979: NASA's Pioneer 11 probe becomes 1st spacecraft to visit Saturn",
+          "url": "https://www.space.com/space-exploration/on-this-day-in-space-september-1-2026",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-01",
+      "title": "NASA's Roman Space Telescope is just one of a few missions named after real-life women",
+      "summary": "Space Exploration Missions NASA's Roman Space Telescope is just one of a few missions named after real-life women News By <a href=\"https://www.space.com/author/elizabeth-howell\" class=\"font-normal no-underline normal-case text-inher",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "NASA's Roman Space Telescope is just one of a few missions named after real-life women",
+          "url": "https://www.space.com/space-exploration/missions/nasas-roman-space-telescope-is-just-one-of-a-few-missions-named-after-real-life-women",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-01",
+      "title": "Scientists trace 7 stages of a meteorite's life, from hurtling space rock to Earth's surface",
+      "summary": "Stargazing Meteors & Meteor Showers Scientists trace 7 stages of a meteorite's life, from hurtling space rock to Earth's surface News By <a href=\"https://www.space.com/author/robert-lea\" class=\"font-normal no-underline normal-case",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "Scientists trace 7 stages of a meteorite's life, from hurtling space rock to Earth's surface",
+          "url": "https://www.space.com/stargazing/meteor-showers/scientists-trace-7-stages-of-a-meteorites-life-from-hurtling-space-rock-to-earths-surface",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-01",
+      "title": "Repairing the ISS 250 miles above Earth",
+      "summary": "Space.com published this story on 2026-09-01.",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "Repairing the ISS 250 miles above Earth",
+          "url": "https://www.space.com/space-exploration/international-space-station/repairing-the-iss-250-miles-above-earth-space-photo-of-the-day-for-sept-1-2026",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-01",
+      "title": "Two astronauts replace ISS camera and docking aid on 6th-ever all-female spacewalk (video)",
+      "summary": "Space.com published this story on 2026-09-01.",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "Two astronauts replace ISS camera and docking aid on 6th-ever all-female spacewalk (video)",
+          "url": "https://www.space.com/space-exploration/international-space-station/two-astronauts-replace-iss-camera-and-docking-aid-on-6th-ever-all-female-spacewalk-video",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-01",
+      "title": "The 12 best sci-fi movies of the 2000s",
+      "summary": "Entertainment Space Movies & Shows The 12 best sci-fi movies of the 2000s Features By <a href=\"https://www.space.com/author/grace-dean\" class=\"font-normal no-underline normal-case text-inherit vds-author_",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "The 12 best sci-fi movies of the 2000s",
+          "url": "https://www.space.com/entertainment/space-movies-shows/the-12-best-sci-fi-movies-of-the-2000s",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-01",
+      "title": "5 planets will light up the September sky — here's how to see them",
+      "summary": "Stargazing 5 planets will light up the September sky — here's how to see them News By Joe Rao Published 1 September 2026 <span class=\"vds-",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "5 planets will light up the September sky — here's how to see them",
+          "url": "https://www.space.com/stargazing/5-planets-will-light-up-the-september-sky-heres-how-to-see-them",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-01",
+      "title": "Nonprofit wants to launch 80,000-year mission to Alpha Centauri in 2029 (video)",
+      "summary": "Space Exploration Nonprofit wants to launch 80,000-year mission to Alpha Centauri in 2029 (video) News By Mike Wall Published 1 Septe",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "Nonprofit wants to launch 80,000-year mission to Alpha Centauri in 2029 (video)",
+          "url": "https://www.space.com/space-exploration/nonprofit-wants-to-launch-80-000-year-mission-to-alpha-centauri-in-2029-video",
+          "primary": true
+        }
+      ]
     }
   ],
   "regions": [
@@ -155,9 +291,9 @@
       "items": [
         {
           "date": "2026-09-01",
-          "title": "Nordics: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Nordics: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -217,13 +353,20 @@
       "items": [
         {
           "date": "2026-09-01",
-          "title": "ESA and EU: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Astronomers Find Little Red Dots About to Merge",
+          "summary": "Astronomers Find Little Red Dots About to Merge By Evan Gough - September 01, 2026 09:57 PM UTC | Black Holes - 36K reads These panels show four of the JWST's Little Red Dots (LRD). Over 300 have been found, and they seem to exist between about 600 million and 1.6 billion years after the Big Bang. Are they the precursors to supermassive black holes? Image Credit: NASA, ESA, CSA, STScI, D. Kocevski (Colby College) There's widespread agreement that large galaxies in today's Universe host supermass",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
           "confidence": "low",
-          "status": "overview",
+          "status": "record",
           "iso3": [],
-          "sources": []
+          "sources": [
+            {
+              "outlet": "Universe Today",
+              "title": "Astronomers Find Little Red Dots About to Merge",
+              "url": "https://www.universetoday.com/articles/astronomers-find-little-red-dots-about-to-merge",
+              "primary": true
+            }
+          ]
         }
       ]
     },
@@ -256,9 +399,9 @@
       "items": [
         {
           "date": "2026-09-01",
-          "title": "Eurasia and Central Asia: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Eurasia and Central Asia: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -283,6 +426,40 @@
               "outlet": "SpaceNews",
               "title": "Galactic Energy’s Pallas-1 rocket reaches orbit on debut launch",
               "url": "https://spacenews.com/galactic-energys-pallas-1-rocket-reaches-orbit-on-debut-launch/",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-09-01",
+          "title": "What happens to Canadian science in orbit after the International Space Station is decommissioned?",
+          "summary": "The International Space Station (ISS) is scheduled to be decommissioned in 2030, and the central question everybody’s asking is: what’s next? The answer, at least outside of China, is commercially owned and operated space stations: ones that do much of what the ISS does, but with different approaches and structures. Though NASA’s “Ignition” event in March did suggest it may be rethinking that approach, the agency ultimately announced in May that it would be sticking with its Commercial Low Earth",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "SpaceQ",
+              "title": "What happens to Canadian science in orbit after the International Space Station is decommissioned?",
+              "url": "https://spaceq.ca/what-happens-to-canadian-science-in-orbit-after-the-international-space-station-is-decommissioned/",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-09-01",
+          "title": "Scientists Model the True Darkness of Venus’s Mysterious UV Absorber",
+          "summary": "Scientists Model the True Darkness of Venus’s Mysterious UV Absorber By Andy Tomaswick - September 01, 2026 03:41 PM UTC | Astrobiology - 20K reads Global view of Venus as seen from the Akatsuki spacecraft. Credit - JAXA / ISAS / DARTS / Damia Bouic As any amateur astronomer can tell you, Venus is famous for its yellow coloration in visible light. But, ask a professional planetary scientist and they will tell you the strangest thing about Venus is how it appears in ultraviolet. In this spectrum,",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Universe Today",
+              "title": "Scientists Model the True Darkness of Venus’s Mysterious UV Absorber",
+              "url": "https://www.universetoday.com/articles/scientists-model-the-true-darkness-of-venuss-mysterious-uv-absorber",
               "primary": true
             }
           ]
@@ -326,6 +503,108 @@
               "primary": true
             }
           ]
+        },
+        {
+          "date": "2026-09-01",
+          "title": "On this day in space! Sept. 1, 1979: NASA's Pioneer 11 probe becomes 1st spacecraft to visit Saturn",
+          "summary": "Space Exploration On this day in space! Sept. 1, 1979: NASA's Pioneer 11 probe becomes 1st spacecraft to visit Saturn News By Hanneke Weitering Contributions by <a href=\"https://www.space.com/author/tariq-malik\" class=\"vds-collabs__link whitespace-nowrap text-inherit inline-block normal-case no-u",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Space.com",
+              "title": "On this day in space! Sept. 1, 1979: NASA's Pioneer 11 probe becomes 1st spacecraft to visit Saturn",
+              "url": "https://www.space.com/space-exploration/on-this-day-in-space-september-1-2026",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-09-01",
+          "title": "NASA's Roman Space Telescope is just one of a few missions named after real-life women",
+          "summary": "Space Exploration Missions NASA's Roman Space Telescope is just one of a few missions named after real-life women News By <a href=\"https://www.space.com/author/elizabeth-howell\" class=\"font-normal no-underline normal-case text-inher",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Space.com",
+              "title": "NASA's Roman Space Telescope is just one of a few missions named after real-life women",
+              "url": "https://www.space.com/space-exploration/missions/nasas-roman-space-telescope-is-just-one-of-a-few-missions-named-after-real-life-women",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-09-01",
+          "title": "Exclusive: Helogen Plans Two In-Orbit Manufacturing Missions in October",
+          "summary": "In-space manufacturing startup Helogen today announced two upcoming missions of its HEL-IOS biomaterials manufacturing platform, both scheduled to launch in October. The missions will fly on separate SpaceX launch vehicles, and aim to demonstrate Helogen’s ability to manufacture biological materials on orbit—once for a customer, and once for Helogen’s internally developed products. While Helogen has flown subsystems in the past, the missions will mark the first flights of the entire HEL-IOS plat",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Payload",
+              "title": "Exclusive: Helogen Plans Two In-Orbit Manufacturing Missions in October",
+              "url": "https://payloadspace.com/exclusive-helogen-plans-two-in-orbit-manufacturing-missions-in-october/",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-09-01",
+          "title": "SpaceX launches Starlink mission on a Falcon booster’s record-breaking 37th flight – Spaceflight Now",
+          "summary": "SpaceX launches Starlink mission on a Falcon booster’s record-breaking 37th flight August 24, 2026 Will Robinson-Smith A streak shot of SpaceX’s Falcon 9 rocket as it lifted off from Space Launch Complex 40 at Cape Canaveral Space Force Base on the Starlink 10-49 mission on Aug. 25, 2026. Image: Michael Cain/Spaceflight Now Update Aug. 25, 7:18 a.m. EDT (1118 UTC): SpaceX confirms deployment of the Starlink satellites. SpaceX launched a Falcon 9 rocket from Florida early Tuesday morning, using a",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Spaceflight Now",
+              "title": "SpaceX launches Starlink mission on a Falcon booster’s record-breaking 37th flight – Spaceflight Now",
+              "url": "https://spaceflightnow.com/2026/08/24/live-coverage-spacex-to-launch-starlink-mission-on-a-falcon-boosters-record-breaking-37th-flight/",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-09-01",
+          "title": "It turns out that Orion's much-maligned heat shield performed really well",
+          "summary": "A happy ASAP It turns out that Orion’s much-maligned heat shield performed really well Independent safety officials also have high praise for changes by NASA leadership.",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Ars Technica",
+              "title": "It turns out that Orion's much-maligned heat shield performed really well",
+              "url": "https://arstechnica.com/space/2026/09/it-turns-out-that-orions-much-maligned-heat-shield-performed-really-well/",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-09-01",
+          "title": "Mars's Interior is 400°C Hotter Under Southern Hemisphere",
+          "summary": "Mars's Interior is 400°C Hotter Under Southern Hemisphere By Laurence Tognetti, MSc - September 01, 2026 04:37 AM UTC | Planetary Science - 28K reads Artist's illustration of Mars's hotter southern interior. (Credit: Artist concept: NASA / Theophilus Britt Griswold) The planet Mars is a cold and dry world completely devoid of life, but billions of years ago things were much different. This is when Mars had a much warmer interior than it does today, resulting in active volcanism that replenished",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Universe Today",
+              "title": "Mars's Interior is 400°C Hotter Under Southern Hemisphere",
+              "url": "https://www.universetoday.com/articles/marss-interior-is-400c-hotter-under-southern-hemisphere",
+              "primary": true
+            }
+          ]
         }
       ]
     }
@@ -337,8 +616,11 @@
   "competitive_watch": [],
   "stats": {
     "record": "memory",
-    "source": "SpaceNews",
-    "stories": 8
+    "sources": [
+      "Space.com",
+      "SpaceNews"
+    ],
+    "stories": 16
   },
   "audio_script": "This is a memory record for 2026-09-01, not a spoken briefing. It keeps the SpaceNews stories dated this day so later editions can see what had already been reported.",
   "audio_sections": [

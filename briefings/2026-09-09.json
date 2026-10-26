@@ -9,7 +9,7 @@
     "International Space Summit to highlight European and global space issues",
     "Besxar tests semiconductor production on Falcon 9 boosters"
   ],
-  "bottom_line": "Memory record drawn from SpaceNews for this date. It is not a full eight-desk sweep, and a desk with no mapped story is a gap in the harvest.",
+  "bottom_line": "Memory record for this date from the space newsrooms we can archive: Space.com, SpaceNews. It is not a full eight-desk sweep, and a desk with no mapped story is a gap in the harvest.",
   "global": [
     {
       "date": "2026-09-09",
@@ -146,6 +146,142 @@
           "primary": true
         }
       ]
+    },
+    {
+      "date": "2026-09-09",
+      "title": "International Space Station astronaut gives out of this world tribute to honor Star Trek’s 60th anniversary",
+      "summary": "Space Exploration International Space Station astronaut gives out of this world tribute to honor Star Trek’s 60th anniversary News By Josh Dinner Published <time data-component-name=\"UI:DateTime\" datetime=\"2026-09-09",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "International Space Station astronaut gives out of this world tribute to honor Star Trek’s 60th anniversary",
+          "url": "https://www.space.com/space-exploration/international-space-station-astronaut-gives-out-of-this-world-tribute-to-honor-star-treks-60th-anniversary",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-09",
+      "title": "Astronomers discover two stars that joined together to form a binary system just 60 years ago",
+      "summary": "Astronomy Stars Astronomers discover two stars that joined together to form a binary system just 60 years ago News By <a href=\"https://www.space.com/author/robert-lea\" class=\"font-normal no-underline normal-case text-inherit vds-author__link whitespace-break-spaces hover:underline",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "Astronomers discover two stars that joined together to form a binary system just 60 years ago",
+          "url": "https://www.space.com/astronomy/stars/astronomers-discover-two-stars-that-joined-together-to-form-a-binary-system-just-60-years-ago",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-09",
+      "title": "US military practices orbital dogfighting in 1st-ever 'live fly' exercise in space",
+      "summary": "Space Exploration Satellites US military practices orbital dogfighting in 1st-ever 'live fly' exercise in space News By <a href=\"https://www.space.com/author/brett-tingley\" class=\"font-normal no-underline normal-case text-inhe",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "US military practices orbital dogfighting in 1st-ever 'live fly' exercise in space",
+          "url": "https://www.space.com/space-exploration/satellites/us-military-practices-orbital-dogfighting-in-1st-ever-live-fly-exercise-in-space",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-09",
+      "title": "On this day in space! Sept. 9, 1982: The 1st private rocket, called Conestoga 1, launches from a Texas cattle ranch",
+      "summary": "Space Exploration On this day in space! Sept. 9, 1982: The 1st private rocket, called Conestoga 1, launches from a Texas cattle ranch News By Hanneke Weitering Contributions by <a href=\"https://www.space.com/author/tariq-malik\" class=\"vds-collabs__link whitespace-nowrap text-inherit inline-block",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "On this day in space! Sept. 9, 1982: The 1st private rocket, called Conestoga 1, launches from a Texas cattle ranch",
+          "url": "https://www.space.com/space-exploration/on-this-day-in-space-september-9-2026",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-09",
+      "title": "Last chance! This retired Lego Marvel Baby Rocket Raccoon's Ship is 40% off",
+      "summary": "Entertainment Space Toys & Lego Now 40% off, it's your last chance to grab this retired Lego Marvel Baby Rocket Raccoon's Ship, including the most adorable Lego figure ever News By <a href=\"https://www.space.com/author/ch",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "Last chance! This retired Lego Marvel Baby Rocket Raccoon's Ship is 40% off",
+          "url": "https://www.space.com/entertainment/space-toys-lego/now-40-percent-off-its-your-last-chance-to-grab-this-retired-lego-marvel-baby-rocket-raccoons-ship-including-the-most-adorable-lego-figure-ever",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-09",
+      "title": "NASA's newly launched Roman Space Telescope will 'directly' image exoplanets. But what does that mean?",
+      "summary": "Astronomy Exoplanets NASA's newly launched Roman Space Telescope will 'directly' image exoplanets. But what does that mean? News By <a href=\"https://www.space.com/author/monisha-ravisetti\" class=\"font-normal no-underline normal-case text-inherit vds-author__link whi",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "NASA's newly launched Roman Space Telescope will 'directly' image exoplanets. But what does that mean?",
+          "url": "https://www.space.com/astronomy/exoplanets/nasas-newly-launched-roman-space-telescope-will-directly-image-exoplanets-but-what-does-that-mean",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-09",
+      "title": "A ghostly pyramid of light is about to appear before dawn — here's how to see it",
+      "summary": "Stargazing A ghostly pyramid of light is about to appear before dawn — here's how to see it News By Daisy Dobrijevic , <a href=\"https://www.space.com/author/jules-pierre-malartre\" class=\"font-normal no-underline normal-case text-inherit vds-author__link whitespace-break-spaces hover:underline hover:decoration-primary-500 underline-offset-2\" rel=\"author\" aria-label=\"View profile for Jules-Pierre Malartre\" data-before-rewrite-localise=\"https://www.space.c",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "A ghostly pyramid of light is about to appear before dawn — here's how to see it",
+          "url": "https://www.space.com/stargazing/a-ghostly-pyramid-of-light-is-about-to-appear-before-dawn-heres-how-to-see-the-zodiacal-light-2026",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-09",
+      "title": "China on track to launch Mars sample-return mission in 2028: 'If accurate, this represents a Sputnik moment'",
+      "summary": "Astronomy Solar System Mars <img alt=\"SPACE.com Columnist Leonard David\" src=\"https://www.",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "China on track to launch Mars sample-return mission in 2028: 'If accurate, this represents a Sputnik moment'",
+          "url": "https://www.space.com/astronomy/mars/china-on-track-to-launch-mars-sample-return-mission-in-2028-if-accurate-this-represents-a-sputnik-moment",
+          "primary": true
+        }
+      ]
     }
   ],
   "regions": [
@@ -155,9 +291,9 @@
       "items": [
         {
           "date": "2026-09-09",
-          "title": "Nordics: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Nordics: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -171,9 +307,9 @@
       "items": [
         {
           "date": "2026-09-09",
-          "title": "Central and Eastern Europe: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Central and Eastern Europe: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -201,6 +337,23 @@
               "primary": true
             }
           ]
+        },
+        {
+          "date": "2026-09-09",
+          "title": "Eutelsat Taps Infinite Orbits for GEO Life Extension Mission",
+          "summary": "Eutelsat and Infinite Orbits announced an agreement today—on the sidelines of the International Space Summit in Paris—paving a pathway for the French satellite-servicing company to increase the life span of at least one of Eutelsat’s GEO satellites. The mission is yet another example of the increasing demand from satellite-servicing missions from GEO operators. It is the third order for a life-extension mission for Infinite Orbits, following last year’s agreement with SES , and a similar agreeme",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Payload",
+              "title": "Eutelsat Taps Infinite Orbits for GEO Life Extension Mission",
+              "url": "https://payloadspace.com/eutelsat-taps-infinite-orbits-for-geo-life-extension-mission/",
+              "primary": true
+            }
+          ]
         }
       ]
     },
@@ -224,6 +377,74 @@
               "primary": true
             }
           ]
+        },
+        {
+          "date": "2026-09-09",
+          "title": "Widespread Turbulence is Upsetting Star Formation in Stephan's Quintet",
+          "summary": "Widespread Turbulence is Upsetting Star Formation in Stephan's Quintet By Evan Gough - September 09, 2026 04:55 PM UTC | Extragalactic - 20K reads This JWST mosaic of Stephan's Quintet is a composite of almost 1,000 images. While it's a visual quintet, only four of them are in the same compact group. Astronomers recently created a high-resolution map of the movement of star-forming gas in the group. Image Credit: NASA, ESA, CSA, STScI The movement of star-forming gas in galaxies is a fundamental",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Universe Today",
+              "title": "Widespread Turbulence is Upsetting Star Formation in Stephan's Quintet",
+              "url": "https://www.universetoday.com/articles/widespread-turbulence-is-upsetting-star-formation-in-stephans-quintet",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-09-09",
+          "title": "BepiColombo Successfully Begins Its Final Descent To Mercury",
+          "summary": "BepiColombo Successfully Begins Its Final Descent To Mercury By Andy Tomaswick - September 09, 2026 12:13 PM UTC | Missions - 20K reads An image from one of BepiColombo's flybys, showing the spacecraft \"hugging\" Mercury. Credit - ESA/BepiColombo/MTM The latest mission to the innermost planet in the solar system hit a milestone last week. After an eight year journey, BepiColombo finally separated from its propulsion stage to set itself up for an orbital insertion to Mercury. Taking place on Septe",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Universe Today",
+              "title": "BepiColombo Successfully Begins Its Final Descent To Mercury",
+              "url": "https://www.universetoday.com/articles/bepicolombo-successfully-begins-its-final-descent-to-mercury",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-09-09",
+          "title": "Astronomers Unmask a Supernova Impostor",
+          "summary": "Astronomers Unmask a Supernova Impostor By Evan Gough - September 09, 2026 07:39 PM UTC | Stars - 22K reads This artist's illustration shows a massive star exploding as a supernova at the end of its life. Supernovae often emit telltale outbursts before they explode, and that's what astronomers thought they found coming from one massive star. But as it turns out, it was an impostor. Image Credit: NASA, ESA, NSF's NOIRLab, Mark Garlick, Mahdi Zamani A distant star has captured astronomers' attenti",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Universe Today",
+              "title": "Astronomers Unmask a Supernova Impostor",
+              "url": "https://www.universetoday.com/articles/astronomers-unmask-a-supernova-impostor",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-09-09",
+          "title": "Next-Gen Gravitational Wave Detectors Could Spot the First Black Holes",
+          "summary": "Next-Gen Gravitational Wave Detectors Could Spot the First Black Holes By Andy Tomaswick - September 09, 2026 11:28 AM UTC | Black Holes - 17K reads Artist's impression of the early universe. Credit - ESA/Hubble, M. Kornmesser A few hundred million years after the Big Bang, the first stars ignited - literally the “let there be light” moment for the universe. Now known to astronomers as Population III, or Pop III, stars, these giants were very different from the stars we know today. They were for",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Universe Today",
+              "title": "Next-Gen Gravitational Wave Detectors Could Spot the First Black Holes",
+              "url": "https://www.universetoday.com/articles/next-gen-gravitational-wave-detectors-could-spot-the-first-black-holes",
+              "primary": true
+            }
+          ]
         }
       ]
     },
@@ -233,9 +454,9 @@
       "items": [
         {
           "date": "2026-09-09",
-          "title": "Türkiye, Middle East and Africa: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Türkiye, Middle East and Africa: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -249,9 +470,9 @@
       "items": [
         {
           "date": "2026-09-09",
-          "title": "Eurasia and Central Asia: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Eurasia and Central Asia: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -276,6 +497,23 @@
               "outlet": "SpaceNews",
               "title": "Space Force selects Texas as third site of deep-space radar network",
               "url": "https://spacenews.com/space-force-selects-texas-as-third-site-of-deep-space-radar-network/",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-09-09",
+          "title": "China on track to launch Mars sample-return mission in 2028: 'If accurate, this represents a Sputnik moment'",
+          "summary": "Astronomy Solar System Mars <img alt=\"SPACE.com Columnist Leonard David\" src=\"https://www.",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Space.com",
+              "title": "China on track to launch Mars sample-return mission in 2028: 'If accurate, this represents a Sputnik moment'",
+              "url": "https://www.space.com/astronomy/mars/china-on-track-to-launch-mars-sample-return-mission-in-2028-if-accurate-this-represents-a-sputnik-moment",
               "primary": true
             }
           ]
@@ -336,6 +574,91 @@
               "primary": true
             }
           ]
+        },
+        {
+          "date": "2026-09-09",
+          "title": "NASA's newly launched Roman Space Telescope will 'directly' image exoplanets. But what does that mean?",
+          "summary": "Astronomy Exoplanets NASA's newly launched Roman Space Telescope will 'directly' image exoplanets. But what does that mean? News By <a href=\"https://www.space.com/author/monisha-ravisetti\" class=\"font-normal no-underline normal-case text-inherit vds-author__link whi",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Space.com",
+              "title": "NASA's newly launched Roman Space Telescope will 'directly' image exoplanets. But what does that mean?",
+              "url": "https://www.space.com/astronomy/exoplanets/nasas-newly-launched-roman-space-telescope-will-directly-image-exoplanets-but-what-does-that-mean",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-09-09",
+          "title": "SpaceX launches 27 Starlink satellites on Falcon 9 rocket from Vandenberg – Spaceflight Now",
+          "summary": "SpaceX launches 27 Starlink satellites on Falcon 9 rocket from Vandenberg August 25, 2026 Will Robinson-Smith A file photo of a stack of Starlink satellites prior to deployment from a Falcon 9 upper stage. Image: SpaceX Update Aug. 26, 6:15 a.m. EDT (1015 UTC): SpaceX landed its first stage booster. SpaceX launched its latest Starlink mission from Vandenberg Space Force Base in the predawn hours of Wednesday morning. The Starlink 15-22 mission will add another 27 broadband internet satellites to",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Spaceflight Now",
+              "title": "SpaceX launches 27 Starlink satellites on Falcon 9 rocket from Vandenberg – Spaceflight Now",
+              "url": "https://spaceflightnow.com/2026/08/25/live-coverage-spacex-to-launch-27-starlink-satellites-on-falcon-9-rocket-from-vandenberg-2/",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-09-09",
+          "title": "Federal government injects $1.5B into tariff response program",
+          "summary": "The Government of Canada has injected an additional $1.5 billion into the Regional Tariff Response Initiative (RTRI) to protect domestic supply chains as the trade war with the U. S. escalates. The expansion brings the national program to a total of $3.45 billion. Administered through regional development agencies like FedDev Ontario, the capital is designed to finance strategic pivots away from vulnerable cross-border trade networks. It also is meant to shield Canadian businesses from immediate",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "SpaceQ",
+              "title": "Federal government injects $1.5B into tariff response program",
+              "url": "https://spaceq.ca/federal-government-injects-1-5b-into-tariff-response-program/",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-09-09",
+          "title": "EarthDaily joins Canada's satellite-imagery standing offer",
+          "summary": "EarthDaily Analytics said Wednesday it has been added to the list of companies the Government of Canada can buy satellite imagery from without running a fresh competition each time. The National Master Standing Offer, or NMSO, is the mechanism the federal government uses that allows departments to acquire a service without having to create a procurement for each request. Now, any federal department can place an order for EarthDaily imagery against it instead of running a full procurement process",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "SpaceQ",
+              "title": "EarthDaily joins Canada's satellite-imagery standing offer",
+              "url": "https://spaceq.ca/earthdaily-national-master-standing-offer-canada/",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-09-09",
+          "title": "Canadian Armed Forces creates new space professional occupation",
+          "summary": "The Canadian Armed Forces created a new occupation this summer for non-commissioned members letting them join and build a career as space professionals. Brig. Gen. Chris Horner shared the detail and other information on a recent podcast, alongside Telesat’s Mike Adamson. Horner appeared alongside Adamson, a retired brigadier-general who held Horner’s current position — Commander of 3 Canadian Space Division and Joint Force Space Component Commander — before leaving the military. The episode, fro",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "SpaceQ",
+              "title": "Canadian Armed Forces creates new space professional occupation",
+              "url": "https://spaceq.ca/canadian-armed-forces-creates-new-space-professional-occupation/",
+              "primary": true
+            }
+          ]
         }
       ]
     }
@@ -347,8 +670,11 @@
   "competitive_watch": [],
   "stats": {
     "record": "memory",
-    "source": "SpaceNews",
-    "stories": 9
+    "sources": [
+      "Space.com",
+      "SpaceNews"
+    ],
+    "stories": 16
   },
   "audio_script": "This is a memory record for 2026-09-09, not a spoken briefing. It keeps the SpaceNews stories dated this day so later editions can see what had already been reported.",
   "audio_sections": [

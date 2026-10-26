@@ -12,7 +12,7 @@ Keep `audio_script` and `audio_sections` in the JSON, and cover every desk in th
 
 Ledger files belong in `claude/atlas/ledger/`. The run report belongs in `claude/atlas/reports/YYYY-MM-DD.md`.
 
-Memory editions for 1 September through 22 October 2026 are `briefings/YYYY-MM-DD.json`, indexed in `claude/atlas/memory/chronicle.md`. They are a SpaceNews record for context. The editions of 23–26 October are the fuller filings.
+Memory editions for 1 September through 22 October 2026 are `briefings/YYYY-MM-DD.json`, indexed in `claude/atlas/memory/chronicle.md`. They are a low-confidence record from Space.com, SpaceNews, Spaceflight Now, Payload, NASASpaceflight, Ars Technica, The Verge, MIT Technology Review, Universe Today, SpaceQ, and SpacePolicyOnline. The editions of 23–26 October are the fuller filings.
 
 The memory is `claude/atlas/memory/threads.md`. Read it before writing. File an item only when today's packet changes a thread's last state, or a next date arrives. After publishing, update the thread.
 

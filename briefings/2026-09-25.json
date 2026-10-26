@@ -9,7 +9,7 @@
     "Swift reboost mission ends with Link reentry",
     "Finland’s Iceye launches new Polish satellite technology center, eyes $31 million investments"
   ],
-  "bottom_line": "Memory record drawn from SpaceNews for this date. It is not a full eight-desk sweep, and a desk with no mapped story is a gap in the harvest.",
+  "bottom_line": "Memory record for this date from the space newsrooms we can archive: Payload, Space.com, SpaceNews. It is not a full eight-desk sweep, and a desk with no mapped story is a gap in the harvest.",
   "global": [
     {
       "date": "2026-09-25",
@@ -95,6 +95,193 @@
           "primary": true
         }
       ]
+    },
+    {
+      "date": "2026-09-25",
+      "title": "'Owlright, Owlright, Owlright': Rocket Lab launches private Japanese radar satellite to orbit (video)",
+      "summary": "Space Exploration Launches & Spacecraft 'Owlright, Owlright, Owlright': Rocket Lab launches private Japanese radar satellite to orbit (video) News By <a href=\"https://www.space.com/author/j",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "'Owlright, Owlright, Owlright': Rocket Lab launches private Japanese radar satellite to orbit (video)",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/owlright-owlright-owlright-watch-rocket-lab-launch-private-japanese-radar-satellite-tonight",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-25",
+      "title": "The Harvest Moon has a trick no other full moon can quite match",
+      "summary": "Stargazing The Harvest Moon has a trick no other full moon can quite match News By Jamie Carter <span class=\"vds-date block font-normal tracking-normal normal-case t",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "The Harvest Moon has a trick no other full moon can quite match",
+          "url": "https://www.space.com/stargazing/the-harvest-moon-has-a-trick-no-other-full-moon-can-quite-match",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-25",
+      "title": "Microbes could survive on Saturn's moon Enceladus — and scientists think we can find them",
+      "summary": "Space Exploration Search for Life Microbes could survive on Saturn's moon Enceladus — and scientists think we can find them News By <a href=\"https://www.space.com/author/chelsea-gohd\" class=\"font-normal no",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "Microbes could survive on Saturn's moon Enceladus — and scientists think we can find them",
+          "url": "https://www.space.com/space-exploration/search-for-life/microbes-could-survive-on-saturns-moon-enceladus-and-scientists-think-we-can-find-them",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-25",
+      "title": "SpaceX launching prototype Google AI satellite next week",
+      "summary": "Space Exploration Satellites SpaceX launching prototype Google AI satellite next week News By <a href=\"https://www.space.com/author/mike-wall\" class=\"font-normal no-underline normal-case text-inherit vds-author__link whitespac",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "SpaceX launching prototype Google AI satellite next week",
+          "url": "https://www.space.com/space-exploration/satellites/spacex-launching-prototype-google-ai-satellite-next-week",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-25",
+      "title": "Get 40% off these waterproof compact binoculars, ahead of October Prime Day",
+      "summary": "Stargazing Skywatching Kit Get ahead of October Prime Day with 40% off these expert-approved waterproof and fog-proof binoculars News By <a href=\"https://www.space.com/author/chris-mcmullen\" class=\"font-normal no-underline normal-case text-inheri",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "Get 40% off these waterproof compact binoculars, ahead of October Prime Day",
+          "url": "https://www.space.com/stargazing/skywatching-kit/get-ahead-of-october-prime-day-with-40-percent-off-these-expert-approved-waterproof-and-fog-proof-binoculars",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-25",
+      "title": "James Webb Space Telescope finds our ancient universe wasn't as pure as we thought",
+      "summary": "Astronomy James Webb Space Telescope James Webb Space Telescope looks back in time, finds our ancient universe wasn't as pure as we thought News By <a href=\"https://www.space.com/author/robert-lea\" class=\"font-normal n",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "James Webb Space Telescope finds our ancient universe wasn't as pure as we thought",
+          "url": "https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-looks-back-in-time-finds-our-ancient-universe-wasnt-as-pure-as-we-thought",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-25",
+      "title": "Hubble Telescope finishes 200,000 Earth orbits in style, studying a star explosion",
+      "summary": "Astronomy Hubble Space Telescope Hubble Space Telescope finishes 200,000 Earth orbits in style — while studying a warped star explosion News By <a href=\"https://www.space.com/author/samantha-mathewson\" class=\"font-normal no-",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "Hubble Telescope finishes 200,000 Earth orbits in style, studying a star explosion",
+          "url": "https://www.space.com/astronomy/hubble-space-telescope/hubble-space-telescope-finishes-200-000-earth-orbits-in-style-while-studying-a-warped-star-explosion",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-25",
+      "title": "On this day in space! Sept. 25, 2008: China launches Shenzhou 7, its 3rd astronaut mission, to make the country's 1st spacewalk",
+      "summary": "Space Exploration On this day in space! Sept. 25, 2008: China launches Shenzhou 7, its 3rd astronaut mission, to make the country's 1st spacewalk News By Hanneke Weitering Contributions by <a href=\"https://www.space.com/author/tariq-malik\" class=\"vds-collabs__link whitespace-nowrap text-inherit i",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "On this day in space! Sept. 25, 2008: China launches Shenzhou 7, its 3rd astronaut mission, to make the country's 1st spacewalk",
+          "url": "https://www.space.com/space-exploration/on-this-day-in-space-september-25-2026",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-25",
+      "title": "Lightning crackles within raging Hurricane Polo",
+      "summary": "Astronomy Solar System Earth Lightning crackles within raging Hurricane Polo | Space photo of the day for Sept.",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "Lightning crackles within raging Hurricane Polo",
+          "url": "https://www.space.com/astronomy/earth/lightning-crackles-within-raging-hurricane-polo-space-photo-of-the-day-for-sept-25-2026",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-25",
+      "title": "Decoding Earth's magnetic field may help scientists treat Parkinson's and Alzheimer's. Here's how",
+      "summary": "Astronomy Solar System Earth Decoding Earth's magnetic field may help scientists treat Parkinson's and Alzheimer",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "Decoding Earth's magnetic field may help scientists treat Parkinson's and Alzheimer's. Here's how",
+          "url": "https://www.space.com/astronomy/earth/decoding-earths-magnetic-field-may-help-scientists-treat-parkinsons-and-alzheimers-heres-how",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-09-25",
+      "title": "FUSE Grows Its Space Portfolio",
+      "summary": "When FUSE was founded in 2020, the goal was to bring the Bay Area VC experience to software firms in Seattle, WA. However, the VC firm has since found success among the stars and broadened its reach across the US, announcing its eighth space investment this week. The firm led the seed round for Pluto Aerospace, an Indiana-based reusable launch company working to allow the industry to get components and hypersonics flight time for rapid testing and iteration, Brendan Wales, a founding partner at",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Payload",
+          "title": "FUSE Grows Its Space Portfolio",
+          "url": "https://payloadspace.com/fuse-grows-its-space-portfolio/",
+          "primary": true
+        }
+      ]
     }
   ],
   "regions": [
@@ -127,9 +314,9 @@
       "items": [
         {
           "date": "2026-09-25",
-          "title": "Central and Eastern Europe: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Central and Eastern Europe: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -166,9 +353,9 @@
       "items": [
         {
           "date": "2026-09-25",
-          "title": "ESA and EU: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "ESA and EU: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -182,9 +369,9 @@
       "items": [
         {
           "date": "2026-09-25",
-          "title": "Türkiye, Middle East and Africa: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Türkiye, Middle East and Africa: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -198,9 +385,9 @@
       "items": [
         {
           "date": "2026-09-25",
-          "title": "Eurasia and Central Asia: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Eurasia and Central Asia: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -214,13 +401,37 @@
       "items": [
         {
           "date": "2026-09-25",
-          "title": "Asia Pacific: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "'Owlright, Owlright, Owlright': Rocket Lab launches private Japanese radar satellite to orbit (video)",
+          "summary": "Space Exploration Launches & Spacecraft 'Owlright, Owlright, Owlright': Rocket Lab launches private Japanese radar satellite to orbit (video) News By <a href=\"https://www.space.com/author/j",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
           "confidence": "low",
-          "status": "overview",
+          "status": "record",
           "iso3": [],
-          "sources": []
+          "sources": [
+            {
+              "outlet": "Space.com",
+              "title": "'Owlright, Owlright, Owlright': Rocket Lab launches private Japanese radar satellite to orbit (video)",
+              "url": "https://www.space.com/space-exploration/launches-spacecraft/owlright-owlright-owlright-watch-rocket-lab-launch-private-japanese-radar-satellite-tonight",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-09-25",
+          "title": "On this day in space! Sept. 25, 2008: China launches Shenzhou 7, its 3rd astronaut mission, to make the country's 1st spacewalk",
+          "summary": "Space Exploration On this day in space! Sept. 25, 2008: China launches Shenzhou 7, its 3rd astronaut mission, to make the country's 1st spacewalk News By Hanneke Weitering Contributions by <a href=\"https://www.space.com/author/tariq-malik\" class=\"vds-collabs__link whitespace-nowrap text-inherit i",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Space.com",
+              "title": "On this day in space! Sept. 25, 2008: China launches Shenzhou 7, its 3rd astronaut mission, to make the country's 1st spacewalk",
+              "url": "https://www.space.com/space-exploration/on-this-day-in-space-september-25-2026",
+              "primary": true
+            }
+          ]
         }
       ]
     },
@@ -278,6 +489,91 @@
               "primary": true
             }
           ]
+        },
+        {
+          "date": "2026-09-25",
+          "title": "SpaceX launching prototype Google AI satellite next week",
+          "summary": "Space Exploration Satellites SpaceX launching prototype Google AI satellite next week News By <a href=\"https://www.space.com/author/mike-wall\" class=\"font-normal no-underline normal-case text-inherit vds-author__link whitespac",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Space.com",
+              "title": "SpaceX launching prototype Google AI satellite next week",
+              "url": "https://www.space.com/space-exploration/satellites/spacex-launching-prototype-google-ai-satellite-next-week",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-09-25",
+          "title": "Isaacman Doubles Down on New NASA Model for International Partnerships",
+          "summary": "HOUSTON, TX — NASA Administrator Jared Isaacman is less than a year on the job, but he’s already upended the way the agency interacts with the rest of the world. NASA doesn’t want to go it alone as it drives a US-led effort to return American astronauts to the Moon. But the agency is done “stitch[ing] together coalitions for the sake of coalitions,” Isaacman said at Payload’s Off World event in Houston on Wednesday. The comments come one week after Isaacman made similar remarks at AFA’s Air, Spa",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Payload",
+              "title": "Isaacman Doubles Down on New NASA Model for International Partnerships",
+              "url": "https://payloadspace.com/isaacman-doubles-down-on-new-nasa-model-for-international-partnerships/",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-09-25",
+          "title": "SpaceX’s Super Heavy booster arrives at pad ahead of first orbital Starship launch – Spaceflight Now",
+          "summary": "SpaceX’s Super Heavy booster arrives at pad ahead of first orbital Starship launch September 21, 2026 Will Robinson-Smith SpaceX rolled its Super Heavy booster, tail number B21, out to Pad 2 late Sunday night, Sept. 20, in preparation for the launch of Starship Flight 14 no earlier than Sept. 28. Image: SpaceX SpaceX placed a Super Heavy booster on the launch pad at Starbase in Texas Monday, as it continues testing and preparations for the first planned orbital flight of Starship, scheduled for",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Spaceflight Now",
+              "title": "SpaceX’s Super Heavy booster arrives at pad ahead of first orbital Starship launch – Spaceflight Now",
+              "url": "https://spaceflightnow.com/2026/09/21/spacexs-super-heavy-booster-arrives-at-pad-ahead-of-first-orbital-starship-launch/",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-09-25",
+          "title": "The Weekly Close: the Canadian Space Index climbs",
+          "summary": "The SpaceQ Canadian Space Index rose 1.6 per cent to 103.17 this week. It’s the first issue with enough history to chart how the index has moved since its Sept. 4 launch. The equal-weighted editorial measure of Canada’s publicly traded space-economy companies outpaced the S&P/TSX Composite, which was unchanged for the week; the S&P 500 rose 1.2 per cent and the Procure Space ETF rose 0.8 per cent. Four of the nine tracked companies beat the flat TSX: 5N Plus, MDA Space, Magellan Aerospace and Ca",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "SpaceQ",
+              "title": "The Weekly Close: the Canadian Space Index climbs",
+              "url": "https://spaceq.ca/the-weekly-close-september-25-2026/",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-09-25",
+          "title": "With PRIMA, NASA will try to build a billion-dollar space telescope in record time",
+          "summary": "Herschel’s cousin With PRIMA, NASA will try to build a billion-dollar space telescope in record time <p class=\"text-gray-550 dark:text-gray-250 dusk:text-gray-250 mt-4 px-[15px] text-l",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Ars Technica",
+              "title": "With PRIMA, NASA will try to build a billion-dollar space telescope in record time",
+              "url": "https://arstechnica.com/space/2026/09/nasa-green-lights-billion-dollar-infrared-observatory-for-launch-in-early-2030s/",
+              "primary": true
+            }
+          ]
         }
       ]
     }
@@ -289,8 +585,12 @@
   "competitive_watch": [],
   "stats": {
     "record": "memory",
-    "source": "SpaceNews",
-    "stories": 5
+    "sources": [
+      "Payload",
+      "Space.com",
+      "SpaceNews"
+    ],
+    "stories": 16
   },
   "audio_script": "This is a memory record for 2026-09-25, not a spoken briefing. It keeps the SpaceNews stories dated this day so later editions can see what had already been reported.",
   "audio_sections": [

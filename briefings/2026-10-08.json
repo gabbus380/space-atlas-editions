@@ -9,7 +9,7 @@
     "What will it take to build a moon base?",
     "Artemis Accords countries offered opportunities to participate in lunar base and space academy"
   ],
-  "bottom_line": "Memory record drawn from SpaceNews for this date. It is not a full eight-desk sweep, and a desk with no mapped story is a gap in the harvest.",
+  "bottom_line": "Memory record for this date from the space newsrooms we can archive: Space.com, SpaceNews. It is not a full eight-desk sweep, and a desk with no mapped story is a gap in the harvest.",
   "global": [
     {
       "date": "2026-10-08",
@@ -129,6 +129,159 @@
           "primary": true
         }
       ]
+    },
+    {
+      "date": "2026-10-08",
+      "title": "A dead Soviet satellite just broke apart in orbit (again). Experts say it's part of 'a worrying trend'",
+      "summary": "Space Exploration Satellites A dead Soviet satellite just broke apart in orbit (again). Experts say it's part of 'a worrying trend' News By <a href=\"https://www.space.com/author/brett-tingley\" class=\"font-normal no-underline n",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "A dead Soviet satellite just broke apart in orbit (again). Experts say it's part of 'a worrying trend'",
+          "url": "https://www.space.com/space-exploration/satellites/a-dead-soviet-satellite-just-broke-apart-in-orbit-again-experts-say-its-part-of-a-worrying-trend",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-10-08",
+      "title": "Relive Starship's 1st-ever orbital flight with these epic SpaceX videos",
+      "summary": "Space Exploration Launches & Spacecraft Relive Starship's 1st-ever orbital flight with these epic SpaceX videos News By <a href=\"https://www.space.com/author/mike-wall\" class=\"font-normal n",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "Relive Starship's 1st-ever orbital flight with these epic SpaceX videos",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/relive-starships-1st-ever-orbital-flight-with-these-epic-spacex-videos",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-10-08",
+      "title": "Northern lights possible across the US tonight and over the weekend as 4 CMEs head for Earth",
+      "summary": "Stargazing Auroras Northern lights possible across the US tonight and over the weekend as 4 CMEs head for Earth News By <a href=\"https://www.space.com/author/daisy-dobrijevic\" class=\"font-normal no-underline normal-case text-inherit vds-author__link whitespace-break-spa",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "Northern lights possible across the US tonight and over the weekend as 4 CMEs head for Earth",
+          "url": "https://www.space.com/stargazing/auroras/northern-lights-possible-across-the-us-this-weekend-as-3-cmes-head-for-earth",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-10-08",
+      "title": "'Dude! No way!' Scientists jump for joy over Artemis II moon science results",
+      "summary": "Space Exploration Missions Artemis 'Dude! No way!' Scientists jump for",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "'Dude! No way!' Scientists jump for joy over Artemis II moon science results",
+          "url": "https://www.space.com/space-exploration/artemis/dude-no-way-mission-teams-jump-for-joy-over-artemis-ii-science-results",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-10-08",
+      "title": "James Webb Space Telescope helps detect the most distant Fast Radio Burst ever seen — and scientists are surprised by its source",
+      "summary": "Astronomy Galaxies James Webb Space Telescope helps detect the most distant Fast Radio Burst ever seen — and scientists are surprised by its source News By <a href=\"https://www.space.com/author/robert-lea\" class=\"font-normal no-underline normal-case text-inherit vds",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "James Webb Space Telescope helps detect the most distant Fast Radio Burst ever seen — and scientists are surprised by its source",
+          "url": "https://www.space.com/astronomy/galaxies/james-webb-space-telescope-helps-detect-the-most-distant-fast-radio-burst-ever-seen-and-scientists-are-surprised-by-its-source",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-10-08",
+      "title": "Astronomers watch 'vampire' star feeding on the stellar equivalent of 5 trillion quarter-pounder burgers every second",
+      "summary": "Astronomy Stars Astronomers watch 'vampire' star feeding on the stellar equivalent of 5 trillion quarter-pounder burgers every second News By <a href=\"https://www.space.com/author/robert-lea\" class=\"font-normal no-underline normal-case text-inherit vds-author__link whitespace-brea",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "Astronomers watch 'vampire' star feeding on the stellar equivalent of 5 trillion quarter-pounder burgers every second",
+          "url": "https://www.space.com/astronomy/stars/astronomers-watch-vampire-star-feeding-on-the-stellar-equivalent-of-5-trillion-quarter-pounder-burgers-every-second",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-10-08",
+      "title": "Why October is one of the best months of the year for stargazing in North America",
+      "summary": "Stargazing Why October is one of the best months of the year for stargazing in North America News By Joe Rao Published 8 October 2026 </d",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "Why October is one of the best months of the year for stargazing in North America",
+          "url": "https://www.space.com/stargazing/why-october-is-one-of-the-best-months-of-the-year-for-stargazing-in-north-america",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-10-08",
+      "title": "Dawn breaks on Mars",
+      "summary": "Astronomy Solar System Mars Dawn breaks on Mars | Space photo of the day for Oct. 8, 2026 <div class=\"byline-s",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "Dawn breaks on Mars",
+          "url": "https://www.space.com/astronomy/mars/dawn-breaks-on-mars-space-photo-of-the-day-for-oct-8-2026",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-10-08",
+      "title": "NASA's hunting for a secret underground cave on the moon",
+      "summary": "Astronomy Solar System The moon NASA's hunting for a secret underground cave on the moon <div class=\"bylin",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "NASA's hunting for a secret underground cave on the moon",
+          "url": "https://www.space.com/astronomy/moon/nasas-hunting-for-a-secret-underground-cave-on-the-moon",
+          "primary": true
+        }
+      ]
     }
   ],
   "regions": [
@@ -138,9 +291,9 @@
       "items": [
         {
           "date": "2026-10-08",
-          "title": "Nordics: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Nordics: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -177,9 +330,9 @@
       "items": [
         {
           "date": "2026-10-08",
-          "title": "Western and Southern Europe: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Western and Southern Europe: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -239,9 +392,9 @@
       "items": [
         {
           "date": "2026-10-08",
-          "title": "Eurasia and Central Asia: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Eurasia and Central Asia: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -255,13 +408,20 @@
       "items": [
         {
           "date": "2026-10-08",
-          "title": "Asia Pacific: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Reaction Dynamics drops hybrid engine, plans medium-lift rocket",
+          "summary": "Reaction Dynamics (RDX) is moving its rockets from hybrid to liquid-fuelled engines, the Longueuil, Que., company said Thursday, a switch it says will let its Aurora rocket carry more mass to orbit and streamline work on Borealis, its planned medium-lift launcher. RDX has dropped Aurora-1, the suborbital test flight it had planned from the Koonibba Test Range in South Australia, because the flight was designed to prove a hybrid engine that is no longer part of the company’s product plans. The co",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
           "confidence": "low",
-          "status": "overview",
+          "status": "record",
           "iso3": [],
-          "sources": []
+          "sources": [
+            {
+              "outlet": "SpaceQ",
+              "title": "Reaction Dynamics drops hybrid engine, plans medium-lift rocket",
+              "url": "https://spaceq.ca/reaction-dynamics-liquid-engines-medium-lift-borealis/",
+              "primary": true
+            }
+          ]
         }
       ]
     },
@@ -285,6 +445,125 @@
               "primary": true
             }
           ]
+        },
+        {
+          "date": "2026-10-08",
+          "title": "Relive Starship's 1st-ever orbital flight with these epic SpaceX videos",
+          "summary": "Space Exploration Launches & Spacecraft Relive Starship's 1st-ever orbital flight with these epic SpaceX videos News By <a href=\"https://www.space.com/author/mike-wall\" class=\"font-normal n",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Space.com",
+              "title": "Relive Starship's 1st-ever orbital flight with these epic SpaceX videos",
+              "url": "https://www.space.com/space-exploration/launches-spacecraft/relive-starships-1st-ever-orbital-flight-with-these-epic-spacex-videos",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-10-08",
+          "title": "NASA's hunting for a secret underground cave on the moon",
+          "summary": "Astronomy Solar System The moon NASA's hunting for a secret underground cave on the moon <div class=\"bylin",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Space.com",
+              "title": "NASA's hunting for a secret underground cave on the moon",
+              "url": "https://www.space.com/astronomy/moon/nasas-hunting-for-a-secret-underground-cave-on-the-moon",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-10-08",
+          "title": "On this day in space! Oct. 8, 1992: NASA's Pioneer Venus probe burns up in Venusian atmosphere after 14 years orbiting the planet",
+          "summary": "Space Exploration On this day in space! Oct. 8, 1992: NASA's Pioneer Venus probe burns up in Venusian atmosphere after 14 years orbiting the planet News By Hanneke Weitering Contributions by <a href=\"https://www.space.com/author/tariq-malik\" class=\"vds-collabs__link whitespace-nowrap text-inherit",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Space.com",
+              "title": "On this day in space! Oct. 8, 1992: NASA's Pioneer Venus probe burns up in Venusian atmosphere after 14 years orbiting the planet",
+              "url": "https://www.space.com/space-exploration/on-this-day-in-space-october-8-2026",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-10-08",
+          "title": "New Defence Investment Agency Crown corporation to speed up buying",
+          "summary": "The federal government tabled a bill Tuesday that would turn the Defence Investment Agency into a Crown corporation, a move Ottawa says will speed up military purchases and help it recruit outside talent, while leaving a minister able to direct its work. Bill C-40 , the Strengthening Canada’s Defence Sector Act, was sponsored by Joël Lightbound, the minister responsible for public works and procurement. In the government’s news release , Stephen Fuhr, the secretary of state for defence procureme",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "SpaceQ",
+              "title": "New Defence Investment Agency Crown corporation to speed up buying",
+              "url": "https://spaceq.ca/defence-investment-agency-crown-corporation/",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-10-08",
+          "title": "Galaxia to build Maritime Launch’s autonomous flight safety system",
+          "summary": "Galaxia will build an autonomous flight safety system for launches from Maritime Launch Services ’ Spaceport Nova Scotia , the two Halifax companies announced Wednesday. Maritime Launch is paying for the development, with support from the National Research Council of Canada Industrial Research Assistance Program (NRC IRAP), according to the release , issued at the DEFSEC Atlantic defence trade show in Halifax. The companies gave no contract value or delivery date. NRC IRAP agreed in April 2025 t",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "SpaceQ",
+              "title": "Galaxia to build Maritime Launch’s autonomous flight safety system",
+              "url": "https://spaceq.ca/galaxia-maritime-launch-autonomous-flight-safety-system/",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-10-08",
+          "title": "SpaceX calls for better coordination in orbit after near-misses with Starlink",
+          "summary": "Space traffic control SpaceX calls for better coordination in orbit after near-misses with Starlink “These led to conjunctions of tens of meters to hundreds of meters. Way too close to comfort.”",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Ars Technica",
+              "title": "SpaceX calls for better coordination in orbit after near-misses with Starlink",
+              "url": "https://arstechnica.com/space/2026/10/spacex-calls-for-better-coordination-in-orbit-after-near-misses-with-starlink/",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-10-08",
+          "title": "NASA Selects GIMLI to Search the Marius Lunar Pit for a Potential Lunar Base Site",
+          "summary": "NASA Selects GIMLI to Search the Marius Lunar Pit for a Potential Lunar Base Site By Matthew Williams - October 08, 2026 12:30 AM UTC | Planetary Science - 38K reads ![Artist’s concept of the Lunar Reconnaissance Orbiter (LRO) exploring the lunar lava tube in Mare Tranquillitatis. Credit:NASA/JPL-Caltech](/article_images/Screenshot_2026-10-07_at_16-08-10_The_surface_of_the_moon_is_hostile._A_newly_found_cave_could_be_a_lifesaver._National_Geographic_20261008_000927.png) *Artist’s concept of the",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Universe Today",
+              "title": "NASA Selects GIMLI to Search the Marius Lunar Pit for a Potential Lunar Base Site",
+              "url": "https://www.universetoday.com/articles/nasa-selects-gimli-to-search-the-marius-lunar-pit-for-a-potential-lunar-base-site",
+              "primary": true
+            }
+          ]
         }
       ]
     }
@@ -296,8 +575,11 @@
   "competitive_watch": [],
   "stats": {
     "record": "memory",
-    "source": "SpaceNews",
-    "stories": 7
+    "sources": [
+      "Space.com",
+      "SpaceNews"
+    ],
+    "stories": 16
   },
   "audio_script": "This is a memory record for 2026-10-08, not a spoken briefing. It keeps the SpaceNews stories dated this day so later editions can see what had already been reported.",
   "audio_sections": [

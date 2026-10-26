@@ -2,25 +2,130 @@
   "date": "2026-10-11",
   "edition": "memory",
   "generated_at": "2026-10-11T18:00:00+00:00",
-  "headline": "No SpaceNews story dated 2026-10-11",
+  "headline": "On this day in space! Oct. 11, 1968: Apollo 7 launches into space, NASA's 1st Apollo astronaut crew in orbit",
   "summary": [
-    "The SpaceNews archive has no story with a published date of 2026-10-11."
+    "On this day in space! Oct. 11, 1968: Apollo 7 launches into space, NASA's 1st Apollo astronaut crew in orbit",
+    "Astrophotographer captures 110 galaxies, star clusters and nebulas in stunning 352-hour mosaic (photo)",
+    "Alien: Isolation 2: This highly anticipated sequel has no release date yet, but here's everything else we know",
+    "What’s Happening in Space Policy October 11-17, 2026"
   ],
-  "bottom_line": "Memory record drawn from SpaceNews for this date. It is not a full eight-desk sweep, and a desk with no mapped story is a gap in the harvest.",
+  "bottom_line": "Memory record for this date from the space newsrooms we can archive: Space.com, SpacePolicyOnline, Universe Today. It is not a full eight-desk sweep, and a desk with no mapped story is a gap in the harvest.",
   "global": [
     {
       "date": "2026-10-11",
-      "title": "No SpaceNews story dated 2026-10-11",
-      "summary": "No SpaceNews story carried a published date of 2026-10-11.",
+      "title": "On this day in space! Oct. 11, 1968: Apollo 7 launches into space, NASA's 1st Apollo astronaut crew in orbit",
+      "summary": "Space Exploration On this day in space! Oct. 11, 1968: Apollo 7 launches into space, NASA's 1st Apollo astronaut crew in orbit News By Hanneke Weitering Contributions by <a href=\"https://www.space.com/author/robert-z-pearlman\" class=\"vds-collabs__link whitespace-nowrap text-inherit inline-block n",
       "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
       "confidence": "low",
       "status": "record",
       "iso3": [],
       "sources": [
         {
-          "outlet": "SpaceNews",
-          "title": "No SpaceNews story dated 2026-10-11",
-          "url": "https://spacenews.com/",
+          "outlet": "Space.com",
+          "title": "On this day in space! Oct. 11, 1968: Apollo 7 launches into space, NASA's 1st Apollo astronaut crew in orbit",
+          "url": "https://www.space.com/space-exploration/on-this-day-in-space-october-11-2026",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-10-11",
+      "title": "Astrophotographer captures 110 galaxies, star clusters and nebulas in stunning 352-hour mosaic (photo)",
+      "summary": "Stargazing Astrophotography Astrophotographer captures 110 galaxies, star clusters and nebulas in stunning 352-hour mosaic (photo) News By <a href=\"https://www.space.com/author/anthony-wood\" class=\"font-normal no-underline normal-case text-inh",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "Astrophotographer captures 110 galaxies, star clusters and nebulas in stunning 352-hour mosaic (photo)",
+          "url": "https://www.space.com/stargazing/astrophotography/astrophotographer-captures-110-galaxies-star-clusters-and-nebulas-in-stunning-352-hour-mosaic-photo",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-10-11",
+      "title": "Alien: Isolation 2: This highly anticipated sequel has no release date yet, but here's everything else we know",
+      "summary": "Entertainment Space Games Alien: Isolation 2: This highly anticipated sequel has no release date yet, but here's everything else we know News By <a href=\"https://www.space.com/author/fran-ruiz\" class=\"font-normal no-underline normal-case text-",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Space.com",
+          "title": "Alien: Isolation 2: This highly anticipated sequel has no release date yet, but here's everything else we know",
+          "url": "https://www.space.com/entertainment/space-games/alien-isolation-2-this-highly-anticipated-sequel-has-no-release-date-yet-but-heres-everything-else-we-know",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-10-11",
+      "title": "What’s Happening in Space Policy October 11-17, 2026",
+      "summary": "var addthis_config = { ui_click: true } <a class=\"a2a_button_email\" href=\"https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fspacepolicyonline.com%2Fnews%2Fwhats-happening-in",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "SpacePolicyOnline",
+          "title": "What’s Happening in Space Policy October 11-17, 2026",
+          "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-october-11-17-2026/",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-10-11",
+      "title": "Astronomers Detect Potential ‘Second Generation’ Planet Around Dying Stellar White Dwarf",
+      "summary": "Astronomers Detect Potential ‘Second Generation’ Planet Around Dying Stellar White Dwarf By Bruce Dorminey - October 11, 2026 02:49 AM UTC | Exoplanets - 23K reads This artist’s concept depicts a possible explanation for the unusual chemical abundances NASA’s Hubble Space Telescope detected in the HS 0209+0832 system: a second-generation planet orbiting the white dwarf star. Credit: NASA Astronomers have potentially detected the first known second-generation planet; in this case, a Jupiter-like",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Universe Today",
+          "title": "Astronomers Detect Potential ‘Second Generation’ Planet Around Dying Stellar White Dwarf",
+          "url": "https://www.universetoday.com/articles/astronomers-detect-potential-second-generation-planet-around-dying-stellar-white-dwarf",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-10-11",
+      "title": "The Preliminary Lunar Science Report for Artemis II is Out!",
+      "summary": "The Preliminary Lunar Science Report for Artemis II is Out! By Matthew Williams - October 11, 2026 03:37 AM UTC | Missions - 25K reads Image of Earth captured as the Artemis II crew began their flight behind the Moon's far side on April 6th. Credit: NASA On April 1st, 2026, the crew of the Artemis II mission launched to space atop NASA's Space Launch System (SLS). Roughly three and a half hours after launch, the rocket's first stage separated from the Orion spacecraft ( Integrity ), and astronau",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Universe Today",
+          "title": "The Preliminary Lunar Science Report for Artemis II is Out!",
+          "url": "https://www.universetoday.com/articles/the-preliminary-lunar-science-report-for-artemis-ii-is-out",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "date": "2026-10-11",
+      "title": "Honda Wants to Put a Robotic Lab Assistant on Future Commercial Space Stations",
+      "summary": "Honda Wants to Put a Robotic Lab Assistant on Future Commercial Space Stations By Andy Tomaswick - October 11, 2026 12:33 PM UTC | Space Exploration - 18K reads Artist image depicting the Honda/Redwire system in action. Credit - Honda / Redwire As I’m writing this I’m able to stare out into my driveway at my trusty Honda Odyssey. Most of the public’s association with Honda is through their “mobility” products - i.e. their cars. But the company has an impressive track record of other technical ac",
+      "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+      "confidence": "low",
+      "status": "record",
+      "iso3": [],
+      "sources": [
+        {
+          "outlet": "Universe Today",
+          "title": "Honda Wants to Put a Robotic Lab Assistant on Future Commercial Space Stations",
+          "url": "https://www.universetoday.com/articles/honda-wants-to-put-a-robotic-lab-assistant-on-future-commercial-space-stations",
           "primary": true
         }
       ]
@@ -33,9 +138,9 @@
       "items": [
         {
           "date": "2026-10-11",
-          "title": "Nordics: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Nordics: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -49,9 +154,9 @@
       "items": [
         {
           "date": "2026-10-11",
-          "title": "Central and Eastern Europe: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Central and Eastern Europe: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -65,9 +170,9 @@
       "items": [
         {
           "date": "2026-10-11",
-          "title": "Western and Southern Europe: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Western and Southern Europe: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -81,9 +186,9 @@
       "items": [
         {
           "date": "2026-10-11",
-          "title": "ESA and EU: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "ESA and EU: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -97,9 +202,9 @@
       "items": [
         {
           "date": "2026-10-11",
-          "title": "Türkiye, Middle East and Africa: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Türkiye, Middle East and Africa: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -113,9 +218,9 @@
       "items": [
         {
           "date": "2026-10-11",
-          "title": "Eurasia and Central Asia: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Eurasia and Central Asia: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -129,9 +234,9 @@
       "items": [
         {
           "date": "2026-10-11",
-          "title": "Asia Pacific: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "Asia Pacific: nothing in the harvested record for this day",
+          "summary": "The memory harvest for this date did not include a story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
+          "why": "The harvest reads the space newsrooms we can archive. It is not a full desk sweep.",
           "confidence": "low",
           "status": "overview",
           "iso3": [],
@@ -145,13 +250,54 @@
       "items": [
         {
           "date": "2026-10-11",
-          "title": "Americas: nothing in the SpaceNews record for this day",
-          "summary": "The memory harvest for this date did not include a SpaceNews story that mapped to this desk. That is a gap in the record, not a finding that the desk was quiet.",
-          "why": "The harvest used one newsroom archive so the earlier days are not blank.",
+          "title": "On this day in space! Oct. 11, 1968: Apollo 7 launches into space, NASA's 1st Apollo astronaut crew in orbit",
+          "summary": "Space Exploration On this day in space! Oct. 11, 1968: Apollo 7 launches into space, NASA's 1st Apollo astronaut crew in orbit News By Hanneke Weitering Contributions by <a href=\"https://www.space.com/author/robert-z-pearlman\" class=\"vds-collabs__link whitespace-nowrap text-inherit inline-block n",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
           "confidence": "low",
-          "status": "overview",
+          "status": "record",
           "iso3": [],
-          "sources": []
+          "sources": [
+            {
+              "outlet": "Space.com",
+              "title": "On this day in space! Oct. 11, 1968: Apollo 7 launches into space, NASA's 1st Apollo astronaut crew in orbit",
+              "url": "https://www.space.com/space-exploration/on-this-day-in-space-october-11-2026",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-10-11",
+          "title": "Astronomers Detect Potential ‘Second Generation’ Planet Around Dying Stellar White Dwarf",
+          "summary": "Astronomers Detect Potential ‘Second Generation’ Planet Around Dying Stellar White Dwarf By Bruce Dorminey - October 11, 2026 02:49 AM UTC | Exoplanets - 23K reads This artist’s concept depicts a possible explanation for the unusual chemical abundances NASA’s Hubble Space Telescope detected in the HS 0209+0832 system: a second-generation planet orbiting the white dwarf star. Credit: NASA Astronomers have potentially detected the first known second-generation planet; in this case, a Jupiter-like",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Universe Today",
+              "title": "Astronomers Detect Potential ‘Second Generation’ Planet Around Dying Stellar White Dwarf",
+              "url": "https://www.universetoday.com/articles/astronomers-detect-potential-second-generation-planet-around-dying-stellar-white-dwarf",
+              "primary": true
+            }
+          ]
+        },
+        {
+          "date": "2026-10-11",
+          "title": "The Preliminary Lunar Science Report for Artemis II is Out!",
+          "summary": "The Preliminary Lunar Science Report for Artemis II is Out! By Matthew Williams - October 11, 2026 03:37 AM UTC | Missions - 25K reads Image of Earth captured as the Artemis II crew began their flight behind the Moon's far side on April 6th. Credit: NASA On April 1st, 2026, the crew of the Artemis II mission launched to space atop NASA's Space Launch System (SLS). Roughly three and a half hours after launch, the rocket's first stage separated from the Orion spacecraft ( Integrity ), and astronau",
+          "why": "Kept so the editor has a record of what was reported, not because a full desk sweep was done.",
+          "confidence": "low",
+          "status": "record",
+          "iso3": [],
+          "sources": [
+            {
+              "outlet": "Universe Today",
+              "title": "The Preliminary Lunar Science Report for Artemis II is Out!",
+              "url": "https://www.universetoday.com/articles/the-preliminary-lunar-science-report-for-artemis-ii-is-out",
+              "primary": true
+            }
+          ]
         }
       ]
     }
@@ -163,8 +309,12 @@
   "competitive_watch": [],
   "stats": {
     "record": "memory",
-    "source": "SpaceNews",
-    "stories": 0
+    "sources": [
+      "Space.com",
+      "SpacePolicyOnline",
+      "Universe Today"
+    ],
+    "stories": 7
   },
   "audio_script": "This is a memory record for 2026-10-11, not a spoken briefing. It keeps the SpaceNews stories dated this day so later editions can see what had already been reported.",
   "audio_sections": [
