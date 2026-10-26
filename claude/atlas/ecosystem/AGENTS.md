@@ -44,7 +44,7 @@ Do not edit `briefings/`, the threads, the country-data files, or the site repos
 1. **Observed.** Every `ecosystem` line in `claude/atlas/registry/watch.md` since the previous monthly run. On the first run, take October and November up to the run date. Read the threads. If a last state names a firm, agency, university, or factory and the watch has no ecosystem line, add that country.
 2. **Expected.** Every `expected` ecosystem line whose date fell since the previous run or falls in the next 31 days.
 3. **Just filed.** Countries the country-file report for this month marked as a first file. If that file says there is no space institution, record `status: none` for the ecosystem and do not search again. Use the country report's proof URL.
-4. **Backlog.** After those are committed, countries in the registry with `ecosystem` = `unmapped` and `core` true, up to 8, desk order `cee`, `nordics`, `west`, `eurasia`, `mena`, `asia_pac`, `americas`. Then stop. Non-core countries wait for a later month unless they are on the watch list.
+4. **Backlog.** After those are committed, up to 8 countries in the registry with `ecosystem` = `unmapped`. Take `core` countries first. When every core country is `mapped`, `partial`, or `none`, continue with the remaining countries. Desk order is `cee`, `nordics`, `west`, `eurasia`, `mena`, `asia_pac`, `americas`. A later month's database keeps the countries already finished.
 
 Do not re-map the 419 existing organizations. Open an existing organization only when a watch line names it, or names its country and a fact that would change that organization's description.
 
