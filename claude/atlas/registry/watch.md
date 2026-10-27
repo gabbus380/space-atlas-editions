@@ -1,6 +1,6 @@
 # Change watch
 
-The daily briefing editor appends lines here after each edition. It does not rewrite a line that is already here. The monthly country agent and the monthly ecosystem agent read this file. They do not delete lines. What they did is in their own reports.
+The daily briefing editor appends lines here after each edition. It does not rewrite a line that is already here. During worldwide bootstrap, the country and ecosystem builders may read this file for context, but it does not limit or prioritise away their deterministic 235-entry queues. Only after their completion gates pass do the monthly maintenance agents use this watch as their primary change queue. They do not delete lines. What they did is in their own reports.
 
 A line is:
 
@@ -15,7 +15,7 @@ If the heading for the current UTC month is missing, add it at the end, then app
 
 ## 2026-10
 
-Seeded from the 26 October edition. These are the observed changes the first monthly review has to consider.
+Seeded from the 26 October edition. These are change signals, not evidence that the worldwide bootstrap is complete.
 
 - 2026-10-26 | observed | JPN | country | MMX launched on H3 toward the moons of Mars
 - 2026-10-26 | observed | JPN | ecosystem | JAXA MMX mission is under way

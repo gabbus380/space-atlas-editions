@@ -157,7 +157,7 @@ An organization matches the site registry:
 - `name`
 - `tier`: `key` for the space agency, the space office, or a firm the briefing would name. `directory` for a listed supplier.
 - `category`: one of Manufacturing and hardware; Software, data and ground; Electronics and semiconductors; Research institutes; Universities; Government; Clusters and associations; Life sciences and pharma.
-- `type`: Company, University, Institute, Agency, Program, Cluster, Investor, Other, or null.
+- `type`: Company, University, Institute, Agency, Program, Cluster, or null. These are the types present in the website baseline.
 - `desc`: one sentence from the page you opened.
 - `domains`: one or more of Payloads and research; Ground and data; LEO infrastructure; Training; Human spaceflight; Electronics; Life sciences.
 - `conf`: `high` with the firm's own page plus one independent page. `medium` with two independent pages. `low` with one page. Say which.
@@ -166,7 +166,7 @@ An organization matches the site registry:
 
 Those are the exact fields used by the website. Do not put `proof`, `url`, or workflow fields inside the website organization object. Keep evidence in the patch's `evidence` object, keyed by organization id.
 
-The website's seven capability areas are fixed. Do not invent an eighth. The eight industry segments are fixed. `Investor` and `Other` are valid types but not industry segments.
+The website's seven capability areas and eight industry segments are fixed. Do not invent another domain, category, or organisation type. Record a space investor under the best existing website type only when that classification is factually defensible; otherwise hold it for a future schema decision.
 
 Breadth and depth are separate gates. A country becomes `mapped` when the breadth minimum is proved even if its long supplier directory is not exhausted. Set `depth_status` to `not_started` or `in_progress` until directory depth is finished. A smaller country may reach `mapped` and `depth_status: complete` together when the official/national directories were traversed and the manager explains why no known category remains. Do not pad a country to make it look complete.
 

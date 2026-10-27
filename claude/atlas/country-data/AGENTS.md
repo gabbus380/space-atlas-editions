@@ -118,7 +118,7 @@ Assign the complete helper-selected batch at the start of a bootstrap run. Do no
 
 A manager who cannot read the language marks `translation_doubt` and asks the director for help. A director may regroup once within its region. Nobody guesses.
 
-`baseline.json` is starting text, not proof. Wikipedia links inside it are finders. The 81 seeded files must pass the same completion rule as new files.
+`baseline.json` is starting text, not proof. Wikipedia links inside it are finders. The 81 seeded files must pass the same completion rule as new files. A legacy baseline value of `verify: verified` describes the old website record; it does not make that seed `complete` under this builder.
 
 ### How to research one country
 
@@ -197,6 +197,32 @@ The object written for each ISO3 is compatible with `atlas.json`:
   "media": {"outlets": [], "none": []}
 }
 ```
+
+### Manager packet
+
+A Country Manager returns one packet per ISO3. It does not return prose instead of data:
+
+```json
+{
+  "iso3": "HUN",
+  "status": "partial",
+  "file": {},
+  "evidence": {
+    "government.head_of_state": {},
+    "government.head_of_government": {},
+    "government.lead": {},
+    "strategy": {},
+    "stakeholders": [],
+    "media": {}
+  },
+  "flags": [],
+  "rejected": [],
+  "searches_used": 0,
+  "fetches_used": 0
+}
+```
+
+`file` is the complete replacement country object in the exact shape above, including preserved valid seed content. Evidence uses the proof object below. `flags` identifies translation doubt, blocked primary sources, unresolved conflicts and missing sections. `rejected` identifies candidate URLs or claims and why they failed. A director returns an array of these packets plus regional duplicate/conflict notes. Only the VP merges them into `database.json`.
 
 Government node `type` uses the existing file vocabulary: `state`, `parliament`, `executive`, `ministry`, `defense`, `agency`, `research`, `advisory`, `regulator`.
 

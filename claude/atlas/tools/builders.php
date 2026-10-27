@@ -21,7 +21,7 @@ const COUNTRY_STATUSES = ['unstarted', 'seeded', 'partial', 'complete', 'inherit
 const ECOSYSTEM_STATUSES = ['unstarted', 'partial', 'mapped', 'inherited', 'none_found'];
 const ECOSYSTEM_DEPTH_STATUSES = ['not_started', 'in_progress', 'complete', 'not_applicable'];
 const MEDIA_KINDS = ['space_agency', 'space_office', 'government', 'national_press', 'space_press', 'science', 'business', 'broadcast'];
-const ORG_TYPES = ['Company', 'University', 'Institute', 'Agency', 'Program', 'Cluster', 'Investor', 'Other', null];
+const ORG_TYPES = ['Company', 'University', 'Institute', 'Agency', 'Program', 'Cluster', null];
 
 main($argv);
 
