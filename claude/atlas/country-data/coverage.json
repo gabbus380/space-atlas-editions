@@ -1,2965 +1,3245 @@
 {
-  "schema": 1,
-  "asOf": "2026-10-27",
-  "mode": "worldwide_build",
-  "total_map_entries": 235,
-  "counts": {
-    "unstarted": 154,
-    "seeded": 69,
-    "partial": 12,
-    "complete": 0,
-    "inherited": 0
-  },
-  "countries": {
-    "ABW": {
-      "iso3": "ABW",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "AFG": {
-      "iso3": "AFG",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "AGO": {
-      "iso3": "AGO",
-      "status": "seeded",
-      "last_checked": null,
-      "missing": [
-        "current verification",
-        "proved absences",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": "baseline"
-    },
-    "AIA": {
-      "iso3": "AIA",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "ALA": {
-      "iso3": "ALA",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "ALB": {
-      "iso3": "ALB",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "AND": {
-      "iso3": "AND",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "ARE": {
-      "iso3": "ARE",
-      "status": "seeded",
-      "last_checked": null,
-      "missing": [
-        "current verification",
-        "proved absences",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": "baseline"
-    },
-    "ARG": {
-      "iso3": "ARG",
-      "status": "partial",
-      "last_checked": "2026-10-27",
-      "missing": [
-        "depth completion and unresolved items (see database flags)",
-        "VP audit confirmation of unfetched proofs"
-      ],
-      "source": "database"
-    },
-    "ARM": {
-      "iso3": "ARM",
-      "status": "seeded",
-      "last_checked": null,
-      "missing": [
-        "current verification",
-        "proved absences",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": "baseline"
-    },
-    "ASM": {
-      "iso3": "ASM",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "ATF": {
-      "iso3": "ATF",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "ATG": {
-      "iso3": "ATG",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "AUS": {
-      "iso3": "AUS",
-      "status": "partial",
-      "last_checked": "2026-10-27",
-      "missing": [
-        "depth completion and unresolved items (see database flags)",
-        "VP audit confirmation of unfetched proofs"
-      ],
-      "source": "database"
-    },
-    "AUT": {
-      "iso3": "AUT",
-      "status": "seeded",
-      "last_checked": null,
-      "missing": [
-        "current verification",
-        "proved absences",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": "baseline"
-    },
-    "AZE": {
-      "iso3": "AZE",
-      "status": "seeded",
-      "last_checked": null,
-      "missing": [
-        "current verification",
-        "proved absences",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": "baseline"
-    },
-    "BDI": {
-      "iso3": "BDI",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "BEL": {
-      "iso3": "BEL",
-      "status": "seeded",
-      "last_checked": null,
-      "missing": [
-        "current verification",
-        "proved absences",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": "baseline"
-    },
-    "BEN": {
-      "iso3": "BEN",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "BFA": {
-      "iso3": "BFA",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "BGD": {
-      "iso3": "BGD",
-      "status": "partial",
-      "last_checked": "2026-10-27",
-      "missing": [
-        "depth completion and unresolved items (see database flags)",
-        "VP audit confirmation of unfetched proofs"
-      ],
-      "source": "database"
-    },
-    "BGR": {
-      "iso3": "BGR",
-      "status": "seeded",
-      "last_checked": null,
-      "missing": [
-        "current verification",
-        "proved absences",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": "baseline"
-    },
-    "BHR": {
-      "iso3": "BHR",
-      "status": "seeded",
-      "last_checked": null,
-      "missing": [
-        "current verification",
-        "proved absences",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": "baseline"
-    },
-    "BHS": {
-      "iso3": "BHS",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "BIH": {
-      "iso3": "BIH",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "BLM": {
-      "iso3": "BLM",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "BLR": {
-      "iso3": "BLR",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "BLZ": {
-      "iso3": "BLZ",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "BMU": {
-      "iso3": "BMU",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "BOL": {
-      "iso3": "BOL",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "BRA": {
-      "iso3": "BRA",
-      "status": "partial",
-      "last_checked": "2026-10-27",
-      "missing": [
-        "depth completion and unresolved items (see database flags)",
-        "VP audit confirmation of unfetched proofs"
-      ],
-      "source": "database"
-    },
-    "BRB": {
-      "iso3": "BRB",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "BRN": {
-      "iso3": "BRN",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "BTN": {
-      "iso3": "BTN",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "BWA": {
-      "iso3": "BWA",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "CAF": {
-      "iso3": "CAF",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "CAN": {
-      "iso3": "CAN",
-      "status": "partial",
-      "last_checked": "2026-10-27",
-      "missing": [
-        "depth completion and unresolved items (see database flags)",
-        "VP audit confirmation of unfetched proofs"
-      ],
-      "source": "database"
-    },
-    "CHE": {
-      "iso3": "CHE",
-      "status": "seeded",
-      "last_checked": null,
-      "missing": [
-        "current verification",
-        "proved absences",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": "baseline"
-    },
-    "CHL": {
-      "iso3": "CHL",
-      "status": "partial",
-      "last_checked": "2026-10-27",
-      "missing": [
-        "depth completion and unresolved items (see database flags)",
-        "VP audit confirmation of unfetched proofs"
-      ],
-      "source": "database"
-    },
-    "CHN": {
-      "iso3": "CHN",
-      "status": "partial",
-      "last_checked": "2026-10-27",
-      "missing": [
-        "depth completion and unresolved items (see database flags)",
-        "VP audit confirmation of unfetched proofs"
-      ],
-      "source": "database"
-    },
-    "CIV": {
-      "iso3": "CIV",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "CMR": {
-      "iso3": "CMR",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "COD": {
-      "iso3": "COD",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "COG": {
-      "iso3": "COG",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "COK": {
-      "iso3": "COK",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "COL": {
-      "iso3": "COL",
-      "status": "partial",
-      "last_checked": "2026-10-27",
-      "missing": [
-        "depth completion and unresolved items (see database flags)",
-        "VP audit confirmation of unfetched proofs"
-      ],
-      "source": "database"
-    },
-    "COM": {
-      "iso3": "COM",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "CPV": {
-      "iso3": "CPV",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "CRI": {
-      "iso3": "CRI",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "CUB": {
-      "iso3": "CUB",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "CUW": {
-      "iso3": "CUW",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "CYM": {
-      "iso3": "CYM",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "CYP": {
-      "iso3": "CYP",
-      "status": "seeded",
-      "last_checked": null,
-      "missing": [
-        "current verification",
-        "proved absences",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": "baseline"
-    },
-    "CZE": {
-      "iso3": "CZE",
-      "status": "seeded",
-      "last_checked": null,
-      "missing": [
-        "current verification",
-        "proved absences",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": "baseline"
-    },
-    "DEU": {
-      "iso3": "DEU",
-      "status": "seeded",
-      "last_checked": null,
-      "missing": [
-        "current verification",
-        "proved absences",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": "baseline"
-    },
-    "DJI": {
-      "iso3": "DJI",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "DMA": {
-      "iso3": "DMA",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "DNK": {
-      "iso3": "DNK",
-      "status": "seeded",
-      "last_checked": null,
-      "missing": [
-        "current verification",
-        "proved absences",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": "baseline"
-    },
-    "DOM": {
-      "iso3": "DOM",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "DZA": {
-      "iso3": "DZA",
-      "status": "seeded",
-      "last_checked": null,
-      "missing": [
-        "current verification",
-        "proved absences",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": "baseline"
-    },
-    "ECU": {
-      "iso3": "ECU",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "EGY": {
-      "iso3": "EGY",
-      "status": "seeded",
-      "last_checked": null,
-      "missing": [
-        "current verification",
-        "proved absences",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": "baseline"
-    },
-    "ERI": {
-      "iso3": "ERI",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "ESH": {
-      "iso3": "ESH",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "ESP": {
-      "iso3": "ESP",
-      "status": "seeded",
-      "last_checked": null,
-      "missing": [
-        "current verification",
-        "proved absences",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": "baseline"
-    },
-    "EST": {
-      "iso3": "EST",
-      "status": "seeded",
-      "last_checked": null,
-      "missing": [
-        "current verification",
-        "proved absences",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": "baseline"
-    },
-    "ETH": {
-      "iso3": "ETH",
-      "status": "seeded",
-      "last_checked": null,
-      "missing": [
-        "current verification",
-        "proved absences",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": "baseline"
-    },
-    "FIN": {
-      "iso3": "FIN",
-      "status": "seeded",
-      "last_checked": null,
-      "missing": [
-        "current verification",
-        "proved absences",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": "baseline"
-    },
-    "FJI": {
-      "iso3": "FJI",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "FLK": {
-      "iso3": "FLK",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "FRA": {
-      "iso3": "FRA",
-      "status": "seeded",
-      "last_checked": null,
-      "missing": [
-        "current verification",
-        "proved absences",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": "baseline"
-    },
-    "FRO": {
-      "iso3": "FRO",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "FSM": {
-      "iso3": "FSM",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "GAB": {
-      "iso3": "GAB",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "GBR": {
-      "iso3": "GBR",
-      "status": "seeded",
-      "last_checked": null,
-      "missing": [
-        "current verification",
-        "proved absences",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": "baseline"
-    },
-    "GEO": {
-      "iso3": "GEO",
-      "status": "seeded",
-      "last_checked": null,
-      "missing": [
-        "current verification",
-        "proved absences",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": "baseline"
-    },
-    "GGY": {
-      "iso3": "GGY",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "GHA": {
-      "iso3": "GHA",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "GIN": {
-      "iso3": "GIN",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "GMB": {
-      "iso3": "GMB",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "GNB": {
-      "iso3": "GNB",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "GNQ": {
-      "iso3": "GNQ",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "GRC": {
-      "iso3": "GRC",
-      "status": "seeded",
-      "last_checked": null,
-      "missing": [
-        "current verification",
-        "proved absences",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": "baseline"
-    },
-    "GRD": {
-      "iso3": "GRD",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "GRL": {
-      "iso3": "GRL",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "GTM": {
-      "iso3": "GTM",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "GUM": {
-      "iso3": "GUM",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "GUY": {
-      "iso3": "GUY",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "HKG": {
-      "iso3": "HKG",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "HMD": {
-      "iso3": "HMD",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "HND": {
-      "iso3": "HND",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "HRV": {
-      "iso3": "HRV",
-      "status": "seeded",
-      "last_checked": null,
-      "missing": [
-        "current verification",
-        "proved absences",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": "baseline"
-    },
-    "HTI": {
-      "iso3": "HTI",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "HUN": {
-      "iso3": "HUN",
-      "status": "seeded",
-      "last_checked": null,
-      "missing": [
-        "current verification",
-        "proved absences",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": "baseline"
-    },
-    "IDN": {
-      "iso3": "IDN",
-      "status": "partial",
-      "last_checked": "2026-10-27",
-      "missing": [
-        "depth completion and unresolved items (see database flags)",
-        "VP audit confirmation of unfetched proofs"
-      ],
-      "source": "database"
-    },
-    "IMN": {
-      "iso3": "IMN",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "IND": {
-      "iso3": "IND",
-      "status": "seeded",
-      "last_checked": null,
-      "missing": [
-        "current verification",
-        "proved absences",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": "baseline"
-    },
-    "IOT": {
-      "iso3": "IOT",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "IRL": {
-      "iso3": "IRL",
-      "status": "seeded",
-      "last_checked": null,
-      "missing": [
-        "current verification",
-        "proved absences",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": "baseline"
-    },
-    "IRN": {
-      "iso3": "IRN",
-      "status": "seeded",
-      "last_checked": null,
-      "missing": [
-        "current verification",
-        "proved absences",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": "baseline"
-    },
-    "IRQ": {
-      "iso3": "IRQ",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "ISL": {
-      "iso3": "ISL",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "ISR": {
-      "iso3": "ISR",
-      "status": "seeded",
-      "last_checked": null,
-      "missing": [
-        "current verification",
-        "proved absences",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": "baseline"
-    },
-    "ITA": {
-      "iso3": "ITA",
-      "status": "seeded",
-      "last_checked": null,
-      "missing": [
-        "current verification",
-        "proved absences",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": "baseline"
-    },
-    "JAM": {
-      "iso3": "JAM",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "JEY": {
-      "iso3": "JEY",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "JOR": {
-      "iso3": "JOR",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "JPN": {
-      "iso3": "JPN",
-      "status": "seeded",
-      "last_checked": null,
-      "missing": [
-        "current verification",
-        "proved absences",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": "baseline"
-    },
-    "KAZ": {
-      "iso3": "KAZ",
-      "status": "seeded",
-      "last_checked": null,
-      "missing": [
-        "current verification",
-        "proved absences",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": "baseline"
-    },
-    "KEN": {
-      "iso3": "KEN",
-      "status": "seeded",
-      "last_checked": null,
-      "missing": [
-        "current verification",
-        "proved absences",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": "baseline"
-    },
-    "KGZ": {
-      "iso3": "KGZ",
-      "status": "seeded",
-      "last_checked": null,
-      "missing": [
-        "current verification",
-        "proved absences",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": "baseline"
-    },
-    "KHM": {
-      "iso3": "KHM",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "KIR": {
-      "iso3": "KIR",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "KNA": {
-      "iso3": "KNA",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "KOR": {
-      "iso3": "KOR",
-      "status": "seeded",
-      "last_checked": null,
-      "missing": [
-        "current verification",
-        "proved absences",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": "baseline"
-    },
-    "KWT": {
-      "iso3": "KWT",
-      "status": "seeded",
-      "last_checked": null,
-      "missing": [
-        "current verification",
-        "proved absences",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": "baseline"
-    },
-    "LAO": {
-      "iso3": "LAO",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "LBN": {
-      "iso3": "LBN",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "LBR": {
-      "iso3": "LBR",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "LBY": {
-      "iso3": "LBY",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "LCA": {
-      "iso3": "LCA",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "LIE": {
-      "iso3": "LIE",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "LKA": {
-      "iso3": "LKA",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "LSO": {
-      "iso3": "LSO",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "LTU": {
-      "iso3": "LTU",
-      "status": "seeded",
-      "last_checked": null,
-      "missing": [
-        "current verification",
-        "proved absences",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": "baseline"
-    },
-    "LUX": {
-      "iso3": "LUX",
-      "status": "seeded",
-      "last_checked": null,
-      "missing": [
-        "current verification",
-        "proved absences",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": "baseline"
-    },
-    "LVA": {
-      "iso3": "LVA",
-      "status": "seeded",
-      "last_checked": null,
-      "missing": [
-        "current verification",
-        "proved absences",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": "baseline"
-    },
-    "MAC": {
-      "iso3": "MAC",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "MAF": {
-      "iso3": "MAF",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "MAR": {
-      "iso3": "MAR",
-      "status": "seeded",
-      "last_checked": null,
-      "missing": [
-        "current verification",
-        "proved absences",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": "baseline"
-    },
-    "MCO": {
-      "iso3": "MCO",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "MDA": {
-      "iso3": "MDA",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "MDG": {
-      "iso3": "MDG",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "MDV": {
-      "iso3": "MDV",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "MEX": {
-      "iso3": "MEX",
-      "status": "partial",
-      "last_checked": "2026-10-27",
-      "missing": [
-        "depth completion and unresolved items (see database flags)",
-        "VP audit confirmation of unfetched proofs"
-      ],
-      "source": "database"
-    },
-    "MHL": {
-      "iso3": "MHL",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "MKD": {
-      "iso3": "MKD",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "MLI": {
-      "iso3": "MLI",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "MLT": {
-      "iso3": "MLT",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "MMR": {
-      "iso3": "MMR",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "MNE": {
-      "iso3": "MNE",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "MNG": {
-      "iso3": "MNG",
-      "status": "seeded",
-      "last_checked": null,
-      "missing": [
-        "current verification",
-        "proved absences",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": "baseline"
-    },
-    "MNP": {
-      "iso3": "MNP",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "MOZ": {
-      "iso3": "MOZ",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "MRT": {
-      "iso3": "MRT",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "MSR": {
-      "iso3": "MSR",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "MUS": {
-      "iso3": "MUS",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "MWI": {
-      "iso3": "MWI",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "MYS": {
-      "iso3": "MYS",
-      "status": "seeded",
-      "last_checked": null,
-      "missing": [
-        "current verification",
-        "proved absences",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": "baseline"
-    },
-    "NAM": {
-      "iso3": "NAM",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "NCL": {
-      "iso3": "NCL",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "NER": {
-      "iso3": "NER",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "NFK": {
-      "iso3": "NFK",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "NGA": {
-      "iso3": "NGA",
-      "status": "seeded",
-      "last_checked": null,
-      "missing": [
-        "current verification",
-        "proved absences",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": "baseline"
-    },
-    "NIC": {
-      "iso3": "NIC",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "NIU": {
-      "iso3": "NIU",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "NLD": {
-      "iso3": "NLD",
-      "status": "seeded",
-      "last_checked": null,
-      "missing": [
-        "current verification",
-        "proved absences",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": "baseline"
-    },
-    "NOR": {
-      "iso3": "NOR",
-      "status": "seeded",
-      "last_checked": null,
-      "missing": [
-        "current verification",
-        "proved absences",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": "baseline"
-    },
-    "NPL": {
-      "iso3": "NPL",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "NRU": {
-      "iso3": "NRU",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "NZL": {
-      "iso3": "NZL",
-      "status": "seeded",
-      "last_checked": null,
-      "missing": [
-        "current verification",
-        "proved absences",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": "baseline"
-    },
-    "OMN": {
-      "iso3": "OMN",
-      "status": "seeded",
-      "last_checked": null,
-      "missing": [
-        "current verification",
-        "proved absences",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": "baseline"
-    },
-    "PAK": {
-      "iso3": "PAK",
-      "status": "seeded",
-      "last_checked": null,
-      "missing": [
-        "current verification",
-        "proved absences",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": "baseline"
-    },
-    "PAN": {
-      "iso3": "PAN",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "PCN": {
-      "iso3": "PCN",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "PER": {
-      "iso3": "PER",
-      "status": "partial",
-      "last_checked": "2026-10-27",
-      "missing": [
-        "depth completion and unresolved items (see database flags)",
-        "VP audit confirmation of unfetched proofs"
-      ],
-      "source": "database"
-    },
-    "PHL": {
-      "iso3": "PHL",
-      "status": "seeded",
-      "last_checked": null,
-      "missing": [
-        "current verification",
-        "proved absences",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": "baseline"
-    },
-    "PLW": {
-      "iso3": "PLW",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "PNG": {
-      "iso3": "PNG",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "POL": {
-      "iso3": "POL",
-      "status": "seeded",
-      "last_checked": null,
-      "missing": [
-        "current verification",
-        "proved absences",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": "baseline"
-    },
-    "PRI": {
-      "iso3": "PRI",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "PRK": {
-      "iso3": "PRK",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "PRT": {
-      "iso3": "PRT",
-      "status": "seeded",
-      "last_checked": null,
-      "missing": [
-        "current verification",
-        "proved absences",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": "baseline"
-    },
-    "PRY": {
-      "iso3": "PRY",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "PSE": {
-      "iso3": "PSE",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "PYF": {
-      "iso3": "PYF",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "QAT": {
-      "iso3": "QAT",
-      "status": "seeded",
-      "last_checked": null,
-      "missing": [
-        "current verification",
-        "proved absences",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": "baseline"
-    },
-    "ROU": {
-      "iso3": "ROU",
-      "status": "seeded",
-      "last_checked": null,
-      "missing": [
-        "current verification",
-        "proved absences",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": "baseline"
-    },
-    "RUS": {
-      "iso3": "RUS",
-      "status": "seeded",
-      "last_checked": null,
-      "missing": [
-        "current verification",
-        "proved absences",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": "baseline"
-    },
-    "RWA": {
-      "iso3": "RWA",
-      "status": "seeded",
-      "last_checked": null,
-      "missing": [
-        "current verification",
-        "proved absences",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": "baseline"
-    },
-    "SAU": {
-      "iso3": "SAU",
-      "status": "seeded",
-      "last_checked": null,
-      "missing": [
-        "current verification",
-        "proved absences",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": "baseline"
-    },
-    "SDN": {
-      "iso3": "SDN",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "SEN": {
-      "iso3": "SEN",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "SGP": {
-      "iso3": "SGP",
-      "status": "seeded",
-      "last_checked": null,
-      "missing": [
-        "current verification",
-        "proved absences",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": "baseline"
-    },
-    "SGS": {
-      "iso3": "SGS",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "SHN": {
-      "iso3": "SHN",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "SLB": {
-      "iso3": "SLB",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "SLE": {
-      "iso3": "SLE",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "SLV": {
-      "iso3": "SLV",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "SMR": {
-      "iso3": "SMR",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "SOM": {
-      "iso3": "SOM",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "SPM": {
-      "iso3": "SPM",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "SRB": {
-      "iso3": "SRB",
-      "status": "seeded",
-      "last_checked": null,
-      "missing": [
-        "current verification",
-        "proved absences",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": "baseline"
-    },
-    "SSD": {
-      "iso3": "SSD",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "STP": {
-      "iso3": "STP",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "SUR": {
-      "iso3": "SUR",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "SVK": {
-      "iso3": "SVK",
-      "status": "seeded",
-      "last_checked": null,
-      "missing": [
-        "current verification",
-        "proved absences",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": "baseline"
-    },
-    "SVN": {
-      "iso3": "SVN",
-      "status": "seeded",
-      "last_checked": null,
-      "missing": [
-        "current verification",
-        "proved absences",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": "baseline"
-    },
-    "SWE": {
-      "iso3": "SWE",
-      "status": "seeded",
-      "last_checked": null,
-      "missing": [
-        "current verification",
-        "proved absences",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": "baseline"
-    },
-    "SWZ": {
-      "iso3": "SWZ",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "SXM": {
-      "iso3": "SXM",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "SYC": {
-      "iso3": "SYC",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "SYR": {
-      "iso3": "SYR",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "TCA": {
-      "iso3": "TCA",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "TCD": {
-      "iso3": "TCD",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "TGO": {
-      "iso3": "TGO",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "THA": {
-      "iso3": "THA",
-      "status": "seeded",
-      "last_checked": null,
-      "missing": [
-        "current verification",
-        "proved absences",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": "baseline"
-    },
-    "TJK": {
-      "iso3": "TJK",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "TKM": {
-      "iso3": "TKM",
-      "status": "seeded",
-      "last_checked": null,
-      "missing": [
-        "current verification",
-        "proved absences",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": "baseline"
-    },
-    "TLS": {
-      "iso3": "TLS",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "TON": {
-      "iso3": "TON",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "TTO": {
-      "iso3": "TTO",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "TUN": {
-      "iso3": "TUN",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "TUR": {
-      "iso3": "TUR",
-      "status": "seeded",
-      "last_checked": null,
-      "missing": [
-        "current verification",
-        "proved absences",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": "baseline"
-    },
-    "TWN": {
-      "iso3": "TWN",
-      "status": "seeded",
-      "last_checked": null,
-      "missing": [
-        "current verification",
-        "proved absences",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": "baseline"
-    },
-    "TZA": {
-      "iso3": "TZA",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "UGA": {
-      "iso3": "UGA",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "UKR": {
-      "iso3": "UKR",
-      "status": "seeded",
-      "last_checked": null,
-      "missing": [
-        "current verification",
-        "proved absences",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": "baseline"
-    },
-    "URY": {
-      "iso3": "URY",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "USA": {
-      "iso3": "USA",
-      "status": "partial",
-      "last_checked": "2026-10-27",
-      "missing": [
-        "depth completion and unresolved items (see database flags)",
-        "VP audit confirmation of unfetched proofs"
-      ],
-      "source": "database"
-    },
-    "UZB": {
-      "iso3": "UZB",
-      "status": "seeded",
-      "last_checked": null,
-      "missing": [
-        "current verification",
-        "proved absences",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": "baseline"
-    },
-    "VAT": {
-      "iso3": "VAT",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "VCT": {
-      "iso3": "VCT",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "VEN": {
-      "iso3": "VEN",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "VGB": {
-      "iso3": "VGB",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "VIR": {
-      "iso3": "VIR",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "VNM": {
-      "iso3": "VNM",
-      "status": "seeded",
-      "last_checked": null,
-      "missing": [
-        "current verification",
-        "proved absences",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": "baseline"
-    },
-    "VUT": {
-      "iso3": "VUT",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "WLF": {
-      "iso3": "WLF",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "WSM": {
-      "iso3": "WSM",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "XKX": {
-      "iso3": "XKX",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "YEM": {
-      "iso3": "YEM",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "ZAF": {
-      "iso3": "ZAF",
-      "status": "seeded",
-      "last_checked": null,
-      "missing": [
-        "current verification",
-        "proved absences",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": "baseline"
-    },
-    "ZMB": {
-      "iso3": "ZMB",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    },
-    "ZWE": {
-      "iso3": "ZWE",
-      "status": "unstarted",
-      "last_checked": null,
-      "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
-      ],
-      "source": null
-    }
-  }
+    "schema": 1,
+    "asOf": "2026-10-27",
+    "mode": "worldwide_build",
+    "total_map_entries": 235,
+    "counts": {
+        "unstarted": 0,
+        "seeded": 0,
+        "partial": 173,
+        "complete": 62,
+        "inherited": 0
+    },
+    "countries": {
+        "ABW": {
+            "iso3": "ABW",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "AFG": {
+            "iso3": "AFG",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "AGO": {
+            "iso3": "AGO",
+            "status": "complete",
+            "last_checked": "2026-10-23",
+            "missing": [
+                "review additive media extension and any proposed core changes"
+            ],
+            "source": "authoritative",
+            "core_status": "production_verified",
+            "extension_status": "review_required",
+            "campaign_status": "partial",
+            "extension_last_checked": "2026-10-27"
+        },
+        "AIA": {
+            "iso3": "AIA",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "ALA": {
+            "iso3": "ALA",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "ALB": {
+            "iso3": "ALB",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "AND": {
+            "iso3": "AND",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "ARE": {
+            "iso3": "ARE",
+            "status": "complete",
+            "last_checked": "2026-10-23",
+            "missing": [
+                "review additive media extension and any proposed core changes"
+            ],
+            "source": "authoritative",
+            "core_status": "production_verified",
+            "extension_status": "review_required",
+            "campaign_status": "partial",
+            "extension_last_checked": "2026-10-27"
+        },
+        "ARG": {
+            "iso3": "ARG",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "ARM": {
+            "iso3": "ARM",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "ASM": {
+            "iso3": "ASM",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "ATF": {
+            "iso3": "ATF",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "ATG": {
+            "iso3": "ATG",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "AUS": {
+            "iso3": "AUS",
+            "status": "complete",
+            "last_checked": "2026-10-23",
+            "missing": [
+                "review additive media extension and any proposed core changes"
+            ],
+            "source": "authoritative",
+            "core_status": "production_verified",
+            "extension_status": "review_required",
+            "campaign_status": "partial",
+            "extension_last_checked": "2026-10-27"
+        },
+        "AUT": {
+            "iso3": "AUT",
+            "status": "complete",
+            "last_checked": "2026-10-23",
+            "missing": [
+                "review additive media extension and any proposed core changes"
+            ],
+            "source": "authoritative",
+            "core_status": "production_verified",
+            "extension_status": "review_required",
+            "campaign_status": "partial",
+            "extension_last_checked": "2026-10-27"
+        },
+        "AZE": {
+            "iso3": "AZE",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "BDI": {
+            "iso3": "BDI",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "BEL": {
+            "iso3": "BEL",
+            "status": "complete",
+            "last_checked": "2026-10-23",
+            "missing": [
+                "review additive media extension and any proposed core changes"
+            ],
+            "source": "authoritative",
+            "core_status": "production_verified",
+            "extension_status": "review_required",
+            "campaign_status": "partial",
+            "extension_last_checked": "2026-10-27"
+        },
+        "BEN": {
+            "iso3": "BEN",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "BFA": {
+            "iso3": "BFA",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "BGD": {
+            "iso3": "BGD",
+            "status": "complete",
+            "last_checked": "2026-10-23",
+            "missing": [
+                "review additive media extension and any proposed core changes"
+            ],
+            "source": "authoritative",
+            "core_status": "production_verified",
+            "extension_status": "review_required",
+            "campaign_status": "partial",
+            "extension_last_checked": "2026-10-27"
+        },
+        "BGR": {
+            "iso3": "BGR",
+            "status": "complete",
+            "last_checked": "2026-10-23",
+            "missing": [
+                "review additive media extension and any proposed core changes"
+            ],
+            "source": "authoritative",
+            "core_status": "production_verified",
+            "extension_status": "review_required",
+            "campaign_status": "partial",
+            "extension_last_checked": "2026-10-27"
+        },
+        "BHR": {
+            "iso3": "BHR",
+            "status": "complete",
+            "last_checked": "2026-10-23",
+            "missing": [
+                "review additive media extension and any proposed core changes"
+            ],
+            "source": "authoritative",
+            "core_status": "production_verified",
+            "extension_status": "review_required",
+            "campaign_status": "partial",
+            "extension_last_checked": "2026-10-27"
+        },
+        "BHS": {
+            "iso3": "BHS",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "BIH": {
+            "iso3": "BIH",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "BLM": {
+            "iso3": "BLM",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "BLR": {
+            "iso3": "BLR",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "BLZ": {
+            "iso3": "BLZ",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "BMU": {
+            "iso3": "BMU",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "BOL": {
+            "iso3": "BOL",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "BRA": {
+            "iso3": "BRA",
+            "status": "complete",
+            "last_checked": "2026-10-23",
+            "missing": [
+                "review additive media extension and any proposed core changes"
+            ],
+            "source": "authoritative",
+            "core_status": "production_verified",
+            "extension_status": "review_required",
+            "campaign_status": "partial",
+            "extension_last_checked": "2026-10-27"
+        },
+        "BRB": {
+            "iso3": "BRB",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "BRN": {
+            "iso3": "BRN",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "BTN": {
+            "iso3": "BTN",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "BWA": {
+            "iso3": "BWA",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "CAF": {
+            "iso3": "CAF",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "CAN": {
+            "iso3": "CAN",
+            "status": "complete",
+            "last_checked": "2026-10-23",
+            "missing": [
+                "review additive media extension and any proposed core changes"
+            ],
+            "source": "authoritative",
+            "core_status": "production_verified",
+            "extension_status": "review_required",
+            "campaign_status": "partial",
+            "extension_last_checked": "2026-10-27"
+        },
+        "CHE": {
+            "iso3": "CHE",
+            "status": "complete",
+            "last_checked": "2026-10-23",
+            "missing": [
+                "review additive media extension and any proposed core changes"
+            ],
+            "source": "authoritative",
+            "core_status": "production_verified",
+            "extension_status": "review_required",
+            "campaign_status": "partial",
+            "extension_last_checked": "2026-10-27"
+        },
+        "CHL": {
+            "iso3": "CHL",
+            "status": "complete",
+            "last_checked": "2026-10-23",
+            "missing": [
+                "review additive media extension and any proposed core changes"
+            ],
+            "source": "authoritative",
+            "core_status": "production_verified",
+            "extension_status": "review_required",
+            "campaign_status": "partial",
+            "extension_last_checked": "2026-10-27"
+        },
+        "CHN": {
+            "iso3": "CHN",
+            "status": "complete",
+            "last_checked": "2026-10-23",
+            "missing": [
+                "review additive media extension and any proposed core changes"
+            ],
+            "source": "authoritative",
+            "core_status": "production_verified",
+            "extension_status": "review_required",
+            "campaign_status": "partial",
+            "extension_last_checked": "2026-10-27"
+        },
+        "CIV": {
+            "iso3": "CIV",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "CMR": {
+            "iso3": "CMR",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "COD": {
+            "iso3": "COD",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "COG": {
+            "iso3": "COG",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "COK": {
+            "iso3": "COK",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "COL": {
+            "iso3": "COL",
+            "status": "complete",
+            "last_checked": "2026-10-23",
+            "missing": [
+                "review additive media extension and any proposed core changes"
+            ],
+            "source": "authoritative",
+            "core_status": "production_verified",
+            "extension_status": "review_required",
+            "campaign_status": "partial",
+            "extension_last_checked": "2026-10-27"
+        },
+        "COM": {
+            "iso3": "COM",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "CPV": {
+            "iso3": "CPV",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "CRI": {
+            "iso3": "CRI",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "CUB": {
+            "iso3": "CUB",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "CUW": {
+            "iso3": "CUW",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "CYM": {
+            "iso3": "CYM",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "CYP": {
+            "iso3": "CYP",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "CZE": {
+            "iso3": "CZE",
+            "status": "complete",
+            "last_checked": "2026-10-23",
+            "missing": [
+                "review additive media extension and any proposed core changes"
+            ],
+            "source": "authoritative",
+            "core_status": "production_verified",
+            "extension_status": "review_required",
+            "campaign_status": "partial",
+            "extension_last_checked": "2026-10-27"
+        },
+        "DEU": {
+            "iso3": "DEU",
+            "status": "complete",
+            "last_checked": "2026-10-23",
+            "missing": [
+                "review additive media extension and any proposed core changes"
+            ],
+            "source": "authoritative",
+            "core_status": "production_verified",
+            "extension_status": "review_required",
+            "campaign_status": "partial",
+            "extension_last_checked": "2026-10-27"
+        },
+        "DJI": {
+            "iso3": "DJI",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "DMA": {
+            "iso3": "DMA",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "DNK": {
+            "iso3": "DNK",
+            "status": "complete",
+            "last_checked": "2026-10-23",
+            "missing": [
+                "review additive media extension and any proposed core changes"
+            ],
+            "source": "authoritative",
+            "core_status": "production_verified",
+            "extension_status": "review_required",
+            "campaign_status": "partial",
+            "extension_last_checked": "2026-10-27"
+        },
+        "DOM": {
+            "iso3": "DOM",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "DZA": {
+            "iso3": "DZA",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "ECU": {
+            "iso3": "ECU",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "EGY": {
+            "iso3": "EGY",
+            "status": "complete",
+            "last_checked": "2026-10-23",
+            "missing": [
+                "review additive media extension and any proposed core changes"
+            ],
+            "source": "authoritative",
+            "core_status": "production_verified",
+            "extension_status": "review_required",
+            "campaign_status": "partial",
+            "extension_last_checked": "2026-10-27"
+        },
+        "ERI": {
+            "iso3": "ERI",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "ESH": {
+            "iso3": "ESH",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "ESP": {
+            "iso3": "ESP",
+            "status": "complete",
+            "last_checked": "2026-10-23",
+            "missing": [
+                "review additive media extension and any proposed core changes"
+            ],
+            "source": "authoritative",
+            "core_status": "production_verified",
+            "extension_status": "review_required",
+            "campaign_status": "partial",
+            "extension_last_checked": "2026-10-27"
+        },
+        "EST": {
+            "iso3": "EST",
+            "status": "complete",
+            "last_checked": "2026-10-23",
+            "missing": [
+                "review additive media extension and any proposed core changes"
+            ],
+            "source": "authoritative",
+            "core_status": "production_verified",
+            "extension_status": "review_required",
+            "campaign_status": "partial",
+            "extension_last_checked": "2026-10-27"
+        },
+        "ETH": {
+            "iso3": "ETH",
+            "status": "complete",
+            "last_checked": "2026-10-23",
+            "missing": [
+                "review additive media extension and any proposed core changes"
+            ],
+            "source": "authoritative",
+            "core_status": "production_verified",
+            "extension_status": "review_required",
+            "campaign_status": "partial",
+            "extension_last_checked": "2026-10-27"
+        },
+        "FIN": {
+            "iso3": "FIN",
+            "status": "complete",
+            "last_checked": "2026-10-23",
+            "missing": [
+                "review additive media extension and any proposed core changes"
+            ],
+            "source": "authoritative",
+            "core_status": "production_verified",
+            "extension_status": "review_required",
+            "campaign_status": "partial",
+            "extension_last_checked": "2026-10-27"
+        },
+        "FJI": {
+            "iso3": "FJI",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "FLK": {
+            "iso3": "FLK",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "FRA": {
+            "iso3": "FRA",
+            "status": "complete",
+            "last_checked": "2026-10-23",
+            "missing": [
+                "review additive media extension and any proposed core changes"
+            ],
+            "source": "authoritative",
+            "core_status": "production_verified",
+            "extension_status": "review_required",
+            "campaign_status": "partial",
+            "extension_last_checked": "2026-10-27"
+        },
+        "FRO": {
+            "iso3": "FRO",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "FSM": {
+            "iso3": "FSM",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "GAB": {
+            "iso3": "GAB",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "GBR": {
+            "iso3": "GBR",
+            "status": "complete",
+            "last_checked": "2026-10-23",
+            "missing": [
+                "review additive media extension and any proposed core changes"
+            ],
+            "source": "authoritative",
+            "core_status": "production_verified",
+            "extension_status": "review_required",
+            "campaign_status": "partial",
+            "extension_last_checked": "2026-10-27"
+        },
+        "GEO": {
+            "iso3": "GEO",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "GGY": {
+            "iso3": "GGY",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "GHA": {
+            "iso3": "GHA",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "GIN": {
+            "iso3": "GIN",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "GMB": {
+            "iso3": "GMB",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "GNB": {
+            "iso3": "GNB",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "GNQ": {
+            "iso3": "GNQ",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "GRC": {
+            "iso3": "GRC",
+            "status": "complete",
+            "last_checked": "2026-10-23",
+            "missing": [
+                "review additive media extension and any proposed core changes"
+            ],
+            "source": "authoritative",
+            "core_status": "production_verified",
+            "extension_status": "review_required",
+            "campaign_status": "partial",
+            "extension_last_checked": "2026-10-27"
+        },
+        "GRD": {
+            "iso3": "GRD",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "GRL": {
+            "iso3": "GRL",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "GTM": {
+            "iso3": "GTM",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "GUM": {
+            "iso3": "GUM",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "GUY": {
+            "iso3": "GUY",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "HKG": {
+            "iso3": "HKG",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "HMD": {
+            "iso3": "HMD",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "HND": {
+            "iso3": "HND",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "HRV": {
+            "iso3": "HRV",
+            "status": "complete",
+            "last_checked": "2026-10-23",
+            "missing": [
+                "review additive media extension and any proposed core changes"
+            ],
+            "source": "authoritative",
+            "core_status": "production_verified",
+            "extension_status": "review_required",
+            "campaign_status": "partial",
+            "extension_last_checked": "2026-10-27"
+        },
+        "HTI": {
+            "iso3": "HTI",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "HUN": {
+            "iso3": "HUN",
+            "status": "complete",
+            "last_checked": "2026-10-23",
+            "missing": [
+                "review additive media extension and any proposed core changes"
+            ],
+            "source": "authoritative",
+            "core_status": "production_verified",
+            "extension_status": "review_required",
+            "campaign_status": "partial",
+            "extension_last_checked": "2026-10-27"
+        },
+        "IDN": {
+            "iso3": "IDN",
+            "status": "complete",
+            "last_checked": "2026-10-23",
+            "missing": [
+                "review additive media extension and any proposed core changes"
+            ],
+            "source": "authoritative",
+            "core_status": "production_verified",
+            "extension_status": "review_required",
+            "campaign_status": "partial",
+            "extension_last_checked": "2026-10-27"
+        },
+        "IMN": {
+            "iso3": "IMN",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "IND": {
+            "iso3": "IND",
+            "status": "complete",
+            "last_checked": "2026-10-23",
+            "missing": [
+                "review additive media extension and any proposed core changes"
+            ],
+            "source": "authoritative",
+            "core_status": "production_verified",
+            "extension_status": "review_required",
+            "campaign_status": "partial",
+            "extension_last_checked": "2026-10-27"
+        },
+        "IOT": {
+            "iso3": "IOT",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "IRL": {
+            "iso3": "IRL",
+            "status": "complete",
+            "last_checked": "2026-10-23",
+            "missing": [
+                "review additive media extension and any proposed core changes"
+            ],
+            "source": "authoritative",
+            "core_status": "production_verified",
+            "extension_status": "review_required",
+            "campaign_status": "partial",
+            "extension_last_checked": "2026-10-27"
+        },
+        "IRN": {
+            "iso3": "IRN",
+            "status": "complete",
+            "last_checked": "2026-10-23",
+            "missing": [
+                "review additive media extension and any proposed core changes"
+            ],
+            "source": "authoritative",
+            "core_status": "production_verified",
+            "extension_status": "review_required",
+            "campaign_status": "partial",
+            "extension_last_checked": "2026-10-27"
+        },
+        "IRQ": {
+            "iso3": "IRQ",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "ISL": {
+            "iso3": "ISL",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "ISR": {
+            "iso3": "ISR",
+            "status": "complete",
+            "last_checked": "2026-10-23",
+            "missing": [
+                "review additive media extension and any proposed core changes"
+            ],
+            "source": "authoritative",
+            "core_status": "production_verified",
+            "extension_status": "review_required",
+            "campaign_status": "partial",
+            "extension_last_checked": "2026-10-27"
+        },
+        "ITA": {
+            "iso3": "ITA",
+            "status": "complete",
+            "last_checked": "2026-10-23",
+            "missing": [
+                "review additive media extension and any proposed core changes"
+            ],
+            "source": "authoritative",
+            "core_status": "production_verified",
+            "extension_status": "review_required",
+            "campaign_status": "partial",
+            "extension_last_checked": "2026-10-27"
+        },
+        "JAM": {
+            "iso3": "JAM",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "JEY": {
+            "iso3": "JEY",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "JOR": {
+            "iso3": "JOR",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "JPN": {
+            "iso3": "JPN",
+            "status": "complete",
+            "last_checked": "2026-10-23",
+            "missing": [
+                "review additive media extension and any proposed core changes"
+            ],
+            "source": "authoritative",
+            "core_status": "production_verified",
+            "extension_status": "review_required",
+            "campaign_status": "partial",
+            "extension_last_checked": "2026-10-27"
+        },
+        "KAZ": {
+            "iso3": "KAZ",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "KEN": {
+            "iso3": "KEN",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "KGZ": {
+            "iso3": "KGZ",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "KHM": {
+            "iso3": "KHM",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "KIR": {
+            "iso3": "KIR",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "KNA": {
+            "iso3": "KNA",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "KOR": {
+            "iso3": "KOR",
+            "status": "complete",
+            "last_checked": "2026-10-23",
+            "missing": [
+                "review additive media extension and any proposed core changes"
+            ],
+            "source": "authoritative",
+            "core_status": "production_verified",
+            "extension_status": "review_required",
+            "campaign_status": "partial",
+            "extension_last_checked": "2026-10-27"
+        },
+        "KWT": {
+            "iso3": "KWT",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "LAO": {
+            "iso3": "LAO",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "LBN": {
+            "iso3": "LBN",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "LBR": {
+            "iso3": "LBR",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "LBY": {
+            "iso3": "LBY",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "LCA": {
+            "iso3": "LCA",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "LIE": {
+            "iso3": "LIE",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "LKA": {
+            "iso3": "LKA",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "LSO": {
+            "iso3": "LSO",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "LTU": {
+            "iso3": "LTU",
+            "status": "complete",
+            "last_checked": "2026-10-23",
+            "missing": [
+                "review additive media extension and any proposed core changes"
+            ],
+            "source": "authoritative",
+            "core_status": "production_verified",
+            "extension_status": "review_required",
+            "campaign_status": "partial",
+            "extension_last_checked": "2026-10-27"
+        },
+        "LUX": {
+            "iso3": "LUX",
+            "status": "complete",
+            "last_checked": "2026-10-23",
+            "missing": [
+                "review additive media extension and any proposed core changes"
+            ],
+            "source": "authoritative",
+            "core_status": "production_verified",
+            "extension_status": "review_required",
+            "campaign_status": "partial",
+            "extension_last_checked": "2026-10-27"
+        },
+        "LVA": {
+            "iso3": "LVA",
+            "status": "complete",
+            "last_checked": "2026-10-23",
+            "missing": [
+                "review additive media extension and any proposed core changes"
+            ],
+            "source": "authoritative",
+            "core_status": "production_verified",
+            "extension_status": "review_required",
+            "campaign_status": "partial",
+            "extension_last_checked": "2026-10-27"
+        },
+        "MAC": {
+            "iso3": "MAC",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "MAF": {
+            "iso3": "MAF",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "MAR": {
+            "iso3": "MAR",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "MCO": {
+            "iso3": "MCO",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "MDA": {
+            "iso3": "MDA",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "MDG": {
+            "iso3": "MDG",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "MDV": {
+            "iso3": "MDV",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "MEX": {
+            "iso3": "MEX",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "MHL": {
+            "iso3": "MHL",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "MKD": {
+            "iso3": "MKD",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "MLI": {
+            "iso3": "MLI",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "MLT": {
+            "iso3": "MLT",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "MMR": {
+            "iso3": "MMR",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "MNE": {
+            "iso3": "MNE",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "MNG": {
+            "iso3": "MNG",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "MNP": {
+            "iso3": "MNP",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "MOZ": {
+            "iso3": "MOZ",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "MRT": {
+            "iso3": "MRT",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "MSR": {
+            "iso3": "MSR",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "MUS": {
+            "iso3": "MUS",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "MWI": {
+            "iso3": "MWI",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "MYS": {
+            "iso3": "MYS",
+            "status": "complete",
+            "last_checked": "2026-10-23",
+            "missing": [
+                "review additive media extension and any proposed core changes"
+            ],
+            "source": "authoritative",
+            "core_status": "production_verified",
+            "extension_status": "review_required",
+            "campaign_status": "partial",
+            "extension_last_checked": "2026-10-27"
+        },
+        "NAM": {
+            "iso3": "NAM",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "NCL": {
+            "iso3": "NCL",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "NER": {
+            "iso3": "NER",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "NFK": {
+            "iso3": "NFK",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "NGA": {
+            "iso3": "NGA",
+            "status": "complete",
+            "last_checked": "2026-10-23",
+            "missing": [
+                "review additive media extension and any proposed core changes"
+            ],
+            "source": "authoritative",
+            "core_status": "production_verified",
+            "extension_status": "review_required",
+            "campaign_status": "partial",
+            "extension_last_checked": "2026-10-27"
+        },
+        "NIC": {
+            "iso3": "NIC",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "NIU": {
+            "iso3": "NIU",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "NLD": {
+            "iso3": "NLD",
+            "status": "complete",
+            "last_checked": "2026-10-23",
+            "missing": [
+                "review additive media extension and any proposed core changes"
+            ],
+            "source": "authoritative",
+            "core_status": "production_verified",
+            "extension_status": "review_required",
+            "campaign_status": "partial",
+            "extension_last_checked": "2026-10-27"
+        },
+        "NOR": {
+            "iso3": "NOR",
+            "status": "complete",
+            "last_checked": "2026-10-23",
+            "missing": [
+                "review additive media extension and any proposed core changes"
+            ],
+            "source": "authoritative",
+            "core_status": "production_verified",
+            "extension_status": "review_required",
+            "campaign_status": "partial",
+            "extension_last_checked": "2026-10-27"
+        },
+        "NPL": {
+            "iso3": "NPL",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "NRU": {
+            "iso3": "NRU",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "NZL": {
+            "iso3": "NZL",
+            "status": "complete",
+            "last_checked": "2026-10-23",
+            "missing": [
+                "review additive media extension and any proposed core changes"
+            ],
+            "source": "authoritative",
+            "core_status": "production_verified",
+            "extension_status": "review_required",
+            "campaign_status": "partial",
+            "extension_last_checked": "2026-10-27"
+        },
+        "OMN": {
+            "iso3": "OMN",
+            "status": "complete",
+            "last_checked": "2026-10-23",
+            "missing": [
+                "review additive media extension and any proposed core changes"
+            ],
+            "source": "authoritative",
+            "core_status": "production_verified",
+            "extension_status": "review_required",
+            "campaign_status": "partial",
+            "extension_last_checked": "2026-10-27"
+        },
+        "PAK": {
+            "iso3": "PAK",
+            "status": "complete",
+            "last_checked": "2026-10-23",
+            "missing": [
+                "review additive media extension and any proposed core changes"
+            ],
+            "source": "authoritative",
+            "core_status": "production_verified",
+            "extension_status": "review_required",
+            "campaign_status": "partial",
+            "extension_last_checked": "2026-10-27"
+        },
+        "PAN": {
+            "iso3": "PAN",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "PCN": {
+            "iso3": "PCN",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "PER": {
+            "iso3": "PER",
+            "status": "complete",
+            "last_checked": "2026-10-23",
+            "missing": [
+                "review additive media extension and any proposed core changes"
+            ],
+            "source": "authoritative",
+            "core_status": "production_verified",
+            "extension_status": "review_required",
+            "campaign_status": "partial",
+            "extension_last_checked": "2026-10-27"
+        },
+        "PHL": {
+            "iso3": "PHL",
+            "status": "complete",
+            "last_checked": "2026-10-23",
+            "missing": [
+                "review additive media extension and any proposed core changes"
+            ],
+            "source": "authoritative",
+            "core_status": "production_verified",
+            "extension_status": "review_required",
+            "campaign_status": "partial",
+            "extension_last_checked": "2026-10-27"
+        },
+        "PLW": {
+            "iso3": "PLW",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "PNG": {
+            "iso3": "PNG",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "POL": {
+            "iso3": "POL",
+            "status": "complete",
+            "last_checked": "2026-10-23",
+            "missing": [
+                "review additive media extension and any proposed core changes"
+            ],
+            "source": "authoritative",
+            "core_status": "production_verified",
+            "extension_status": "review_required",
+            "campaign_status": "partial",
+            "extension_last_checked": "2026-10-27"
+        },
+        "PRI": {
+            "iso3": "PRI",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "PRK": {
+            "iso3": "PRK",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "PRT": {
+            "iso3": "PRT",
+            "status": "complete",
+            "last_checked": "2026-10-23",
+            "missing": [
+                "review additive media extension and any proposed core changes"
+            ],
+            "source": "authoritative",
+            "core_status": "production_verified",
+            "extension_status": "review_required",
+            "campaign_status": "partial",
+            "extension_last_checked": "2026-10-27"
+        },
+        "PRY": {
+            "iso3": "PRY",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "PSE": {
+            "iso3": "PSE",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "PYF": {
+            "iso3": "PYF",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "QAT": {
+            "iso3": "QAT",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "ROU": {
+            "iso3": "ROU",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "RUS": {
+            "iso3": "RUS",
+            "status": "complete",
+            "last_checked": "2026-10-23",
+            "missing": [
+                "review additive media extension and any proposed core changes"
+            ],
+            "source": "authoritative",
+            "core_status": "production_verified",
+            "extension_status": "review_required",
+            "campaign_status": "partial",
+            "extension_last_checked": "2026-10-27"
+        },
+        "RWA": {
+            "iso3": "RWA",
+            "status": "complete",
+            "last_checked": "2026-10-23",
+            "missing": [
+                "review additive media extension and any proposed core changes"
+            ],
+            "source": "authoritative",
+            "core_status": "production_verified",
+            "extension_status": "review_required",
+            "campaign_status": "partial",
+            "extension_last_checked": "2026-10-27"
+        },
+        "SAU": {
+            "iso3": "SAU",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "SDN": {
+            "iso3": "SDN",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "SEN": {
+            "iso3": "SEN",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "SGP": {
+            "iso3": "SGP",
+            "status": "complete",
+            "last_checked": "2026-10-23",
+            "missing": [
+                "review additive media extension and any proposed core changes"
+            ],
+            "source": "authoritative",
+            "core_status": "production_verified",
+            "extension_status": "review_required",
+            "campaign_status": "partial",
+            "extension_last_checked": "2026-10-27"
+        },
+        "SGS": {
+            "iso3": "SGS",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "SHN": {
+            "iso3": "SHN",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "SLB": {
+            "iso3": "SLB",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "SLE": {
+            "iso3": "SLE",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "SLV": {
+            "iso3": "SLV",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "SMR": {
+            "iso3": "SMR",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "SOM": {
+            "iso3": "SOM",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "SPM": {
+            "iso3": "SPM",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "SRB": {
+            "iso3": "SRB",
+            "status": "complete",
+            "last_checked": "2026-10-23",
+            "missing": [
+                "review additive media extension and any proposed core changes"
+            ],
+            "source": "authoritative",
+            "core_status": "production_verified",
+            "extension_status": "review_required",
+            "campaign_status": "partial",
+            "extension_last_checked": "2026-10-27"
+        },
+        "SSD": {
+            "iso3": "SSD",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "STP": {
+            "iso3": "STP",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "SUR": {
+            "iso3": "SUR",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "SVK": {
+            "iso3": "SVK",
+            "status": "complete",
+            "last_checked": "2026-10-23",
+            "missing": [
+                "review additive media extension and any proposed core changes"
+            ],
+            "source": "authoritative",
+            "core_status": "production_verified",
+            "extension_status": "review_required",
+            "campaign_status": "partial",
+            "extension_last_checked": "2026-10-27"
+        },
+        "SVN": {
+            "iso3": "SVN",
+            "status": "complete",
+            "last_checked": "2026-10-23",
+            "missing": [
+                "review additive media extension and any proposed core changes"
+            ],
+            "source": "authoritative",
+            "core_status": "production_verified",
+            "extension_status": "review_required",
+            "campaign_status": "partial",
+            "extension_last_checked": "2026-10-27"
+        },
+        "SWE": {
+            "iso3": "SWE",
+            "status": "complete",
+            "last_checked": "2026-10-23",
+            "missing": [
+                "review additive media extension and any proposed core changes"
+            ],
+            "source": "authoritative",
+            "core_status": "production_verified",
+            "extension_status": "review_required",
+            "campaign_status": "partial",
+            "extension_last_checked": "2026-10-27"
+        },
+        "SWZ": {
+            "iso3": "SWZ",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "SXM": {
+            "iso3": "SXM",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "SYC": {
+            "iso3": "SYC",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "SYR": {
+            "iso3": "SYR",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "TCA": {
+            "iso3": "TCA",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "TCD": {
+            "iso3": "TCD",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "TGO": {
+            "iso3": "TGO",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "THA": {
+            "iso3": "THA",
+            "status": "complete",
+            "last_checked": "2026-10-23",
+            "missing": [
+                "review additive media extension and any proposed core changes"
+            ],
+            "source": "authoritative",
+            "core_status": "production_verified",
+            "extension_status": "review_required",
+            "campaign_status": "partial",
+            "extension_last_checked": "2026-10-27"
+        },
+        "TJK": {
+            "iso3": "TJK",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "TKM": {
+            "iso3": "TKM",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "TLS": {
+            "iso3": "TLS",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "TON": {
+            "iso3": "TON",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "TTO": {
+            "iso3": "TTO",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "TUN": {
+            "iso3": "TUN",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "TUR": {
+            "iso3": "TUR",
+            "status": "complete",
+            "last_checked": "2026-10-23",
+            "missing": [
+                "review additive media extension and any proposed core changes"
+            ],
+            "source": "authoritative",
+            "core_status": "production_verified",
+            "extension_status": "review_required",
+            "campaign_status": "partial",
+            "extension_last_checked": "2026-10-27"
+        },
+        "TWN": {
+            "iso3": "TWN",
+            "status": "complete",
+            "last_checked": "2026-10-23",
+            "missing": [
+                "review additive media extension and any proposed core changes"
+            ],
+            "source": "authoritative",
+            "core_status": "production_verified",
+            "extension_status": "review_required",
+            "campaign_status": "partial",
+            "extension_last_checked": "2026-10-27"
+        },
+        "TZA": {
+            "iso3": "TZA",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "UGA": {
+            "iso3": "UGA",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "UKR": {
+            "iso3": "UKR",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "URY": {
+            "iso3": "URY",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "USA": {
+            "iso3": "USA",
+            "status": "complete",
+            "last_checked": "2026-10-23",
+            "missing": [
+                "review additive media extension and any proposed core changes"
+            ],
+            "source": "authoritative",
+            "core_status": "production_verified",
+            "extension_status": "review_required",
+            "campaign_status": "partial",
+            "extension_last_checked": "2026-10-27"
+        },
+        "UZB": {
+            "iso3": "UZB",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "VAT": {
+            "iso3": "VAT",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "VCT": {
+            "iso3": "VCT",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "VEN": {
+            "iso3": "VEN",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "VGB": {
+            "iso3": "VGB",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "VIR": {
+            "iso3": "VIR",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "VNM": {
+            "iso3": "VNM",
+            "status": "complete",
+            "last_checked": "2026-10-23",
+            "missing": [
+                "review additive media extension and any proposed core changes"
+            ],
+            "source": "authoritative",
+            "core_status": "production_verified",
+            "extension_status": "review_required",
+            "campaign_status": "partial",
+            "extension_last_checked": "2026-10-27"
+        },
+        "VUT": {
+            "iso3": "VUT",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "WLF": {
+            "iso3": "WLF",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "WSM": {
+            "iso3": "WSM",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "XKX": {
+            "iso3": "XKX",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "YEM": {
+            "iso3": "YEM",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "ZAF": {
+            "iso3": "ZAF",
+            "status": "complete",
+            "last_checked": "2026-10-23",
+            "missing": [
+                "review additive media extension and any proposed core changes"
+            ],
+            "source": "authoritative",
+            "core_status": "production_verified",
+            "extension_status": "review_required",
+            "campaign_status": "partial",
+            "extension_last_checked": "2026-10-27"
+        },
+        "ZMB": {
+            "iso3": "ZMB",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        },
+        "ZWE": {
+            "iso3": "ZWE",
+            "status": "partial",
+            "last_checked": "2026-10-27",
+            "missing": [
+                "depth completion and unresolved items (see database flags)",
+                "VP audit confirmation of unfetched proofs"
+            ],
+            "source": "database",
+            "core_status": "partial",
+            "extension_status": "not_applicable",
+            "campaign_status": "partial",
+            "extension_last_checked": null
+        }
+    },
+    "protected_production_files": 62,
+    "monthly_ready": false
 }
