@@ -739,7 +739,7 @@ function fetchSource(string $url): void
     if (file_exists($cachePath) && filemtime($cachePath) >= time() - 86400) {
         $cached = readJson($cachePath);
         $cached['cache_hit'] = true;
-        echo json_encode($cached, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE).PHP_EOL;
+        echo json_encode($cached, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE | JSON_INVALID_UTF8_SUBSTITUTE).PHP_EOL;
 
         return;
     }
@@ -749,8 +749,11 @@ function fetchSource(string $url): void
     $via = 'direct';
     $fallbackReason = null;
 
+    $directText = extractText($direct['body'], $direct['content_type']);
     if (in_array($direct['status'], [0, 401, 403, 406, 408, 409, 425, 429, 451, 500, 502, 503, 504], true)
-        || strlen(trim($direct['body'])) < 200) {
+        || strlen(trim($direct['body'])) < 200
+        || strlen(trim($directText)) < 200
+        || looksBlocked(extractTitle($direct['body'], $direct['content_type']), $directText)) {
         $fallbackReason = 'Origin returned HTTP '.$direct['status'].' or too little readable content.';
         $readerUrl = 'https://r.jina.ai/http'.(parse_url($url, PHP_URL_SCHEME) === 'https' ? 's' : '').'://'
             .parse_url($url, PHP_URL_HOST)
@@ -758,7 +761,8 @@ function fetchSource(string $url): void
             .(parse_url($url, PHP_URL_PATH) ?: '/')
             .(parse_url($url, PHP_URL_QUERY) ? '?'.parse_url($url, PHP_URL_QUERY) : '');
         $fallback = request($readerUrl);
-        if ($fallback['status'] >= 200 && $fallback['status'] < 300 && strlen(trim($fallback['body'])) >= 200) {
+        if ($fallback['status'] >= 200 && $fallback['status'] < 300 && strlen(trim($fallback['body'])) >= 200
+            && ! looksBlocked(extractTitle($fallback['body'], $fallback['content_type']), extractText($fallback['body'], $fallback['content_type']))) {
             $selected = $fallback;
             $via = 'jina_text_reader';
         }
@@ -783,7 +787,7 @@ function fetchSource(string $url): void
         'usable' => $usable,
         'cache_hit' => false,
         'content_sha256' => hash('sha256', $selected['body']),
-        'text' => mb_substr($text, 0, 20000),
+        'text' => mb_substr($text, 0, 120000),
         'fallback_reason' => $fallbackReason,
         'verification_note' => ! $usable
             ? 'The result is still blocked or unreadable. Find an official mirror, document repository or corroborating source; do not cite this packet as proof.'
@@ -796,7 +800,7 @@ function fetchSource(string $url): void
         throw new RuntimeException("Could not create source cache: {$cacheDirectory}");
     }
     writeJson($cachePath, $packet);
-    echo json_encode($packet, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE).PHP_EOL;
+    echo json_encode($packet, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE | JSON_INVALID_UTF8_SUBSTITUTE).PHP_EOL;
 }
 
 function request(string $url): array
@@ -810,6 +814,7 @@ function request(string $url): array
         CURLOPT_TIMEOUT => 35,
         CURLOPT_PROTOCOLS => CURLPROTO_HTTP | CURLPROTO_HTTPS,
         CURLOPT_REDIR_PROTOCOLS => CURLPROTO_HTTP | CURLPROTO_HTTPS,
+        CURLOPT_ENCODING => '',
         CURLOPT_USERAGENT => 'Mozilla/5.0 (compatible; SovereignSpaceATLASResearch/1.0; +https://atlas.emmaconsulting.space)',
         CURLOPT_HTTPHEADER => ['Accept: text/html,application/xhtml+xml,application/json,text/plain;q=0.9,*/*;q=0.5'],
     ]);
@@ -840,11 +845,19 @@ function extractTitle(string $body, string $contentType): ?string
 
 function extractText(string $body, string $contentType): string
 {
+    if (str_starts_with($body, '%PDF') || str_contains(strtolower($contentType), 'pdf')) {
+        $pdf = pdfText($body);
+        if ($pdf !== null) {
+            return $pdf;
+        }
+    }
+
     if (str_contains(strtolower($contentType), 'html')) {
+        $body = normaliseCharset($body, $contentType);
         if (class_exists(DOMDocument::class)) {
             $document = new DOMDocument();
             $previous = libxml_use_internal_errors(true);
-            $document->loadHTML($body, LIBXML_NOERROR | LIBXML_NOWARNING | LIBXML_NONET);
+            $document->loadHTML('<?xml encoding="UTF-8">'.$body, LIBXML_NOERROR | LIBXML_NOWARNING | LIBXML_NONET);
             libxml_clear_errors();
             libxml_use_internal_errors($previous);
             $xpath = new DOMXPath($document);
@@ -863,6 +876,36 @@ function extractText(string $body, string $contentType): string
     return trim(preg_replace('/(?:\r?\n\s*){3,}/u', "\n\n", $body) ?? $body);
 }
 
+function pdfText(string $body): ?string
+{
+    if (! str_starts_with($body, '%PDF') || trim((string) shell_exec('command -v pdftotext')) === '') {
+        return null;
+    }
+    $file = tempnam(sys_get_temp_dir(), 'atlas-pdf-');
+    file_put_contents($file, $body);
+    $text = shell_exec('pdftotext -layout -enc UTF-8 '.escapeshellarg($file).' - 2>/dev/null');
+    unlink($file);
+
+    return is_string($text) && strlen(trim($text)) > 0 ? trim($text) : null;
+}
+
+function normaliseCharset(string $body, string $contentType): string
+{
+    $charset = null;
+    if (preg_match('/charset=([\w-]+)/i', $contentType, $match)) {
+        $charset = $match[1];
+    } elseif (preg_match('/<meta[^>]+charset=["\']?([\w-]+)/i', substr($body, 0, 4096), $match)) {
+        $charset = $match[1];
+    }
+    if (mb_check_encoding($body, 'UTF-8')) {
+        return $body;
+    }
+    $from = $charset !== null ? strtoupper($charset) : 'ISO-8859-1';
+    $converted = @mb_convert_encoding($body, 'UTF-8', $from);
+
+    return is_string($converted) ? $converted : mb_convert_encoding($body, 'UTF-8', 'ISO-8859-1');
+}
+
 function looksBlocked(?string $title, string $text): bool
 {
     $sample = strtolower(($title ?? '').' '.mb_substr($text, 0, 1000));
@@ -875,6 +918,15 @@ function looksBlocked(?string $title, string $text): bool
         'captcha',
         'access denied',
         'request blocked',
+        'dns points to prohibited ip',
+        'target url returned error',
+        'bad gateway',
+        '403 forbidden',
+        'you are being redirected',
+        'request rejected',
+        'sucuri website firewall',
+        'verify you are human',
+        'checking your browser',
     ] as $marker) {
         if (str_contains($sample, $marker)) {
             return true;
@@ -946,6 +998,6 @@ function readJson(string $path): array
 
 function writeJson(string $path, array $data): void
 {
-    $json = json_encode($data, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE | JSON_THROW_ON_ERROR);
+    $json = json_encode($data, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE | JSON_INVALID_UTF8_SUBSTITUTE | JSON_THROW_ON_ERROR);
     file_put_contents($path, $json.PHP_EOL);
 }
