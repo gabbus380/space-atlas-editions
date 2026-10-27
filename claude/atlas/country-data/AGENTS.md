@@ -57,6 +57,8 @@ Do not push https://github.com/gabbus380/space-atlas. Do not edit `briefings/`, 
 
 `coverage.json` is the queue and definition of done. It covers every ISO3 in `registry/countries.json`. The deterministic helper is `claude/atlas/tools/builders.php`. Run `initialize` only if the database or expanded ledgers are missing, `queue country 12` to select work, and `validate country` before every commit.
 
+The queue enforces the campaign phases. While any `seeded` or `unstarted` entry remains, it selects those entries for the worldwide first-file pass and temporarily defers `partial` files. After all 235 entries have a researched file or inherited result, it returns to `partial` entries for depth completion. Therefore a first-pass file may be honestly partial without blocking worldwide coverage, but monthly maintenance still cannot begin until all completion gates pass.
+
 For each map entry, status is:
 
 - `unstarted`: no file work has been accepted;
