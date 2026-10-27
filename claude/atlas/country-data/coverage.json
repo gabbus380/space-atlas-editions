@@ -1,0 +1,18 @@
+{
+  "schema": 1,
+  "asOf": "2026-10-27",
+  "mode": "worldwide_build",
+  "total_map_entries": 235,
+  "definition": "The initial file is compact. The 81 ISO3 codes in baseline.json are seeded, not complete. Every other ISO3 in claude/atlas/registry/countries.json is unstarted. The first worldwide run expands this into one coverage entry per ISO3.",
+  "counts": {
+    "complete": 0,
+    "partial": 0,
+    "seeded": 81,
+    "unstarted": 154
+  },
+  "delivery": {
+    "database_exists": false,
+    "report_exists": false,
+    "note": "The country agent that finished before this checkpoint did not commit database.json or a country-data report. No new country file was delivered."
+  }
+}
