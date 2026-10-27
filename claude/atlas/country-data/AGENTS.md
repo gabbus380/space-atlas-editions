@@ -44,7 +44,7 @@ Once all 235 files are complete, schedule it monthly before the ecosystem mainte
 ## Start message
 
 ```
-Build complete Sovereign Space ATLAS country files worldwide. Pull main. Read claude/atlas/country-data/AGENTS.md, coverage.json, baseline.json, database.json if it exists, and claude/atlas/registry/countries.json. Work in worldwide build mode until all 235 map entries have a properly filled and proved file. Launch the regional team and resume every pending ISO3; do not run a monthly change review and do not stop after fifteen countries. Do not edit gabbus380/space-atlas, briefings, or ecosystem files. Stop at 450 web searches, 750 page fetches, or $20, whichever comes first; checkpoint proved files and the queue before stopping.
+Build complete Sovereign Space ATLAS country files worldwide. Pull main. Read claude/atlas/country-data/AGENTS.md, coverage.json, baseline.json, database.json, and claude/atlas/registry/countries.json. Run `php claude/atlas/tools/builders.php validate country`, then request the next batch with `php claude/atlas/tools/builders.php queue country 12`. Complete and checkpoint that batch before requesting another. Work in worldwide build mode until all 235 map entries have a properly filled and proved file. Do not run a monthly change review. Do not edit gabbus380/space-atlas, briefings, or ecosystem files. Stop at 450 web searches, 750 page fetches, or $20, whichever comes first; validate and checkpoint proved files and the queue before stopping.
 ```
 
 ## Instructions
@@ -55,7 +55,7 @@ Do not push https://github.com/gabbus380/space-atlas. Do not edit `briefings/`, 
 
 ### Worldwide completion
 
-`coverage.json` is the queue and definition of done. It covers every ISO3 in `registry/countries.json`.
+`coverage.json` is the queue and definition of done. It covers every ISO3 in `registry/countries.json`. The deterministic helper is `claude/atlas/tools/builders.php`. Run `initialize` only if the database or expanded ledgers are missing, `queue country 12` to select work, and `validate country` before every commit.
 
 For each map entry, status is:
 
@@ -87,11 +87,23 @@ The whole run stays under $25. Stop launching work at $20, or at 450 web searche
 
 A web search is a query. Opening a URL you already have is a fetch. Wikipedia and Google are finders. They are not proof and they are not media outlets.
 
-In the worldwide build, assign every `unstarted`, `seeded`, and `partial` country. A country may use at most four searches. Reuse official pages and directories from the baseline before searching.
+In the worldwide build, process deterministic batches from the helper rather than assigning the whole remaining world at once. Start with 12 files; request a second batch only when the first has passed validation and the remaining launch budget is safe. A country may use at most four discovery searches. Fetching a known URL and following links does not consume another search. Reuse official pages and directories from the baseline before searching.
 
 ### The team
 
-Launch six Senior Directors together:
+Claude Code supports nested delegation only when the VP and directors have the `Agent` tool and the configured spawn depth is at least two. Test this once with a director assigned one country. Do not assume nesting from a Claude Project or GitHub connector alone.
+
+Preferred hierarchy:
+
+- VP is the only writer and final auditor.
+- The VP launches at most two regional Senior Directors concurrently for the current batch.
+- Each director may launch Country Managers only when nested delegation is available.
+- Each manager receives no more than three country files.
+- Directors return validated packets; they do not write shared JSON.
+
+Flat fallback: if the director cannot launch a manager, the VP launches the Country Managers directly and performs the director validation itself. Do not keep retrying a denied spawn.
+
+Regional director scopes are:
 
 1. Central and Eastern Europe plus the Nordics;
 2. Western and Southern Europe;
@@ -100,13 +112,13 @@ Launch six Senior Directors together:
 5. Asia Pacific, including South Asia;
 6. Americas.
 
-Each director divides its pending ISO3 list among Regional Country Managers, no more than six countries per manager. If the launcher asks for a model, managers use Haiku and directors use Sonnet. Managers research and return JSON packets. Directors validate the country-file schema, compare seeded files, reject unsupported claims, and de-duplicate stakeholder nodes. Directors do not repeat the managers' searches.
+If the launcher asks for a model, managers use Haiku and directors use Sonnet. Managers research and return JSON packets. Directors validate the country-file schema, compare seeded files, reject unsupported claims, and de-duplicate stakeholder nodes. Directors do not repeat the managers' searches.
 
-Assign all pending countries at the start of a bootstrap run. Do not choose only briefing countries. If the cap is reached, accept completed packets and leave the rest pending.
+Assign the complete helper-selected batch at the start of a bootstrap run. Do not choose only briefing countries and do not launch work outside the selected batch until it is checkpointed. If the cap is reached, accept completed packets and leave the rest pending.
 
 A manager who cannot read the language marks `translation_doubt` and asks the director for help. A director may regroup once within its region. Nobody guesses.
 
-`baseline.json` is starting text, not proof. Wikipedia links inside it are finders. The 81 seeded files must pass the same completion rule as new files.
+`baseline.json` is starting text, not proof. Wikipedia links inside it are finders. The 81 seeded files must pass the same completion rule as new files. A legacy baseline value of `verify: verified` describes the old website record; it does not make that seed `complete` under this builder.
 
 ### How to research one country
 
@@ -120,6 +132,23 @@ At most four searches:
 Use the results as doors. Then fetch the responsible ministry, parliament or legal database, budget document, agency, industry association, research institutes, universities, company or cluster directories, and outlet homepages. One official directory may prove several stakeholder nodes.
 
 Do not spend a separate search on each stakeholder or outlet. Follow links from official directories and about pages.
+
+### Blocked and difficult sources
+
+A blocked official page is a routing problem, not permission to invent or silently drop the field.
+
+1. Fetch the official URL once normally.
+2. If it returns 401, 403, 429, 451, a transient 5xx, or unreadable script-only HTML, run:
+
+   `php claude/atlas/tools/builders.php fetch 'https://official.example/page'`
+
+   The helper retries through `r.jina.ai` and returns a dated provenance packet. The third-party rendering is a transport path to the named origin; it is not an independent second source.
+3. Look for the same document on an official gazette, parliament, ministry document library, embassy, procurement portal, or national web archive.
+4. For historical material only, use the Internet Archive or another institutional archive and label the capture date. An archive does not prove that an office-holder or policy remains current.
+5. Use UNIDIR's Space Security Portal, UNOOSA, ESA/EU industrial and programme directories, OECD, World Bank, reputable universities and national-language media as secondary corroboration or discovery. Preserve the original publisher and URL.
+6. If the official fact still cannot be verified, retain the candidate under `flags`, lower confidence, and leave the section partial. Never treat a search snippet, AI summary, aggregator, or copied press release as proof.
+
+For PDFs, prefer the official PDF URL and extract text locally when tools permit. Store the document title, publication date, page number and a short quotation. Do not upload third-party PDF copies when the official original is available.
 
 Media per country has at most 16 outlets: one space agency, one space office, four other government sites, and up to ten press outlets. Smaller media systems stop when real sources run out. Social networks, aggregators, Google News, and Wikipedia are not outlets.
 
@@ -168,6 +197,32 @@ The object written for each ISO3 is compatible with `atlas.json`:
   "media": {"outlets": [], "none": []}
 }
 ```
+
+### Manager packet
+
+A Country Manager returns one packet per ISO3. It does not return prose instead of data:
+
+```json
+{
+  "iso3": "HUN",
+  "status": "partial",
+  "file": {},
+  "evidence": {
+    "government.head_of_state": {},
+    "government.head_of_government": {},
+    "government.lead": {},
+    "strategy": {},
+    "stakeholders": [],
+    "media": {}
+  },
+  "flags": [],
+  "rejected": [],
+  "searches_used": 0,
+  "fetches_used": 0
+}
+```
+
+`file` is the complete replacement country object in the exact shape above, including preserved valid seed content. Evidence uses the proof object below. `flags` identifies translation doubt, blocked primary sources, unresolved conflicts and missing sections. `rejected` identifies candidate URLs or claims and why they failed. A director returns an array of these packets plus regional duplicate/conflict notes. Only the VP merges them into `database.json`.
 
 Government node `type` uses the existing file vocabulary: `state`, `parliament`, `executive`, `ministry`, `defense`, `agency`, `research`, `advisory`, `regulator`.
 
@@ -246,6 +301,6 @@ Only after all 235 files are complete does this become the monthly job. Then rea
 
 Commit `database.json`, `coverage.json`, and the build report to `main`. The message says how many of 235 files are complete, how many are partial, and the search count.
 
-Do not commit if the JSON does not parse, a map ISO3 is absent from coverage, a file has the wrong ISO3, a node or link is malformed, a proof lacks `why_valid_on`, or an outlet is Wikipedia or a social network. Validate every stakeholder link endpoint. Do not force-push.
+Run `php claude/atlas/tools/builders.php validate country` before committing. Do not commit if it fails, a proof lacks `why_valid_on`, or a stakeholder link endpoint does not resolve. Do not force-push.
 
 Voice in the report is neutral. Names and numbers come from the page you opened.

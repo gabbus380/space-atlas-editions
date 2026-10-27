@@ -1,0 +1,17 @@
+{
+    "schema": 1,
+    "asOf": "2026-10-27",
+    "source": "ATLAS Vice President of Data Analytics",
+    "registry": "claude/atlas/registry/countries.json",
+    "baseline": "claude/atlas/country-data/baseline.json",
+    "mode": "worldwide_build",
+    "run": {
+        "searches_used": 0,
+        "fetches_used": 0,
+        "stopped_because": null
+    },
+    "files": {},
+    "evidence": {},
+    "flags": {},
+    "rejected": {}
+}

@@ -2,7 +2,7 @@ Agents start at `claude/atlas/AGENTS.md`. Find your cause there and follow only 
 
 # ATLAS editions
 
-This repository holds the daily briefing and the editor's ledger. Nothing else.
+This repository holds the daily briefing and editor's ledger, plus isolated staging areas for the worldwide country-file and ecosystem builders. Builder work stays under `claude/atlas/country-data/` and `claude/atlas/ecosystem/`; it is not published to the website automatically.
 
 Add the edition as `briefings/YYYY-MM-DD.json`.
 
@@ -27,6 +27,39 @@ The site copies a file that passes its checks at 05:00 and 05:40 UTC, before the
 Do not put application code or secrets in this repository.
 
 Pull `main` at the start of a run. A session opened earlier in the day is looking at an older file.
+
+## Worldwide builders
+
+Country and ecosystem agents start from their own instructions:
+
+- `claude/atlas/country-data/AGENTS.md`
+- `claude/atlas/ecosystem/AGENTS.md`
+
+They do not edit briefings or the Laravel application. Their cumulative JSON is staged for a later site-engineer import. Prepare and validate their queues with:
+
+```sh
+php claude/atlas/tools/builders.php initialize
+php claude/atlas/tools/builders.php queue country 12
+php claude/atlas/tools/builders.php queue ecosystem 18
+php claude/atlas/tools/builders.php validate all
+```
+
+Claude Code role definitions are in `.claude/agents/`. To allow VP → Director → Manager delegation, run with two nested layers:
+
+```sh
+CLAUDE_CODE_MAX_SUBAGENT_SPAWN_DEPTH=2 claude --agent country-vp
+CLAUDE_CODE_MAX_SUBAGENT_SPAWN_DEPTH=2 claude --agent ecosystem-vp
+```
+
+If the environment does not expose the `Agent` tool to directors, the VP uses the flat fallback described in its instructions.
+
+For an official page that blocks automated access, the same helper performs one direct fetch and then tries a Jina text rendering while retaining the original URL:
+
+```sh
+php claude/atlas/tools/builders.php fetch 'https://official.example/page'
+```
+
+The fallback is a transport mechanism, not a second independent source.
 
 `regions` is a list of `{id, name, items}`, in the desk order above. It is not a map, so `regions.items()` raises `AttributeError`. Count desks like this:
 

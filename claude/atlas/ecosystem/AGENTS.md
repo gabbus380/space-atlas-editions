@@ -4,7 +4,7 @@ This agent builds the website's Ecosystem feature worldwide. It is not a monthly
 
 The Ecosystem feature is the organization registry in Sovereign Space ATLAS. It shows organization cards, country filters, a country-by-capability competency matrix, industry mix, key organizations, and a directory tier. It reads `resources/atlas/data/atlas.json` under `orgs`.
 
-The map has 235 countries and territories in `claude/atlas/registry/countries.json`. The live baseline has 419 organizations in only 11 countries. `claude/atlas/ecosystem/database.json` contains a first staged packet from a mistaken change-led run; keep its valid records as seeds, but do not mistake that packet for worldwide coverage.
+The map has 235 countries and territories in `claude/atlas/registry/countries.json`. The live baseline has 419 organizations in only 11 countries. `claude/atlas/ecosystem/database.json` contains migrated seeds from a mistaken change-led run; keep its valid records as partial work, but do not mistake that packet for worldwide coverage.
 
 Your mission has three modes, in this order:
 
@@ -40,7 +40,7 @@ Once all breadth and directory-depth work is complete, change its schedule to mo
 ## Start message
 
 ```
-Build the Sovereign Space ATLAS Ecosystem feature worldwide. Pull main. Read claude/atlas/ecosystem/AGENTS.md, coverage.json, baseline.json, database.json if it exists, and claude/atlas/registry/countries.json. Work in worldwide breadth mode until all 235 map entries have a proved breadth result. Launch the regional team, resume countries that are pending, and write website-compatible organization records. Do not run a monthly change review. Do not edit gabbus380/space-atlas, briefings, or country-data files. Stop at 450 web searches, 750 page fetches, or $20, whichever comes first; checkpoint proved work and the queue before stopping.
+Build the Sovereign Space ATLAS Ecosystem feature worldwide. Pull main. Read claude/atlas/ecosystem/AGENTS.md, coverage.json, baseline.json, database.json, and claude/atlas/registry/countries.json. Run `php claude/atlas/tools/builders.php validate ecosystem`, then request the next batch with `php claude/atlas/tools/builders.php queue ecosystem 18`. Complete and checkpoint that batch before requesting another. Work in worldwide breadth mode until all 235 map entries have a proved breadth result, then run directory depth. Write website-compatible organization records. Do not run a monthly change review. Do not edit gabbus380/space-atlas, briefings, or country-data files. Stop at 450 web searches, 750 page fetches, or $20, whichever comes first; validate and checkpoint proved work and the queue before stopping.
 ```
 
 ## Instructions
@@ -51,11 +51,11 @@ Do not edit `briefings/`, the threads, the country-data files, or the site repos
 
 ### Worldwide completion
 
-`coverage.json` is the queue and the definition of done. It contains every ISO3 in the map.
+`coverage.json` is the queue and the definition of done. It contains every ISO3 in the map. The deterministic helper is `claude/atlas/tools/builders.php`. Run `initialize` only if the cumulative database or expanded ledgers are missing, `queue ecosystem 18` to select work, and `validate ecosystem` before every commit.
 
 For each map entry, breadth is complete only when one of these is proved:
 
-- `mapped`: the key national organizations are filed;
+- `mapped`: the breadth minimum is proved and the key national organizations are filed;
 - `inherited`: a territory has no separate ecosystem and its sovereign's ecosystem applies;
 - `none_found`: official pages and a national-language search found no separate space agency, office, programme, industry body, research centre, or company;
 - `partial`: useful records are proved, but a known key category is still missing.
@@ -84,9 +84,19 @@ Wikipedia and Google are finders. A company page is a company source. It proves 
 
 ### The team
 
-You coordinate. Regional managers research.
+Claude Code supports nested delegation only when the VP and directors have the `Agent` tool and the configured spawn depth is at least two. Test this once with a director assigned one country. A Claude Project or GitHub connector alone does not establish nested-agent support.
 
-Launch six regional Senior Directors together:
+Preferred hierarchy:
+
+- VP is the only writer and final auditor.
+- The VP launches at most two regional Senior Directors concurrently for the current batch.
+- Directors may launch Country Managers only when nested delegation is available.
+- Each manager receives no more than four countries.
+- Directors return validated, de-duplicated packets and never write shared JSON.
+
+Flat fallback: if a director cannot launch managers, the VP launches the Country Managers directly and performs director validation itself. Do not retry a denied spawn.
+
+Regional director scopes are:
 
 1. Central and Eastern Europe plus the Nordics;
 2. Western and Southern Europe;
@@ -95,9 +105,9 @@ Launch six regional Senior Directors together:
 5. Asia Pacific, including South Asia;
 6. Americas.
 
-Each director divides its pending ISO3 list among Regional Country Managers, no more than eight countries per manager. If the launcher asks for a model, managers use Haiku and directors use Sonnet. Managers search and return packets. Directors do not repeat research; they validate schema, remove generic non-space organizations, and de-duplicate within the region.
+If the launcher asks for a model, managers use Haiku and directors use Sonnet. Managers search and return packets. Directors do not repeat research; they validate schema, remove generic non-space organizations, and de-duplicate within the region.
 
-The Vice President assigns all currently pending countries at the start of a bootstrap run. Do not choose only countries named by the daily briefing. If the cap is reached, accept completed packets, leave the rest pending, and commit a resumable checkpoint.
+The Vice President assigns the complete helper-selected batch at the start of a bootstrap run. Do not choose only countries named by the daily briefing and do not launch outside the selected batch before checkpointing it. Request another batch only when the first passed validation and the remaining launch budget is safe. If the cap is reached, accept completed packets, leave the rest pending, and commit a resumable checkpoint.
 
 One country gets at most two searches in breadth mode:
 
@@ -108,6 +118,36 @@ Open the official directory pages and the organizations' own pages from those re
 
 A manager who cannot read the language marks `translation_doubt` and asks its director for help. Do not guess. A director may regroup once within its region, using the same search budget.
 
+### National landscape documents
+
+Hungary's Space Kaleidoscope is the model for a national landscape source: one document can identify agencies, companies, universities, laboratories, clusters and capabilities. For every country, search in English and the national language for current equivalents such as:
+
+- space industry landscape, map, directory, catalogue, yearbook or ecosystem report;
+- national space strategy annex or supplier directory;
+- space-agency, ministry or industry-association member directory;
+- ESA industrial portal, national ESA delegation material or programme participant list;
+- university/research infrastructure directory;
+- investment, export or innovation-agency aerospace/space catalogue.
+
+Record each useful document under `directories_checked` with title, publisher, URL, publication date, language, retrieval date and pages/sections traversed. A directory is a discovery source for its members. Verify each included organization's current existence and material space role on its own site or a current primary record before creating a card. Do not copy an old landscape document wholesale.
+
+If no Kaleidoscope-style document exists, combine the official lead body's links, national industry association, ESA/UNOOSA/UNIDIR records, research directories and national-language reporting. The absence of one consolidated report does not make the ecosystem empty.
+
+### Blocked and difficult sources
+
+1. Fetch the official or directory URL once normally.
+2. On 401, 403, 429, 451, transient 5xx or unreadable script-only HTML, run:
+
+   `php claude/atlas/tools/builders.php fetch 'https://official.example/page'`
+
+   The helper retries through `r.jina.ai`. This is a transport path to the named origin, not an independent source.
+3. Look for an official PDF, print view, RSS/Atom feed, sitemap, ministry mirror, gazette, procurement notice, embassy page or institutional repository.
+4. Use the Internet Archive only for historical identity or older documents, label the capture date, and obtain a current source before claiming that an organization still operates.
+5. Use UNIDIR, UNOOSA, ESA/EU portals, OECD, national innovation agencies, reputable universities and national-language media for discovery and corroboration.
+6. When no primary page can be opened, keep the candidate rejected or partial. Never raise confidence because several sites copied the same release.
+
+For PDFs, preserve the official URL, title, date, page number and short supporting quotation. Local text extraction is preferred to an untraceable summary.
+
 ### What to record
 
 An organization matches the site registry:
@@ -117,7 +157,7 @@ An organization matches the site registry:
 - `name`
 - `tier`: `key` for the space agency, the space office, or a firm the briefing would name. `directory` for a listed supplier.
 - `category`: one of Manufacturing and hardware; Software, data and ground; Electronics and semiconductors; Research institutes; Universities; Government; Clusters and associations; Life sciences and pharma.
-- `type`: Company, University, Institute, Agency, Program, Cluster, Investor, Other, or null.
+- `type`: Company, University, Institute, Agency, Program, Cluster, or null. These are the types present in the website baseline.
 - `desc`: one sentence from the page you opened.
 - `domains`: one or more of Payloads and research; Ground and data; LEO infrastructure; Training; Human spaceflight; Electronics; Life sciences.
 - `conf`: `high` with the firm's own page plus one independent page. `medium` with two independent pages. `low` with one page. Say which.
@@ -126,9 +166,9 @@ An organization matches the site registry:
 
 Those are the exact fields used by the website. Do not put `proof`, `url`, or workflow fields inside the website organization object. Keep evidence in the patch's `evidence` object, keyed by organization id.
 
-The website's seven capability areas are fixed. Do not invent an eighth. The eight industry segments are fixed. `Investor` and `Other` are valid types but not industry segments.
+The website's seven capability areas and eight industry segments are fixed. Do not invent another domain, category, or organisation type. Record a space investor under the best existing website type only when that classification is factually defensible; otherwise hold it for a future schema decision.
 
-In breadth mode, a large industry is `partial` after the minimum set because its directory is not exhausted. A smaller country is `mapped` only when the official or national directory has been traversed and the manager can explain why no known category remains. Do not pad a country to make it look complete.
+Breadth and depth are separate gates. A country becomes `mapped` when the breadth minimum is proved even if its long supplier directory is not exhausted. Set `depth_status` to `not_started` or `in_progress` until directory depth is finished. A smaller country may reach `mapped` and `depth_status: complete` together when the official/national directories were traversed and the manager explains why no known category remains. Do not pad a country to make it look complete.
 
 Do not delete a baseline organization. A removal is `result: removed` and only with a page that shows the closure, merger, or rename. A rename keeps the old id and changes `name`, and the proof says both names.
 
@@ -198,6 +238,7 @@ A university or a ministry copied from Wikipedia, with no page of its own opened
     "FIN": {
       "iso3": "FIN",
       "status": "partial",
+      "depth_status": "not_started",
       "organization_ids": ["FIN-iceye"],
       "directories_checked": [],
       "missing": ["national industry directory"],
@@ -209,13 +250,13 @@ A university or a ministry copied from Wikipedia, with no page of its own opened
 
 `upserts` contains exact website records. A matching `id` replaces the baseline card when the site patch is applied. `removals` contains `{"id": "", "reason": "", "proof": {}}`.
 
-`coverage` contains all 235 ISO3 codes. `status` is `unstarted`, `partial`, `mapped`, `inherited`, or `none_found`.
+`coverage` contains all 235 ISO3 codes. `status` is `unstarted`, `partial`, `mapped`, `inherited`, or `none_found`. `depth_status` is `not_started`, `in_progress`, `complete`, or `not_applicable`.
 
 ```json
-{"iso3": "ALA", "status": "inherited", "inherits_from": "FIN", "organization_ids": [], "directories_checked": [], "missing": [], "proof": {}}
+{"iso3": "ALA", "status": "inherited", "depth_status": "not_applicable", "inherits_from": "FIN", "organization_ids": [], "directories_checked": [], "missing": [], "proof": {}}
 ```
 
-Update `claude/atlas/ecosystem/coverage.json` from the cumulative database before the commit. It is the small resumable queue: one entry per map ISO3, status, organization count, remaining work, last checked date, and source packet. It does not duplicate organization cards.
+Update `claude/atlas/ecosystem/coverage.json` from the cumulative database before the commit. It is the small resumable queue: one entry per map ISO3, breadth status, depth status, organization count, remaining work, last checked date, and source packet. It does not duplicate organization cards.
 
 The report `claude/atlas/ecosystem/reports/YYYY-MM-DD.md` is a build report. It lists the countries completed, partial, inherited, none found, still pending, organizations added or changed, source directories, rejected candidates, and the caps.
 
@@ -223,6 +264,6 @@ The report `claude/atlas/ecosystem/reports/YYYY-MM-DD.md` is a build report. It 
 
 Commit `database.json`, `coverage.json`, and the build report to `main`. The message names the mode, how many of 235 entries are breadth-complete, how many organizations are staged, and the search count.
 
-Do not commit a card whose category, type, or domain is outside the website lists, a card with no evidence, a generic non-space organization, or a second id for a name the baseline already has. Validate that all `organization_ids` resolve to the baseline or an upsert. Do not force-push.
+Run `php claude/atlas/tools/builders.php validate ecosystem` before committing. Do not commit when it fails, a generic non-space organization, or a duplicate card. Do not force-push.
 
 Voice is neutral. The description says what the organization does. It does not praise it.
