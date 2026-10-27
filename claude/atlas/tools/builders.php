@@ -14,6 +14,7 @@ declare(strict_types=1);
  *   php claude/atlas/tools/builders.php fetch <https://public.example/page>
  *   php claude/atlas/tools/builders.php protect-country <atlas.json> [source-ref]
  *   php claude/atlas/tools/builders.php import-country-research <database.json|-> [source-ref]
+ *   php claude/atlas/tools/builders.php accept-country-media [all|ISO3[,ISO3...]]
  *   php claude/atlas/tools/builders.php repair-registry
  *   php claude/atlas/tools/builders.php self-test
  */
@@ -60,6 +61,7 @@ function main(array $argv): void
             'fetch' => fetchSource($argv[2] ?? ''),
             'protect-country' => protectCountry($argv[2] ?? '', $argv[3] ?? null),
             'import-country-research' => importCountryResearch($argv[2] ?? '', $argv[3] ?? null),
+            'accept-country-media' => acceptCountryMedia($argv[2] ?? 'all'),
             'repair-registry' => repairRegistry(),
             'self-test' => selfTest(),
             default => usage($command !== 'help'),
@@ -108,6 +110,11 @@ ATLAS worldwide-builder utility
       Import a complete research database without weakening protected cores.
       Use - to read JSON from standard input. Protected proposals remain
       review-only; unprotected files receive the newer research.
+
+  accept-country-media [all|ISO3[,ISO3...]]
+      Accept additive media extensions only after their outlet records and
+      separate dated evidence pass the publication gate. Protected country
+      cores and proposed core changes remain untouched.
 
   repair-registry
       Apply the canonical sovereign-state relationships for mapped territories
@@ -882,6 +889,78 @@ function buildCountryExtension(
     ];
 }
 
+function acceptCountryMedia(string $target): void
+{
+    $database = readJson(COUNTRY_DIR.'/database.json');
+    $authoritative = readJson(AUTHORITATIVE_COUNTRY_FILE)['countries'] ?? [];
+    $requested = $target === 'all'
+        ? array_keys($authoritative)
+        : array_values(array_filter(array_map(
+            fn (string $iso3): string => strtoupper(trim($iso3)),
+            explode(',', $target),
+        )));
+
+    if ($requested === []) {
+        throw new InvalidArgumentException('No country codes were supplied for media acceptance.');
+    }
+
+    $errors = [];
+    foreach ($requested as $iso3) {
+        if (! isset($authoritative[$iso3])) {
+            $errors[] = "Country {$iso3} is not a protected production country.";
+            continue;
+        }
+        $extension = $database['extensions'][$iso3] ?? null;
+        if (! is_array($extension)) {
+            $errors[] = "Country {$iso3} has no additive media extension.";
+            continue;
+        }
+        $outlets = $extension['media']['outlets'] ?? [];
+        $none = $extension['media']['none'] ?? [];
+        $evidence = $database['evidence'][$iso3]['media'] ?? [];
+        if (count($outlets) < 3) {
+            $errors[] = "Country {$iso3} has fewer than three evidenced media sources.";
+        }
+        validateCountryMedia($iso3.' extension', $outlets, $evidence, $errors);
+        foreach ($outlets as $outlet) {
+            $id = $outlet['id'] ?? '';
+            $proof = $evidence[$id] ?? [];
+            foreach (['retrieved_on', 'evidence', 'why_valid_on'] as $field) {
+                if (! is_string($proof[$field] ?? null) || trim($proof[$field]) === '') {
+                    $errors[] = "Country {$iso3} outlet {$id} lacks {$field}.";
+                }
+            }
+        }
+        foreach ($none as $kind) {
+            if (! in_array($kind, MEDIA_KINDS, true)) {
+                $errors[] = "Country {$iso3} declares an invalid absent media kind {$kind}.";
+                continue;
+            }
+            $proof = $evidence['none.'.$kind] ?? null;
+            if (! is_array($proof) || trim((string) ($proof['why_valid_on'] ?? '')) === '') {
+                $errors[] = "Country {$iso3} has no dated absence proof for media kind {$kind}.";
+            }
+        }
+    }
+    if ($errors !== []) {
+        throw new RuntimeException(
+            "Media acceptance gate rejected the request:\n- ".implode("\n- ", array_unique($errors)),
+        );
+    }
+
+    $today = gmdate('Y-m-d');
+    foreach ($requested as $iso3) {
+        $database['extensions'][$iso3]['status'] = 'accepted';
+        $database['extensions'][$iso3]['reviewed_on'] = $today;
+        $database['extensions'][$iso3]['reviewed_by'] = 'deterministic evidence gate';
+        $database['extensions'][$iso3]['rule'] = 'Accepted additive media directory. Protected core and proposed core changes remain unchanged.';
+    }
+    writeJson(COUNTRY_DIR.'/database.json', $database);
+    updateProtectedCoverage(array_keys($authoritative), $database);
+
+    echo 'Accepted evidenced additive media for '.count($requested).' protected country files.'.PHP_EOL;
+}
+
 function countryCoreDiff(string $iso3, array $authoritative, array $campaign): array
 {
     unset($authoritative['media'], $campaign['media'], $authoritative['verify'], $campaign['verify']);
@@ -928,7 +1007,11 @@ function applyProtectedCoverage(array $coverage, array $protectedIso3, array $da
                 ? 'complete'
                 : 'review_required';
             $entry['campaign_status'] = $database['research_files'][$iso3]['verify'] ?? null;
-            $entry['missing'] = ['review additive media extension and any proposed core changes'];
+            $entry['missing'] = ($database['extensions'][$iso3]['status'] ?? null) === 'accepted'
+                ? (($database['proposed_changes'][$iso3]['status'] ?? null) === 'review_required'
+                    ? ['review proposed core changes']
+                    : [])
+                : ['review additive media extension and any proposed core changes'];
         } else {
             $entry['core_status'] = ($database['files'][$iso3]['verify'] ?? null) === 'verified'
                 ? 'verified'
