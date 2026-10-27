@@ -4,25 +4,22 @@
   "mode": "worldwide_build",
   "total_map_entries": 235,
   "counts": {
-    "unstarted": 154,
-    "seeded": 15,
-    "partial": 66,
+    "unstarted": 151,
+    "seeded": 0,
+    "partial": 84,
     "complete": 0,
     "inherited": 0
   },
   "countries": {
     "ABW": {
       "iso3": "ABW",
-      "status": "unstarted",
-      "last_checked": null,
+      "status": "partial",
+      "last_checked": "2026-10-27",
       "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
+        "depth completion and unresolved items (see database flags)",
+        "VP audit confirmation of unfetched proofs"
       ],
-      "source": null
+      "source": "database"
     },
     "AFG": {
       "iso3": "AFG",
@@ -49,16 +46,13 @@
     },
     "AIA": {
       "iso3": "AIA",
-      "status": "unstarted",
-      "last_checked": null,
+      "status": "partial",
+      "last_checked": "2026-10-27",
       "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
+        "depth completion and unresolved items (see database flags)",
+        "VP audit confirmation of unfetched proofs"
       ],
-      "source": null
+      "source": "database"
     },
     "ALA": {
       "iso3": "ALA",
@@ -157,16 +151,13 @@
     },
     "ATG": {
       "iso3": "ATG",
-      "status": "unstarted",
-      "last_checked": null,
+      "status": "partial",
+      "last_checked": "2026-10-27",
       "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
+        "depth completion and unresolved items (see database flags)",
+        "VP audit confirmation of unfetched proofs"
       ],
-      "source": null
+      "source": "database"
     },
     "AUS": {
       "iso3": "AUS",
@@ -180,15 +171,13 @@
     },
     "AUT": {
       "iso3": "AUT",
-      "status": "seeded",
-      "last_checked": null,
+      "status": "partial",
+      "last_checked": "2026-10-27",
       "missing": [
-        "current verification",
-        "proved absences",
-        "media directory",
-        "claim evidence"
+        "depth completion and unresolved items (see database flags)",
+        "VP audit confirmation of unfetched proofs"
       ],
-      "source": "baseline"
+      "source": "database"
     },
     "AZE": {
       "iso3": "AZE",
@@ -215,15 +204,13 @@
     },
     "BEL": {
       "iso3": "BEL",
-      "status": "seeded",
-      "last_checked": null,
+      "status": "partial",
+      "last_checked": "2026-10-27",
       "missing": [
-        "current verification",
-        "proved absences",
-        "media directory",
-        "claim evidence"
+        "depth completion and unresolved items (see database flags)",
+        "VP audit confirmation of unfetched proofs"
       ],
-      "source": "baseline"
+      "source": "database"
     },
     "BEN": {
       "iso3": "BEN",
@@ -459,15 +446,13 @@
     },
     "CHE": {
       "iso3": "CHE",
-      "status": "seeded",
-      "last_checked": null,
+      "status": "partial",
+      "last_checked": "2026-10-27",
       "missing": [
-        "current verification",
-        "proved absences",
-        "media directory",
-        "claim evidence"
+        "depth completion and unresolved items (see database flags)",
+        "VP audit confirmation of unfetched proofs"
       ],
-      "source": "baseline"
+      "source": "database"
     },
     "CHL": {
       "iso3": "CHL",
@@ -644,15 +629,13 @@
     },
     "CYP": {
       "iso3": "CYP",
-      "status": "seeded",
-      "last_checked": null,
+      "status": "partial",
+      "last_checked": "2026-10-27",
       "missing": [
-        "current verification",
-        "proved absences",
-        "media directory",
-        "claim evidence"
+        "depth completion and unresolved items (see database flags)",
+        "VP audit confirmation of unfetched proofs"
       ],
-      "source": "baseline"
+      "source": "database"
     },
     "CZE": {
       "iso3": "CZE",
@@ -666,15 +649,13 @@
     },
     "DEU": {
       "iso3": "DEU",
-      "status": "seeded",
-      "last_checked": null,
+      "status": "partial",
+      "last_checked": "2026-10-27",
       "missing": [
-        "current verification",
-        "proved absences",
-        "media directory",
-        "claim evidence"
+        "depth completion and unresolved items (see database flags)",
+        "VP audit confirmation of unfetched proofs"
       ],
-      "source": "baseline"
+      "source": "database"
     },
     "DJI": {
       "iso3": "DJI",
@@ -786,15 +767,13 @@
     },
     "ESP": {
       "iso3": "ESP",
-      "status": "seeded",
-      "last_checked": null,
+      "status": "partial",
+      "last_checked": "2026-10-27",
       "missing": [
-        "current verification",
-        "proved absences",
-        "media directory",
-        "claim evidence"
+        "depth completion and unresolved items (see database flags)",
+        "VP audit confirmation of unfetched proofs"
       ],
-      "source": "baseline"
+      "source": "database"
     },
     "EST": {
       "iso3": "EST",
@@ -854,15 +833,13 @@
     },
     "FRA": {
       "iso3": "FRA",
-      "status": "seeded",
-      "last_checked": null,
+      "status": "partial",
+      "last_checked": "2026-10-27",
       "missing": [
-        "current verification",
-        "proved absences",
-        "media directory",
-        "claim evidence"
+        "depth completion and unresolved items (see database flags)",
+        "VP audit confirmation of unfetched proofs"
       ],
-      "source": "baseline"
+      "source": "database"
     },
     "FRO": {
       "iso3": "FRO",
@@ -905,15 +882,13 @@
     },
     "GBR": {
       "iso3": "GBR",
-      "status": "seeded",
-      "last_checked": null,
+      "status": "partial",
+      "last_checked": "2026-10-27",
       "missing": [
-        "current verification",
-        "proved absences",
-        "media directory",
-        "claim evidence"
+        "depth completion and unresolved items (see database flags)",
+        "VP audit confirmation of unfetched proofs"
       ],
-      "source": "baseline"
+      "source": "database"
     },
     "GEO": {
       "iso3": "GEO",
@@ -1005,15 +980,13 @@
     },
     "GRC": {
       "iso3": "GRC",
-      "status": "seeded",
-      "last_checked": null,
+      "status": "partial",
+      "last_checked": "2026-10-27",
       "missing": [
-        "current verification",
-        "proved absences",
-        "media directory",
-        "claim evidence"
+        "depth completion and unresolved items (see database flags)",
+        "VP audit confirmation of unfetched proofs"
       ],
-      "source": "baseline"
+      "source": "database"
     },
     "GRD": {
       "iso3": "GRD",
@@ -1200,15 +1173,13 @@
     },
     "IRL": {
       "iso3": "IRL",
-      "status": "seeded",
-      "last_checked": null,
+      "status": "partial",
+      "last_checked": "2026-10-27",
       "missing": [
-        "current verification",
-        "proved absences",
-        "media directory",
-        "claim evidence"
+        "depth completion and unresolved items (see database flags)",
+        "VP audit confirmation of unfetched proofs"
       ],
-      "source": "baseline"
+      "source": "database"
     },
     "IRN": {
       "iso3": "IRN",
@@ -1258,15 +1229,13 @@
     },
     "ITA": {
       "iso3": "ITA",
-      "status": "seeded",
-      "last_checked": null,
+      "status": "partial",
+      "last_checked": "2026-10-27",
       "missing": [
-        "current verification",
-        "proved absences",
-        "media directory",
-        "claim evidence"
+        "depth completion and unresolved items (see database flags)",
+        "VP audit confirmation of unfetched proofs"
       ],
-      "source": "baseline"
+      "source": "database"
     },
     "JAM": {
       "iso3": "JAM",
@@ -1522,15 +1491,13 @@
     },
     "LUX": {
       "iso3": "LUX",
-      "status": "seeded",
-      "last_checked": null,
+      "status": "partial",
+      "last_checked": "2026-10-27",
       "missing": [
-        "current verification",
-        "proved absences",
-        "media directory",
-        "claim evidence"
+        "depth completion and unresolved items (see database flags)",
+        "VP audit confirmation of unfetched proofs"
       ],
-      "source": "baseline"
+      "source": "database"
     },
     "LVA": {
       "iso3": "LVA",
@@ -1906,15 +1873,13 @@
     },
     "NLD": {
       "iso3": "NLD",
-      "status": "seeded",
-      "last_checked": null,
+      "status": "partial",
+      "last_checked": "2026-10-27",
       "missing": [
-        "current verification",
-        "proved absences",
-        "media directory",
-        "claim evidence"
+        "depth completion and unresolved items (see database flags)",
+        "VP audit confirmation of unfetched proofs"
       ],
-      "source": "baseline"
+      "source": "database"
     },
     "NOR": {
       "iso3": "NOR",
@@ -2092,15 +2057,13 @@
     },
     "PRT": {
       "iso3": "PRT",
-      "status": "seeded",
-      "last_checked": null,
+      "status": "partial",
+      "last_checked": "2026-10-27",
       "missing": [
-        "current verification",
-        "proved absences",
-        "media directory",
-        "claim evidence"
+        "depth completion and unresolved items (see database flags)",
+        "VP audit confirmation of unfetched proofs"
       ],
-      "source": "baseline"
+      "source": "database"
     },
     "PRY": {
       "iso3": "PRY",
@@ -2402,15 +2365,13 @@
     },
     "SWE": {
       "iso3": "SWE",
-      "status": "seeded",
-      "last_checked": null,
+      "status": "partial",
+      "last_checked": "2026-10-27",
       "missing": [
-        "current verification",
-        "proved absences",
-        "media directory",
-        "claim evidence"
+        "depth completion and unresolved items (see database flags)",
+        "VP audit confirmation of unfetched proofs"
       ],
-      "source": "baseline"
+      "source": "database"
     },
     "SWZ": {
       "iso3": "SWZ",
