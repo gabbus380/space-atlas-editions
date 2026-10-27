@@ -13,6 +13,8 @@ declare(strict_types=1);
  *   php claude/atlas/tools/builders.php audit country
  *   php claude/atlas/tools/builders.php fetch <https://public.example/page>
  *   php claude/atlas/tools/builders.php protect-country <atlas.json> [source-ref]
+ *   php claude/atlas/tools/builders.php import-country-research <database.json|-> [source-ref]
+ *   php claude/atlas/tools/builders.php repair-registry
  *   php claude/atlas/tools/builders.php self-test
  */
 
@@ -30,6 +32,17 @@ const ECOSYSTEM_STATUSES = ['unstarted', 'partial', 'mapped', 'inherited', 'none
 const ECOSYSTEM_DEPTH_STATUSES = ['not_started', 'in_progress', 'complete', 'not_applicable'];
 const MEDIA_KINDS = ['space_agency', 'space_office', 'government', 'national_press', 'space_press', 'science', 'business', 'broadcast'];
 const ORG_TYPES = ['Company', 'University', 'Institute', 'Agency', 'Program', 'Cluster', null];
+const TERRITORY_SOVEREIGNS = [
+    'ALA' => 'FIN', 'ASM' => 'USA', 'AIA' => 'GBR', 'ABW' => 'NLD', 'BMU' => 'GBR',
+    'VGB' => 'GBR', 'CYM' => 'GBR', 'CUW' => 'NLD', 'FLK' => 'GBR',
+    'FRO' => 'DNK', 'ATF' => 'FRA', 'GRL' => 'DNK', 'GGY' => 'GBR', 'GUM' => 'USA',
+    'HMD' => 'AUS', 'HKG' => 'CHN', 'IOT' => 'GBR', 'IMN' => 'GBR', 'JEY' => 'GBR',
+    'MAC' => 'CHN', 'MSR' => 'GBR', 'NCL' => 'FRA', 'NFK' => 'AUS',
+    'MNP' => 'USA', 'PYF' => 'FRA', 'PCN' => 'GBR', 'PRI' => 'USA', 'BLM' => 'FRA',
+    'SHN' => 'GBR', 'MAF' => 'FRA', 'SPM' => 'FRA', 'SXM' => 'NLD',
+    'SGS' => 'GBR', 'TCA' => 'GBR', 'VIR' => 'USA', 'WLF' => 'FRA',
+];
+const FREE_ASSOCIATIONS = ['COK' => 'NZL', 'NIU' => 'NZL'];
 
 main($argv);
 
@@ -42,10 +55,12 @@ function main(array $argv): void
             'initialize' => initialize(),
             'validate' => validate($argv[2] ?? 'all'),
             'queue' => queue($argv[2] ?? '', isset($argv[3]) ? (int) $argv[3] : null),
-            'campaign' => campaign($argv[2] ?? '', isset($argv[3]) ? (int) $argv[3] : 118, isset($argv[4]) ? (int) $argv[4] : 18),
+            'campaign' => campaign($argv[2] ?? '', isset($argv[3]) ? (int) $argv[3] : 24, isset($argv[4]) ? (int) $argv[4] : 12),
             'audit' => audit($argv[2] ?? ''),
             'fetch' => fetchSource($argv[2] ?? ''),
             'protect-country' => protectCountry($argv[2] ?? '', $argv[3] ?? null),
+            'import-country-research' => importCountryResearch($argv[2] ?? '', $argv[3] ?? null),
+            'repair-registry' => repairRegistry(),
             'self-test' => selfTest(),
             default => usage($command !== 'help'),
         };
@@ -73,7 +88,7 @@ ATLAS worldwide-builder utility
 
   campaign country [target] [wave-size]
       Emit one deterministic campaign plan split into internal checkpoint waves.
-      Defaults to 118 countries in waves of 18.
+      Capped at 24 countries per session; defaults to two waves of 12.
 
   audit country
       Run the publication-safety gate over cumulative country files. Partial
@@ -88,6 +103,15 @@ ATLAS worldwide-builder utility
       Import every production country file marked verified as an immutable
       authoritative core. Campaign replacements become review-only research,
       while additive media candidates and their evidence remain available.
+
+  import-country-research <database.json|-> [source-ref]
+      Import a complete research database without weakening protected cores.
+      Use - to read JSON from standard input. Protected proposals remain
+      review-only; unprotected files receive the newer research.
+
+  repair-registry
+      Apply the canonical sovereign-state relationships for mapped territories
+      and dependencies, leaving sovereign states as null.
 
   self-test
       Exercise source decoding, error rejection and PDF safety checks.
@@ -381,7 +405,7 @@ function queue(string $cause, ?int $limit): void
     $coverage = readJson($coverageFile);
     $entries = $coverage['countries'] ?? [];
     $limit ??= $cause === 'country' ? 12 : 18;
-    $limit = max(1, min($limit, 30));
+    $limit = max(1, min($limit, $cause === 'country' ? 24 : 30));
 
     if ($cause === 'country') {
         $firstPassRemaining = array_filter(
@@ -462,8 +486,8 @@ function campaign(string $cause, int $target, int $waveSize): void
         throw new InvalidArgumentException('The optimized campaign currently supports country only.');
     }
 
-    $target = max(1, min($target, 235));
-    $waveSize = max(4, min($waveSize, 24));
+    $target = max(1, min($target, 24));
+    $waveSize = max(4, min($waveSize, 12));
     $registry = registry();
     $coverage = readJson(COUNTRY_DIR.'/coverage.json');
     $entries = $coverage['countries'] ?? [];
@@ -634,6 +658,196 @@ function protectCountry(string $productionPath, ?string $sourceRef): void
     echo 'Protected '.count($authoritativeCountries).' production-verified country cores; campaign research remains review-only.'.PHP_EOL;
 }
 
+function importCountryResearch(string $researchPath, ?string $sourceRef): void
+{
+    if ($researchPath === '-') {
+        $raw = stream_get_contents(STDIN);
+        $research = json_decode($raw, true, 512, JSON_THROW_ON_ERROR);
+    } elseif ($researchPath !== '' && file_exists($researchPath)) {
+        $raw = (string) file_get_contents($researchPath);
+        $research = json_decode($raw, true, 512, JSON_THROW_ON_ERROR);
+    } else {
+        throw new InvalidArgumentException('import-country-research requires a database JSON path or - for standard input.');
+    }
+
+    $registry = registry();
+    $candidateFiles = $research['files'] ?? null;
+    if (! is_array($candidateFiles)
+        || array_diff_key($registry, $candidateFiles) !== []
+        || array_diff_key($candidateFiles, $registry) !== []) {
+        throw new RuntimeException('Research import must contain exactly one file for every registry entry.');
+    }
+
+    $authoritativePacket = readJson(AUTHORITATIVE_COUNTRY_FILE);
+    $authoritative = $authoritativePacket['countries'] ?? [];
+    if (count($authoritative) !== AUTHORITATIVE_COUNTRY_COUNT
+        || countrySnapshotHash($authoritative) !== AUTHORITATIVE_COUNTRY_SHA256) {
+        throw new RuntimeException('Research import stopped because the authoritative snapshot is not the approved production snapshot.');
+    }
+
+    $database = readJson(COUNTRY_DIR.'/database.json');
+    if (($database['schema'] ?? null) !== 2) {
+        throw new RuntimeException('Research imports require the protected schema-2 country database.');
+    }
+
+    $researchFiles = [];
+    $extensions = [];
+    $proposedChanges = [];
+    $changed = [];
+    foreach ($candidateFiles as $iso3 => $candidate) {
+        if (! is_array($candidate) || ($candidate['iso3'] ?? null) !== $iso3) {
+            throw new RuntimeException("Research file {$iso3} is malformed or has a different iso3.");
+        }
+
+        $previous = $database['research_files'][$iso3] ?? $database['files'][$iso3] ?? null;
+        if ($candidate !== $previous) {
+            $changed[] = $iso3;
+        }
+
+        if (isset($authoritative[$iso3])) {
+            $researchFiles[$iso3] = $candidate;
+            $extensions[$iso3] = buildCountryExtension($iso3, $authoritative[$iso3], $candidate);
+            $proposedChanges[$iso3] = countryCoreDiff($iso3, $authoritative[$iso3], $candidate);
+            $database['files'][$iso3] = $authoritative[$iso3];
+        } else {
+            $database['files'][$iso3] = $candidate;
+        }
+    }
+
+    ksort($database['files']);
+    ksort($researchFiles);
+    ksort($extensions);
+    ksort($proposedChanges);
+    sort($changed);
+
+    $sourceRef ??= 'external country research database';
+    $database['asOf'] = $research['asOf'] ?? $database['asOf'];
+    $database['run'] = $research['run'] ?? $database['run'];
+    $database['research_files'] = $researchFiles;
+    $database['extensions'] = $extensions;
+    $database['proposed_changes'] = $proposedChanges;
+    $database['evidence'] = $research['evidence'] ?? new stdClass();
+    $database['flags'] = $research['flags'] ?? new stdClass();
+    $database['rejected'] = $research['rejected'] ?? new stdClass();
+    $database['research_import'] = [
+        'imported_on' => gmdate('Y-m-d'),
+        'source_ref' => $sourceRef,
+        'source_schema' => $research['schema'] ?? null,
+        'source_sha256' => hash('sha256', $raw),
+        'changed_file_count' => count($changed),
+        'changed_iso3' => $changed,
+        'rule' => 'Protected files remain authoritative; imported protected versions are review-only.',
+    ];
+    $coverage = buildImportedCoverage($database, $authoritative);
+    assertCountryImportValid($registry, $database, $coverage, $authoritative);
+    writeJsonFilesAtomically([
+        COUNTRY_DIR.'/database.json' => $database,
+        COUNTRY_DIR.'/coverage.json' => $coverage,
+    ]);
+
+    echo 'Imported research for '.count($candidateFiles).' countries; '.count($changed)
+        .' files changed and '.count($authoritative).' production cores remained protected.'.PHP_EOL;
+}
+
+function buildImportedCoverage(array $database, array $authoritative): array
+{
+    $coverage = readJson(COUNTRY_DIR.'/coverage.json');
+    foreach ($coverage['countries'] ?? [] as $iso3 => $ignored) {
+        if (isset($authoritative[$iso3])) {
+            continue;
+        }
+        $file = $database['files'][$iso3];
+        $verify = $file['verify'] ?? 'partial';
+        $coverage['countries'][$iso3] = [
+            'iso3' => $iso3,
+            'status' => $verify === 'verified' ? 'complete' : 'partial',
+            'last_checked' => $file['asOf'] ?? null,
+            'missing' => $verify === 'verified'
+                ? []
+                : ['depth completion and unresolved items (see database flags)'],
+            'source' => 'database',
+            'core_status' => $verify,
+            'extension_last_checked' => null,
+            'extension_status' => 'not_applicable',
+            'campaign_status' => $verify,
+        ];
+    }
+
+    return applyProtectedCoverage($coverage, array_keys($authoritative), $database);
+}
+
+function assertCountryImportValid(
+    array $registry,
+    array $database,
+    array $coverage,
+    array $authoritative,
+): void {
+    $errors = [];
+    validateCoverageKeys('imported files', $registry, $database['files'] ?? [], $errors);
+    validateCoverageKeys('imported evidence', $registry, $database['evidence'] ?? [], $errors);
+    validateCoverageKeys('imported flags', $registry, $database['flags'] ?? [], $errors);
+    validateCoverageKeys('imported rejected candidates', $registry, $database['rejected'] ?? [], $errors);
+    validateCoverageKeys('imported coverage', $registry, $coverage['countries'] ?? [], $errors);
+    validateCoverageKeys('imported protected research', $authoritative, $database['research_files'] ?? [], $errors);
+    validateCoverageKeys('imported protected extensions', $authoritative, $database['extensions'] ?? [], $errors);
+    validateCoverageKeys('imported protected proposals', $authoritative, $database['proposed_changes'] ?? [], $errors);
+
+    foreach ($database['files'] ?? [] as $iso3 => $file) {
+        $isProtected = isset($authoritative[$iso3]);
+        if ($isProtected && $file !== $authoritative[$iso3]) {
+            $errors[] = "Imported active file {$iso3} differs from its authoritative core.";
+        }
+        foreach (['asOf', 'verify', 'government', 'stakeholders', 'strategy'] as $required) {
+            if (! array_key_exists($required, $file)) {
+                $errors[] = "Imported file {$iso3} lacks {$required}.";
+            }
+        }
+        if (! $isProtected) {
+            if (! array_key_exists('media', $file)) {
+                $errors[] = "Imported file {$iso3} lacks media.";
+            }
+            validateCountryMedia(
+                $iso3,
+                $file['media']['outlets'] ?? [],
+                $database['evidence'][$iso3]['media'] ?? [],
+                $errors,
+            );
+        }
+        foreach (countryFileIssues(
+            $file,
+            $database['evidence'][$iso3] ?? [],
+            $isProtected,
+            $database['flags'][$iso3] ?? [],
+        ) as $issue) {
+            $errors[] = "Imported file {$iso3}: {$issue}.";
+        }
+        if (! $isProtected
+            && ($file['verify'] ?? null) === 'verified'
+            && ($database['flags'][$iso3] ?? []) !== []) {
+            $errors[] = "Imported file {$iso3} is verified with unresolved flags.";
+        }
+    }
+
+    foreach ($authoritative as $iso3 => $file) {
+        validateCountryMedia(
+            $iso3.' extension',
+            $database['extensions'][$iso3]['media']['outlets'] ?? [],
+            $database['evidence'][$iso3]['media'] ?? [],
+            $errors,
+        );
+    }
+    if (($coverage['monthly_ready'] ?? null) !== countryMonthlyReady($coverage['countries'] ?? [])) {
+        $errors[] = 'Imported coverage has an inconsistent monthly_ready value.';
+    }
+
+    if ($errors !== []) {
+        throw new RuntimeException(
+            'Research import failed preflight: '.implode(' ', array_slice($errors, 0, 25))
+            .(count($errors) > 25 ? ' Additional errors: '.(count($errors) - 25).'.' : ''),
+        );
+    }
+}
+
 function buildCountryExtension(
     string $iso3,
     array $authoritative,
@@ -695,6 +909,12 @@ function countryCoreDiff(string $iso3, array $authoritative, array $campaign): a
 function updateProtectedCoverage(array $protectedIso3, array $database): void
 {
     $coverage = readJson(COUNTRY_DIR.'/coverage.json');
+    $coverage = applyProtectedCoverage($coverage, $protectedIso3, $database);
+    writeJson(COUNTRY_DIR.'/coverage.json', $coverage);
+}
+
+function applyProtectedCoverage(array $coverage, array $protectedIso3, array $database): array
+{
     $protected = array_fill_keys($protectedIso3, true);
     $coverage['countries'] ??= [];
     foreach ($coverage['countries'] as $iso3 => &$entry) {
@@ -722,7 +942,8 @@ function updateProtectedCoverage(array $protectedIso3, array $database): void
     $coverage['counts'] = countsByStatus($coverage['countries'] ?? [], COUNTRY_STATUSES);
     $coverage['protected_production_files'] = count($protectedIso3);
     $coverage['monthly_ready'] = countryMonthlyReady($coverage['countries']);
-    writeJson(COUNTRY_DIR.'/coverage.json', $coverage);
+
+    return $coverage;
 }
 
 function countrySnapshotHash(array $countries): string
@@ -746,42 +967,13 @@ function audit(string $scope): void
     $protectedRegressions = [];
 
     foreach ($database['files'] ?? [] as $iso3 => $file) {
-        $issues = [];
         $evidence = $database['evidence'][$iso3] ?? [];
         $flags = $database['flags'][$iso3] ?? [];
         $isProtected = isset($authoritative[$iso3]);
+        $issues = countryFileIssues($file, $evidence, $isProtected, $flags);
 
         if ($isProtected && $file !== $authoritative[$iso3]) {
             $protectedRegressions[$iso3] = 'Active file differs from the production-verified authoritative core.';
-        }
-
-        if (! $isProtected) {
-            foreach (['government.head_of_state', 'government.head_of_government', 'government.lead', 'strategy', 'stakeholders', 'media'] as $key) {
-                if (! array_key_exists($key, $evidence)) {
-                    $issues[] = "missing evidence section {$key}";
-                }
-            }
-            if (count($file['media']['outlets'] ?? []) < 3) {
-                $issues[] = 'fewer than three proved media/official outlets';
-            }
-        }
-        if (($file['government']['nodes'] ?? []) !== []
-            && count(array_filter($file['government']['nodes'], fn (array $node): bool => ($node['lead'] ?? false) === true)) !== 1) {
-            $issues[] = 'government graph must contain exactly one lead node';
-        }
-        if (($file['stakeholders']['links'] ?? []) !== []) {
-            $nodeIds = [];
-            foreach (array_merge($file['government']['nodes'] ?? [], $file['stakeholders']['nodes'] ?? []) as $node) {
-                if (isset($node['id'])) {
-                    $nodeIds[$node['id']] = true;
-                }
-            }
-            foreach ($file['stakeholders']['links'] as $link) {
-                if (! isset($nodeIds[$link['source'] ?? ''], $nodeIds[$link['target'] ?? ''])) {
-                    $issues[] = 'stakeholder graph contains an unresolved endpoint';
-                    break;
-                }
-            }
         }
 
         $results[$iso3] = [
@@ -832,6 +1024,77 @@ function audit(string $scope): void
     }
 }
 
+function countryFileIssues(array $file, array $evidence, bool $isProtected, array $flags = []): array
+{
+    $issues = [];
+    if (! in_array($file['verify'] ?? null, ['partial', 'verified'], true)) {
+        $issues[] = 'verify must be partial or verified';
+    }
+    if (! $isProtected) {
+        foreach (['government.head_of_state', 'government.head_of_government', 'government.lead', 'strategy', 'stakeholders', 'media'] as $key) {
+            if (! array_key_exists($key, $evidence)) {
+                $issues[] = "missing evidence section {$key}";
+            }
+        }
+        if (count($file['media']['outlets'] ?? []) < 3) {
+            $issues[] = 'fewer than three proved media/official outlets';
+        }
+        $unresolvedProofs = 0;
+        collectProofShapeIssues($evidence, 'evidence', $issues, $unresolvedProofs);
+        if ($unresolvedProofs > 0 && (($file['verify'] ?? null) === 'verified' || $flags === [])) {
+            $issues[] = "{$unresolvedProofs} unresolved evidence placeholder(s) require partial status and declared flags";
+        }
+    }
+    if (($file['government']['nodes'] ?? []) !== []
+        && count(array_filter($file['government']['nodes'], fn (array $node): bool => ($node['lead'] ?? false) === true)) !== 1) {
+        $issues[] = 'government graph must contain exactly one lead node';
+    }
+    if (($file['stakeholders']['links'] ?? []) !== []) {
+        $nodeIds = [];
+        foreach (array_merge($file['government']['nodes'] ?? [], $file['stakeholders']['nodes'] ?? []) as $node) {
+            if (isset($node['id'])) {
+                $nodeIds[$node['id']] = true;
+            }
+        }
+        foreach ($file['stakeholders']['links'] as $link) {
+            if (! isset($nodeIds[$link['source'] ?? ''], $nodeIds[$link['target'] ?? ''])) {
+                $issues[] = 'stakeholder graph contains an unresolved endpoint';
+                break;
+            }
+        }
+    }
+
+    return $issues;
+}
+
+function collectProofShapeIssues(mixed $value, string $path, array &$issues, int &$unresolvedProofs): void
+{
+    if (! is_array($value)) {
+        return;
+    }
+    if (array_key_exists('url', $value)) {
+        if (($value['url'] ?? null) === null || $value['url'] === '') {
+            $unresolvedProofs++;
+        } elseif (! validPublicUrl($value['url'])) {
+            $issues[] = "{$path} has an invalid proof URL";
+        }
+        if (! is_string($value['retrieved_on'] ?? null)
+            || preg_match('/^\d{4}-\d{2}-\d{2}$/', $value['retrieved_on']) !== 1) {
+            $issues[] = "{$path} has an invalid retrieved_on date";
+        }
+        foreach (['evidence', 'why_valid_on'] as $required) {
+            if (! is_string($value[$required] ?? null) || trim($value[$required]) === '') {
+                $issues[] = "{$path} lacks {$required}";
+            }
+        }
+    }
+    foreach ($value as $key => $child) {
+        if (is_array($child)) {
+            collectProofShapeIssues($child, $path.'/'.$key, $issues, $unresolvedProofs);
+        }
+    }
+}
+
 function validate(string $scope): void
 {
     if (! in_array($scope, ['all', 'country', 'ecosystem'], true)) {
@@ -844,6 +1107,25 @@ function validate(string $scope): void
 
     if (count($registry) !== 235) {
         $errors[] = 'Registry must contain exactly 235 entries; found '.count($registry).'.';
+    }
+    foreach (TERRITORY_SOVEREIGNS as $iso3 => $sovereign) {
+        if (($registry[$iso3]['sovereign'] ?? null) !== $sovereign) {
+            $errors[] = "Registry territory {$iso3} must identify sovereign {$sovereign}.";
+        }
+    }
+    foreach (FREE_ASSOCIATIONS as $iso3 => $partner) {
+        if (($registry[$iso3]['sovereign'] ?? null) !== null
+            || ($registry[$iso3]['association'] ?? null) !== $partner) {
+            $errors[] = "Registry {$iso3} must identify free association with {$partner}, not a sovereign relationship.";
+        }
+    }
+    foreach ($registry as $iso3 => $country) {
+        if (($country['sovereign'] ?? null) !== null && ! array_key_exists($iso3, TERRITORY_SOVEREIGNS)) {
+            $errors[] = "Registry {$iso3} has an unrecognised sovereign relationship.";
+        }
+        if (($country['association'] ?? null) !== null && ! array_key_exists($iso3, FREE_ASSOCIATIONS)) {
+            $errors[] = "Registry {$iso3} has an unrecognised free-association relationship.";
+        }
     }
 
     if ($scope !== 'ecosystem') {
@@ -875,6 +1157,12 @@ function validateCountry(array $registry, array &$errors, array &$warnings): voi
     $authoritativePacket = file_exists(AUTHORITATIVE_COUNTRY_FILE) ? readJson(AUTHORITATIVE_COUNTRY_FILE) : [];
     $authoritative = $authoritativePacket['countries'] ?? [];
     validateCoverageKeys('country', $registry, $coverage['countries'] ?? [], $errors);
+    validateCoverageKeys('country evidence', $registry, $database['evidence'] ?? [], $errors);
+    validateCoverageKeys('country flags', $registry, $database['flags'] ?? [], $errors);
+    validateCoverageKeys('country rejected candidates', $registry, $database['rejected'] ?? [], $errors);
+    validateCoverageKeys('protected research', $authoritative, $database['research_files'] ?? [], $errors);
+    validateCoverageKeys('protected extensions', $authoritative, $database['extensions'] ?? [], $errors);
+    validateCoverageKeys('protected proposals', $authoritative, $database['proposed_changes'] ?? [], $errors);
 
     if (($database['schema'] ?? null) !== 2) {
         $errors[] = 'Country database must use layered schema 2.';
@@ -1379,6 +1667,28 @@ function forbiddenDiscoveryUrl(string $url): bool
         || in_array($host, ['facebook.com', 'www.facebook.com', 'x.com', 'twitter.com', 'www.linkedin.com', 'instagram.com'], true);
 }
 
+function repairRegistry(): void
+{
+    $packet = readJson(REGISTRY_FILE);
+    foreach (TERRITORY_SOVEREIGNS as $iso3 => $sovereign) {
+        if (! isset($packet['countries'][$iso3], $packet['countries'][$sovereign])) {
+            throw new RuntimeException("Cannot map territory {$iso3} to missing sovereign {$sovereign}.");
+        }
+        $packet['countries'][$iso3]['sovereign'] = $sovereign;
+    }
+    foreach (FREE_ASSOCIATIONS as $iso3 => $partner) {
+        if (! isset($packet['countries'][$iso3], $packet['countries'][$partner])) {
+            throw new RuntimeException("Cannot map free association {$iso3} to missing partner {$partner}.");
+        }
+        $packet['countries'][$iso3]['sovereign'] = null;
+        $packet['countries'][$iso3]['association'] = $partner;
+    }
+    writeJsonTwoSpace(REGISTRY_FILE, $packet);
+
+    echo 'Applied '.count(TERRITORY_SOVEREIGNS).' territory-sovereign relationships and '
+        .count(FREE_ASSOCIATIONS)." free associations.\n";
+}
+
 function registry(): array
 {
     $registry = readJson(REGISTRY_FILE);
@@ -1457,6 +1767,54 @@ function normalizeJsonValue(mixed $value): mixed
 function writeJson(string $path, array $data): void
 {
     file_put_contents($path, safeJson($data).PHP_EOL);
+}
+
+function writeJsonTwoSpace(string $path, array $data): void
+{
+    $json = preg_replace_callback(
+        '/^( +)/m',
+        fn (array $match): string => str_repeat(' ', intdiv(strlen($match[1]), 2)),
+        safeJson($data),
+    );
+    file_put_contents($path, $json.PHP_EOL);
+}
+
+function writeJsonFilesAtomically(array $files): void
+{
+    $temporary = [];
+    $originals = [];
+    $replaced = [];
+
+    try {
+        foreach ($files as $path => $data) {
+            $originals[$path] = file_exists($path) ? (string) file_get_contents($path) : null;
+            $temporary[$path] = tempnam(dirname($path), '.atlas-json-');
+            if ($temporary[$path] === false
+                || file_put_contents($temporary[$path], safeJson($data).PHP_EOL, LOCK_EX) === false) {
+                throw new RuntimeException("Could not stage JSON update for {$path}.");
+            }
+        }
+        foreach ($temporary as $path => $tempPath) {
+            if (! rename($tempPath, $path)) {
+                throw new RuntimeException("Could not atomically replace {$path}.");
+            }
+            $replaced[] = $path;
+            unset($temporary[$path]);
+        }
+    } catch (Throwable $exception) {
+        foreach ($temporary as $tempPath) {
+            @unlink($tempPath);
+        }
+        foreach ($replaced as $path) {
+            if ($originals[$path] === null) {
+                @unlink($path);
+            } else {
+                file_put_contents($path, $originals[$path], LOCK_EX);
+            }
+        }
+
+        throw $exception;
+    }
 }
 
 function selfTest(): void

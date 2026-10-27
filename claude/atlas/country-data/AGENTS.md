@@ -44,7 +44,7 @@ Only when `coverage.json.monthly_ready` is `true`—all 235 cores complete and z
 ## Start message
 
 ```
-Run the low-cost ATLAS country campaign. Pull main and read claude/atlas/country-data/AGENTS.md, authoritative.json, coverage.json, baseline.json, database.json, and registry/countries.json. Run `self-test`, `validate country`, and `audit country` first. Treat authoritative.json as immutable production truth. Generate the next bounded batch with `php claude/atlas/tools/builders.php queue country 24`; this prioritises protected media reviews, then unprotected depth. The main Sonnet session is the VP and sole writer. Launch Haiku country-manager agents directly, without directors, and process work in internal waves. Use the PHP fetch cache and mechanical auditor; expose only relevant evidence excerpts to models. Validate, audit, and commit after every wave so the run is resumable. Stop before $25, checkpoint safely if the campaign cannot finish, and never edit briefings, ecosystem files, or the site repository.
+Run one low-cost ATLAS country batch. Pull main and read claude/atlas/country-data/AGENTS.md, authoritative.json, coverage.json, baseline.json, database.json, and registry/countries.json. Run `self-test`, `validate country`, and `audit country` first. Treat authoritative.json as immutable production truth. Generate exactly one bounded batch with `php claude/atlas/tools/builders.php queue country 24`; this prioritises protected media reviews, then unprotected depth. Do not request a second queue in this session. The main Sonnet session is the VP and sole writer. Launch Haiku country-manager agents directly, without directors, and process work in internal waves. Use the PHP fetch cache and mechanical auditor; expose only relevant evidence excerpts to models. Validate, audit, and commit after every wave so the run is resumable. Stop before $25, checkpoint safely if the batch cannot finish, and never edit briefings, ecosystem files, or the site repository.
 ```
 
 ## Instructions
@@ -94,9 +94,15 @@ A complete small or inactive country may have short arrays and proved absences. 
 
 For a territory, research its own government, economy, university, media, and space activity. Identify the sovereign relationship. Do not copy the sovereign's entire file into the territory and do not invent an independent national space strategy.
 
+### Neutral prioritisation
+
+Prioritise countries from objective coverage gaps, dated watch events, source risk and material national activity. Never create a company-specific country grouping or describe work as a named company's "context". Do not infer or disclose a relationship between ATLAS, its owner, a customer and any company.
+
+Where a company is a documented participant in a public national programme, name it only where that sourced fact is needed in the dossier. In queues, reports and handovers, use neutral categories such as `human-spaceflight programme`, `commercial partnership` or `high-value blocked source` rather than implying a special commercial priority.
+
 ### Money
 
-The whole campaign stays under $25. Stop launching work when the platform indicates that the remaining budget is needed for auditing and checkpointing. Use at most three discovery searches per country in the first-file pass. Code-based, cached HTTP collection is mechanical work; do not paste whole pages into model context. A country you did not finish is `partial`.
+The whole session stays under $25. Stop launching work at $20 so validation and checkpointing retain budget. Process exactly one queue of at most 24 countries per session, even if budget remains; never start another queue or an ad hoc extra wave. Use at most three discovery searches per country in the first-file pass. Code-based, cached HTTP collection is mechanical work; do not paste whole pages into model context. A country you did not finish is `partial`.
 
 A web search is a query. Opening a URL you already have is a fetch. Wikipedia and Google are finders. They are not proof and they are not media outlets.
 
