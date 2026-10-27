@@ -1,18 +1,2989 @@
 {
-  "schema": 1,
-  "asOf": "2026-10-27",
-  "mode": "worldwide_build",
-  "total_map_entries": 235,
-  "definition": "The initial file is compact. The 81 ISO3 codes in baseline.json are seeded, not complete. Every other ISO3 in claude/atlas/registry/countries.json is unstarted. The first worldwide run expands this into one coverage entry per ISO3.",
-  "counts": {
-    "complete": 0,
-    "partial": 0,
-    "seeded": 81,
-    "unstarted": 154
-  },
-  "delivery": {
-    "database_exists": false,
-    "report_exists": false,
-    "note": "The country agent that finished before this checkpoint did not commit database.json or a country-data report. No new country file was delivered."
-  }
+    "schema": 1,
+    "asOf": "2026-10-27",
+    "mode": "worldwide_build",
+    "total_map_entries": 235,
+    "counts": {
+        "unstarted": 154,
+        "seeded": 81,
+        "partial": 0,
+        "complete": 0,
+        "inherited": 0
+    },
+    "countries": {
+        "ABW": {
+            "iso3": "ABW",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "AFG": {
+            "iso3": "AFG",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "AGO": {
+            "iso3": "AGO",
+            "status": "seeded",
+            "last_checked": null,
+            "missing": [
+                "current verification",
+                "proved absences",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": "baseline"
+        },
+        "AIA": {
+            "iso3": "AIA",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "ALA": {
+            "iso3": "ALA",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "ALB": {
+            "iso3": "ALB",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "AND": {
+            "iso3": "AND",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "ARE": {
+            "iso3": "ARE",
+            "status": "seeded",
+            "last_checked": null,
+            "missing": [
+                "current verification",
+                "proved absences",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": "baseline"
+        },
+        "ARG": {
+            "iso3": "ARG",
+            "status": "seeded",
+            "last_checked": null,
+            "missing": [
+                "current verification",
+                "proved absences",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": "baseline"
+        },
+        "ARM": {
+            "iso3": "ARM",
+            "status": "seeded",
+            "last_checked": null,
+            "missing": [
+                "current verification",
+                "proved absences",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": "baseline"
+        },
+        "ASM": {
+            "iso3": "ASM",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "ATF": {
+            "iso3": "ATF",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "ATG": {
+            "iso3": "ATG",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "AUS": {
+            "iso3": "AUS",
+            "status": "seeded",
+            "last_checked": null,
+            "missing": [
+                "current verification",
+                "proved absences",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": "baseline"
+        },
+        "AUT": {
+            "iso3": "AUT",
+            "status": "seeded",
+            "last_checked": null,
+            "missing": [
+                "current verification",
+                "proved absences",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": "baseline"
+        },
+        "AZE": {
+            "iso3": "AZE",
+            "status": "seeded",
+            "last_checked": null,
+            "missing": [
+                "current verification",
+                "proved absences",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": "baseline"
+        },
+        "BDI": {
+            "iso3": "BDI",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "BEL": {
+            "iso3": "BEL",
+            "status": "seeded",
+            "last_checked": null,
+            "missing": [
+                "current verification",
+                "proved absences",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": "baseline"
+        },
+        "BEN": {
+            "iso3": "BEN",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "BFA": {
+            "iso3": "BFA",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "BGD": {
+            "iso3": "BGD",
+            "status": "seeded",
+            "last_checked": null,
+            "missing": [
+                "current verification",
+                "proved absences",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": "baseline"
+        },
+        "BGR": {
+            "iso3": "BGR",
+            "status": "seeded",
+            "last_checked": null,
+            "missing": [
+                "current verification",
+                "proved absences",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": "baseline"
+        },
+        "BHR": {
+            "iso3": "BHR",
+            "status": "seeded",
+            "last_checked": null,
+            "missing": [
+                "current verification",
+                "proved absences",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": "baseline"
+        },
+        "BHS": {
+            "iso3": "BHS",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "BIH": {
+            "iso3": "BIH",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "BLM": {
+            "iso3": "BLM",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "BLR": {
+            "iso3": "BLR",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "BLZ": {
+            "iso3": "BLZ",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "BMU": {
+            "iso3": "BMU",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "BOL": {
+            "iso3": "BOL",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "BRA": {
+            "iso3": "BRA",
+            "status": "seeded",
+            "last_checked": null,
+            "missing": [
+                "current verification",
+                "proved absences",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": "baseline"
+        },
+        "BRB": {
+            "iso3": "BRB",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "BRN": {
+            "iso3": "BRN",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "BTN": {
+            "iso3": "BTN",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "BWA": {
+            "iso3": "BWA",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "CAF": {
+            "iso3": "CAF",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "CAN": {
+            "iso3": "CAN",
+            "status": "seeded",
+            "last_checked": null,
+            "missing": [
+                "current verification",
+                "proved absences",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": "baseline"
+        },
+        "CHE": {
+            "iso3": "CHE",
+            "status": "seeded",
+            "last_checked": null,
+            "missing": [
+                "current verification",
+                "proved absences",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": "baseline"
+        },
+        "CHL": {
+            "iso3": "CHL",
+            "status": "seeded",
+            "last_checked": null,
+            "missing": [
+                "current verification",
+                "proved absences",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": "baseline"
+        },
+        "CHN": {
+            "iso3": "CHN",
+            "status": "seeded",
+            "last_checked": null,
+            "missing": [
+                "current verification",
+                "proved absences",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": "baseline"
+        },
+        "CIV": {
+            "iso3": "CIV",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "CMR": {
+            "iso3": "CMR",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "COD": {
+            "iso3": "COD",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "COG": {
+            "iso3": "COG",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "COK": {
+            "iso3": "COK",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "COL": {
+            "iso3": "COL",
+            "status": "seeded",
+            "last_checked": null,
+            "missing": [
+                "current verification",
+                "proved absences",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": "baseline"
+        },
+        "COM": {
+            "iso3": "COM",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "CPV": {
+            "iso3": "CPV",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "CRI": {
+            "iso3": "CRI",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "CUB": {
+            "iso3": "CUB",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "CUW": {
+            "iso3": "CUW",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "CYM": {
+            "iso3": "CYM",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "CYP": {
+            "iso3": "CYP",
+            "status": "seeded",
+            "last_checked": null,
+            "missing": [
+                "current verification",
+                "proved absences",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": "baseline"
+        },
+        "CZE": {
+            "iso3": "CZE",
+            "status": "seeded",
+            "last_checked": null,
+            "missing": [
+                "current verification",
+                "proved absences",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": "baseline"
+        },
+        "DEU": {
+            "iso3": "DEU",
+            "status": "seeded",
+            "last_checked": null,
+            "missing": [
+                "current verification",
+                "proved absences",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": "baseline"
+        },
+        "DJI": {
+            "iso3": "DJI",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "DMA": {
+            "iso3": "DMA",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "DNK": {
+            "iso3": "DNK",
+            "status": "seeded",
+            "last_checked": null,
+            "missing": [
+                "current verification",
+                "proved absences",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": "baseline"
+        },
+        "DOM": {
+            "iso3": "DOM",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "DZA": {
+            "iso3": "DZA",
+            "status": "seeded",
+            "last_checked": null,
+            "missing": [
+                "current verification",
+                "proved absences",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": "baseline"
+        },
+        "ECU": {
+            "iso3": "ECU",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "EGY": {
+            "iso3": "EGY",
+            "status": "seeded",
+            "last_checked": null,
+            "missing": [
+                "current verification",
+                "proved absences",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": "baseline"
+        },
+        "ERI": {
+            "iso3": "ERI",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "ESH": {
+            "iso3": "ESH",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "ESP": {
+            "iso3": "ESP",
+            "status": "seeded",
+            "last_checked": null,
+            "missing": [
+                "current verification",
+                "proved absences",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": "baseline"
+        },
+        "EST": {
+            "iso3": "EST",
+            "status": "seeded",
+            "last_checked": null,
+            "missing": [
+                "current verification",
+                "proved absences",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": "baseline"
+        },
+        "ETH": {
+            "iso3": "ETH",
+            "status": "seeded",
+            "last_checked": null,
+            "missing": [
+                "current verification",
+                "proved absences",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": "baseline"
+        },
+        "FIN": {
+            "iso3": "FIN",
+            "status": "seeded",
+            "last_checked": null,
+            "missing": [
+                "current verification",
+                "proved absences",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": "baseline"
+        },
+        "FJI": {
+            "iso3": "FJI",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "FLK": {
+            "iso3": "FLK",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "FRA": {
+            "iso3": "FRA",
+            "status": "seeded",
+            "last_checked": null,
+            "missing": [
+                "current verification",
+                "proved absences",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": "baseline"
+        },
+        "FRO": {
+            "iso3": "FRO",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "FSM": {
+            "iso3": "FSM",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "GAB": {
+            "iso3": "GAB",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "GBR": {
+            "iso3": "GBR",
+            "status": "seeded",
+            "last_checked": null,
+            "missing": [
+                "current verification",
+                "proved absences",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": "baseline"
+        },
+        "GEO": {
+            "iso3": "GEO",
+            "status": "seeded",
+            "last_checked": null,
+            "missing": [
+                "current verification",
+                "proved absences",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": "baseline"
+        },
+        "GGY": {
+            "iso3": "GGY",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "GHA": {
+            "iso3": "GHA",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "GIN": {
+            "iso3": "GIN",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "GMB": {
+            "iso3": "GMB",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "GNB": {
+            "iso3": "GNB",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "GNQ": {
+            "iso3": "GNQ",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "GRC": {
+            "iso3": "GRC",
+            "status": "seeded",
+            "last_checked": null,
+            "missing": [
+                "current verification",
+                "proved absences",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": "baseline"
+        },
+        "GRD": {
+            "iso3": "GRD",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "GRL": {
+            "iso3": "GRL",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "GTM": {
+            "iso3": "GTM",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "GUM": {
+            "iso3": "GUM",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "GUY": {
+            "iso3": "GUY",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "HKG": {
+            "iso3": "HKG",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "HMD": {
+            "iso3": "HMD",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "HND": {
+            "iso3": "HND",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "HRV": {
+            "iso3": "HRV",
+            "status": "seeded",
+            "last_checked": null,
+            "missing": [
+                "current verification",
+                "proved absences",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": "baseline"
+        },
+        "HTI": {
+            "iso3": "HTI",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "HUN": {
+            "iso3": "HUN",
+            "status": "seeded",
+            "last_checked": null,
+            "missing": [
+                "current verification",
+                "proved absences",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": "baseline"
+        },
+        "IDN": {
+            "iso3": "IDN",
+            "status": "seeded",
+            "last_checked": null,
+            "missing": [
+                "current verification",
+                "proved absences",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": "baseline"
+        },
+        "IMN": {
+            "iso3": "IMN",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "IND": {
+            "iso3": "IND",
+            "status": "seeded",
+            "last_checked": null,
+            "missing": [
+                "current verification",
+                "proved absences",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": "baseline"
+        },
+        "IOT": {
+            "iso3": "IOT",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "IRL": {
+            "iso3": "IRL",
+            "status": "seeded",
+            "last_checked": null,
+            "missing": [
+                "current verification",
+                "proved absences",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": "baseline"
+        },
+        "IRN": {
+            "iso3": "IRN",
+            "status": "seeded",
+            "last_checked": null,
+            "missing": [
+                "current verification",
+                "proved absences",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": "baseline"
+        },
+        "IRQ": {
+            "iso3": "IRQ",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "ISL": {
+            "iso3": "ISL",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "ISR": {
+            "iso3": "ISR",
+            "status": "seeded",
+            "last_checked": null,
+            "missing": [
+                "current verification",
+                "proved absences",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": "baseline"
+        },
+        "ITA": {
+            "iso3": "ITA",
+            "status": "seeded",
+            "last_checked": null,
+            "missing": [
+                "current verification",
+                "proved absences",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": "baseline"
+        },
+        "JAM": {
+            "iso3": "JAM",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "JEY": {
+            "iso3": "JEY",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "JOR": {
+            "iso3": "JOR",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "JPN": {
+            "iso3": "JPN",
+            "status": "seeded",
+            "last_checked": null,
+            "missing": [
+                "current verification",
+                "proved absences",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": "baseline"
+        },
+        "KAZ": {
+            "iso3": "KAZ",
+            "status": "seeded",
+            "last_checked": null,
+            "missing": [
+                "current verification",
+                "proved absences",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": "baseline"
+        },
+        "KEN": {
+            "iso3": "KEN",
+            "status": "seeded",
+            "last_checked": null,
+            "missing": [
+                "current verification",
+                "proved absences",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": "baseline"
+        },
+        "KGZ": {
+            "iso3": "KGZ",
+            "status": "seeded",
+            "last_checked": null,
+            "missing": [
+                "current verification",
+                "proved absences",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": "baseline"
+        },
+        "KHM": {
+            "iso3": "KHM",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "KIR": {
+            "iso3": "KIR",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "KNA": {
+            "iso3": "KNA",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "KOR": {
+            "iso3": "KOR",
+            "status": "seeded",
+            "last_checked": null,
+            "missing": [
+                "current verification",
+                "proved absences",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": "baseline"
+        },
+        "KWT": {
+            "iso3": "KWT",
+            "status": "seeded",
+            "last_checked": null,
+            "missing": [
+                "current verification",
+                "proved absences",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": "baseline"
+        },
+        "LAO": {
+            "iso3": "LAO",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "LBN": {
+            "iso3": "LBN",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "LBR": {
+            "iso3": "LBR",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "LBY": {
+            "iso3": "LBY",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "LCA": {
+            "iso3": "LCA",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "LIE": {
+            "iso3": "LIE",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "LKA": {
+            "iso3": "LKA",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "LSO": {
+            "iso3": "LSO",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "LTU": {
+            "iso3": "LTU",
+            "status": "seeded",
+            "last_checked": null,
+            "missing": [
+                "current verification",
+                "proved absences",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": "baseline"
+        },
+        "LUX": {
+            "iso3": "LUX",
+            "status": "seeded",
+            "last_checked": null,
+            "missing": [
+                "current verification",
+                "proved absences",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": "baseline"
+        },
+        "LVA": {
+            "iso3": "LVA",
+            "status": "seeded",
+            "last_checked": null,
+            "missing": [
+                "current verification",
+                "proved absences",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": "baseline"
+        },
+        "MAC": {
+            "iso3": "MAC",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "MAF": {
+            "iso3": "MAF",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "MAR": {
+            "iso3": "MAR",
+            "status": "seeded",
+            "last_checked": null,
+            "missing": [
+                "current verification",
+                "proved absences",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": "baseline"
+        },
+        "MCO": {
+            "iso3": "MCO",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "MDA": {
+            "iso3": "MDA",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "MDG": {
+            "iso3": "MDG",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "MDV": {
+            "iso3": "MDV",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "MEX": {
+            "iso3": "MEX",
+            "status": "seeded",
+            "last_checked": null,
+            "missing": [
+                "current verification",
+                "proved absences",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": "baseline"
+        },
+        "MHL": {
+            "iso3": "MHL",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "MKD": {
+            "iso3": "MKD",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "MLI": {
+            "iso3": "MLI",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "MLT": {
+            "iso3": "MLT",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "MMR": {
+            "iso3": "MMR",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "MNE": {
+            "iso3": "MNE",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "MNG": {
+            "iso3": "MNG",
+            "status": "seeded",
+            "last_checked": null,
+            "missing": [
+                "current verification",
+                "proved absences",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": "baseline"
+        },
+        "MNP": {
+            "iso3": "MNP",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "MOZ": {
+            "iso3": "MOZ",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "MRT": {
+            "iso3": "MRT",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "MSR": {
+            "iso3": "MSR",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "MUS": {
+            "iso3": "MUS",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "MWI": {
+            "iso3": "MWI",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "MYS": {
+            "iso3": "MYS",
+            "status": "seeded",
+            "last_checked": null,
+            "missing": [
+                "current verification",
+                "proved absences",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": "baseline"
+        },
+        "NAM": {
+            "iso3": "NAM",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "NCL": {
+            "iso3": "NCL",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "NER": {
+            "iso3": "NER",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "NFK": {
+            "iso3": "NFK",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "NGA": {
+            "iso3": "NGA",
+            "status": "seeded",
+            "last_checked": null,
+            "missing": [
+                "current verification",
+                "proved absences",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": "baseline"
+        },
+        "NIC": {
+            "iso3": "NIC",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "NIU": {
+            "iso3": "NIU",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "NLD": {
+            "iso3": "NLD",
+            "status": "seeded",
+            "last_checked": null,
+            "missing": [
+                "current verification",
+                "proved absences",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": "baseline"
+        },
+        "NOR": {
+            "iso3": "NOR",
+            "status": "seeded",
+            "last_checked": null,
+            "missing": [
+                "current verification",
+                "proved absences",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": "baseline"
+        },
+        "NPL": {
+            "iso3": "NPL",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "NRU": {
+            "iso3": "NRU",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "NZL": {
+            "iso3": "NZL",
+            "status": "seeded",
+            "last_checked": null,
+            "missing": [
+                "current verification",
+                "proved absences",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": "baseline"
+        },
+        "OMN": {
+            "iso3": "OMN",
+            "status": "seeded",
+            "last_checked": null,
+            "missing": [
+                "current verification",
+                "proved absences",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": "baseline"
+        },
+        "PAK": {
+            "iso3": "PAK",
+            "status": "seeded",
+            "last_checked": null,
+            "missing": [
+                "current verification",
+                "proved absences",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": "baseline"
+        },
+        "PAN": {
+            "iso3": "PAN",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "PCN": {
+            "iso3": "PCN",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "PER": {
+            "iso3": "PER",
+            "status": "seeded",
+            "last_checked": null,
+            "missing": [
+                "current verification",
+                "proved absences",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": "baseline"
+        },
+        "PHL": {
+            "iso3": "PHL",
+            "status": "seeded",
+            "last_checked": null,
+            "missing": [
+                "current verification",
+                "proved absences",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": "baseline"
+        },
+        "PLW": {
+            "iso3": "PLW",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "PNG": {
+            "iso3": "PNG",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "POL": {
+            "iso3": "POL",
+            "status": "seeded",
+            "last_checked": null,
+            "missing": [
+                "current verification",
+                "proved absences",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": "baseline"
+        },
+        "PRI": {
+            "iso3": "PRI",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "PRK": {
+            "iso3": "PRK",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "PRT": {
+            "iso3": "PRT",
+            "status": "seeded",
+            "last_checked": null,
+            "missing": [
+                "current verification",
+                "proved absences",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": "baseline"
+        },
+        "PRY": {
+            "iso3": "PRY",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "PSE": {
+            "iso3": "PSE",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "PYF": {
+            "iso3": "PYF",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "QAT": {
+            "iso3": "QAT",
+            "status": "seeded",
+            "last_checked": null,
+            "missing": [
+                "current verification",
+                "proved absences",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": "baseline"
+        },
+        "ROU": {
+            "iso3": "ROU",
+            "status": "seeded",
+            "last_checked": null,
+            "missing": [
+                "current verification",
+                "proved absences",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": "baseline"
+        },
+        "RUS": {
+            "iso3": "RUS",
+            "status": "seeded",
+            "last_checked": null,
+            "missing": [
+                "current verification",
+                "proved absences",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": "baseline"
+        },
+        "RWA": {
+            "iso3": "RWA",
+            "status": "seeded",
+            "last_checked": null,
+            "missing": [
+                "current verification",
+                "proved absences",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": "baseline"
+        },
+        "SAU": {
+            "iso3": "SAU",
+            "status": "seeded",
+            "last_checked": null,
+            "missing": [
+                "current verification",
+                "proved absences",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": "baseline"
+        },
+        "SDN": {
+            "iso3": "SDN",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "SEN": {
+            "iso3": "SEN",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "SGP": {
+            "iso3": "SGP",
+            "status": "seeded",
+            "last_checked": null,
+            "missing": [
+                "current verification",
+                "proved absences",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": "baseline"
+        },
+        "SGS": {
+            "iso3": "SGS",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "SHN": {
+            "iso3": "SHN",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "SLB": {
+            "iso3": "SLB",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "SLE": {
+            "iso3": "SLE",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "SLV": {
+            "iso3": "SLV",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "SMR": {
+            "iso3": "SMR",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "SOM": {
+            "iso3": "SOM",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "SPM": {
+            "iso3": "SPM",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "SRB": {
+            "iso3": "SRB",
+            "status": "seeded",
+            "last_checked": null,
+            "missing": [
+                "current verification",
+                "proved absences",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": "baseline"
+        },
+        "SSD": {
+            "iso3": "SSD",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "STP": {
+            "iso3": "STP",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "SUR": {
+            "iso3": "SUR",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "SVK": {
+            "iso3": "SVK",
+            "status": "seeded",
+            "last_checked": null,
+            "missing": [
+                "current verification",
+                "proved absences",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": "baseline"
+        },
+        "SVN": {
+            "iso3": "SVN",
+            "status": "seeded",
+            "last_checked": null,
+            "missing": [
+                "current verification",
+                "proved absences",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": "baseline"
+        },
+        "SWE": {
+            "iso3": "SWE",
+            "status": "seeded",
+            "last_checked": null,
+            "missing": [
+                "current verification",
+                "proved absences",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": "baseline"
+        },
+        "SWZ": {
+            "iso3": "SWZ",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "SXM": {
+            "iso3": "SXM",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "SYC": {
+            "iso3": "SYC",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "SYR": {
+            "iso3": "SYR",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "TCA": {
+            "iso3": "TCA",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "TCD": {
+            "iso3": "TCD",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "TGO": {
+            "iso3": "TGO",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "THA": {
+            "iso3": "THA",
+            "status": "seeded",
+            "last_checked": null,
+            "missing": [
+                "current verification",
+                "proved absences",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": "baseline"
+        },
+        "TJK": {
+            "iso3": "TJK",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "TKM": {
+            "iso3": "TKM",
+            "status": "seeded",
+            "last_checked": null,
+            "missing": [
+                "current verification",
+                "proved absences",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": "baseline"
+        },
+        "TLS": {
+            "iso3": "TLS",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "TON": {
+            "iso3": "TON",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "TTO": {
+            "iso3": "TTO",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "TUN": {
+            "iso3": "TUN",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "TUR": {
+            "iso3": "TUR",
+            "status": "seeded",
+            "last_checked": null,
+            "missing": [
+                "current verification",
+                "proved absences",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": "baseline"
+        },
+        "TWN": {
+            "iso3": "TWN",
+            "status": "seeded",
+            "last_checked": null,
+            "missing": [
+                "current verification",
+                "proved absences",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": "baseline"
+        },
+        "TZA": {
+            "iso3": "TZA",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "UGA": {
+            "iso3": "UGA",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "UKR": {
+            "iso3": "UKR",
+            "status": "seeded",
+            "last_checked": null,
+            "missing": [
+                "current verification",
+                "proved absences",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": "baseline"
+        },
+        "URY": {
+            "iso3": "URY",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "USA": {
+            "iso3": "USA",
+            "status": "seeded",
+            "last_checked": null,
+            "missing": [
+                "current verification",
+                "proved absences",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": "baseline"
+        },
+        "UZB": {
+            "iso3": "UZB",
+            "status": "seeded",
+            "last_checked": null,
+            "missing": [
+                "current verification",
+                "proved absences",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": "baseline"
+        },
+        "VAT": {
+            "iso3": "VAT",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "VCT": {
+            "iso3": "VCT",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "VEN": {
+            "iso3": "VEN",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "VGB": {
+            "iso3": "VGB",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "VIR": {
+            "iso3": "VIR",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "VNM": {
+            "iso3": "VNM",
+            "status": "seeded",
+            "last_checked": null,
+            "missing": [
+                "current verification",
+                "proved absences",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": "baseline"
+        },
+        "VUT": {
+            "iso3": "VUT",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "WLF": {
+            "iso3": "WLF",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "WSM": {
+            "iso3": "WSM",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "XKX": {
+            "iso3": "XKX",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "YEM": {
+            "iso3": "YEM",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "ZAF": {
+            "iso3": "ZAF",
+            "status": "seeded",
+            "last_checked": null,
+            "missing": [
+                "current verification",
+                "proved absences",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": "baseline"
+        },
+        "ZMB": {
+            "iso3": "ZMB",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        },
+        "ZWE": {
+            "iso3": "ZWE",
+            "status": "unstarted",
+            "last_checked": null,
+            "missing": [
+                "government",
+                "strategy and law",
+                "stakeholders",
+                "media directory",
+                "claim evidence"
+            ],
+            "source": null
+        }
+    }
 }

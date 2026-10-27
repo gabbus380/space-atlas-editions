@@ -1,22 +1,3071 @@
 {
-  "schema": 1,
-  "asOf": "2026-10-27",
-  "mode": "worldwide_breadth",
-  "total_map_entries": 235,
-  "definition": "The initial file is compact. ISO3 codes in seeded have records but are not complete. Every ISO3 in claude/atlas/registry/countries.json that is absent from seeded is unstarted. The first worldwide run expands this into one coverage entry per ISO3.",
-  "seeded": {
-    "baseline": ["AZE", "CZE", "GRC", "HUN", "KAZ", "POL", "ROU", "SVK", "SWE", "TUR", "UZB"],
-    "staged_not_live": ["BGR", "CHN", "DEU", "FIN", "FRA", "GBR", "ITA", "JPN", "NOR", "USA"]
-  },
-  "counts": {
-    "breadth_complete": 0,
-    "partial_or_seeded": 21,
-    "unstarted": 214,
-    "baseline_organizations": 419,
-    "staged_organizations": 15
-  },
-  "last_run": {
-    "date": "2026-10-26",
-    "note": "A mistaken change-led run staged 15 valid-looking seed records. They still require de-duplication and schema migration by the worldwide builder. That run did not establish complete coverage for any country."
-  }
+    "schema": 1,
+    "asOf": "2026-10-27",
+    "mode": "worldwide_breadth",
+    "total_map_entries": 235,
+    "counts": {
+        "breadth_complete": 0,
+        "depth_complete": 0,
+        "partial": 26,
+        "unstarted": 209,
+        "baseline_organizations": 419,
+        "staged_upserts": 34
+    },
+    "countries": {
+        "ABW": {
+            "iso3": "ABW",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "AFG": {
+            "iso3": "AFG",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "AGO": {
+            "iso3": "AGO",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "AIA": {
+            "iso3": "AIA",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "ALA": {
+            "iso3": "ALA",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "ALB": {
+            "iso3": "ALB",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "AND": {
+            "iso3": "AND",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "ARE": {
+            "iso3": "ARE",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "ARG": {
+            "iso3": "ARG",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "ARM": {
+            "iso3": "ARM",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "ASM": {
+            "iso3": "ASM",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "ATF": {
+            "iso3": "ATF",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "ATG": {
+            "iso3": "ATG",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "AUS": {
+            "iso3": "AUS",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "AUT": {
+            "iso3": "AUT",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "AZE": {
+            "iso3": "AZE",
+            "status": "partial",
+            "depth_status": "not_started",
+            "organization_count": 8,
+            "remaining": [
+                "breadth verification",
+                "national directories",
+                "depth completion"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "BDI": {
+            "iso3": "BDI",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "BEL": {
+            "iso3": "BEL",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "BEN": {
+            "iso3": "BEN",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "BFA": {
+            "iso3": "BFA",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "BGD": {
+            "iso3": "BGD",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "BGR": {
+            "iso3": "BGR",
+            "status": "partial",
+            "depth_status": "not_started",
+            "organization_count": 3,
+            "remaining": [
+                "breadth verification",
+                "national directories",
+                "depth completion"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "BHR": {
+            "iso3": "BHR",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "BHS": {
+            "iso3": "BHS",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "BIH": {
+            "iso3": "BIH",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "BLM": {
+            "iso3": "BLM",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "BLR": {
+            "iso3": "BLR",
+            "status": "partial",
+            "depth_status": "not_started",
+            "organization_count": 2,
+            "remaining": [
+                "breadth verification",
+                "national directories",
+                "depth completion"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "BLZ": {
+            "iso3": "BLZ",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "BMU": {
+            "iso3": "BMU",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "BOL": {
+            "iso3": "BOL",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "BRA": {
+            "iso3": "BRA",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "BRB": {
+            "iso3": "BRB",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "BRN": {
+            "iso3": "BRN",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "BTN": {
+            "iso3": "BTN",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "BWA": {
+            "iso3": "BWA",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "CAF": {
+            "iso3": "CAF",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "CAN": {
+            "iso3": "CAN",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "CHE": {
+            "iso3": "CHE",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "CHL": {
+            "iso3": "CHL",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "CHN": {
+            "iso3": "CHN",
+            "status": "partial",
+            "depth_status": "not_started",
+            "organization_count": 3,
+            "remaining": [
+                "breadth verification",
+                "national directories",
+                "depth completion"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "CIV": {
+            "iso3": "CIV",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "CMR": {
+            "iso3": "CMR",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "COD": {
+            "iso3": "COD",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "COG": {
+            "iso3": "COG",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "COK": {
+            "iso3": "COK",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "COL": {
+            "iso3": "COL",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "COM": {
+            "iso3": "COM",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "CPV": {
+            "iso3": "CPV",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "CRI": {
+            "iso3": "CRI",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "CUB": {
+            "iso3": "CUB",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "CUW": {
+            "iso3": "CUW",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "CYM": {
+            "iso3": "CYM",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "CYP": {
+            "iso3": "CYP",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "CZE": {
+            "iso3": "CZE",
+            "status": "partial",
+            "depth_status": "not_started",
+            "organization_count": 103,
+            "remaining": [
+                "breadth verification",
+                "national directories",
+                "depth completion"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "DEU": {
+            "iso3": "DEU",
+            "status": "partial",
+            "depth_status": "not_started",
+            "organization_count": 2,
+            "remaining": [
+                "breadth verification",
+                "national directories",
+                "depth completion"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "DJI": {
+            "iso3": "DJI",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "DMA": {
+            "iso3": "DMA",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "DNK": {
+            "iso3": "DNK",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "DOM": {
+            "iso3": "DOM",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "DZA": {
+            "iso3": "DZA",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "ECU": {
+            "iso3": "ECU",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "EGY": {
+            "iso3": "EGY",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "ERI": {
+            "iso3": "ERI",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "ESH": {
+            "iso3": "ESH",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "ESP": {
+            "iso3": "ESP",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "EST": {
+            "iso3": "EST",
+            "status": "partial",
+            "depth_status": "not_started",
+            "organization_count": 4,
+            "remaining": [
+                "breadth verification",
+                "national directories",
+                "depth completion"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "ETH": {
+            "iso3": "ETH",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "FIN": {
+            "iso3": "FIN",
+            "status": "partial",
+            "depth_status": "not_started",
+            "organization_count": 2,
+            "remaining": [
+                "breadth verification",
+                "national directories",
+                "depth completion"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "FJI": {
+            "iso3": "FJI",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "FLK": {
+            "iso3": "FLK",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "FRA": {
+            "iso3": "FRA",
+            "status": "partial",
+            "depth_status": "not_started",
+            "organization_count": 1,
+            "remaining": [
+                "breadth verification",
+                "national directories",
+                "depth completion"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "FRO": {
+            "iso3": "FRO",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "FSM": {
+            "iso3": "FSM",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "GAB": {
+            "iso3": "GAB",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "GBR": {
+            "iso3": "GBR",
+            "status": "partial",
+            "depth_status": "not_started",
+            "organization_count": 2,
+            "remaining": [
+                "breadth verification",
+                "national directories",
+                "depth completion"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "GEO": {
+            "iso3": "GEO",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "GGY": {
+            "iso3": "GGY",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "GHA": {
+            "iso3": "GHA",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "GIN": {
+            "iso3": "GIN",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "GMB": {
+            "iso3": "GMB",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "GNB": {
+            "iso3": "GNB",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "GNQ": {
+            "iso3": "GNQ",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "GRC": {
+            "iso3": "GRC",
+            "status": "partial",
+            "depth_status": "not_started",
+            "organization_count": 17,
+            "remaining": [
+                "breadth verification",
+                "national directories",
+                "depth completion"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "GRD": {
+            "iso3": "GRD",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "GRL": {
+            "iso3": "GRL",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "GTM": {
+            "iso3": "GTM",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "GUM": {
+            "iso3": "GUM",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "GUY": {
+            "iso3": "GUY",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "HKG": {
+            "iso3": "HKG",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "HMD": {
+            "iso3": "HMD",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "HND": {
+            "iso3": "HND",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "HRV": {
+            "iso3": "HRV",
+            "status": "partial",
+            "depth_status": "not_started",
+            "organization_count": 3,
+            "remaining": [
+                "breadth verification",
+                "national directories",
+                "depth completion"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "HTI": {
+            "iso3": "HTI",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "HUN": {
+            "iso3": "HUN",
+            "status": "partial",
+            "depth_status": "not_started",
+            "organization_count": 101,
+            "remaining": [
+                "breadth verification",
+                "national directories",
+                "depth completion"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "IDN": {
+            "iso3": "IDN",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "IMN": {
+            "iso3": "IMN",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "IND": {
+            "iso3": "IND",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "IOT": {
+            "iso3": "IOT",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "IRL": {
+            "iso3": "IRL",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "IRN": {
+            "iso3": "IRN",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "IRQ": {
+            "iso3": "IRQ",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "ISL": {
+            "iso3": "ISL",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "ISR": {
+            "iso3": "ISR",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "ITA": {
+            "iso3": "ITA",
+            "status": "partial",
+            "depth_status": "not_started",
+            "organization_count": 2,
+            "remaining": [
+                "breadth verification",
+                "national directories",
+                "depth completion"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "JAM": {
+            "iso3": "JAM",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "JEY": {
+            "iso3": "JEY",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "JOR": {
+            "iso3": "JOR",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "JPN": {
+            "iso3": "JPN",
+            "status": "partial",
+            "depth_status": "not_started",
+            "organization_count": 2,
+            "remaining": [
+                "breadth verification",
+                "national directories",
+                "depth completion"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "KAZ": {
+            "iso3": "KAZ",
+            "status": "partial",
+            "depth_status": "not_started",
+            "organization_count": 12,
+            "remaining": [
+                "breadth verification",
+                "national directories",
+                "depth completion"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "KEN": {
+            "iso3": "KEN",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "KGZ": {
+            "iso3": "KGZ",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "KHM": {
+            "iso3": "KHM",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "KIR": {
+            "iso3": "KIR",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "KNA": {
+            "iso3": "KNA",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "KOR": {
+            "iso3": "KOR",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "KWT": {
+            "iso3": "KWT",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "LAO": {
+            "iso3": "LAO",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "LBN": {
+            "iso3": "LBN",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "LBR": {
+            "iso3": "LBR",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "LBY": {
+            "iso3": "LBY",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "LCA": {
+            "iso3": "LCA",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "LIE": {
+            "iso3": "LIE",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "LKA": {
+            "iso3": "LKA",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "LSO": {
+            "iso3": "LSO",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "LTU": {
+            "iso3": "LTU",
+            "status": "partial",
+            "depth_status": "not_started",
+            "organization_count": 2,
+            "remaining": [
+                "breadth verification",
+                "national directories",
+                "depth completion"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "LUX": {
+            "iso3": "LUX",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "LVA": {
+            "iso3": "LVA",
+            "status": "partial",
+            "depth_status": "not_started",
+            "organization_count": 3,
+            "remaining": [
+                "breadth verification",
+                "national directories",
+                "depth completion"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "MAC": {
+            "iso3": "MAC",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "MAF": {
+            "iso3": "MAF",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "MAR": {
+            "iso3": "MAR",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "MCO": {
+            "iso3": "MCO",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "MDA": {
+            "iso3": "MDA",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "MDG": {
+            "iso3": "MDG",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "MDV": {
+            "iso3": "MDV",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "MEX": {
+            "iso3": "MEX",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "MHL": {
+            "iso3": "MHL",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "MKD": {
+            "iso3": "MKD",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "MLI": {
+            "iso3": "MLI",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "MLT": {
+            "iso3": "MLT",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "MMR": {
+            "iso3": "MMR",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "MNE": {
+            "iso3": "MNE",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "MNG": {
+            "iso3": "MNG",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "MNP": {
+            "iso3": "MNP",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "MOZ": {
+            "iso3": "MOZ",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "MRT": {
+            "iso3": "MRT",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "MSR": {
+            "iso3": "MSR",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "MUS": {
+            "iso3": "MUS",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "MWI": {
+            "iso3": "MWI",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "MYS": {
+            "iso3": "MYS",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "NAM": {
+            "iso3": "NAM",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "NCL": {
+            "iso3": "NCL",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "NER": {
+            "iso3": "NER",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "NFK": {
+            "iso3": "NFK",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "NGA": {
+            "iso3": "NGA",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "NIC": {
+            "iso3": "NIC",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "NIU": {
+            "iso3": "NIU",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "NLD": {
+            "iso3": "NLD",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "NOR": {
+            "iso3": "NOR",
+            "status": "partial",
+            "depth_status": "not_started",
+            "organization_count": 1,
+            "remaining": [
+                "breadth verification",
+                "national directories",
+                "depth completion"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "NPL": {
+            "iso3": "NPL",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "NRU": {
+            "iso3": "NRU",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "NZL": {
+            "iso3": "NZL",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "OMN": {
+            "iso3": "OMN",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "PAK": {
+            "iso3": "PAK",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "PAN": {
+            "iso3": "PAN",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "PCN": {
+            "iso3": "PCN",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "PER": {
+            "iso3": "PER",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "PHL": {
+            "iso3": "PHL",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "PLW": {
+            "iso3": "PLW",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "PNG": {
+            "iso3": "PNG",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "POL": {
+            "iso3": "POL",
+            "status": "partial",
+            "depth_status": "not_started",
+            "organization_count": 66,
+            "remaining": [
+                "breadth verification",
+                "national directories",
+                "depth completion"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "PRI": {
+            "iso3": "PRI",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "PRK": {
+            "iso3": "PRK",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "PRT": {
+            "iso3": "PRT",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "PRY": {
+            "iso3": "PRY",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "PSE": {
+            "iso3": "PSE",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "PYF": {
+            "iso3": "PYF",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "QAT": {
+            "iso3": "QAT",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "ROU": {
+            "iso3": "ROU",
+            "status": "partial",
+            "depth_status": "not_started",
+            "organization_count": 9,
+            "remaining": [
+                "breadth verification",
+                "national directories",
+                "depth completion"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "RUS": {
+            "iso3": "RUS",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "RWA": {
+            "iso3": "RWA",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "SAU": {
+            "iso3": "SAU",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "SDN": {
+            "iso3": "SDN",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "SEN": {
+            "iso3": "SEN",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "SGP": {
+            "iso3": "SGP",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "SGS": {
+            "iso3": "SGS",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "SHN": {
+            "iso3": "SHN",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "SLB": {
+            "iso3": "SLB",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "SLE": {
+            "iso3": "SLE",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "SLV": {
+            "iso3": "SLV",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "SMR": {
+            "iso3": "SMR",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "SOM": {
+            "iso3": "SOM",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "SPM": {
+            "iso3": "SPM",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "SRB": {
+            "iso3": "SRB",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "SSD": {
+            "iso3": "SSD",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "STP": {
+            "iso3": "STP",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "SUR": {
+            "iso3": "SUR",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "SVK": {
+            "iso3": "SVK",
+            "status": "partial",
+            "depth_status": "not_started",
+            "organization_count": 55,
+            "remaining": [
+                "breadth verification",
+                "national directories",
+                "depth completion"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "SVN": {
+            "iso3": "SVN",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "SWE": {
+            "iso3": "SWE",
+            "status": "partial",
+            "depth_status": "not_started",
+            "organization_count": 17,
+            "remaining": [
+                "breadth verification",
+                "national directories",
+                "depth completion"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "SWZ": {
+            "iso3": "SWZ",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "SXM": {
+            "iso3": "SXM",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "SYC": {
+            "iso3": "SYC",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "SYR": {
+            "iso3": "SYR",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "TCA": {
+            "iso3": "TCA",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "TCD": {
+            "iso3": "TCD",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "TGO": {
+            "iso3": "TGO",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "THA": {
+            "iso3": "THA",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "TJK": {
+            "iso3": "TJK",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "TKM": {
+            "iso3": "TKM",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "TLS": {
+            "iso3": "TLS",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "TON": {
+            "iso3": "TON",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "TTO": {
+            "iso3": "TTO",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "TUN": {
+            "iso3": "TUN",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "TUR": {
+            "iso3": "TUR",
+            "status": "partial",
+            "depth_status": "not_started",
+            "organization_count": 19,
+            "remaining": [
+                "breadth verification",
+                "national directories",
+                "depth completion"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "TWN": {
+            "iso3": "TWN",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "TZA": {
+            "iso3": "TZA",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "UGA": {
+            "iso3": "UGA",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "UKR": {
+            "iso3": "UKR",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "URY": {
+            "iso3": "URY",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "USA": {
+            "iso3": "USA",
+            "status": "partial",
+            "depth_status": "not_started",
+            "organization_count": 1,
+            "remaining": [
+                "breadth verification",
+                "national directories",
+                "depth completion"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "UZB": {
+            "iso3": "UZB",
+            "status": "partial",
+            "depth_status": "not_started",
+            "organization_count": 12,
+            "remaining": [
+                "breadth verification",
+                "national directories",
+                "depth completion"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "VAT": {
+            "iso3": "VAT",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "VCT": {
+            "iso3": "VCT",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "VEN": {
+            "iso3": "VEN",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "VGB": {
+            "iso3": "VGB",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "VIR": {
+            "iso3": "VIR",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "VNM": {
+            "iso3": "VNM",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "VUT": {
+            "iso3": "VUT",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "WLF": {
+            "iso3": "WLF",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "WSM": {
+            "iso3": "WSM",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "XKX": {
+            "iso3": "XKX",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "YEM": {
+            "iso3": "YEM",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "ZAF": {
+            "iso3": "ZAF",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "ZMB": {
+            "iso3": "ZMB",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        },
+        "ZWE": {
+            "iso3": "ZWE",
+            "status": "unstarted",
+            "depth_status": "not_started",
+            "organization_count": 0,
+            "remaining": [
+                "official lead body",
+                "national-language ecosystem search",
+                "national directories"
+            ],
+            "last_checked": null,
+            "source_packet": null
+        }
+    }
 }
