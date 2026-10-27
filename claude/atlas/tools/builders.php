@@ -336,9 +336,20 @@ function queue(string $cause, ?int $limit): void
     $entries = $coverage['countries'] ?? [];
     $limit ??= $cause === 'country' ? 12 : 18;
     $limit = max(1, min($limit, 30));
-    $priority = $cause === 'country'
-        ? ['partial' => 0, 'seeded' => 1, 'unstarted' => 2]
-        : ['partial' => 0, 'unstarted' => 1];
+
+    if ($cause === 'country') {
+        $firstPassRemaining = array_filter(
+            $entries,
+            fn (array $entry): bool => in_array($entry['status'] ?? null, ['seeded', 'unstarted'], true),
+        );
+        $phase = $firstPassRemaining !== [] ? 'worldwide_file_build' : 'depth_completion';
+        $priority = $phase === 'worldwide_file_build'
+            ? ['seeded' => 0, 'unstarted' => 1]
+            : ['partial' => 0];
+    } else {
+        $phase = 'worldwide_breadth';
+        $priority = ['partial' => 0, 'unstarted' => 1];
+    }
 
     $pending = array_filter(
         $entries,
@@ -372,11 +383,20 @@ function queue(string $cause, ?int $limit): void
 
     echo json_encode([
         'cause' => $cause,
+        'phase' => $phase,
         'generated_at' => gmdate(DATE_ATOM),
         'limit' => $limit,
         'pending_total' => count($pending),
+        'campaign_incomplete_total' => count(array_filter(
+            $entries,
+            fn (array $entry): bool => in_array($entry['status'] ?? null, $cause === 'country'
+                ? ['seeded', 'unstarted', 'partial']
+                : ['unstarted', 'partial'], true),
+        )),
         'batch' => $packets,
-        'instruction' => 'Finish and checkpoint this batch before requesting another queue.',
+        'instruction' => $phase === 'worldwide_file_build'
+            ? 'Give every map entry a first researched file before returning to partial files for depth completion.'
+            : 'Finish and checkpoint this batch before requesting another queue.',
     ], JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE).PHP_EOL;
 }
 
