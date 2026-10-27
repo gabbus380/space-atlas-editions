@@ -44,7 +44,30 @@ php claude/atlas/tools/builders.php queue ecosystem 18
 php claude/atlas/tools/builders.php validate all
 ```
 
-Claude Code role definitions are in `.claude/agents/`. To allow VP → Director → Manager delegation, run with two nested layers:
+Claude Code role definitions are in `.claude/agents/`. The committed `.claude/settings.json` allows two nested layers in Claude Code web sessions.
+
+### Claude Code on the web
+
+1. Start a new Claude Code session.
+2. Select `gabbus380/space-atlas-editions` and branch `main`.
+3. Choose Sonnet for the main session.
+4. Run only one builder session at a time.
+
+Country start message:
+
+```text
+Act as the ATLAS Vice President of Data Analytics. Pull main and read claude/atlas/country-data/AGENTS.md. Run one deterministic worldwide country bootstrap batch using the repository helper. Use country-director and country-manager agents when available, validate all evidence and JSON, then commit and push a resumable checkpoint. Do not edit briefings, ecosystem files, or the site repository.
+```
+
+Ecosystem start message:
+
+```text
+Act as the ATLAS Vice President of Ecosystems. Pull main and read claude/atlas/ecosystem/AGENTS.md. Run one deterministic worldwide ecosystem breadth batch using the repository helper. Use ecosystem-director and ecosystem-manager agents when available, validate all evidence and JSON, then commit and push a resumable checkpoint. Do not edit briefings, country-data files, or the site repository.
+```
+
+Do not launch both web sessions concurrently because both push to this repository. Start the next session only after the previous checkpoint is on `main`.
+
+For local Claude Code, run with two nested layers:
 
 ```sh
 CLAUDE_CODE_MAX_SUBAGENT_SPAWN_DEPTH=2 claude --agent country-vp
