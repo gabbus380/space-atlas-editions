@@ -12,12 +12,18 @@ declare(strict_types=1);
  *   php claude/atlas/tools/builders.php campaign country [target] [wave-size]
  *   php claude/atlas/tools/builders.php audit country
  *   php claude/atlas/tools/builders.php fetch <https://public.example/page>
+ *   php claude/atlas/tools/builders.php protect-country <atlas.json> [source-ref]
+ *   php claude/atlas/tools/builders.php self-test
  */
 
 const ROOT = __DIR__.'/..';
 const COUNTRY_DIR = ROOT.'/country-data';
 const ECOSYSTEM_DIR = ROOT.'/ecosystem';
 const REGISTRY_FILE = ROOT.'/registry/countries.json';
+const AUTHORITATIVE_COUNTRY_FILE = COUNTRY_DIR.'/authoritative.json';
+const AUTHORITATIVE_COUNTRY_COUNT = 62;
+const AUTHORITATIVE_COUNTRY_SHA256 = 'c9856d45ad20d664da06747f39ffb92797da998b2914dd1434a4510a7ba55b98';
+const FETCH_SCHEMA = 2;
 
 const COUNTRY_STATUSES = ['unstarted', 'seeded', 'partial', 'complete', 'inherited'];
 const ECOSYSTEM_STATUSES = ['unstarted', 'partial', 'mapped', 'inherited', 'none_found'];
@@ -39,6 +45,8 @@ function main(array $argv): void
             'campaign' => campaign($argv[2] ?? '', isset($argv[3]) ? (int) $argv[3] : 118, isset($argv[4]) ? (int) $argv[4] : 18),
             'audit' => audit($argv[2] ?? ''),
             'fetch' => fetchSource($argv[2] ?? ''),
+            'protect-country' => protectCountry($argv[2] ?? '', $argv[3] ?? null),
+            'self-test' => selfTest(),
             default => usage($command !== 'help'),
         };
     } catch (Throwable $exception) {
@@ -75,6 +83,14 @@ ATLAS worldwide-builder utility
       Fetch a page directly, then retry through the Jina text reader when the
       origin blocks automation. Successful packets are cached by URL so later
       agents do not fetch the same page again.
+
+  protect-country <atlas.json> [source-ref]
+      Import every production country file marked verified as an immutable
+      authoritative core. Campaign replacements become review-only research,
+      while additive media candidates and their evidence remain available.
+
+  self-test
+      Exercise source decoding, error rejection and PDF safety checks.
 TXT;
 
     fwrite($error ? STDERR : STDOUT, $text.PHP_EOL);
@@ -118,6 +134,9 @@ function initializeCountry(array $registry, string $today): void
     $database = readJson($databasePath);
     $files = $database['files'] ?? [];
     $seeded = $baseline['countries'] ?? [];
+    $protected = file_exists(AUTHORITATIVE_COUNTRY_FILE)
+        ? (readJson(AUTHORITATIVE_COUNTRY_FILE)['countries'] ?? [])
+        : [];
     $entries = [];
 
     foreach ($registry as $iso3 => $country) {
@@ -136,16 +155,29 @@ function initializeCountry(array $registry, string $today): void
             $source = null;
         }
 
+        $isProtected = isset($protected[$iso3]);
         $entries[$iso3] = [
             'iso3' => $iso3,
             'status' => $status,
             'last_checked' => $status === 'unstarted'
                 ? null
                 : ($files[$iso3]['asOf'] ?? $previousCoverage[$iso3]['last_checked'] ?? null),
-            'missing' => ($previousCoverage[$iso3]['status'] ?? null) === $status
+            'missing' => $isProtected
+                ? ['review additive media extension and any proposed core changes']
+                : (($previousCoverage[$iso3]['status'] ?? null) === $status
                 ? ($previousCoverage[$iso3]['missing'] ?? countryMissing($status))
-                : countryMissing($status),
-            'source' => $source,
+                : countryMissing($status)),
+            'source' => $isProtected ? 'authoritative' : $source,
+            'core_status' => $isProtected ? 'production_verified' : ($files[$iso3]['verify'] ?? 'partial'),
+            'extension_last_checked' => $isProtected
+                ? ($database['extensions'][$iso3]['asOf'] ?? null)
+                : null,
+            'extension_status' => $isProtected
+                ? (($database['extensions'][$iso3]['status'] ?? null) === 'accepted' ? 'complete' : 'review_required')
+                : 'not_applicable',
+            'campaign_status' => $isProtected
+                ? ($database['research_files'][$iso3]['verify'] ?? null)
+                : ($files[$iso3]['verify'] ?? null),
         ];
     }
 
@@ -155,6 +187,8 @@ function initializeCountry(array $registry, string $today): void
         'mode' => 'worldwide_build',
         'total_map_entries' => count($registry),
         'counts' => countsByStatus($entries, COUNTRY_STATUSES),
+        'protected_production_files' => count($protected),
+        'monthly_ready' => countryMonthlyReady($entries),
         'countries' => $entries,
     ]);
 }
@@ -357,16 +391,20 @@ function queue(string $cause, ?int $limit): void
         $phase = $firstPassRemaining !== [] ? 'worldwide_file_build' : 'depth_completion';
         $priority = $phase === 'worldwide_file_build'
             ? ['seeded' => 0, 'unstarted' => 1]
-            : ['partial' => 0];
+            : ['complete' => 0, 'partial' => 1];
     } else {
         $phase = 'worldwide_breadth';
         $priority = ['partial' => 0, 'unstarted' => 1];
     }
 
-    $pending = array_filter(
-        $entries,
-        fn (array $entry): bool => isset($priority[$entry['status'] ?? '']),
-    );
+    $pending = array_filter($entries, function (array $entry) use ($priority, $cause, $phase): bool {
+        if ($cause === 'country' && $phase === 'depth_completion') {
+            return ($entry['status'] ?? null) === 'partial'
+                || ($entry['extension_status'] ?? null) === 'review_required';
+        }
+
+        return isset($priority[$entry['status'] ?? '']);
+    });
     uasort($pending, function (array $left, array $right) use ($priority, $registry): int {
         $byStatus = $priority[$left['status']] <=> $priority[$right['status']];
         if ($byStatus !== 0) {
@@ -389,6 +427,11 @@ function queue(string $cause, ?int $limit): void
             'desk' => $registry[$iso3]['desk'] ?? null,
             'sovereign' => $registry[$iso3]['sovereign'] ?? null,
             'status' => $entry['status'],
+            'core_status' => $entry['core_status'] ?? null,
+            'extension_status' => $entry['extension_status'] ?? null,
+            'work_type' => ($entry['extension_status'] ?? null) === 'review_required'
+                ? 'protected_media_review'
+                : $phase,
             'remaining' => $entry['missing'] ?? $entry['remaining'] ?? [],
         ];
     }
@@ -401,9 +444,10 @@ function queue(string $cause, ?int $limit): void
         'pending_total' => count($pending),
         'campaign_incomplete_total' => count(array_filter(
             $entries,
-            fn (array $entry): bool => in_array($entry['status'] ?? null, $cause === 'country'
-                ? ['seeded', 'unstarted', 'partial']
-                : ['unstarted', 'partial'], true),
+            fn (array $entry): bool => $cause === 'country'
+                ? in_array($entry['status'] ?? null, ['seeded', 'unstarted', 'partial'], true)
+                    || ($entry['extension_status'] ?? null) === 'review_required'
+                : in_array($entry['status'] ?? null, ['unstarted', 'partial'], true),
         )),
         'batch' => $packets,
         'instruction' => $phase === 'worldwide_file_build'
@@ -428,8 +472,16 @@ function campaign(string $cause, int $target, int $waveSize): void
         fn (array $entry): bool => in_array($entry['status'] ?? null, ['seeded', 'unstarted'], true),
     );
 
-    uasort($firstPass, function (array $left, array $right) use ($registry): int {
-        $priority = ['seeded' => 0, 'unstarted' => 1];
+    $phase = $firstPass !== [] ? 'worldwide_file_build' : 'depth_completion';
+    $candidates = $firstPass !== [] ? $firstPass : array_filter(
+        $entries,
+        fn (array $entry): bool => ($entry['status'] ?? null) === 'partial'
+            || ($entry['extension_status'] ?? null) === 'review_required',
+    );
+    uasort($candidates, function (array $left, array $right) use ($registry, $phase): int {
+        $priority = $phase === 'worldwide_file_build'
+            ? ['seeded' => 0, 'unstarted' => 1]
+            : ['complete' => 0, 'partial' => 1];
         $byStatus = $priority[$left['status']] <=> $priority[$right['status']];
         if ($byStatus !== 0) {
             return $byStatus;
@@ -441,7 +493,7 @@ function campaign(string $cause, int $target, int $waveSize): void
         return [$leftCountry['desk'] ?? '', $left['iso3']] <=> [$rightCountry['desk'] ?? '', $right['iso3']];
     });
 
-    $selected = array_slice($firstPass, 0, $target, true);
+    $selected = array_slice($candidates, 0, $target, true);
     $packets = [];
     foreach ($selected as $iso3 => $entry) {
         $packets[] = [
@@ -450,6 +502,11 @@ function campaign(string $cause, int $target, int $waveSize): void
             'desk' => $registry[$iso3]['desk'] ?? null,
             'sovereign' => $registry[$iso3]['sovereign'] ?? null,
             'status' => $entry['status'],
+            'core_status' => $entry['core_status'] ?? null,
+            'extension_status' => $entry['extension_status'] ?? null,
+            'work_type' => ($entry['extension_status'] ?? null) === 'review_required'
+                ? 'protected_media_review'
+                : $phase,
         ];
     }
 
@@ -466,13 +523,14 @@ function campaign(string $cause, int $target, int $waveSize): void
 
     echo json_encode([
         'cause' => 'country',
-        'mode' => 'low_cost_core_first',
+        'mode' => $phase === 'worldwide_file_build' ? 'low_cost_core_first' : 'low_cost_depth',
+        'phase' => $phase,
         'generated_at' => gmdate(DATE_ATOM),
         'requested_target' => $target,
         'selected' => count($packets),
         'wave_size' => $waveSize,
         'wave_count' => count($waves),
-        'remaining_first_pass_after_campaign' => max(0, count($firstPass) - count($packets)),
+        'remaining_after_campaign' => max(0, count($candidates) - count($packets)),
         'rules' => [
             'The main Sonnet session is the VP and sole writer.',
             'Launch Haiku country-manager agents directly; do not launch directors.',
@@ -485,6 +543,195 @@ function campaign(string $cause, int $target, int $waveSize): void
     ], JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE).PHP_EOL;
 }
 
+function protectCountry(string $productionPath, ?string $sourceRef): void
+{
+    if ($productionPath === '' || ! file_exists($productionPath)) {
+        throw new InvalidArgumentException('protect-country requires a readable production atlas.json path.');
+    }
+
+    $production = readJson($productionPath);
+    $productionFiles = $production['cfiles'] ?? null;
+    if (! is_array($productionFiles)) {
+        throw new InvalidArgumentException('Production atlas JSON does not contain a cfiles object.');
+    }
+
+    $authoritativeCountries = array_filter(
+        $productionFiles,
+        fn (mixed $file): bool => is_array($file) && ($file['verify'] ?? null) === 'verified',
+    );
+    ksort($authoritativeCountries);
+    $snapshotHash = countrySnapshotHash($authoritativeCountries);
+    if (count($authoritativeCountries) !== AUTHORITATIVE_COUNTRY_COUNT
+        || $snapshotHash !== AUTHORITATIVE_COUNTRY_SHA256) {
+        throw new RuntimeException(
+            'Authoritative import rejected: expected the explicitly approved '
+            .AUTHORITATIVE_COUNTRY_COUNT.'-file snapshot '.AUTHORITATIVE_COUNTRY_SHA256
+            .", received ".count($authoritativeCountries)."-file snapshot {$snapshotHash}. "
+            .'A site engineer must review production changes and update the pinned count/hash explicitly.',
+        );
+    }
+
+    $database = readJson(COUNTRY_DIR.'/database.json');
+    $campaignFiles = $database['research_files'] ?? [];
+    $extensions = $database['extensions'] ?? [];
+    $proposedChanges = $database['proposed_changes'] ?? [];
+
+    foreach ($authoritativeCountries as $iso3 => $authoritative) {
+        $campaign = $campaignFiles[$iso3] ?? ($database['files'][$iso3] ?? null);
+        if (is_array($campaign) && $campaign !== $authoritative) {
+            $campaignFiles[$iso3] = $campaign;
+            $extensions[$iso3] = buildCountryExtension(
+                $iso3,
+                $authoritative,
+                $campaign,
+            );
+            $proposedChanges[$iso3] = countryCoreDiff($iso3, $authoritative, $campaign);
+        }
+        $database['files'][$iso3] = $authoritative;
+    }
+
+    ksort($campaignFiles);
+    ksort($extensions);
+    ksort($proposedChanges);
+    ksort($database['files']);
+
+    $sourceRef ??= 'gabbus380/space-atlas resources/atlas/data/atlas.json';
+    writeJson(AUTHORITATIVE_COUNTRY_FILE, [
+        'schema' => 1,
+        'captured_on' => gmdate('Y-m-d'),
+        'source_ref' => $sourceRef,
+        'countries_sha256' => $snapshotHash,
+        'rule' => 'Every object in countries is an immutable production-verified core. Extend it additively; never replace it with campaign research.',
+        'countries' => $authoritativeCountries,
+    ]);
+
+    $baseline = readJson(COUNTRY_DIR.'/baseline.json');
+    $baseline['countries'] = array_diff_key($baseline['countries'] ?? [], $authoritativeCountries);
+    $baseline['not_proof'] = 'These unverified legacy files are starting text, not current proof. Production-verified files live only in authoritative.json.';
+    ksort($baseline['countries']);
+    writeJson(COUNTRY_DIR.'/baseline.json', $baseline);
+
+    $database = [
+        'schema' => 2,
+        'asOf' => $database['asOf'] ?? gmdate('Y-m-d'),
+        'source' => $database['source'] ?? 'ATLAS Vice President of Data Analytics',
+        'registry' => $database['registry'] ?? 'claude/atlas/registry/countries.json',
+        'baseline' => $database['baseline'] ?? 'claude/atlas/country-data/baseline.json',
+        'authoritative' => 'claude/atlas/country-data/authoritative.json',
+        'mode' => 'worldwide_build',
+        'run' => $database['run'] ?? ['searches_used' => 0, 'fetches_used' => 0, 'stopped_because' => null],
+        'files' => $database['files'],
+        'research_files' => $campaignFiles,
+        'extensions' => $extensions,
+        'proposed_changes' => $proposedChanges,
+        'evidence' => $database['evidence'] ?? new stdClass(),
+        'flags' => $database['flags'] ?? new stdClass(),
+        'rejected' => $database['rejected'] ?? new stdClass(),
+    ];
+    writeJson(COUNTRY_DIR.'/database.json', $database);
+    updateProtectedCoverage(array_keys($authoritativeCountries), $database);
+
+    echo 'Protected '.count($authoritativeCountries).' production-verified country cores; campaign research remains review-only.'.PHP_EOL;
+}
+
+function buildCountryExtension(
+    string $iso3,
+    array $authoritative,
+    array $campaign,
+): array {
+    $knownOutletKeys = [];
+    foreach ($authoritative['media']['outlets'] ?? [] as $outlet) {
+        $key = strtolower((string) ($outlet['url'] ?? $outlet['id'] ?? ''));
+        if ($key !== '') {
+            $knownOutletKeys[$key] = true;
+        }
+    }
+
+    $media = $campaign['media'] ?? ['outlets' => [], 'none' => []];
+    $media['outlets'] = array_values(array_filter(
+        $media['outlets'] ?? [],
+        function (array $outlet) use ($knownOutletKeys): bool {
+            $key = strtolower((string) ($outlet['url'] ?? $outlet['id'] ?? ''));
+
+            return $key !== '' && ! isset($knownOutletKeys[$key]);
+        },
+    ));
+
+    return [
+        'iso3' => $iso3,
+        'status' => 'review_required',
+        'asOf' => $campaign['asOf'] ?? null,
+        'media' => $media,
+        'evidence_ref' => 'database.json#/evidence/'.$iso3.'/media',
+        'flags_ref' => 'database.json#/flags/'.$iso3,
+        'rule' => 'Candidate additive media extension. It is not active until its evidence and flags are reviewed.',
+    ];
+}
+
+function countryCoreDiff(string $iso3, array $authoritative, array $campaign): array
+{
+    unset($authoritative['media'], $campaign['media'], $authoritative['verify'], $campaign['verify']);
+    $changes = [];
+    foreach (array_unique(array_merge(array_keys($authoritative), array_keys($campaign))) as $section) {
+        if (($authoritative[$section] ?? null) === ($campaign[$section] ?? null)) {
+            continue;
+        }
+        $escaped = str_replace(['~', '/'], ['~0', '~1'], (string) $section);
+        $changes[] = [
+            'path' => '/'.$escaped,
+            'authoritative_ref' => 'authoritative.json#/countries/'.$iso3.'/'.$escaped,
+            'proposed_ref' => 'database.json#/research_files/'.$iso3.'/'.$escaped,
+            'reason' => 'Campaign proposal; requires human or VP evidence review.',
+        ];
+    }
+
+    return [
+        'status' => $changes === [] ? 'no_core_change' : 'review_required',
+        'changes' => $changes,
+        'rule' => 'Compare the authoritative and proposed values at each reference and review dated evidence. Nothing in this list is active.',
+    ];
+}
+
+function updateProtectedCoverage(array $protectedIso3, array $database): void
+{
+    $coverage = readJson(COUNTRY_DIR.'/coverage.json');
+    $protected = array_fill_keys($protectedIso3, true);
+    $coverage['countries'] ??= [];
+    foreach ($coverage['countries'] as $iso3 => &$entry) {
+        if (isset($protected[$iso3])) {
+            $entry['status'] = 'complete';
+            $entry['source'] = 'authoritative';
+            $entry['last_checked'] = $database['files'][$iso3]['asOf'] ?? null;
+            $entry['core_status'] = 'production_verified';
+            $entry['extension_last_checked'] = $database['extensions'][$iso3]['asOf'] ?? null;
+            $entry['extension_status'] = ($database['extensions'][$iso3]['status'] ?? null) === 'accepted'
+                ? 'complete'
+                : 'review_required';
+            $entry['campaign_status'] = $database['research_files'][$iso3]['verify'] ?? null;
+            $entry['missing'] = ['review additive media extension and any proposed core changes'];
+        } else {
+            $entry['core_status'] = ($database['files'][$iso3]['verify'] ?? null) === 'verified'
+                ? 'verified'
+                : 'partial';
+            $entry['extension_last_checked'] = null;
+            $entry['extension_status'] = 'not_applicable';
+            $entry['campaign_status'] = $database['files'][$iso3]['verify'] ?? null;
+        }
+    }
+    unset($entry);
+    $coverage['counts'] = countsByStatus($coverage['countries'] ?? [], COUNTRY_STATUSES);
+    $coverage['protected_production_files'] = count($protectedIso3);
+    $coverage['monthly_ready'] = countryMonthlyReady($coverage['countries']);
+    writeJson(COUNTRY_DIR.'/coverage.json', $coverage);
+}
+
+function countrySnapshotHash(array $countries): string
+{
+    ksort($countries);
+
+    return hash('sha256', safeJson($countries));
+}
+
 function audit(string $scope): void
 {
     if ($scope !== 'country') {
@@ -492,21 +739,31 @@ function audit(string $scope): void
     }
 
     $database = readJson(COUNTRY_DIR.'/database.json');
+    $authoritativePacket = file_exists(AUTHORITATIVE_COUNTRY_FILE) ? readJson(AUTHORITATIVE_COUNTRY_FILE) : [];
+    $authoritative = $authoritativePacket['countries'] ?? [];
     $results = [];
     $unsafeComplete = [];
+    $protectedRegressions = [];
 
     foreach ($database['files'] ?? [] as $iso3 => $file) {
         $issues = [];
         $evidence = $database['evidence'][$iso3] ?? [];
         $flags = $database['flags'][$iso3] ?? [];
+        $isProtected = isset($authoritative[$iso3]);
 
-        foreach (['government.head_of_state', 'government.head_of_government', 'government.lead', 'strategy', 'stakeholders', 'media'] as $key) {
-            if (! array_key_exists($key, $evidence)) {
-                $issues[] = "missing evidence section {$key}";
-            }
+        if ($isProtected && $file !== $authoritative[$iso3]) {
+            $protectedRegressions[$iso3] = 'Active file differs from the production-verified authoritative core.';
         }
-        if (count($file['media']['outlets'] ?? []) < 3) {
-            $issues[] = 'fewer than three proved media/official outlets';
+
+        if (! $isProtected) {
+            foreach (['government.head_of_state', 'government.head_of_government', 'government.lead', 'strategy', 'stakeholders', 'media'] as $key) {
+                if (! array_key_exists($key, $evidence)) {
+                    $issues[] = "missing evidence section {$key}";
+                }
+            }
+            if (count($file['media']['outlets'] ?? []) < 3) {
+                $issues[] = 'fewer than three proved media/official outlets';
+            }
         }
         if (($file['government']['nodes'] ?? []) !== []
             && count(array_filter($file['government']['nodes'], fn (array $node): bool => ($node['lead'] ?? false) === true)) !== 1) {
@@ -529,12 +786,13 @@ function audit(string $scope): void
 
         $results[$iso3] = [
             'verify' => $file['verify'] ?? null,
+            'protected_core' => $isProtected,
             'issue_count' => count($issues),
             'declared_flag_count' => count($flags),
             'issues' => $issues,
         ];
 
-        if (($file['verify'] ?? null) === 'verified' && ($issues !== [] || $flags !== [])) {
+        if (! $isProtected && ($file['verify'] ?? null) === 'verified' && ($issues !== [] || $flags !== [])) {
             $unsafeComplete[$iso3] = [
                 'machine_issues' => $issues,
                 'declared_flags' => $flags,
@@ -545,12 +803,31 @@ function audit(string $scope): void
     echo json_encode([
         'audited_at' => gmdate(DATE_ATOM),
         'files_audited' => count($results),
+        'protected_core_count' => count($authoritative),
+        'protected_snapshot_hash_valid' => ($authoritativePacket['countries_sha256'] ?? null) === countrySnapshotHash($authoritative),
+        'approved_snapshot_valid' => count($authoritative) === AUTHORITATIVE_COUNTRY_COUNT
+            && countrySnapshotHash($authoritative) === AUTHORITATIVE_COUNTRY_SHA256,
+        'protected_regression_count' => count($protectedRegressions),
+        'protected_regressions' => $protectedRegressions,
+        'extension_review_count' => count(array_filter(
+            $database['extensions'] ?? [],
+            fn (array $extension): bool => ($extension['status'] ?? null) === 'review_required',
+        )),
+        'partial_active_count' => count(array_filter(
+            $database['files'] ?? [],
+            fn (array $file): bool => ($file['verify'] ?? null) !== 'verified',
+        )),
+        'declared_flag_total' => array_sum(array_map('count', $database['flags'] ?? [])),
         'unsafe_complete_count' => count($unsafeComplete),
         'unsafe_complete' => $unsafeComplete,
         'results' => $results,
     ], JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE).PHP_EOL;
 
-    if ($unsafeComplete !== []) {
+    if ($unsafeComplete !== []
+        || $protectedRegressions !== []
+        || ($authoritativePacket['countries_sha256'] ?? null) !== countrySnapshotHash($authoritative)
+        || count($authoritative) !== AUTHORITATIVE_COUNTRY_COUNT
+        || countrySnapshotHash($authoritative) !== AUTHORITATIVE_COUNTRY_SHA256) {
         exit(1);
     }
 }
@@ -594,7 +871,36 @@ function validateCountry(array $registry, array &$errors, array &$warnings): voi
 {
     $coverage = readJson(COUNTRY_DIR.'/coverage.json');
     $database = readJson(COUNTRY_DIR.'/database.json');
+    $baseline = readJson(COUNTRY_DIR.'/baseline.json');
+    $authoritativePacket = file_exists(AUTHORITATIVE_COUNTRY_FILE) ? readJson(AUTHORITATIVE_COUNTRY_FILE) : [];
+    $authoritative = $authoritativePacket['countries'] ?? [];
     validateCoverageKeys('country', $registry, $coverage['countries'] ?? [], $errors);
+
+    if (($database['schema'] ?? null) !== 2) {
+        $errors[] = 'Country database must use layered schema 2.';
+    }
+    if (($database['authoritative'] ?? null) !== 'claude/atlas/country-data/authoritative.json') {
+        $errors[] = 'Country database must reference the authoritative production snapshot.';
+    }
+    if (count($database['files'] ?? []) !== count($registry)) {
+        $errors[] = 'Country database must contain one active file for every map entry.';
+    }
+    if ($authoritative !== []
+        && ($authoritativePacket['countries_sha256'] ?? null) !== countrySnapshotHash($authoritative)) {
+        $errors[] = 'Authoritative country snapshot hash does not match its contents.';
+    }
+    if (count($authoritative) !== AUTHORITATIVE_COUNTRY_COUNT
+        || countrySnapshotHash($authoritative) !== AUTHORITATIVE_COUNTRY_SHA256) {
+        $errors[] = 'Authoritative countries do not match the independently pinned production snapshot.';
+    }
+    if (($coverage['monthly_ready'] ?? null) !== countryMonthlyReady($coverage['countries'] ?? [])) {
+        $errors[] = 'Country coverage monthly_ready does not match core and extension completion.';
+    }
+    $baselineOverlap = array_intersect_key($baseline['countries'] ?? [], $authoritative);
+    if ($baselineOverlap !== []) {
+        $errors[] = 'Production-authoritative countries must not also remain in the unverified baseline: '
+            .implode(', ', array_keys($baselineOverlap)).'.';
+    }
 
     foreach ($coverage['countries'] ?? [] as $iso3 => $entry) {
         if (($entry['iso3'] ?? null) !== $iso3) {
@@ -610,15 +916,45 @@ function validateCountry(array $registry, array &$errors, array &$warnings): voi
             $errors[] = "Country database has unknown ISO3 {$iso3}.";
             continue;
         }
+        $isProtected = isset($authoritative[$iso3]);
+        if ($isProtected && $file !== $authoritative[$iso3]) {
+            $errors[] = "Country {$iso3} differs from its production-verified authoritative core.";
+        }
         if (($file['iso3'] ?? null) !== $iso3) {
             $errors[] = "Country file {$iso3} has a missing or different iso3.";
         }
-        foreach (['asOf', 'verify', 'government', 'stakeholders', 'strategy', 'media'] as $required) {
+        $requiredFields = ['asOf', 'verify', 'government', 'stakeholders', 'strategy'];
+        if (! $isProtected) {
+            $requiredFields[] = 'media';
+        }
+        foreach ($requiredFields as $required) {
             if (! array_key_exists($required, $file)) {
                 $errors[] = "Country file {$iso3} lacks {$required}.";
             }
         }
-        validateCountryMedia($iso3, $file['media']['outlets'] ?? [], $database['evidence'][$iso3]['media'] ?? [], $errors);
+        if (! $isProtected) {
+            validateCountryMedia($iso3, $file['media']['outlets'] ?? [], $database['evidence'][$iso3]['media'] ?? [], $errors);
+        }
+    }
+
+    foreach ($authoritative as $iso3 => $file) {
+        if (($file['verify'] ?? null) !== 'verified') {
+            $errors[] = "Authoritative country {$iso3} is not production verified.";
+        }
+        if (! isset($database['research_files'][$iso3], $database['extensions'][$iso3], $database['proposed_changes'][$iso3])) {
+            $errors[] = "Protected country {$iso3} is missing preserved research, extension, or proposed-change data.";
+            continue;
+        }
+        $extension = $database['extensions'][$iso3];
+        validateCountryMedia(
+            $iso3.' extension',
+            $extension['media']['outlets'] ?? [],
+            $database['evidence'][$iso3]['media'] ?? [],
+            $errors,
+        );
+        if (($coverage['countries'][$iso3]['core_status'] ?? null) !== 'production_verified') {
+            $errors[] = "Protected country {$iso3} is not marked production_verified in coverage.";
+        }
     }
 }
 
@@ -737,45 +1073,55 @@ function fetchSource(string $url): void
     $cacheDirectory = ROOT.'/../../.atlas-cache/sources';
     $cachePath = $cacheDirectory.'/'.hash('sha256', $url).'.json';
     if (file_exists($cachePath) && filemtime($cachePath) >= time() - 86400) {
-        $cached = readJson($cachePath);
-        $cached['cache_hit'] = true;
-        echo json_encode($cached, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE).PHP_EOL;
+        try {
+            $cached = readJson($cachePath);
+            if (($cached['schema'] ?? null) === FETCH_SCHEMA && ($cached['usable'] ?? false) === true) {
+                $cached['cache_hit'] = true;
+                echo safeJson($cached).PHP_EOL;
 
-        return;
+                return;
+            }
+        } catch (JsonException) {
+            // Ignore malformed legacy cache entries and replace them after a usable fetch.
+        }
     }
 
     $direct = request($url);
     $selected = $direct;
     $via = 'direct';
     $fallbackReason = null;
+    $directText = responseText($direct);
+    $needsFallback = ! responseUsable($direct, $directText)
+        || isPdfResponse($direct)
+        || looksScriptOnly($direct['body'], $directText);
 
-    if (in_array($direct['status'], [0, 401, 403, 406, 408, 409, 425, 429, 451, 500, 502, 503, 504], true)
-        || strlen(trim($direct['body'])) < 200) {
-        $fallbackReason = 'Origin returned HTTP '.$direct['status'].' or too little readable content.';
-        $readerUrl = 'https://r.jina.ai/http'.(parse_url($url, PHP_URL_SCHEME) === 'https' ? 's' : '').'://'
-            .parse_url($url, PHP_URL_HOST)
-            .(parse_url($url, PHP_URL_PORT) ? ':'.parse_url($url, PHP_URL_PORT) : '')
-            .(parse_url($url, PHP_URL_PATH) ?: '/')
-            .(parse_url($url, PHP_URL_QUERY) ? '?'.parse_url($url, PHP_URL_QUERY) : '');
+    if ($needsFallback) {
+        $fallbackReason = isPdfResponse($direct)
+            ? 'Origin returned a PDF; requested a text rendering so raw PDF bytes are never cached as text.'
+            : 'Origin returned HTTP '.$direct['status'].', blocked/script-only content, or too little readable text.';
+        $readerUrl = jinaReaderUrl($url);
         $fallback = request($readerUrl);
-        if ($fallback['status'] >= 200 && $fallback['status'] < 300 && strlen(trim($fallback['body'])) >= 200) {
+        $fallbackText = responseText($fallback);
+        if (responseUsable($fallback, $fallbackText)) {
             $selected = $fallback;
             $via = 'jina_text_reader';
         }
     }
 
-    $text = extractText($selected['body'], $selected['content_type']);
-    $title = extractTitle($selected['body'], $selected['content_type']);
-    $usable = $selected['status'] >= 200
-        && $selected['status'] < 300
-        && strlen(trim($text)) >= 200
-        && ! looksBlocked($title, $text);
+    $text = responseText($selected);
+    $title = extractTitle(normalizeUtf8($selected['body']), $selected['content_type']);
+    $usable = responseUsable($selected, $text);
+    $limit = max(20000, min((int) (getenv('ATLAS_FETCH_TEXT_LIMIT') ?: 100000), 500000));
+    $textLength = mb_strlen($text);
     $packet = [
+        'schema' => FETCH_SCHEMA,
         'requested_url' => $url,
         'retrieved_on' => gmdate('Y-m-d'),
         'retrieved_at' => gmdate(DATE_ATOM),
         'via' => $via,
+        'independent_source' => false,
         'origin_http_status' => $direct['status'],
+        'origin_transport_error' => $direct['error'] !== '' ? normalizeUtf8($direct['error']) : null,
         'http_status' => $selected['status'],
         'content_type' => $selected['content_type'],
         'final_url' => $selected['final_url'],
@@ -783,7 +1129,10 @@ function fetchSource(string $url): void
         'usable' => $usable,
         'cache_hit' => false,
         'content_sha256' => hash('sha256', $selected['body']),
-        'text' => mb_substr($text, 0, 20000),
+        'content_bytes' => strlen($selected['body']),
+        'text_characters' => $textLength,
+        'text_truncated' => $textLength > $limit,
+        'text' => mb_substr($text, 0, $limit),
         'fallback_reason' => $fallbackReason,
         'verification_note' => ! $usable
             ? 'The result is still blocked or unreadable. Find an official mirror, document repository or corroborating source; do not cite this packet as proof.'
@@ -795,8 +1144,10 @@ function fetchSource(string $url): void
     if (! is_dir($cacheDirectory) && ! mkdir($cacheDirectory, 0775, true) && ! is_dir($cacheDirectory)) {
         throw new RuntimeException("Could not create source cache: {$cacheDirectory}");
     }
-    writeJson($cachePath, $packet);
-    echo json_encode($packet, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE).PHP_EOL;
+    if ($usable) {
+        writeJson($cachePath, $packet);
+    }
+    echo safeJson($packet).PHP_EOL;
 }
 
 function request(string $url): array
@@ -811,7 +1162,8 @@ function request(string $url): array
         CURLOPT_PROTOCOLS => CURLPROTO_HTTP | CURLPROTO_HTTPS,
         CURLOPT_REDIR_PROTOCOLS => CURLPROTO_HTTP | CURLPROTO_HTTPS,
         CURLOPT_USERAGENT => 'Mozilla/5.0 (compatible; SovereignSpaceATLASResearch/1.0; +https://atlas.emmaconsulting.space)',
-        CURLOPT_HTTPHEADER => ['Accept: text/html,application/xhtml+xml,application/json,text/plain;q=0.9,*/*;q=0.5'],
+        CURLOPT_ENCODING => '',
+        CURLOPT_HTTPHEADER => ['Accept: text/html,application/xhtml+xml,application/pdf,application/json,text/plain;q=0.9,*/*;q=0.5'],
     ]);
     $body = curl_exec($handle);
     $error = curl_error($handle);
@@ -840,11 +1192,15 @@ function extractTitle(string $body, string $contentType): ?string
 
 function extractText(string $body, string $contentType): string
 {
+    $body = normalizeUtf8($body, $contentType);
     if (str_contains(strtolower($contentType), 'html')) {
         if (class_exists(DOMDocument::class)) {
             $document = new DOMDocument();
             $previous = libxml_use_internal_errors(true);
-            $document->loadHTML($body, LIBXML_NOERROR | LIBXML_NOWARNING | LIBXML_NONET);
+            $document->loadHTML(
+                '<?xml encoding="UTF-8">'.$body,
+                LIBXML_NOERROR | LIBXML_NOWARNING | LIBXML_NONET | LIBXML_COMPACT,
+            );
             libxml_clear_errors();
             libxml_use_internal_errors($previous);
             $xpath = new DOMXPath($document);
@@ -863,6 +1219,79 @@ function extractText(string $body, string $contentType): string
     return trim(preg_replace('/(?:\r?\n\s*){3,}/u', "\n\n", $body) ?? $body);
 }
 
+function responseText(array $response): string
+{
+    if (isPdfResponse($response)) {
+        return extractPdfText($response['body']);
+    }
+
+    return extractText($response['body'], $response['content_type']);
+}
+
+function responseUsable(array $response, string $text): bool
+{
+    if (($response['error'] ?? '') !== ''
+        || ($response['status'] ?? 0) < 200
+        || ($response['status'] ?? 0) >= 300
+        || mb_strlen(trim($text)) < 200) {
+        return false;
+    }
+
+    return ! looksBlocked(extractTitle(normalizeUtf8($response['body']), $response['content_type']), $text);
+}
+
+function isPdfResponse(array $response): bool
+{
+    return str_contains(strtolower((string) ($response['content_type'] ?? '')), 'application/pdf')
+        || str_starts_with((string) ($response['body'] ?? ''), '%PDF-');
+}
+
+function extractPdfText(string $body): string
+{
+    $binary = tempnam(sys_get_temp_dir(), 'atlas-pdf-');
+    $output = tempnam(sys_get_temp_dir(), 'atlas-text-');
+    if ($binary === false || $output === false) {
+        return '';
+    }
+
+    try {
+        file_put_contents($binary, $body);
+        $pdftotext = trim((string) shell_exec('command -v pdftotext 2>/dev/null'));
+        if ($pdftotext === '') {
+            return '';
+        }
+        $command = escapeshellarg($pdftotext).' -enc UTF-8 -layout '
+            .escapeshellarg($binary).' '.escapeshellarg($output).' 2>/dev/null';
+        exec($command, $ignored, $status);
+        if ($status !== 0) {
+            return '';
+        }
+
+        return normalizeUtf8((string) file_get_contents($output));
+    } finally {
+        @unlink($binary);
+        @unlink($output);
+    }
+}
+
+function jinaReaderUrl(string $url): string
+{
+    return 'https://r.jina.ai/http'.(parse_url($url, PHP_URL_SCHEME) === 'https' ? 's' : '').'://'
+        .parse_url($url, PHP_URL_HOST)
+        .(parse_url($url, PHP_URL_PORT) ? ':'.parse_url($url, PHP_URL_PORT) : '')
+        .(parse_url($url, PHP_URL_PATH) ?: '/')
+        .(parse_url($url, PHP_URL_QUERY) ? '?'.parse_url($url, PHP_URL_QUERY) : '');
+}
+
+function looksScriptOnly(string $html, string $text): bool
+{
+    if (! str_contains(strtolower($html), '<script')) {
+        return false;
+    }
+
+    return mb_strlen(trim($text)) < 500;
+}
+
 function looksBlocked(?string $title, string $text): bool
 {
     $sample = strtolower(($title ?? '').' '.mb_substr($text, 0, 1000));
@@ -875,6 +1304,10 @@ function looksBlocked(?string $title, string $text): bool
         'captcha',
         'access denied',
         'request blocked',
+        'bad gateway',
+        'dns resolution failure',
+        'upstream connect error',
+        'server error',
     ] as $marker) {
         if (str_contains($sample, $marker)) {
             return true;
@@ -882,6 +1315,39 @@ function looksBlocked(?string $title, string $text): bool
     }
 
     return false;
+}
+
+function normalizeUtf8(string $value, string $contentType = ''): string
+{
+    if ($value === '') {
+        return '';
+    }
+
+    $encoding = null;
+    if (preg_match('/charset\s*=\s*["\']?([a-z0-9._-]+)/i', $contentType, $match)) {
+        $encoding = $match[1];
+    } elseif (preg_match('/<meta[^>]+charset\s*=\s*["\']?([a-z0-9._-]+)/i', substr($value, 0, 4096), $match)) {
+        $encoding = $match[1];
+    }
+
+    if ($encoding !== null && strcasecmp($encoding, 'utf-8') !== 0) {
+        try {
+            $converted = mb_convert_encoding($value, 'UTF-8', $encoding);
+        } catch (ValueError) {
+            $converted = false;
+        }
+        if (is_string($converted)) {
+            $value = $converted;
+        }
+    }
+    if (! mb_check_encoding($value, 'UTF-8')) {
+        $detected = mb_detect_encoding($value, ['UTF-8', 'Windows-1252', 'ISO-8859-1'], true);
+        $value = $detected === false
+            ? (string) iconv('UTF-8', 'UTF-8//IGNORE', $value)
+            : mb_convert_encoding($value, 'UTF-8', $detected);
+    }
+
+    return $value;
 }
 
 function validPublicUrl(mixed $url): bool
@@ -935,6 +1401,21 @@ function countsByStatus(array $entries, array $statuses): array
     return $counts;
 }
 
+function countryMonthlyReady(array $entries): bool
+{
+    if (count($entries) !== 235) {
+        return false;
+    }
+    foreach ($entries as $entry) {
+        if (! in_array($entry['status'] ?? null, ['complete', 'inherited'], true)
+            || ($entry['extension_status'] ?? null) === 'review_required') {
+            return false;
+        }
+    }
+
+    return true;
+}
+
 function readJson(string $path): array
 {
     if (! file_exists($path)) {
@@ -944,8 +1425,92 @@ function readJson(string $path): array
     return json_decode((string) file_get_contents($path), true, 512, JSON_THROW_ON_ERROR);
 }
 
+function safeJson(mixed $data): string
+{
+    return json_encode(
+        normalizeJsonValue($data),
+        JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE | JSON_THROW_ON_ERROR,
+    );
+}
+
+function normalizeJsonValue(mixed $value): mixed
+{
+    if (is_string($value)) {
+        return normalizeUtf8($value);
+    }
+    if (is_array($value)) {
+        foreach ($value as $key => $item) {
+            $value[$key] = normalizeJsonValue($item);
+        }
+
+        return $value;
+    }
+    if (is_object($value)) {
+        foreach (get_object_vars($value) as $key => $item) {
+            $value->{$key} = normalizeJsonValue($item);
+        }
+    }
+
+    return $value;
+}
+
 function writeJson(string $path, array $data): void
 {
-    $json = json_encode($data, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE | JSON_THROW_ON_ERROR);
-    file_put_contents($path, $json.PHP_EOL);
+    file_put_contents($path, safeJson($data).PHP_EOL);
+}
+
+function selfTest(): void
+{
+    $failures = [];
+    $assert = static function (bool $condition, string $message) use (&$failures): void {
+        if (! $condition) {
+            $failures[] = $message;
+        }
+    };
+
+    $windowsText = "Magyarorsz\xE1g";
+    $assert(normalizeUtf8($windowsText, 'text/plain; charset=windows-1252') === 'Magyarország', 'Windows-1252 conversion failed.');
+    $assert(
+        mb_check_encoding(normalizeUtf8($windowsText, 'text/plain; charset=not-a-real-encoding'), 'UTF-8'),
+        'Unknown charset fallback failed.',
+    );
+    $assert(str_contains(safeJson(['broken' => "bad\xC3("]), '"broken"'), 'Malformed UTF-8 JSON safety failed.');
+    $hungarian = 'Árvíztűrő tükörfúrógép';
+    $assert(
+        extractText('<html><body><p>'.$hungarian.'</p></body></html>', 'text/html; charset=UTF-8') === $hungarian,
+        'DOM UTF-8 extraction failed.',
+    );
+
+    $badGateway = [
+        'status' => 502,
+        'content_type' => 'text/html',
+        'body' => str_repeat('Bad Gateway ', 30),
+        'error' => '',
+    ];
+    $assert(! responseUsable($badGateway, responseText($badGateway)), 'HTTP 502 must never be usable.');
+
+    $challenge = [
+        'status' => 200,
+        'content_type' => 'text/html; charset=UTF-8',
+        'body' => '<html><title>Just a moment</title><body>'.str_repeat('Enable JavaScript and cookies. ', 20).'</body></html>',
+        'error' => '',
+    ];
+    $assert(! responseUsable($challenge, responseText($challenge)), 'Challenge page must never be usable.');
+
+    $pdf = ['content_type' => 'application/octet-stream', 'body' => '%PDF-1.7 binary'];
+    $assert(isPdfResponse($pdf), 'PDF signature detection failed.');
+
+    $diff = countryCoreDiff('TST', ['name' => 'old'], ['name' => 'new']);
+    $assert(($diff['changes'][0]['path'] ?? null) === '/name', 'Reviewable country diff failed.');
+
+    $snapshot = ['TST' => ['verify' => 'verified', 'name' => 'Trusted']];
+    $snapshotHash = countrySnapshotHash($snapshot);
+    $snapshot['TST']['name'] = 'Mutated';
+    $assert($snapshotHash !== countrySnapshotHash($snapshot), 'Protected snapshot mutation was not detected.');
+
+    if ($failures !== []) {
+        throw new RuntimeException('Self-test failed: '.implode(' ', $failures));
+    }
+
+    echo "Builder self-tests passed.\n";
 }
