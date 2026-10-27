@@ -40,6 +40,8 @@ They do not edit briefings or the Laravel application. Their cumulative JSON is 
 ```sh
 php claude/atlas/tools/builders.php initialize
 php claude/atlas/tools/builders.php queue country 12
+php claude/atlas/tools/builders.php campaign country 118 18
+php claude/atlas/tools/builders.php audit country
 php claude/atlas/tools/builders.php queue ecosystem 18
 php claude/atlas/tools/builders.php validate all
 ```
@@ -56,7 +58,7 @@ Claude Code role definitions are in `.claude/agents/`. The committed `.claude/se
 Country start message:
 
 ```text
-Act as the ATLAS Vice President of Data Analytics. Pull main and read claude/atlas/country-data/AGENTS.md. Run one deterministic worldwide country bootstrap batch using the repository helper. Use country-director and country-manager agents when available, validate all evidence and JSON, then commit and push a resumable checkpoint. Do not edit briefings, ecosystem files, or the site repository.
+Run the low-cost ATLAS country campaign. Pull main and read claude/atlas/country-data/AGENTS.md. Generate the 118-country campaign with the repository helper and process its internal waves. Act as the Sonnet VP and sole writer; launch Haiku country-manager agents directly without directors. Use cached code-based fetching, expose only relevant source excerpts to models, and apply both machine and semantic audit gates. Validate, audit, commit and push after every wave. Stop before $25 and preserve a resumable checkpoint if the campaign cannot finish. Do not edit briefings, ecosystem files, or the site repository.
 ```
 
 Ecosystem start message:

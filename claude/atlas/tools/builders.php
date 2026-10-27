@@ -9,6 +9,8 @@ declare(strict_types=1);
  *   php claude/atlas/tools/builders.php initialize
  *   php claude/atlas/tools/builders.php validate [all|country|ecosystem]
  *   php claude/atlas/tools/builders.php queue <country|ecosystem> [limit]
+ *   php claude/atlas/tools/builders.php campaign country [target] [wave-size]
+ *   php claude/atlas/tools/builders.php audit country
  *   php claude/atlas/tools/builders.php fetch <https://public.example/page>
  */
 
@@ -34,6 +36,8 @@ function main(array $argv): void
             'initialize' => initialize(),
             'validate' => validate($argv[2] ?? 'all'),
             'queue' => queue($argv[2] ?? '', isset($argv[3]) ? (int) $argv[3] : null),
+            'campaign' => campaign($argv[2] ?? '', isset($argv[3]) ? (int) $argv[3] : 118, isset($argv[4]) ? (int) $argv[4] : 18),
+            'audit' => audit($argv[2] ?? ''),
             'fetch' => fetchSource($argv[2] ?? ''),
             default => usage($command !== 'help'),
         };
@@ -59,10 +63,18 @@ ATLAS worldwide-builder utility
       Emit a deterministic, budget-sized JSON work queue. Defaults: 12 country
       files or 18 ecosystem breadth entries.
 
+  campaign country [target] [wave-size]
+      Emit one deterministic campaign plan split into internal checkpoint waves.
+      Defaults to 118 countries in waves of 18.
+
+  audit country
+      Run the publication-safety gate over cumulative country files. Partial
+      files may retain declared gaps; complete files fail on any audit issue.
+
   fetch <public http(s) URL>
       Fetch a page directly, then retry through the Jina text reader when the
-      origin blocks automation. Emits a provenance packet; it does not decide
-      whether the source proves a claim.
+      origin blocks automation. Successful packets are cached by URL so later
+      agents do not fetch the same page again.
 TXT;
 
     fwrite($error ? STDERR : STDOUT, $text.PHP_EOL);
@@ -400,6 +412,149 @@ function queue(string $cause, ?int $limit): void
     ], JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE).PHP_EOL;
 }
 
+function campaign(string $cause, int $target, int $waveSize): void
+{
+    if ($cause !== 'country') {
+        throw new InvalidArgumentException('The optimized campaign currently supports country only.');
+    }
+
+    $target = max(1, min($target, 235));
+    $waveSize = max(4, min($waveSize, 24));
+    $registry = registry();
+    $coverage = readJson(COUNTRY_DIR.'/coverage.json');
+    $entries = $coverage['countries'] ?? [];
+    $firstPass = array_filter(
+        $entries,
+        fn (array $entry): bool => in_array($entry['status'] ?? null, ['seeded', 'unstarted'], true),
+    );
+
+    uasort($firstPass, function (array $left, array $right) use ($registry): int {
+        $priority = ['seeded' => 0, 'unstarted' => 1];
+        $byStatus = $priority[$left['status']] <=> $priority[$right['status']];
+        if ($byStatus !== 0) {
+            return $byStatus;
+        }
+
+        $leftCountry = $registry[$left['iso3']];
+        $rightCountry = $registry[$right['iso3']];
+
+        return [$leftCountry['desk'] ?? '', $left['iso3']] <=> [$rightCountry['desk'] ?? '', $right['iso3']];
+    });
+
+    $selected = array_slice($firstPass, 0, $target, true);
+    $packets = [];
+    foreach ($selected as $iso3 => $entry) {
+        $packets[] = [
+            'iso3' => $iso3,
+            'name' => $registry[$iso3]['name'],
+            'desk' => $registry[$iso3]['desk'] ?? null,
+            'sovereign' => $registry[$iso3]['sovereign'] ?? null,
+            'status' => $entry['status'],
+        ];
+    }
+
+    $waves = [];
+    foreach (array_chunk($packets, $waveSize) as $index => $wave) {
+        $waves[] = [
+            'wave' => $index + 1,
+            'count' => count($wave),
+            'iso3' => array_column($wave, 'iso3'),
+            'countries' => $wave,
+            'checkpoint' => 'Merge accepted packets, run validate and audit, then commit before starting the next wave.',
+        ];
+    }
+
+    echo json_encode([
+        'cause' => 'country',
+        'mode' => 'low_cost_core_first',
+        'generated_at' => gmdate(DATE_ATOM),
+        'requested_target' => $target,
+        'selected' => count($packets),
+        'wave_size' => $waveSize,
+        'wave_count' => count($waves),
+        'remaining_first_pass_after_campaign' => max(0, count($firstPass) - count($packets)),
+        'rules' => [
+            'The main Sonnet session is the VP and sole writer.',
+            'Launch Haiku country-manager agents directly; do not launch directors.',
+            'Use cached helper fetches before model browsing.',
+            'Core-first verifies leadership, lead body, strategy/law/budget, core stakeholders and media.',
+            'Unresolved depth remains explicit and partial.',
+            'Stop before the account campaign budget is exceeded.',
+        ],
+        'waves' => $waves,
+    ], JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE).PHP_EOL;
+}
+
+function audit(string $scope): void
+{
+    if ($scope !== 'country') {
+        throw new InvalidArgumentException('Audit scope must be country.');
+    }
+
+    $database = readJson(COUNTRY_DIR.'/database.json');
+    $results = [];
+    $unsafeComplete = [];
+
+    foreach ($database['files'] ?? [] as $iso3 => $file) {
+        $issues = [];
+        $evidence = $database['evidence'][$iso3] ?? [];
+        $flags = $database['flags'][$iso3] ?? [];
+
+        foreach (['government.head_of_state', 'government.head_of_government', 'government.lead', 'strategy', 'stakeholders', 'media'] as $key) {
+            if (! array_key_exists($key, $evidence)) {
+                $issues[] = "missing evidence section {$key}";
+            }
+        }
+        if (count($file['media']['outlets'] ?? []) < 3) {
+            $issues[] = 'fewer than three proved media/official outlets';
+        }
+        if (($file['government']['nodes'] ?? []) !== []
+            && count(array_filter($file['government']['nodes'], fn (array $node): bool => ($node['lead'] ?? false) === true)) !== 1) {
+            $issues[] = 'government graph must contain exactly one lead node';
+        }
+        if (($file['stakeholders']['links'] ?? []) !== []) {
+            $nodeIds = [];
+            foreach (array_merge($file['government']['nodes'] ?? [], $file['stakeholders']['nodes'] ?? []) as $node) {
+                if (isset($node['id'])) {
+                    $nodeIds[$node['id']] = true;
+                }
+            }
+            foreach ($file['stakeholders']['links'] as $link) {
+                if (! isset($nodeIds[$link['source'] ?? ''], $nodeIds[$link['target'] ?? ''])) {
+                    $issues[] = 'stakeholder graph contains an unresolved endpoint';
+                    break;
+                }
+            }
+        }
+
+        $results[$iso3] = [
+            'verify' => $file['verify'] ?? null,
+            'issue_count' => count($issues),
+            'declared_flag_count' => count($flags),
+            'issues' => $issues,
+        ];
+
+        if (($file['verify'] ?? null) === 'verified' && ($issues !== [] || $flags !== [])) {
+            $unsafeComplete[$iso3] = [
+                'machine_issues' => $issues,
+                'declared_flags' => $flags,
+            ];
+        }
+    }
+
+    echo json_encode([
+        'audited_at' => gmdate(DATE_ATOM),
+        'files_audited' => count($results),
+        'unsafe_complete_count' => count($unsafeComplete),
+        'unsafe_complete' => $unsafeComplete,
+        'results' => $results,
+    ], JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE).PHP_EOL;
+
+    if ($unsafeComplete !== []) {
+        exit(1);
+    }
+}
+
 function validate(string $scope): void
 {
     if (! in_array($scope, ['all', 'country', 'ecosystem'], true)) {
@@ -579,6 +734,16 @@ function fetchSource(string $url): void
         throw new RuntimeException('The PHP cURL extension is required for fetch.');
     }
 
+    $cacheDirectory = ROOT.'/../../.atlas-cache/sources';
+    $cachePath = $cacheDirectory.'/'.hash('sha256', $url).'.json';
+    if (file_exists($cachePath) && filemtime($cachePath) >= time() - 86400) {
+        $cached = readJson($cachePath);
+        $cached['cache_hit'] = true;
+        echo json_encode($cached, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE).PHP_EOL;
+
+        return;
+    }
+
     $direct = request($url);
     $selected = $direct;
     $via = 'direct';
@@ -616,6 +781,7 @@ function fetchSource(string $url): void
         'final_url' => $selected['final_url'],
         'page_title' => $title,
         'usable' => $usable,
+        'cache_hit' => false,
         'content_sha256' => hash('sha256', $selected['body']),
         'text' => mb_substr($text, 0, 20000),
         'fallback_reason' => $fallbackReason,
@@ -626,6 +792,10 @@ function fetchSource(string $url): void
                 : 'Third-party text rendering of the named origin. Preserve the origin URL and corroborate time-sensitive claims.'),
     ];
 
+    if (! is_dir($cacheDirectory) && ! mkdir($cacheDirectory, 0775, true) && ! is_dir($cacheDirectory)) {
+        throw new RuntimeException("Could not create source cache: {$cacheDirectory}");
+    }
+    writeJson($cachePath, $packet);
     echo json_encode($packet, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE).PHP_EOL;
 }
 

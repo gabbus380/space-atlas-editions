@@ -44,7 +44,7 @@ Once all 235 files are complete, schedule it monthly before the ecosystem mainte
 ## Start message
 
 ```
-Build complete Sovereign Space ATLAS country files worldwide. Pull main. Read claude/atlas/country-data/AGENTS.md, coverage.json, baseline.json, database.json, and claude/atlas/registry/countries.json. Run `php claude/atlas/tools/builders.php validate country`, then request the next batch with `php claude/atlas/tools/builders.php queue country 12`. Complete and checkpoint that batch before requesting another. Work in worldwide build mode until all 235 map entries have a properly filled and proved file. Do not run a monthly change review. Do not edit gabbus380/space-atlas, briefings, or ecosystem files. Stop at 450 web searches, 750 page fetches, or $20, whichever comes first; validate and checkpoint proved files and the queue before stopping.
+Run the low-cost ATLAS country campaign. Pull main and read claude/atlas/country-data/AGENTS.md, coverage.json, baseline.json, database.json, and registry/countries.json. Validate first, then generate one 118-country campaign with `php claude/atlas/tools/builders.php campaign country 118 18`. The main Sonnet session is the VP and sole writer. Launch Haiku country-manager agents directly, without directors, and process the campaign in its internal waves. Use the PHP fetch cache and mechanical auditor; expose only relevant evidence excerpts to models. Validate, audit, and commit after every wave so the run is resumable. Stop before $25, checkpoint safely if the campaign cannot finish, and never edit briefings, ecosystem files, or the site repository.
 ```
 
 ## Instructions
@@ -55,7 +55,7 @@ Do not push https://github.com/gabbus380/space-atlas. Do not edit `briefings/`, 
 
 ### Worldwide completion
 
-`coverage.json` is the queue and definition of done. It covers every ISO3 in `registry/countries.json`. The deterministic helper is `claude/atlas/tools/builders.php`. Run `initialize` only if the database or expanded ledgers are missing, `queue country 12` to select work, and `validate country` before every commit.
+`coverage.json` is the queue and definition of done. It covers every ISO3 in `registry/countries.json`. The deterministic helper is `claude/atlas/tools/builders.php`. Run `initialize` only if the database or expanded ledgers are missing. For the low-cost campaign, run `campaign country 118 18`; before each checkpoint run `validate country` and `audit country`.
 
 The queue enforces the campaign phases. While any `seeded` or `unstarted` entry remains, it selects those entries for the worldwide first-file pass and temporarily defers `partial` files. After all 235 entries have a researched file or inherited result, it returns to `partial` entries for depth completion. Therefore a first-pass file may be honestly partial without blocking worldwide coverage, but monthly maintenance still cannot begin until all completion gates pass.
 
@@ -85,51 +85,38 @@ For a territory, research its own government, economy, university, media, and sp
 
 ### Money
 
-The whole run stays under $25. Stop launching work at $20, or at 450 web searches, or at 750 page fetches, whichever comes first. Validate and commit a resumable checkpoint. A country you did not finish is `partial`.
+The whole campaign stays under $25. Stop launching work when the platform indicates that the remaining budget is needed for auditing and checkpointing. Use at most three discovery searches per country in the first-file pass. Code-based, cached HTTP collection is mechanical work; do not paste whole pages into model context. A country you did not finish is `partial`.
 
 A web search is a query. Opening a URL you already have is a fetch. Wikipedia and Google are finders. They are not proof and they are not media outlets.
 
-In the worldwide build, process deterministic batches from the helper rather than assigning the whole remaining world at once. Start with 12 files; request a second batch only when the first has passed validation and the remaining launch budget is safe. A country may use at most four discovery searches. Fetching a known URL and following links does not consume another search. Reuse official pages and directories from the baseline before searching.
+In low-cost mode, process the helper's 118-country campaign in internal checkpoint waves. Complete one wave before launching managers for the next. Fetching a known URL and following links does not consume another search. Reuse official pages and directories from the baseline before searching.
 
 ### The team
 
-Claude Code supports nested delegation only when the VP and directors have the `Agent` tool and the configured spawn depth is at least two. Test this once with a director assigned one country. Do not assume nesting from a Claude Project or GitHub connector alone.
+Low-cost hierarchy:
 
-Preferred hierarchy:
-
-- VP is the only writer and final auditor.
-- The VP launches at most two regional Senior Directors concurrently for the current batch.
-- Each director may launch Country Managers only when nested delegation is available.
+- The main Sonnet session is the VP, sole writer and final semantic auditor.
+- It launches Haiku `country-manager` agents directly.
 - Each manager receives no more than three country files.
-- Directors return validated packets; they do not write shared JSON.
+- Managers return structured packets and never write shared JSON.
+- Do not launch Country Directors in low-cost mode. Removing that duplicate Sonnet layer is intentional.
+- Keep concurrent managers within the repository/environment limit and finish one campaign wave before starting another.
 
-Flat fallback: if the director cannot launch a manager, the VP launches the Country Managers directly and performs the director validation itself. Do not keep retrying a denied spawn.
+Managers use Haiku. The VP validates schema, compares seeded files, rejects unsupported claims and de-duplicates stakeholder nodes without repeating successful cached fetches.
 
-Regional director scopes are:
+Use the campaign's fixed country list. Launch only the current internal wave, checkpoint it, and then continue to the next wave. If the cap is reached, accept completed packets and leave the rest pending.
 
-1. Central and Eastern Europe plus the Nordics;
-2. Western and Southern Europe;
-3. Eurasia and Central Asia;
-4. Türkiye, the Middle East, and Africa;
-5. Asia Pacific, including South Asia;
-6. Americas.
-
-If the launcher asks for a model, managers use Haiku and directors use Sonnet. Managers research and return JSON packets. Directors validate the country-file schema, compare seeded files, reject unsupported claims, and de-duplicate stakeholder nodes. Directors do not repeat the managers' searches.
-
-Assign the complete helper-selected batch at the start of a bootstrap run. Do not choose only briefing countries and do not launch work outside the selected batch until it is checkpointed. If the cap is reached, accept completed packets and leave the rest pending.
-
-A manager who cannot read the language marks `translation_doubt` and asks the director for help. A director may regroup once within its region. Nobody guesses.
+A manager who cannot read the language marks `translation_doubt` and asks the VP for help. Nobody guesses.
 
 `baseline.json` is starting text, not proof. Wikipedia links inside it are finders. The 81 seeded files must pass the same completion rule as new files. A legacy baseline value of `verify: verified` describes the old website record; it does not make that seed `complete` under this builder.
 
 ### How to research one country
 
-At most four searches:
+At most three searches:
 
-1. The official space agency, space office, or responsible ministry, in the national language.
-2. The head of state and head of government, unless the baseline already gives current official URLs. Fetch those instead.
-3. The national strategy, law, budget, and official industry or research directory.
-4. National media and specialist space or science media.
+1. Current leadership plus the official space agency, office or responsible ministry in the national language.
+2. National strategy, law, budget and an official industry/research directory.
+3. National media plus specialist space/science sources.
 
 Use the results as doors. Then fetch the responsible ministry, parliament or legal database, budget document, agency, industry association, research institutes, universities, company or cluster directories, and outlet homepages. One official directory may prove several stakeholder nodes.
 
@@ -142,9 +129,9 @@ A blocked official page is a routing problem, not permission to invent or silent
 1. Fetch the official URL once normally.
 2. If it returns 401, 403, 429, 451, a transient 5xx, or unreadable script-only HTML, run:
 
-   `php claude/atlas/tools/builders.php fetch 'https://official.example/page'`
+   `php claude/atlas/tools/builders.php fetch 'https://official.example/page' > /tmp/atlas-source.json`
 
-   The helper retries through `r.jina.ai` and returns a dated provenance packet. The third-party rendering is a transport path to the named origin; it is not an independent second source.
+   The helper retries through `r.jina.ai`, caches the result for 24 hours and returns a dated provenance packet. Read only the relevant excerpt from the packet into model context. The third-party rendering is a transport path to the named origin; it is not an independent second source.
 3. Look for the same document on an official gazette, parliament, ministry document library, embassy, procurement portal, or national web archive.
 4. For historical material only, use the Internet Archive or another institutional archive and label the capture date. An archive does not prove that an office-holder or policy remains current.
 5. Use UNIDIR's Space Security Portal, UNOOSA, ESA/EU industrial and programme directories, OECD, World Bank, reputable universities and national-language media as secondary corroboration or discovery. Preserve the original publisher and URL.
@@ -152,7 +139,7 @@ A blocked official page is a routing problem, not permission to invent or silent
 
 For PDFs, prefer the official PDF URL and extract text locally when tools permit. Store the document title, publication date, page number and a short quotation. Do not upload third-party PDF copies when the official original is available.
 
-Media per country has at most 16 outlets: one space agency, one space office, four other government sites, and up to ten press outlets. Smaller media systems stop when real sources run out. Social networks, aggregators, Google News, and Wikipedia are not outlets.
+In the low-cost first pass, media has at most eight outlets: the space agency/office or lead ministry, up to two other government sources, and up to five representative national, specialist, science, business or public-broadcast outlets. Depth completion may expand this to 16. Smaller media systems stop when real sources run out. Social networks, aggregators, Google News and Wikipedia are not outlets.
 
 Hungary is the completeness standard for a country with a busy press. Resolve Telex, Index, Origo, HVG, 444, Partizán, Qubit, the Hungarian edition of Forbes, Rakéta, and Űrvilág, plus the space office, a space agency if one exists, and government sites that publish space decisions. Those names are the assignment for Hungary only.
 
@@ -253,11 +240,11 @@ Every confirmation and every outlet needs a proof. A search snippet is not a pro
 
 `why_valid_on` includes the date and says which kind of page this is: a current official page, a dated document that a page fetched today still calls current, or a standing media homepage. A homepage proves the outlet exists. It does not prove who the prime minister is.
 
-Managers attach evidence outside the website file. The Vice President fetches every space-agency and space-office URL, every head-of-state and head-of-government proof, every strategy or law source, every source that supports a `lead: true` node, and one press URL per country. It samples at least twenty per cent of stakeholder-source URLs, rounded up.
+Managers attach evidence outside the website file. The VP reviews every core evidence object: current leadership, lead body, strategy/law/budget and the agency/office. It reuses usable cached provenance instead of fetching the URL again. A live re-fetch is required only when the packet is stale, blocked, internally inconsistent, translated with doubt, materially changes a seed, or would promote the file to verified. For each wave, re-open one press URL per country and a risk-weighted ten per cent sample of stakeholder sources, rounded up.
 
 If the title does not match, send that country back once. If the cap is gone, mark it `partial`.
 
-`verify` is `verified` only when every required section is complete, every current office-holder and lead body passed the audit, and the sources support the strategy, stakeholder, and media claims. Otherwise `partial`.
+`verify` is `verified` only when every required section is complete, every current office-holder and lead body passed the audit, and the sources support the strategy, stakeholder, and media claims. Otherwise `partial`. `php claude/atlas/tools/builders.php audit country` is a hard gate: it must reject any file marked verified while machine issues or declared flags remain.
 
 ### The database file
 
@@ -301,8 +288,8 @@ Only after all 235 files are complete does this become the monthly job. Then rea
 
 ### Commit
 
-Commit `database.json`, `coverage.json`, and the build report to `main`. The message says how many of 235 files are complete, how many are partial, and the search count.
+After each internal wave, commit `database.json`, `coverage.json`, and the updated campaign report to the working branch. The message states the campaign wave, how many of 235 files are complete or partial, and the search count. Push each checkpoint so the single campaign can resume after interruption.
 
-Run `php claude/atlas/tools/builders.php validate country` before committing. Do not commit if it fails, a proof lacks `why_valid_on`, or a stakeholder link endpoint does not resolve. Do not force-push.
+Run both `php claude/atlas/tools/builders.php validate country` and `php claude/atlas/tools/builders.php audit country` before committing. Do not commit if either fails, a proof lacks `why_valid_on`, or a stakeholder link endpoint does not resolve. Do not force-push.
 
 Voice in the report is neutral. Names and numbers come from the page you opened.
