@@ -4,9 +4,9 @@
   "mode": "worldwide_build",
   "total_map_entries": 235,
   "counts": {
-    "unstarted": 87,
+    "unstarted": 69,
     "seeded": 0,
-    "partial": 148,
+    "partial": 166,
     "complete": 0,
     "inherited": 0
   },
@@ -66,16 +66,13 @@
     },
     "ALB": {
       "iso3": "ALB",
-      "status": "unstarted",
-      "last_checked": null,
+      "status": "partial",
+      "last_checked": "2026-10-27",
       "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
+        "depth completion and unresolved items (see database flags)",
+        "VP audit confirmation of unfetched proofs"
       ],
-      "source": null
+      "source": "database"
     },
     "AND": {
       "iso3": "AND",
@@ -274,16 +271,13 @@
     },
     "BIH": {
       "iso3": "BIH",
-      "status": "unstarted",
-      "last_checked": null,
+      "status": "partial",
+      "last_checked": "2026-10-27",
       "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
+        "depth completion and unresolved items (see database flags)",
+        "VP audit confirmation of unfetched proofs"
       ],
-      "source": null
+      "source": "database"
     },
     "BLM": {
       "iso3": "BLM",
@@ -297,16 +291,13 @@
     },
     "BLR": {
       "iso3": "BLR",
-      "status": "unstarted",
-      "last_checked": null,
+      "status": "partial",
+      "last_checked": "2026-10-27",
       "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
+        "depth completion and unresolved items (see database flags)",
+        "VP audit confirmation of unfetched proofs"
       ],
-      "source": null
+      "source": "database"
     },
     "BLZ": {
       "iso3": "BLZ",
@@ -1443,16 +1434,13 @@
     },
     "MDA": {
       "iso3": "MDA",
-      "status": "unstarted",
-      "last_checked": null,
+      "status": "partial",
+      "last_checked": "2026-10-27",
       "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
+        "depth completion and unresolved items (see database flags)",
+        "VP audit confirmation of unfetched proofs"
       ],
-      "source": null
+      "source": "database"
     },
     "MDG": {
       "iso3": "MDG",
@@ -1499,16 +1487,13 @@
     },
     "MKD": {
       "iso3": "MKD",
-      "status": "unstarted",
-      "last_checked": null,
+      "status": "partial",
+      "last_checked": "2026-10-27",
       "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
+        "depth completion and unresolved items (see database flags)",
+        "VP audit confirmation of unfetched proofs"
       ],
-      "source": null
+      "source": "database"
     },
     "MLI": {
       "iso3": "MLI",
@@ -1548,16 +1533,13 @@
     },
     "MNE": {
       "iso3": "MNE",
-      "status": "unstarted",
-      "last_checked": null,
+      "status": "partial",
+      "last_checked": "2026-10-27",
       "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
+        "depth completion and unresolved items (see database flags)",
+        "VP audit confirmation of unfetched proofs"
       ],
-      "source": null
+      "source": "database"
     },
     "MNG": {
       "iso3": "MNG",
@@ -1809,16 +1791,13 @@
     },
     "PCN": {
       "iso3": "PCN",
-      "status": "unstarted",
-      "last_checked": null,
+      "status": "partial",
+      "last_checked": "2026-10-27",
       "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
+        "depth completion and unresolved items (see database flags)",
+        "VP audit confirmation of unfetched proofs"
       ],
-      "source": null
+      "source": "database"
     },
     "PER": {
       "iso3": "PER",
@@ -1842,29 +1821,23 @@
     },
     "PLW": {
       "iso3": "PLW",
-      "status": "unstarted",
-      "last_checked": null,
+      "status": "partial",
+      "last_checked": "2026-10-27",
       "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
+        "depth completion and unresolved items (see database flags)",
+        "VP audit confirmation of unfetched proofs"
       ],
-      "source": null
+      "source": "database"
     },
     "PNG": {
       "iso3": "PNG",
-      "status": "unstarted",
-      "last_checked": null,
+      "status": "partial",
+      "last_checked": "2026-10-27",
       "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
+        "depth completion and unresolved items (see database flags)",
+        "VP audit confirmation of unfetched proofs"
       ],
-      "source": null
+      "source": "database"
     },
     "POL": {
       "iso3": "POL",
@@ -1888,16 +1861,13 @@
     },
     "PRK": {
       "iso3": "PRK",
-      "status": "unstarted",
-      "last_checked": null,
+      "status": "partial",
+      "last_checked": "2026-10-27",
       "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
+        "depth completion and unresolved items (see database flags)",
+        "VP audit confirmation of unfetched proofs"
       ],
-      "source": null
+      "source": "database"
     },
     "PRT": {
       "iso3": "PRT",
@@ -1934,16 +1904,13 @@
     },
     "PYF": {
       "iso3": "PYF",
-      "status": "unstarted",
-      "last_checked": null,
+      "status": "partial",
+      "last_checked": "2026-10-27",
       "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
+        "depth completion and unresolved items (see database flags)",
+        "VP audit confirmation of unfetched proofs"
       ],
-      "source": null
+      "source": "database"
     },
     "QAT": {
       "iso3": "QAT",
@@ -2059,16 +2026,13 @@
     },
     "SLB": {
       "iso3": "SLB",
-      "status": "unstarted",
-      "last_checked": null,
+      "status": "partial",
+      "last_checked": "2026-10-27",
       "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
+        "depth completion and unresolved items (see database flags)",
+        "VP audit confirmation of unfetched proofs"
       ],
-      "source": null
+      "source": "database"
     },
     "SLE": {
       "iso3": "SLE",
@@ -2325,29 +2289,23 @@
     },
     "TLS": {
       "iso3": "TLS",
-      "status": "unstarted",
-      "last_checked": null,
+      "status": "partial",
+      "last_checked": "2026-10-27",
       "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
+        "depth completion and unresolved items (see database flags)",
+        "VP audit confirmation of unfetched proofs"
       ],
-      "source": null
+      "source": "database"
     },
     "TON": {
       "iso3": "TON",
-      "status": "unstarted",
-      "last_checked": null,
+      "status": "partial",
+      "last_checked": "2026-10-27",
       "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
+        "depth completion and unresolved items (see database flags)",
+        "VP audit confirmation of unfetched proofs"
       ],
-      "source": null
+      "source": "database"
     },
     "TTO": {
       "iso3": "TTO",
@@ -2523,55 +2481,43 @@
     },
     "VUT": {
       "iso3": "VUT",
-      "status": "unstarted",
-      "last_checked": null,
+      "status": "partial",
+      "last_checked": "2026-10-27",
       "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
+        "depth completion and unresolved items (see database flags)",
+        "VP audit confirmation of unfetched proofs"
       ],
-      "source": null
+      "source": "database"
     },
     "WLF": {
       "iso3": "WLF",
-      "status": "unstarted",
-      "last_checked": null,
+      "status": "partial",
+      "last_checked": "2026-10-27",
       "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
+        "depth completion and unresolved items (see database flags)",
+        "VP audit confirmation of unfetched proofs"
       ],
-      "source": null
+      "source": "database"
     },
     "WSM": {
       "iso3": "WSM",
-      "status": "unstarted",
-      "last_checked": null,
+      "status": "partial",
+      "last_checked": "2026-10-27",
       "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
+        "depth completion and unresolved items (see database flags)",
+        "VP audit confirmation of unfetched proofs"
       ],
-      "source": null
+      "source": "database"
     },
     "XKX": {
       "iso3": "XKX",
-      "status": "unstarted",
-      "last_checked": null,
+      "status": "partial",
+      "last_checked": "2026-10-27",
       "missing": [
-        "government",
-        "strategy and law",
-        "stakeholders",
-        "media directory",
-        "claim evidence"
+        "depth completion and unresolved items (see database flags)",
+        "VP audit confirmation of unfetched proofs"
       ],
-      "source": null
+      "source": "database"
     },
     "YEM": {
       "iso3": "YEM",
