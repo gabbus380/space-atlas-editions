@@ -119177,7 +119177,7 @@
     "extensions": {
         "AGO": {
             "iso3": "AGO",
-            "status": "review_required",
+            "status": "accepted",
             "asOf": "2026-10-27",
             "media": {
                 "outlets": [
@@ -119294,11 +119294,13 @@
             },
             "evidence_ref": "database.json#/evidence/AGO/media",
             "flags_ref": "database.json#/flags/AGO",
-            "rule": "Candidate additive media extension. It is not active until its evidence and flags are reviewed."
+            "rule": "Accepted additive media directory. Protected core and proposed core changes remain unchanged.",
+            "reviewed_on": "2026-10-27",
+            "reviewed_by": "deterministic evidence gate"
         },
         "ARE": {
             "iso3": "ARE",
-            "status": "review_required",
+            "status": "accepted",
             "asOf": "2026-10-27",
             "media": {
                 "outlets": [
@@ -119439,11 +119441,13 @@
             },
             "evidence_ref": "database.json#/evidence/ARE/media",
             "flags_ref": "database.json#/flags/ARE",
-            "rule": "Candidate additive media extension. It is not active until its evidence and flags are reviewed."
+            "rule": "Accepted additive media directory. Protected core and proposed core changes remain unchanged.",
+            "reviewed_on": "2026-10-27",
+            "reviewed_by": "deterministic evidence gate"
         },
         "AUS": {
             "iso3": "AUS",
-            "status": "review_required",
+            "status": "accepted",
             "asOf": "2026-10-27",
             "media": {
                 "outlets": [
@@ -119596,11 +119600,13 @@
             },
             "evidence_ref": "database.json#/evidence/AUS/media",
             "flags_ref": "database.json#/flags/AUS",
-            "rule": "Candidate additive media extension. It is not active until its evidence and flags are reviewed."
+            "rule": "Accepted additive media directory. Protected core and proposed core changes remain unchanged.",
+            "reviewed_on": "2026-10-27",
+            "reviewed_by": "deterministic evidence gate"
         },
         "AUT": {
             "iso3": "AUT",
-            "status": "review_required",
+            "status": "accepted",
             "asOf": "2026-10-27",
             "media": {
                 "outlets": [
@@ -119731,11 +119737,13 @@
             },
             "evidence_ref": "database.json#/evidence/AUT/media",
             "flags_ref": "database.json#/flags/AUT",
-            "rule": "Candidate additive media extension. It is not active until its evidence and flags are reviewed."
+            "rule": "Accepted additive media directory. Protected core and proposed core changes remain unchanged.",
+            "reviewed_on": "2026-10-27",
+            "reviewed_by": "deterministic evidence gate"
         },
         "BEL": {
             "iso3": "BEL",
-            "status": "review_required",
+            "status": "accepted",
             "asOf": "2026-10-27",
             "media": {
                 "outlets": [
@@ -119842,11 +119850,13 @@
             },
             "evidence_ref": "database.json#/evidence/BEL/media",
             "flags_ref": "database.json#/flags/BEL",
-            "rule": "Candidate additive media extension. It is not active until its evidence and flags are reviewed."
+            "rule": "Accepted additive media directory. Protected core and proposed core changes remain unchanged.",
+            "reviewed_on": "2026-10-27",
+            "reviewed_by": "deterministic evidence gate"
         },
         "BGD": {
             "iso3": "BGD",
-            "status": "review_required",
+            "status": "accepted",
             "asOf": "2026-10-27",
             "media": {
                 "outlets": [
@@ -119999,11 +120009,13 @@
             },
             "evidence_ref": "database.json#/evidence/BGD/media",
             "flags_ref": "database.json#/flags/BGD",
-            "rule": "Candidate additive media extension. It is not active until its evidence and flags are reviewed."
+            "rule": "Accepted additive media directory. Protected core and proposed core changes remain unchanged.",
+            "reviewed_on": "2026-10-27",
+            "reviewed_by": "deterministic evidence gate"
         },
         "BGR": {
             "iso3": "BGR",
-            "status": "review_required",
+            "status": "accepted",
             "asOf": "2026-10-27",
             "media": {
                 "outlets": [
@@ -120110,11 +120122,13 @@
             },
             "evidence_ref": "database.json#/evidence/BGR/media",
             "flags_ref": "database.json#/flags/BGR",
-            "rule": "Candidate additive media extension. It is not active until its evidence and flags are reviewed."
+            "rule": "Accepted additive media directory. Protected core and proposed core changes remain unchanged.",
+            "reviewed_on": "2026-10-27",
+            "reviewed_by": "deterministic evidence gate"
         },
         "BHR": {
             "iso3": "BHR",
-            "status": "review_required",
+            "status": "accepted",
             "asOf": "2026-10-27",
             "media": {
                 "outlets": [
@@ -120231,11 +120245,13 @@
             },
             "evidence_ref": "database.json#/evidence/BHR/media",
             "flags_ref": "database.json#/flags/BHR",
-            "rule": "Candidate additive media extension. It is not active until its evidence and flags are reviewed."
+            "rule": "Accepted additive media directory. Protected core and proposed core changes remain unchanged.",
+            "reviewed_on": "2026-10-27",
+            "reviewed_by": "deterministic evidence gate"
         },
         "BRA": {
             "iso3": "BRA",
-            "status": "review_required",
+            "status": "accepted",
             "asOf": "2026-10-27",
             "media": {
                 "outlets": [
@@ -120426,11 +120442,13 @@
             },
             "evidence_ref": "database.json#/evidence/BRA/media",
             "flags_ref": "database.json#/flags/BRA",
-            "rule": "Candidate additive media extension. It is not active until its evidence and flags are reviewed."
+            "rule": "Accepted additive media directory. Protected core and proposed core changes remain unchanged.",
+            "reviewed_on": "2026-10-27",
+            "reviewed_by": "deterministic evidence gate"
         },
         "CAN": {
             "iso3": "CAN",
-            "status": "review_required",
+            "status": "accepted",
             "asOf": "2026-10-27",
             "media": {
                 "outlets": [
@@ -120597,11 +120615,13 @@
             },
             "evidence_ref": "database.json#/evidence/CAN/media",
             "flags_ref": "database.json#/flags/CAN",
-            "rule": "Candidate additive media extension. It is not active until its evidence and flags are reviewed."
+            "rule": "Accepted additive media directory. Protected core and proposed core changes remain unchanged.",
+            "reviewed_on": "2026-10-27",
+            "reviewed_by": "deterministic evidence gate"
         },
         "CHE": {
             "iso3": "CHE",
-            "status": "review_required",
+            "status": "accepted",
             "asOf": "2026-10-27",
             "media": {
                 "outlets": [
@@ -120670,11 +120690,13 @@
             },
             "evidence_ref": "database.json#/evidence/CHE/media",
             "flags_ref": "database.json#/flags/CHE",
-            "rule": "Candidate additive media extension. It is not active until its evidence and flags are reviewed."
+            "rule": "Accepted additive media directory. Protected core and proposed core changes remain unchanged.",
+            "reviewed_on": "2026-10-27",
+            "reviewed_by": "deterministic evidence gate"
         },
         "CHL": {
             "iso3": "CHL",
-            "status": "review_required",
+            "status": "accepted",
             "asOf": "2026-10-27",
             "media": {
                 "outlets": [
@@ -120878,11 +120900,13 @@
             },
             "evidence_ref": "database.json#/evidence/CHL/media",
             "flags_ref": "database.json#/flags/CHL",
-            "rule": "Candidate additive media extension. It is not active until its evidence and flags are reviewed."
+            "rule": "Accepted additive media directory. Protected core and proposed core changes remain unchanged.",
+            "reviewed_on": "2026-10-27",
+            "reviewed_by": "deterministic evidence gate"
         },
         "CHN": {
             "iso3": "CHN",
-            "status": "review_required",
+            "status": "accepted",
             "asOf": "2026-10-27",
             "media": {
                 "outlets": [
@@ -121071,11 +121095,13 @@
             },
             "evidence_ref": "database.json#/evidence/CHN/media",
             "flags_ref": "database.json#/flags/CHN",
-            "rule": "Candidate additive media extension. It is not active until its evidence and flags are reviewed."
+            "rule": "Accepted additive media directory. Protected core and proposed core changes remain unchanged.",
+            "reviewed_on": "2026-10-27",
+            "reviewed_by": "deterministic evidence gate"
         },
         "COL": {
             "iso3": "COL",
-            "status": "review_required",
+            "status": "accepted",
             "asOf": "2026-10-27",
             "media": {
                 "outlets": [
@@ -121255,11 +121281,13 @@
             },
             "evidence_ref": "database.json#/evidence/COL/media",
             "flags_ref": "database.json#/flags/COL",
-            "rule": "Candidate additive media extension. It is not active until its evidence and flags are reviewed."
+            "rule": "Accepted additive media directory. Protected core and proposed core changes remain unchanged.",
+            "reviewed_on": "2026-10-27",
+            "reviewed_by": "deterministic evidence gate"
         },
         "CZE": {
             "iso3": "CZE",
-            "status": "review_required",
+            "status": "accepted",
             "asOf": "2026-10-27",
             "media": {
                 "outlets": [
@@ -121343,11 +121371,13 @@
             },
             "evidence_ref": "database.json#/evidence/CZE/media",
             "flags_ref": "database.json#/flags/CZE",
-            "rule": "Candidate additive media extension. It is not active until its evidence and flags are reviewed."
+            "rule": "Accepted additive media directory. Protected core and proposed core changes remain unchanged.",
+            "reviewed_on": "2026-10-27",
+            "reviewed_by": "deterministic evidence gate"
         },
         "DEU": {
             "iso3": "DEU",
-            "status": "review_required",
+            "status": "accepted",
             "asOf": "2026-10-27",
             "media": {
                 "outlets": [
@@ -121536,11 +121566,13 @@
             },
             "evidence_ref": "database.json#/evidence/DEU/media",
             "flags_ref": "database.json#/flags/DEU",
-            "rule": "Candidate additive media extension. It is not active until its evidence and flags are reviewed."
+            "rule": "Accepted additive media directory. Protected core and proposed core changes remain unchanged.",
+            "reviewed_on": "2026-10-27",
+            "reviewed_by": "deterministic evidence gate"
         },
         "DNK": {
             "iso3": "DNK",
-            "status": "review_required",
+            "status": "accepted",
             "asOf": "2026-10-27",
             "media": {
                 "outlets": [
@@ -121648,11 +121680,13 @@
             },
             "evidence_ref": "database.json#/evidence/DNK/media",
             "flags_ref": "database.json#/flags/DNK",
-            "rule": "Candidate additive media extension. It is not active until its evidence and flags are reviewed."
+            "rule": "Accepted additive media directory. Protected core and proposed core changes remain unchanged.",
+            "reviewed_on": "2026-10-27",
+            "reviewed_by": "deterministic evidence gate"
         },
         "EGY": {
             "iso3": "EGY",
-            "status": "review_required",
+            "status": "accepted",
             "asOf": "2026-10-27",
             "media": {
                 "outlets": [
@@ -121805,7 +121839,9 @@
             },
             "evidence_ref": "database.json#/evidence/EGY/media",
             "flags_ref": "database.json#/flags/EGY",
-            "rule": "Candidate additive media extension. It is not active until its evidence and flags are reviewed."
+            "rule": "Accepted additive media directory. Protected core and proposed core changes remain unchanged.",
+            "reviewed_on": "2026-10-27",
+            "reviewed_by": "deterministic evidence gate"
         },
         "ESP": {
             "iso3": "ESP",
@@ -121996,7 +122032,7 @@
         },
         "ETH": {
             "iso3": "ETH",
-            "status": "review_required",
+            "status": "accepted",
             "asOf": "2026-10-27",
             "media": {
                 "outlets": [
@@ -122091,11 +122127,13 @@
             },
             "evidence_ref": "database.json#/evidence/ETH/media",
             "flags_ref": "database.json#/flags/ETH",
-            "rule": "Candidate additive media extension. It is not active until its evidence and flags are reviewed."
+            "rule": "Accepted additive media directory. Protected core and proposed core changes remain unchanged.",
+            "reviewed_on": "2026-10-27",
+            "reviewed_by": "deterministic evidence gate"
         },
         "FIN": {
             "iso3": "FIN",
-            "status": "review_required",
+            "status": "accepted",
             "asOf": "2026-10-27",
             "media": {
                 "outlets": [
@@ -122215,11 +122253,13 @@
             },
             "evidence_ref": "database.json#/evidence/FIN/media",
             "flags_ref": "database.json#/flags/FIN",
-            "rule": "Candidate additive media extension. It is not active until its evidence and flags are reviewed."
+            "rule": "Accepted additive media directory. Protected core and proposed core changes remain unchanged.",
+            "reviewed_on": "2026-10-27",
+            "reviewed_by": "deterministic evidence gate"
         },
         "FRA": {
             "iso3": "FRA",
-            "status": "review_required",
+            "status": "accepted",
             "asOf": "2026-10-27",
             "media": {
                 "outlets": [
@@ -122386,7 +122426,9 @@
             },
             "evidence_ref": "database.json#/evidence/FRA/media",
             "flags_ref": "database.json#/flags/FRA",
-            "rule": "Candidate additive media extension. It is not active until its evidence and flags are reviewed."
+            "rule": "Accepted additive media directory. Protected core and proposed core changes remain unchanged.",
+            "reviewed_on": "2026-10-27",
+            "reviewed_by": "deterministic evidence gate"
         },
         "GBR": {
             "iso3": "GBR",
@@ -122501,7 +122543,7 @@
         },
         "GRC": {
             "iso3": "GRC",
-            "status": "review_required",
+            "status": "accepted",
             "asOf": "2026-10-27",
             "media": {
                 "outlets": [
@@ -122594,7 +122636,9 @@
             },
             "evidence_ref": "database.json#/evidence/GRC/media",
             "flags_ref": "database.json#/flags/GRC",
-            "rule": "Candidate additive media extension. It is not active until its evidence and flags are reviewed."
+            "rule": "Accepted additive media directory. Protected core and proposed core changes remain unchanged.",
+            "reviewed_on": "2026-10-27",
+            "reviewed_by": "deterministic evidence gate"
         },
         "HRV": {
             "iso3": "HRV",
@@ -122710,7 +122754,7 @@
         },
         "HUN": {
             "iso3": "HUN",
-            "status": "review_required",
+            "status": "accepted",
             "asOf": "2026-10-27",
             "media": {
                 "outlets": [
@@ -122901,11 +122945,13 @@
             },
             "evidence_ref": "database.json#/evidence/HUN/media",
             "flags_ref": "database.json#/flags/HUN",
-            "rule": "Candidate additive media extension. It is not active until its evidence and flags are reviewed."
+            "rule": "Accepted additive media directory. Protected core and proposed core changes remain unchanged.",
+            "reviewed_on": "2026-10-27",
+            "reviewed_by": "deterministic evidence gate"
         },
         "IDN": {
             "iso3": "IDN",
-            "status": "review_required",
+            "status": "accepted",
             "asOf": "2026-10-27",
             "media": {
                 "outlets": [
@@ -123060,11 +123106,13 @@
             },
             "evidence_ref": "database.json#/evidence/IDN/media",
             "flags_ref": "database.json#/flags/IDN",
-            "rule": "Candidate additive media extension. It is not active until its evidence and flags are reviewed."
+            "rule": "Accepted additive media directory. Protected core and proposed core changes remain unchanged.",
+            "reviewed_on": "2026-10-27",
+            "reviewed_by": "deterministic evidence gate"
         },
         "IND": {
             "iso3": "IND",
-            "status": "review_required",
+            "status": "accepted",
             "asOf": "2026-10-27",
             "media": {
                 "outlets": [
@@ -123193,11 +123241,13 @@
             },
             "evidence_ref": "database.json#/evidence/IND/media",
             "flags_ref": "database.json#/flags/IND",
-            "rule": "Candidate additive media extension. It is not active until its evidence and flags are reviewed."
+            "rule": "Accepted additive media directory. Protected core and proposed core changes remain unchanged.",
+            "reviewed_on": "2026-10-27",
+            "reviewed_by": "deterministic evidence gate"
         },
         "IRL": {
             "iso3": "IRL",
-            "status": "review_required",
+            "status": "accepted",
             "asOf": "2026-10-27",
             "media": {
                 "outlets": [
@@ -123268,11 +123318,13 @@
             },
             "evidence_ref": "database.json#/evidence/IRL/media",
             "flags_ref": "database.json#/flags/IRL",
-            "rule": "Candidate additive media extension. It is not active until its evidence and flags are reviewed."
+            "rule": "Accepted additive media directory. Protected core and proposed core changes remain unchanged.",
+            "reviewed_on": "2026-10-27",
+            "reviewed_by": "deterministic evidence gate"
         },
         "IRN": {
             "iso3": "IRN",
-            "status": "review_required",
+            "status": "accepted",
             "asOf": "2026-10-27",
             "media": {
                 "outlets": [
@@ -123425,11 +123477,13 @@
             },
             "evidence_ref": "database.json#/evidence/IRN/media",
             "flags_ref": "database.json#/flags/IRN",
-            "rule": "Candidate additive media extension. It is not active until its evidence and flags are reviewed."
+            "rule": "Accepted additive media directory. Protected core and proposed core changes remain unchanged.",
+            "reviewed_on": "2026-10-27",
+            "reviewed_by": "deterministic evidence gate"
         },
         "ISR": {
             "iso3": "ISR",
-            "status": "review_required",
+            "status": "accepted",
             "asOf": "2026-10-27",
             "media": {
                 "outlets": [
@@ -123558,7 +123612,9 @@
             },
             "evidence_ref": "database.json#/evidence/ISR/media",
             "flags_ref": "database.json#/flags/ISR",
-            "rule": "Candidate additive media extension. It is not active until its evidence and flags are reviewed."
+            "rule": "Accepted additive media directory. Protected core and proposed core changes remain unchanged.",
+            "reviewed_on": "2026-10-27",
+            "reviewed_by": "deterministic evidence gate"
         },
         "ITA": {
             "iso3": "ITA",
@@ -123671,7 +123727,7 @@
         },
         "JPN": {
             "iso3": "JPN",
-            "status": "review_required",
+            "status": "accepted",
             "asOf": "2026-10-27",
             "media": {
                 "outlets": [
@@ -123764,11 +123820,13 @@
             },
             "evidence_ref": "database.json#/evidence/JPN/media",
             "flags_ref": "database.json#/flags/JPN",
-            "rule": "Candidate additive media extension. It is not active until its evidence and flags are reviewed."
+            "rule": "Accepted additive media directory. Protected core and proposed core changes remain unchanged.",
+            "reviewed_on": "2026-10-27",
+            "reviewed_by": "deterministic evidence gate"
         },
         "KOR": {
             "iso3": "KOR",
-            "status": "review_required",
+            "status": "accepted",
             "asOf": "2026-10-27",
             "media": {
                 "outlets": [
@@ -123933,11 +123991,13 @@
             },
             "evidence_ref": "database.json#/evidence/KOR/media",
             "flags_ref": "database.json#/flags/KOR",
-            "rule": "Candidate additive media extension. It is not active until its evidence and flags are reviewed."
+            "rule": "Accepted additive media directory. Protected core and proposed core changes remain unchanged.",
+            "reviewed_on": "2026-10-27",
+            "reviewed_by": "deterministic evidence gate"
         },
         "LTU": {
             "iso3": "LTU",
-            "status": "review_required",
+            "status": "accepted",
             "asOf": "2026-10-27",
             "media": {
                 "outlets": [
@@ -124068,11 +124128,13 @@
             },
             "evidence_ref": "database.json#/evidence/LTU/media",
             "flags_ref": "database.json#/flags/LTU",
-            "rule": "Candidate additive media extension. It is not active until its evidence and flags are reviewed."
+            "rule": "Accepted additive media directory. Protected core and proposed core changes remain unchanged.",
+            "reviewed_on": "2026-10-27",
+            "reviewed_by": "deterministic evidence gate"
         },
         "LUX": {
             "iso3": "LUX",
-            "status": "review_required",
+            "status": "accepted",
             "asOf": "2026-10-27",
             "media": {
                 "outlets": [
@@ -124167,11 +124229,13 @@
             },
             "evidence_ref": "database.json#/evidence/LUX/media",
             "flags_ref": "database.json#/flags/LUX",
-            "rule": "Candidate additive media extension. It is not active until its evidence and flags are reviewed."
+            "rule": "Accepted additive media directory. Protected core and proposed core changes remain unchanged.",
+            "reviewed_on": "2026-10-27",
+            "reviewed_by": "deterministic evidence gate"
         },
         "LVA": {
             "iso3": "LVA",
-            "status": "review_required",
+            "status": "accepted",
             "asOf": "2026-10-27",
             "media": {
                 "outlets": [
@@ -124314,11 +124378,13 @@
             },
             "evidence_ref": "database.json#/evidence/LVA/media",
             "flags_ref": "database.json#/flags/LVA",
-            "rule": "Candidate additive media extension. It is not active until its evidence and flags are reviewed."
+            "rule": "Accepted additive media directory. Protected core and proposed core changes remain unchanged.",
+            "reviewed_on": "2026-10-27",
+            "reviewed_by": "deterministic evidence gate"
         },
         "MYS": {
             "iso3": "MYS",
-            "status": "review_required",
+            "status": "accepted",
             "asOf": "2026-10-27",
             "media": {
                 "outlets": [
@@ -124459,11 +124525,13 @@
             },
             "evidence_ref": "database.json#/evidence/MYS/media",
             "flags_ref": "database.json#/flags/MYS",
-            "rule": "Candidate additive media extension. It is not active until its evidence and flags are reviewed."
+            "rule": "Accepted additive media directory. Protected core and proposed core changes remain unchanged.",
+            "reviewed_on": "2026-10-27",
+            "reviewed_by": "deterministic evidence gate"
         },
         "NGA": {
             "iso3": "NGA",
-            "status": "review_required",
+            "status": "accepted",
             "asOf": "2026-10-27",
             "media": {
                 "outlets": [
@@ -124604,11 +124672,13 @@
             },
             "evidence_ref": "database.json#/evidence/NGA/media",
             "flags_ref": "database.json#/flags/NGA",
-            "rule": "Candidate additive media extension. It is not active until its evidence and flags are reviewed."
+            "rule": "Accepted additive media directory. Protected core and proposed core changes remain unchanged.",
+            "reviewed_on": "2026-10-27",
+            "reviewed_by": "deterministic evidence gate"
         },
         "NLD": {
             "iso3": "NLD",
-            "status": "review_required",
+            "status": "accepted",
             "asOf": "2026-10-27",
             "media": {
                 "outlets": [
@@ -124680,11 +124750,13 @@
             },
             "evidence_ref": "database.json#/evidence/NLD/media",
             "flags_ref": "database.json#/flags/NLD",
-            "rule": "Candidate additive media extension. It is not active until its evidence and flags are reviewed."
+            "rule": "Accepted additive media directory. Protected core and proposed core changes remain unchanged.",
+            "reviewed_on": "2026-10-27",
+            "reviewed_by": "deterministic evidence gate"
         },
         "NOR": {
             "iso3": "NOR",
-            "status": "review_required",
+            "status": "accepted",
             "asOf": "2026-10-27",
             "media": {
                 "outlets": [
@@ -124791,11 +124863,13 @@
             },
             "evidence_ref": "database.json#/evidence/NOR/media",
             "flags_ref": "database.json#/flags/NOR",
-            "rule": "Candidate additive media extension. It is not active until its evidence and flags are reviewed."
+            "rule": "Accepted additive media directory. Protected core and proposed core changes remain unchanged.",
+            "reviewed_on": "2026-10-27",
+            "reviewed_by": "deterministic evidence gate"
         },
         "NZL": {
             "iso3": "NZL",
-            "status": "review_required",
+            "status": "accepted",
             "asOf": "2026-10-27",
             "media": {
                 "outlets": [
@@ -124912,11 +124986,13 @@
             },
             "evidence_ref": "database.json#/evidence/NZL/media",
             "flags_ref": "database.json#/flags/NZL",
-            "rule": "Candidate additive media extension. It is not active until its evidence and flags are reviewed."
+            "rule": "Accepted additive media directory. Protected core and proposed core changes remain unchanged.",
+            "reviewed_on": "2026-10-27",
+            "reviewed_by": "deterministic evidence gate"
         },
         "OMN": {
             "iso3": "OMN",
-            "status": "review_required",
+            "status": "accepted",
             "asOf": "2026-10-27",
             "media": {
                 "outlets": [
@@ -125011,11 +125087,13 @@
             },
             "evidence_ref": "database.json#/evidence/OMN/media",
             "flags_ref": "database.json#/flags/OMN",
-            "rule": "Candidate additive media extension. It is not active until its evidence and flags are reviewed."
+            "rule": "Accepted additive media directory. Protected core and proposed core changes remain unchanged.",
+            "reviewed_on": "2026-10-27",
+            "reviewed_by": "deterministic evidence gate"
         },
         "PAK": {
             "iso3": "PAK",
-            "status": "review_required",
+            "status": "accepted",
             "asOf": "2026-10-27",
             "media": {
                 "outlets": [
@@ -125192,11 +125270,13 @@
             },
             "evidence_ref": "database.json#/evidence/PAK/media",
             "flags_ref": "database.json#/flags/PAK",
-            "rule": "Candidate additive media extension. It is not active until its evidence and flags are reviewed."
+            "rule": "Accepted additive media directory. Protected core and proposed core changes remain unchanged.",
+            "reviewed_on": "2026-10-27",
+            "reviewed_by": "deterministic evidence gate"
         },
         "PER": {
             "iso3": "PER",
-            "status": "review_required",
+            "status": "accepted",
             "asOf": "2026-10-27",
             "media": {
                 "outlets": [
@@ -125363,11 +125443,13 @@
             },
             "evidence_ref": "database.json#/evidence/PER/media",
             "flags_ref": "database.json#/flags/PER",
-            "rule": "Candidate additive media extension. It is not active until its evidence and flags are reviewed."
+            "rule": "Accepted additive media directory. Protected core and proposed core changes remain unchanged.",
+            "reviewed_on": "2026-10-27",
+            "reviewed_by": "deterministic evidence gate"
         },
         "PHL": {
             "iso3": "PHL",
-            "status": "review_required",
+            "status": "accepted",
             "asOf": "2026-10-27",
             "media": {
                 "outlets": [
@@ -125520,11 +125602,13 @@
             },
             "evidence_ref": "database.json#/evidence/PHL/media",
             "flags_ref": "database.json#/flags/PHL",
-            "rule": "Candidate additive media extension. It is not active until its evidence and flags are reviewed."
+            "rule": "Accepted additive media directory. Protected core and proposed core changes remain unchanged.",
+            "reviewed_on": "2026-10-27",
+            "reviewed_by": "deterministic evidence gate"
         },
         "POL": {
             "iso3": "POL",
-            "status": "review_required",
+            "status": "accepted",
             "asOf": "2026-10-27",
             "media": {
                 "outlets": [
@@ -125617,11 +125701,13 @@
             },
             "evidence_ref": "database.json#/evidence/POL/media",
             "flags_ref": "database.json#/flags/POL",
-            "rule": "Candidate additive media extension. It is not active until its evidence and flags are reviewed."
+            "rule": "Accepted additive media directory. Protected core and proposed core changes remain unchanged.",
+            "reviewed_on": "2026-10-27",
+            "reviewed_by": "deterministic evidence gate"
         },
         "PRT": {
             "iso3": "PRT",
-            "status": "review_required",
+            "status": "accepted",
             "asOf": "2026-10-27",
             "media": {
                 "outlets": [
@@ -125726,11 +125812,13 @@
             },
             "evidence_ref": "database.json#/evidence/PRT/media",
             "flags_ref": "database.json#/flags/PRT",
-            "rule": "Candidate additive media extension. It is not active until its evidence and flags are reviewed."
+            "rule": "Accepted additive media directory. Protected core and proposed core changes remain unchanged.",
+            "reviewed_on": "2026-10-27",
+            "reviewed_by": "deterministic evidence gate"
         },
         "RUS": {
             "iso3": "RUS",
-            "status": "review_required",
+            "status": "accepted",
             "asOf": "2026-10-27",
             "media": {
                 "outlets": [
@@ -125907,11 +125995,13 @@
             },
             "evidence_ref": "database.json#/evidence/RUS/media",
             "flags_ref": "database.json#/flags/RUS",
-            "rule": "Candidate additive media extension. It is not active until its evidence and flags are reviewed."
+            "rule": "Accepted additive media directory. Protected core and proposed core changes remain unchanged.",
+            "reviewed_on": "2026-10-27",
+            "reviewed_by": "deterministic evidence gate"
         },
         "RWA": {
             "iso3": "RWA",
-            "status": "review_required",
+            "status": "accepted",
             "asOf": "2026-10-27",
             "media": {
                 "outlets": [
@@ -126004,11 +126094,13 @@
             },
             "evidence_ref": "database.json#/evidence/RWA/media",
             "flags_ref": "database.json#/flags/RWA",
-            "rule": "Candidate additive media extension. It is not active until its evidence and flags are reviewed."
+            "rule": "Accepted additive media directory. Protected core and proposed core changes remain unchanged.",
+            "reviewed_on": "2026-10-27",
+            "reviewed_by": "deterministic evidence gate"
         },
         "SGP": {
             "iso3": "SGP",
-            "status": "review_required",
+            "status": "accepted",
             "asOf": "2026-10-27",
             "media": {
                 "outlets": [
@@ -126101,11 +126193,13 @@
             },
             "evidence_ref": "database.json#/evidence/SGP/media",
             "flags_ref": "database.json#/flags/SGP",
-            "rule": "Candidate additive media extension. It is not active until its evidence and flags are reviewed."
+            "rule": "Accepted additive media directory. Protected core and proposed core changes remain unchanged.",
+            "reviewed_on": "2026-10-27",
+            "reviewed_by": "deterministic evidence gate"
         },
         "SRB": {
             "iso3": "SRB",
-            "status": "review_required",
+            "status": "accepted",
             "asOf": "2026-10-27",
             "media": {
                 "outlets": [
@@ -126262,11 +126356,13 @@
             },
             "evidence_ref": "database.json#/evidence/SRB/media",
             "flags_ref": "database.json#/flags/SRB",
-            "rule": "Candidate additive media extension. It is not active until its evidence and flags are reviewed."
+            "rule": "Accepted additive media directory. Protected core and proposed core changes remain unchanged.",
+            "reviewed_on": "2026-10-27",
+            "reviewed_by": "deterministic evidence gate"
         },
         "SVK": {
             "iso3": "SVK",
-            "status": "review_required",
+            "status": "accepted",
             "asOf": "2026-10-27",
             "media": {
                 "outlets": [
@@ -126421,7 +126517,9 @@
             },
             "evidence_ref": "database.json#/evidence/SVK/media",
             "flags_ref": "database.json#/flags/SVK",
-            "rule": "Candidate additive media extension. It is not active until its evidence and flags are reviewed."
+            "rule": "Accepted additive media directory. Protected core and proposed core changes remain unchanged.",
+            "reviewed_on": "2026-10-27",
+            "reviewed_by": "deterministic evidence gate"
         },
         "SVN": {
             "iso3": "SVN",
@@ -126525,7 +126623,7 @@
         },
         "SWE": {
             "iso3": "SWE",
-            "status": "review_required",
+            "status": "accepted",
             "asOf": "2026-10-27",
             "media": {
                 "outlets": [
@@ -126620,11 +126718,13 @@
             },
             "evidence_ref": "database.json#/evidence/SWE/media",
             "flags_ref": "database.json#/flags/SWE",
-            "rule": "Candidate additive media extension. It is not active until its evidence and flags are reviewed."
+            "rule": "Accepted additive media directory. Protected core and proposed core changes remain unchanged.",
+            "reviewed_on": "2026-10-27",
+            "reviewed_by": "deterministic evidence gate"
         },
         "THA": {
             "iso3": "THA",
-            "status": "review_required",
+            "status": "accepted",
             "asOf": "2026-10-27",
             "media": {
                 "outlets": [
@@ -126753,11 +126853,13 @@
             },
             "evidence_ref": "database.json#/evidence/THA/media",
             "flags_ref": "database.json#/flags/THA",
-            "rule": "Candidate additive media extension. It is not active until its evidence and flags are reviewed."
+            "rule": "Accepted additive media directory. Protected core and proposed core changes remain unchanged.",
+            "reviewed_on": "2026-10-27",
+            "reviewed_by": "deterministic evidence gate"
         },
         "TUR": {
             "iso3": "TUR",
-            "status": "review_required",
+            "status": "accepted",
             "asOf": "2026-10-27",
             "media": {
                 "outlets": [
@@ -126934,11 +127036,13 @@
             },
             "evidence_ref": "database.json#/evidence/TUR/media",
             "flags_ref": "database.json#/flags/TUR",
-            "rule": "Candidate additive media extension. It is not active until its evidence and flags are reviewed."
+            "rule": "Accepted additive media directory. Protected core and proposed core changes remain unchanged.",
+            "reviewed_on": "2026-10-27",
+            "reviewed_by": "deterministic evidence gate"
         },
         "TWN": {
             "iso3": "TWN",
-            "status": "review_required",
+            "status": "accepted",
             "asOf": "2026-10-27",
             "media": {
                 "outlets": [
@@ -127043,11 +127147,13 @@
             },
             "evidence_ref": "database.json#/evidence/TWN/media",
             "flags_ref": "database.json#/flags/TWN",
-            "rule": "Candidate additive media extension. It is not active until its evidence and flags are reviewed."
+            "rule": "Accepted additive media directory. Protected core and proposed core changes remain unchanged.",
+            "reviewed_on": "2026-10-27",
+            "reviewed_by": "deterministic evidence gate"
         },
         "USA": {
             "iso3": "USA",
-            "status": "review_required",
+            "status": "accepted",
             "asOf": "2026-10-27",
             "media": {
                 "outlets": [
@@ -127248,11 +127354,13 @@
             },
             "evidence_ref": "database.json#/evidence/USA/media",
             "flags_ref": "database.json#/flags/USA",
-            "rule": "Candidate additive media extension. It is not active until its evidence and flags are reviewed."
+            "rule": "Accepted additive media directory. Protected core and proposed core changes remain unchanged.",
+            "reviewed_on": "2026-10-27",
+            "reviewed_by": "deterministic evidence gate"
         },
         "VNM": {
             "iso3": "VNM",
-            "status": "review_required",
+            "status": "accepted",
             "asOf": "2026-10-27",
             "media": {
                 "outlets": [
@@ -127456,11 +127564,13 @@
             },
             "evidence_ref": "database.json#/evidence/VNM/media",
             "flags_ref": "database.json#/flags/VNM",
-            "rule": "Candidate additive media extension. It is not active until its evidence and flags are reviewed."
+            "rule": "Accepted additive media directory. Protected core and proposed core changes remain unchanged.",
+            "reviewed_on": "2026-10-27",
+            "reviewed_by": "deterministic evidence gate"
         },
         "ZAF": {
             "iso3": "ZAF",
-            "status": "review_required",
+            "status": "accepted",
             "asOf": "2026-10-27",
             "media": {
                 "outlets": [
@@ -127591,7 +127701,9 @@
             },
             "evidence_ref": "database.json#/evidence/ZAF/media",
             "flags_ref": "database.json#/flags/ZAF",
-            "rule": "Candidate additive media extension. It is not active until its evidence and flags are reviewed."
+            "rule": "Accepted additive media directory. Protected core and proposed core changes remain unchanged.",
+            "reviewed_on": "2026-10-27",
+            "reviewed_by": "deterministic evidence gate"
         }
     },
     "proposed_changes": {
