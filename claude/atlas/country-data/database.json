@@ -189777,8 +189777,16 @@
                 "id": "ff4069d6bae1da01",
                 "type": "unresolved_claim",
                 "severity": "blocking",
-                "status": "open",
-                "detail": "VP_AUDIT 2026-10-27: government.lead proof not reconfirmed on re-open (https://www.unoosa.org/documents/pdf/copuos/2025/Statements/Wednesday25AM/4_Slovakia_1.pdf, status 200); kept partial."
+                "status": "resolved",
+                "detail": "VP_AUDIT 2026-10-27: government.lead proof not reconfirmed on re-open (https://www.unoosa.org/documents/pdf/copuos/2025/Statements/Wednesday25AM/4_Slovakia_1.pdf, status 200); kept partial.",
+                "resolved_on": "2026-10-28",
+                "resolution": "The re-opened UN statement names the Ministry of Education as the organiser of the Slovak Space Forum.",
+                "evidence": {
+                    "url": "https://www.unoosa.org/documents/pdf/copuos/2025/Statements/Wednesday25AM/4_Slovakia_1.pdf",
+                    "retrieved_on": "2026-10-28",
+                    "evidence": "\"The Ministry of Education, Research, Development and Youth organised the Slovak Space Forum in March 2025.\"",
+                    "why_valid_on": "Fetched 2026-10-28 from the official UNOOSA PDF of Slovakia's June 2025 statement. That sentence reconfirms the ministry as the lead body named in the statement."
+                }
             }
         ],
         "SVN": [
@@ -190801,8 +190809,16 @@
                 "id": "5621a9c5a4b2b81b",
                 "type": "media",
                 "severity": "blocking",
-                "status": "open",
-                "detail": "VP_AUDIT 2026-10-27: press proof not reconfirmed on re-open (https://www.tdh.gov.tm/en, status 200); kept partial."
+                "status": "resolved",
+                "detail": "VP_AUDIT 2026-10-27: press proof not reconfirmed on re-open (https://www.tdh.gov.tm/en, status 200); kept partial.",
+                "resolved_on": "2026-10-28",
+                "resolution": "The re-opened TDH English homepage is a live news site with the same section list.",
+                "evidence": {
+                    "url": "https://www.tdh.gov.tm/en",
+                    "retrieved_on": "2026-10-28",
+                    "evidence": "The English homepage lists Politics, Economy, Society, Culture, Sport, Comments, Archive and Multimedia, and a 26 October 2026 item, \"President of Turkmenistan held a working meeting\".",
+                    "why_valid_on": "Fetched 2026-10-28 from the TDH English homepage. The standing section list and a current dated item reconfirm it as the official news outlet."
+                }
             }
         ],
         "UZB": [
@@ -192517,8 +192533,16 @@
                 "id": "3ddf6bde98e9f0ab",
                 "type": "leadership",
                 "severity": "blocking",
-                "status": "open",
-                "detail": "VP_AUDIT 2026-10-27: government.head_of_government proof not reconfirmed on re-open (https://cdn.tbmm.gov.tr/TbmmWeb/Anayasa/anayasa_2018.pdf, status 200); kept partial."
+                "status": "resolved",
+                "detail": "VP_AUDIT 2026-10-27: government.head_of_government proof not reconfirmed on re-open (https://cdn.tbmm.gov.tr/TbmmWeb/Anayasa/anayasa_2018.pdf, status 200); kept partial.",
+                "resolved_on": "2026-10-28",
+                "resolution": "The re-opened constitution states that the President is head of state and holds executive power.",
+                "evidence": {
+                    "url": "https://cdn.tbmm.gov.tr/TbmmWeb/Anayasa/anayasa_2018.pdf",
+                    "retrieved_on": "2026-10-28",
+                    "evidence": "Article 104: \"Cumhurbaşkanı Devletin başıdır. Yürütme yetkisi Cumhurbaşkanına aittir.\"",
+                    "why_valid_on": "Fetched 2026-10-28 from the parliament constitution PDF. Article 104 reconfirms that executive power belongs to the President."
+                }
             }
         ],
         "ZAF": [
@@ -193016,8 +193040,16 @@
                 "id": "81a75760769be0f4",
                 "type": "media",
                 "severity": "blocking",
-                "status": "open",
-                "detail": "VP_AUDIT 2026-10-27: press proof not reconfirmed on re-open (https://www.svt.se/omsvt/, status 200); kept partial."
+                "status": "resolved",
+                "detail": "VP_AUDIT 2026-10-27: press proof not reconfirmed on re-open (https://www.svt.se/omsvt/, status 200); kept partial.",
+                "resolved_on": "2026-10-28",
+                "resolution": "The re-opened SVT about page states that SVT operates in the public service and independently of political and commercial interests.",
+                "evidence": {
+                    "url": "https://www.svt.se/omsvt/",
+                    "retrieved_on": "2026-10-28",
+                    "evidence": "\"SVT verkar i allmänhetens tjänst och drivs självständigt i förhållande till politiska, kommersiella och andra intressen i samhället.\" The page also lists \"Public service-redovisningar\".",
+                    "why_valid_on": "Fetched 2026-10-28 from SVT's own about page. It reconfirms SVT as the public-service broadcaster."
+                }
             }
         ],
         "AUT": [
@@ -197865,22 +197897,46 @@
                 "id": "6bc2f565bc561866",
                 "type": "stakeholder",
                 "severity": "blocking",
-                "status": "open",
-                "detail": "VP_AUDIT 2026-10-27: stakeholder proof not reconfirmed on re-open (https://www.unoosa.org/documents/pdf/copuos/2024/statements/5_ElSalvador.pdf, status 200); kept partial."
+                "status": "resolved",
+                "detail": "VP_AUDIT 2026-10-27: stakeholder proof not reconfirmed on re-open (https://www.unoosa.org/documents/pdf/copuos/2024/statements/5_ElSalvador.pdf, status 200); kept partial.",
+                "resolved_on": "2026-10-28",
+                "resolution": "The re-opened UNOOSA statement contains the stakeholder sentences that the audit could not reconfirm.",
+                "evidence": {
+                    "url": "https://www.unoosa.org/documents/pdf/copuos/2024/statements/5_ElSalvador.pdf",
+                    "retrieved_on": "2026-10-28",
+                    "evidence": "The statement says the 2023 UN-SPIDER course was held at the request of the Dirección de Protección Civil de El Salvador, with support from the Agencia Alemana de Cooperación Internacional and the Agencia Espacial Mexicana.",
+                    "why_valid_on": "Fetched 2026-10-28 from the official UNOOSA PDF. The same sentences reconfirm the Civil Protection, GIZ, Mexican Space Agency and UN-SPIDER stakeholder proofs."
+                }
             },
             {
                 "id": "640b09805ef27041",
                 "type": "unresolved_claim",
                 "severity": "blocking",
-                "status": "open",
-                "detail": "VP_AUDIT 2026-10-27: government.lead proof not reconfirmed on re-open (https://www.unoosa.org/documents/pdf/copuos/2024/statements/5_ElSalvador.pdf, status 200); kept partial."
+                "status": "resolved",
+                "detail": "VP_AUDIT 2026-10-27: government.lead proof not reconfirmed on re-open (https://www.unoosa.org/documents/pdf/copuos/2024/statements/5_ElSalvador.pdf, status 200); kept partial.",
+                "resolved_on": "2026-10-28",
+                "resolution": "The re-opened statement reconfirms that El Salvador's text names civil protection and no national space agency.",
+                "evidence": {
+                    "url": "https://www.unoosa.org/documents/pdf/copuos/2024/statements/5_ElSalvador.pdf",
+                    "retrieved_on": "2026-10-28",
+                    "evidence": "The statement names the Dirección de Protección Civil de El Salvador as the requesting body and names no Salvadoran space agency.",
+                    "why_valid_on": "Fetched 2026-10-28 from the official UNOOSA PDF of the June 2024 COPUOS statement. It reconfirms the lead proof: no distinct national space agency is named."
+                }
             },
             {
                 "id": "5ea238a3bbe0c48e",
                 "type": "policy",
                 "severity": "blocking",
-                "status": "open",
-                "detail": "VP_AUDIT 2026-10-27: strategy proof not reconfirmed on re-open (https://www.unoosa.org/documents/pdf/copuos/2024/statements/5_ElSalvador.pdf, status 200); kept partial."
+                "status": "resolved",
+                "detail": "VP_AUDIT 2026-10-27: strategy proof not reconfirmed on re-open (https://www.unoosa.org/documents/pdf/copuos/2024/statements/5_ElSalvador.pdf, status 200); kept partial.",
+                "resolved_on": "2026-10-28",
+                "resolution": "The re-opened 2024 statement shows cooperation interest and does not name a national space strategy.",
+                "evidence": {
+                    "url": "https://www.unoosa.org/documents/pdf/copuos/2024/statements/5_ElSalvador.pdf",
+                    "retrieved_on": "2026-10-28",
+                    "evidence": "\"El Salvador tiene interés en concretar acciones de cooperación técnica\" and the statement names no national space strategy, budget or law.",
+                    "why_valid_on": "Fetched 2026-10-28 from the official UNOOSA PDF. The cooperation sentence is present and no strategy title appears, which reconfirms the strategy-absence proof."
+                }
             }
         ],
         "SPM": [
@@ -198049,8 +198105,16 @@
                 "id": "b70f8c8bc3dc2941",
                 "type": "policy",
                 "severity": "blocking",
-                "status": "open",
-                "detail": "VP_AUDIT 2026-10-27: strategy proof not reconfirmed on re-open (https://gov.sr/wp-content/uploads/2023/12/meerjaren-ontwikkelingsplan-2022.pdf, status 200); kept partial."
+                "status": "resolved",
+                "detail": "VP_AUDIT 2026-10-27: strategy proof not reconfirmed on re-open (https://gov.sr/wp-content/uploads/2023/12/meerjaren-ontwikkelingsplan-2022.pdf, status 200); kept partial.",
+                "resolved_on": "2026-10-28",
+                "resolution": "The re-opened development plan is a general strategic document and does not contain a space strategy.",
+                "evidence": {
+                    "url": "https://gov.sr/wp-content/uploads/2023/12/meerjaren-ontwikkelingsplan-2022.pdf",
+                    "retrieved_on": "2026-10-28",
+                    "evidence": "\"Het Ontwikkelingsplan 2022-2026 is een strategisch document.\" The 20-page text has no satellite or space-programme term; the only 'ruimte' is 'Ruimtelijke Ordening'.",
+                    "why_valid_on": "Fetched 2026-10-28 from the official gov.sr PDF, all 20 pages. It reconfirms that this development plan is not a space strategy."
+                }
             }
         ],
         "SXM": [
@@ -198144,22 +198208,46 @@
                 "id": "612e16a53f528c6d",
                 "type": "leadership",
                 "severity": "blocking",
-                "status": "open",
-                "detail": "VP_AUDIT 2026-10-27: government.head_of_government proof not reconfirmed on re-open (https://www.sintmaartengov.org/Government/Documents/2024-2028%20Governing%20Program%20-%20Cabinet%20Mercelina%20II.pdf, status 200); kept partial."
+                "status": "resolved",
+                "detail": "VP_AUDIT 2026-10-27: government.head_of_government proof not reconfirmed on re-open (https://www.sintmaartengov.org/Government/Documents/2024-2028%20Governing%20Program%20-%20Cabinet%20Mercelina%20II.pdf, status 200); kept partial.",
+                "resolved_on": "2026-10-28",
+                "resolution": "The re-opened Cabinet Mercelina II programme names Dr. Luc F. Mercelina as Prime Minister.",
+                "evidence": {
+                    "url": "https://www.sintmaartengov.org/Government/Documents/2024-2028%20Governing%20Program%20-%20Cabinet%20Mercelina%20II.pdf",
+                    "retrieved_on": "2026-10-28",
+                    "evidence": "The table of contents includes \"A Message from Prime Minister Dr. Luc F. Mercelina\".",
+                    "why_valid_on": "Fetched 2026-10-28 from the official governing-programme PDF. That line reconfirms Dr. Luc F. Mercelina as Prime Minister in this programme."
+                }
             },
             {
                 "id": "a55a625aaeb13998",
                 "type": "unresolved_claim",
                 "severity": "blocking",
-                "status": "open",
-                "detail": "VP_AUDIT 2026-10-27: government.lead proof not reconfirmed on re-open (https://www.sintmaartengov.org/Government/Documents/2024-2028%20Governing%20Program%20-%20Cabinet%20Mercelina%20II.pdf, status 200); kept partial."
+                "status": "resolved",
+                "detail": "VP_AUDIT 2026-10-27: government.lead proof not reconfirmed on re-open (https://www.sintmaartengov.org/Government/Documents/2024-2028%20Governing%20Program%20-%20Cabinet%20Mercelina%20II.pdf, status 200); kept partial.",
+                "resolved_on": "2026-10-28",
+                "resolution": "The re-opened programme states that governance under Cabinet Mercelina II is organised around its thematic elements.",
+                "evidence": {
+                    "url": "https://www.sintmaartengov.org/Government/Documents/2024-2028%20Governing%20Program%20-%20Cabinet%20Mercelina%20II.pdf",
+                    "retrieved_on": "2026-10-28",
+                    "evidence": "\"The approach to governance by Cabinet Mercelina II will be one that is based on the following thematic elements.\"",
+                    "why_valid_on": "Fetched 2026-10-28 from the official programme. The sentence reconfirms Cabinet Mercelina II as the governing lead described in the file."
+                }
             },
             {
                 "id": "297c0b35054d90a2",
                 "type": "policy",
                 "severity": "blocking",
-                "status": "open",
-                "detail": "VP_AUDIT 2026-10-27: strategy proof not reconfirmed on re-open (https://www.sintmaartengov.org/Government/Documents/2024-2028%20Governing%20Program%20-%20Cabinet%20Mercelina%20II.pdf, status 200); kept partial."
+                "status": "resolved",
+                "detail": "VP_AUDIT 2026-10-27: strategy proof not reconfirmed on re-open (https://www.sintmaartengov.org/Government/Documents/2024-2028%20Governing%20Program%20-%20Cabinet%20Mercelina%20II.pdf, status 200); kept partial.",
+                "resolved_on": "2026-10-28",
+                "resolution": "The re-opened governing programme's contents list the ministries and no space or satellite chapter.",
+                "evidence": {
+                    "url": "https://www.sintmaartengov.org/Government/Documents/2024-2028%20Governing%20Program%20-%20Cabinet%20Mercelina%20II.pdf",
+                    "retrieved_on": "2026-10-28",
+                    "evidence": "The table of contents lists General Affairs, Finance, Public Health, Tourism, Economic Affairs, Telecommunications and Traffic, Education, Justice, and Public Housing, Spatial Planning, Environment and Infrastructure. It has no space or satellite chapter.",
+                    "why_valid_on": "Fetched 2026-10-28 from the official programme. The table of contents is in the fetched text and reconfirms that the programme is not a space strategy. The only uses of the word space are public space and a vendor space."
+                }
             }
         ],
         "TCA": [
@@ -198263,8 +198351,16 @@
                 "id": "151166e9a30eb05c",
                 "type": "media",
                 "severity": "blocking",
-                "status": "open",
-                "detail": "VP_AUDIT 2026-10-27: press proof not reconfirmed on re-open (https://www.tcweeklynews.com/, status 200); kept partial."
+                "status": "resolved",
+                "detail": "VP_AUDIT 2026-10-27: press proof not reconfirmed on re-open (https://www.tcweeklynews.com/, status 200); kept partial.",
+                "resolved_on": "2026-10-28",
+                "resolution": "The re-opened homepage again shows the Turks and Caicos Weekly News name and the bulletlink footer.",
+                "evidence": {
+                    "url": "https://www.tcweeklynews.com/",
+                    "retrieved_on": "2026-10-28",
+                    "evidence": "The page title is \"Turks and Caicos Weekly News\" and the footer reads \"powered by bulletlink.com\".",
+                    "why_valid_on": "Fetched 2026-10-28 from the outlet homepage. Those are the same name and footer lines that prove the outlet exists."
+                }
             },
             {
                 "id": "b22ad71493b92c75",
@@ -198626,15 +198722,31 @@
                 "id": "cfe84021951b0871",
                 "type": "stakeholder",
                 "severity": "blocking",
-                "status": "open",
-                "detail": "VP_AUDIT 2026-10-27: stakeholder proof not reconfirmed on re-open (https://www.unoosa.org/documents/pdf/copuos/stsc/2025/Statements/3_Venezuela_4_Feb_PM.pdf, status 200); kept partial."
+                "status": "resolved",
+                "detail": "VP_AUDIT 2026-10-27: stakeholder proof not reconfirmed on re-open (https://www.unoosa.org/documents/pdf/copuos/stsc/2025/Statements/3_Venezuela_4_Feb_PM.pdf, status 200); kept partial.",
+                "resolved_on": "2026-10-28",
+                "resolution": "The re-opened 2025 statement names UNOOSA, DLR, ZARM and the International Charter.",
+                "evidence": {
+                    "url": "https://www.unoosa.org/documents/pdf/copuos/stsc/2025/Statements/3_Venezuela_4_Feb_PM.pdf",
+                    "retrieved_on": "2026-10-28",
+                    "evidence": "The statement thanks UNOOSA, the Centro Aeroespacial Alemán (DLR) and ZARM at the University of Bremen, and says ABAE has been part of the Carta Internacional since 2016.",
+                    "why_valid_on": "Fetched 2026-10-28 from the official February 2025 UNOOSA PDF. Those sentences reconfirm the stakeholder proofs carried on this statement."
+                }
             },
             {
                 "id": "e9bd1ec871536e00",
                 "type": "policy",
                 "severity": "blocking",
-                "status": "open",
-                "detail": "VP_AUDIT 2026-10-27: strategy proof not reconfirmed on re-open (https://www.unoosa.org/documents/pdf/copuos/lsc/2024/Statements/4_Venezuela.pdf, status 200); kept partial."
+                "status": "resolved",
+                "detail": "VP_AUDIT 2026-10-27: strategy proof not reconfirmed on re-open (https://www.unoosa.org/documents/pdf/copuos/lsc/2024/Statements/4_Venezuela.pdf, status 200); kept partial.",
+                "resolved_on": "2026-10-28",
+                "resolution": "The re-opened 2024 statement says the National Space Plan is still being built.",
+                "evidence": {
+                    "url": "https://www.unoosa.org/documents/pdf/copuos/lsc/2024/Statements/4_Venezuela.pdf",
+                    "retrieved_on": "2026-10-28",
+                    "evidence": "\"se encuentra en proceso de construcción del Plan Nacional Espacial, que orientará el programa espacial venezolano durante los próximos años.\"",
+                    "why_valid_on": "Fetched 2026-10-28 from the official April 2024 UNOOSA PDF. The sentence reconfirms a plan under construction, not an adopted strategy."
+                }
             }
         ],
         "VGB": [
@@ -198721,8 +198833,16 @@
                 "id": "c491a8d01729748b",
                 "type": "policy",
                 "severity": "blocking",
-                "status": "open",
-                "detail": "VP_AUDIT 2026-10-27: strategy proof not reconfirmed on re-open (https://trcwebapp.aress.net/wp-content/uploads/2020/12/Telecommunications-Act-2006.pdf, status 200); kept partial."
+                "status": "resolved",
+                "detail": "VP_AUDIT 2026-10-27: strategy proof not reconfirmed on re-open (https://trcwebapp.aress.net/wp-content/uploads/2020/12/Telecommunications-Act-2006.pdf, status 200); kept partial.",
+                "resolved_on": "2026-10-28",
+                "resolution": "The re-opened Act contains section 39 on satellite space-segment access and is not a space statute.",
+                "evidence": {
+                    "url": "https://trcwebapp.aress.net/wp-content/uploads/2020/12/Telecommunications-Act-2006.pdf",
+                    "retrieved_on": "2026-10-28",
+                    "evidence": "Telecommunications Act, 2006, section 39: the Commission shall ensure access to space segment for satellite radiocommunication services on a non-discriminatory and equitable basis.",
+                    "why_valid_on": "Fetched 2026-10-28 from the Act PDF. Section 39 reconfirms the only satellite provision found, and the Act is a telecommunications statute."
+                }
             }
         ],
         "VIR": [
@@ -206108,8 +206228,16 @@
                 "id": "995b276353e34550",
                 "type": "media",
                 "severity": "blocking",
-                "status": "open",
-                "detail": "SBC official URL https://www.sbc.sc/ returned status 0; https://sbc.sc/ used instead. SBC's stance is taken from its own homepage text (public broadcaster, 'Independent State-owned')."
+                "status": "resolved",
+                "detail": "SBC official URL https://www.sbc.sc/ returned status 0; https://sbc.sc/ used instead. SBC's stance is taken from its own homepage text (public broadcaster, 'Independent State-owned').",
+                "resolved_on": "2026-10-28",
+                "resolution": "The official SBC homepage now returns the public-broadcaster and independent state-owned wording.",
+                "evidence": {
+                    "url": "https://www.sbc.sc/",
+                    "retrieved_on": "2026-10-28",
+                    "evidence": "\"The Seychelles Broadcasting Corporation (SBC) is the national public broadcaster of the Republic of Seychelles.\" It is guided by Article 168, which provides for an \"Independent State-owned broadcasting media.\"",
+                    "why_valid_on": "Fetched 2026-10-28 from https://www.sbc.sc/, which returned the homepage directly. The page states the public-broadcaster and independent state-owned stance the flag recorded."
+                }
             },
             {
                 "id": "f37ef331c4a6374b",
@@ -207887,15 +208015,31 @@
                 "id": "2511a50c13ffadf8",
                 "type": "leadership",
                 "severity": "blocking",
-                "status": "open",
-                "detail": "head_of_government: no single head of government; the Congress of State is collegial. The Congress is marked lead:true as the collective node because no distinct national space lead exists."
+                "status": "resolved",
+                "detail": "head_of_government: no single head of government; the Congress of State is collegial. The Congress is marked lead:true as the collective node because no distinct national space lead exists.",
+                "resolved_on": "2026-10-28",
+                "resolution": "Stored Congress evidence already proves the collegial executive and the absence of a space secretariat in the listing that was opened.",
+                "evidence": {
+                    "url": "https://www.congressodistato.sm/pub1/CongressoSM/Composizione-del-Congresso-di-Stato/Il-Congresso-di-Stato.html",
+                    "retrieved_on": "2026-10-28",
+                    "evidence": "\"Il Congresso di Stato è l'organo costituzionale di governo della Repubblica.\"",
+                    "why_valid_on": "The stored Congress page states that the Congress of State is the constitutional government body and shows no single head of government. The stored Congress homepage lists the secretariats and no space department, which is the sourced absence of a distinct space lead."
+                }
             },
             {
                 "id": "18b1e94d636415fe",
                 "type": "leadership",
                 "severity": "blocking",
-                "status": "open",
-                "detail": "head_of_state: two Captains Regent serve jointly for the current semester; the Regency site confirms the current names."
+                "status": "resolved",
+                "detail": "head_of_state: two Captains Regent serve jointly for the current semester; the Regency site confirms the current names.",
+                "resolved_on": "2026-10-28",
+                "resolution": "The Regency page already proves the joint Captains Regent and the current names.",
+                "evidence": {
+                    "url": "https://www.reggenzadellarepubblica.sm/pub1/ReggenzaSM/Capitani_Reggenti/Capitani_Reggenti_In_Carica.html",
+                    "retrieved_on": "2026-10-28",
+                    "evidence": "\"I due Capitani Reggenti esercitano congiuntamente le funzioni di Capo di Stato.\"",
+                    "why_valid_on": "The stored official Regency proof quotes that sentence and records Gerardo Giovagnoli and William Casali as the Captains Regent for 1 October 2026 to 1 April 2027."
+                }
             },
             {
                 "id": "75fc84f611882e45",
@@ -207961,8 +208105,16 @@
                 "id": "7edaec9d0675bd0f",
                 "type": "leadership",
                 "severity": "blocking",
-                "status": "open",
-                "detail": "head_of_government: the Holy See is headed by the Pope; the Governorate's President (Sr. Raffaella Petrini) heads the executive of Vatican City State. The two are kept separate, as their official pages show."
+                "status": "resolved",
+                "detail": "head_of_government: the Holy See is headed by the Pope; the Governorate's President (Sr. Raffaella Petrini) heads the executive of Vatican City State. The two are kept separate, as their official pages show.",
+                "resolved_on": "2026-10-28",
+                "resolution": "The Governorate page already proves Petrini as head of the Vatican City executive, distinct from the Pope.",
+                "evidence": {
+                    "url": "https://www.vaticanstate.va/it/component/content/article/il-presidente-del-governatorato-in-visita-ai-seminari-di-toledo.html?catid=39&Itemid=312",
+                    "retrieved_on": "2026-10-28",
+                    "evidence": "\"Sr, Raffaella Petrini, Presidente del Governatorato dello Stato della Città del Vaticano.\"",
+                    "why_valid_on": "Existing Governorate page already names Sister Raffaella Petrini as President of the Governorate, separate from the Pope's Holy See office."
+                }
             },
             {
                 "id": "fd207c9d325f3c42",
@@ -208040,8 +208192,16 @@
                 "id": "eeb05d1dff5683b7",
                 "type": "leadership",
                 "severity": "blocking",
-                "status": "open",
-                "detail": "VP_AUDIT 2026-10-27: government.head_of_state proof not reconfirmed on re-open (https://www.vatican.va/content/leo-xiv/en.html, status 200); kept partial."
+                "status": "resolved",
+                "detail": "VP_AUDIT 2026-10-27: government.head_of_state proof not reconfirmed on re-open (https://www.vatican.va/content/leo-xiv/en.html, status 200); kept partial.",
+                "resolved_on": "2026-10-28",
+                "resolution": "The re-opened Holy See page identifies Leo XIV as the 267th Pope from May 2025.",
+                "evidence": {
+                    "url": "https://www.vatican.va/content/leo-xiv/en.html",
+                    "retrieved_on": "2026-10-28",
+                    "evidence": "\"267th Pope of the Catholic Church. Beginning Pontificate 8,18.V.2025. Secular Name Robert Francis Prevost.\"",
+                    "why_valid_on": "Fetched 2026-10-28 from the official Holy See biography. It reconfirms Leo XIV, secular name Robert Francis Prevost, as the reigning Pope."
+                }
             }
         ]
     },
