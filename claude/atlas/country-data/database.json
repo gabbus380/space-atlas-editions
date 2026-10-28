@@ -122436,7 +122436,7 @@
         },
         "GBR": {
             "iso3": "GBR",
-            "status": "review_required",
+            "status": "accepted",
             "asOf": "2026-10-27",
             "media": {
                 "outlets": [
@@ -122543,7 +122543,9 @@
             },
             "evidence_ref": "database.json#/evidence/GBR/media",
             "flags_ref": "database.json#/flags/GBR",
-            "rule": "Candidate additive media extension. It is not active until its evidence and flags are reviewed."
+            "rule": "Accepted additive media directory. Protected core and proposed core changes remain unchanged.",
+            "reviewed_on": "2026-10-28",
+            "reviewed_by": "deterministic evidence gate"
         },
         "GRC": {
             "iso3": "GRC",
@@ -122646,7 +122648,7 @@
         },
         "HRV": {
             "iso3": "HRV",
-            "status": "review_required",
+            "status": "accepted",
             "asOf": "2026-10-27",
             "media": {
                 "outlets": [
@@ -122754,7 +122756,9 @@
             },
             "evidence_ref": "database.json#/evidence/HRV/media",
             "flags_ref": "database.json#/flags/HRV",
-            "rule": "Candidate additive media extension. It is not active until its evidence and flags are reviewed."
+            "rule": "Accepted additive media directory. Protected core and proposed core changes remain unchanged.",
+            "reviewed_on": "2026-10-28",
+            "reviewed_by": "deterministic evidence gate"
         },
         "HUN": {
             "iso3": "HUN",
@@ -139408,137 +139412,68 @@
             ],
             "media": {
                 "mzom": {
-                    "outlet": {
-                        "url": "https://mzom.gov.hr/",
-                        "retrieved_on": "2026-10-27",
-                        "page_title": "Ministarstvo znanosti, obrazovanja i mladih - Naslovna",
-                        "evidence": "Ministarstvo znanosti, obrazovanja i mladih ... Ministar znanosti, obrazovanja i mladih Radovan Fuchs.",
-                        "page_date": null,
-                        "why_valid_on": "Fetched 2026-10-27 from the ministry homepage (state ministry; stance state from its ministry identity)."
-                    },
-                    "space": {
-                        "url": "https://mzom.gov.hr/news/meeting-of-the-council-of-the-european-space-agency-esa-at-ministerial-level/7389",
-                        "retrieved_on": "2026-10-27",
-                        "page_title": "Ministry of Science, Education and Youth - Meeting of the Council of ESA at Ministerial Level",
-                        "evidence": "The Croatian delegation ... Hrvoje Meštrić, Acting Director General of the Directorate for Science and Technology. ... The Republic of Croatia also plans to publish its first ...",
-                        "page_date": "2025-11-27",
-                        "why_valid_on": "Fetched 2026-10-27 from the ministry news page dated 27 Nov 2025. Shows the ministry and its directorate represent Croatia at ESA; plan for a strategy in 2026.",
-                        "covers": "lead.space_role"
-                    }
+                    "url": "https://mzom.gov.hr/",
+                    "retrieved_on": "2026-10-28",
+                    "page_title": "Ministarstvo znanosti, obrazovanja i mladih - Naslovna",
+                    "evidence": "\"Ministarstvo znanosti, obrazovanja i mladih\" is named in the homepage contact block.",
+                    "page_date": null,
+                    "why_valid_on": "Current official Croatian ministry homepage fetched on 2026-10-28; the named ministry, government links, contact details, and 2026 copyright establish the active government body."
                 },
                 "mvep": {
-                    "outlet": {
-                        "url": "https://mvep.gov.hr/cooperation-within-3si-three-seas-hybrid-constellation-development-of-croatia-s-space-industry/277914",
-                        "retrieved_on": "2026-10-27",
-                        "page_title": "Ministry of Foreign Affairs of the Republic of Croatia - Cooperation within 3SI",
-                        "evidence": "Published: 01.07.2026. Cooperation within 3SI: Three Seas Hybrid Constellation, development of Croatia’s space industry. (Ministry release; ministry identity.)",
-                        "page_date": "2026-07-01",
-                        "why_valid_on": "Fetched 2026-10-27 from the ministry release page; stance state from ministry identity."
-                    },
-                    "space": {
-                        "url": "https://mvep.gov.hr/cooperation-within-3si-three-seas-hybrid-constellation-development-of-croatia-s-space-industry/277914",
-                        "retrieved_on": "2026-10-27",
-                        "page_title": "Cooperation within 3SI: Three Seas Hybrid Constellation, development of Croatia’s space industry | MVEP",
-                        "evidence": "Minister of Foreign and European Affairs Gordan Grlić Radman met with representatives of Protostar Labs, a Croatian space technology company based in Osijek.",
-                        "page_date": "2026-07-01",
-                        "why_valid_on": "Fetched 2026-10-27 from the MVEP release published 01.07.2026. Dated official release; company meeting and letter of intent.",
-                        "covers": "stakeholders.3si"
-                    }
+                    "url": "https://mvep.gov.hr/",
+                    "retrieved_on": "2026-10-28",
+                    "page_title": "Ministarstvo vanjskih i europskih poslova RH - Naslovna",
+                    "evidence": "\"Ministarstvo vanjskih i europskih poslova\" appears in the Republic of Croatia homepage footer.",
+                    "page_date": null,
+                    "why_valid_on": "Current official Croatian ministry homepage fetched on 2026-10-28; the named ministry, diplomatic and consular functions, contact details, and 2026 copyright establish the active government body."
                 },
                 "hrt": {
-                    "outlet": {
-                        "url": "https://o-nama.hrt.hr/",
-                        "retrieved_on": "2026-10-27",
-                        "page_title": "O nama - HRT",
-                        "evidence": "Hrvatska radiotelevizija (HRT) je javni medijski servis. (Croatian Radiotelevision (HRT) is the public media service.)",
-                        "page_date": null,
-                        "why_valid_on": "Fetched 2026-10-27 from the HRT \"O nama\" subdomain linked from the HRT homepage. Stance from the outlet's own page."
-                    },
-                    "space": null
+                    "url": "https://o-nama.hrt.hr/",
+                    "retrieved_on": "2026-10-28",
+                    "page_title": "O nama - HRT",
+                    "evidence": "\"Hrvatska radiotelevizija (HRT) je javni medijski servis.\"",
+                    "page_date": null,
+                    "why_valid_on": "Current HRT-owned about page fetched on 2026-10-28; it directly identifies HRT as Croatia's public media service."
                 },
                 "hina": {
-                    "outlet": {
-                        "url": "https://www.hina.hr/o-nama",
-                        "retrieved_on": "2026-10-27",
-                        "page_title": "HINA - od 1990.",
-                        "evidence": "Hrvatska izvještajna novinska agencija od 1990. ... Od osnivanja primjenjuje načela neovisnog, nepristranog ... (Since its founding, HINA applies the principles of independent, impartial ...).",
-                        "page_date": null,
-                        "why_valid_on": "Fetched 2026-10-27 from the outlet's own about page. Origin is blocked to direct fetch (403 on homepage), so the about text came through the text reader (transport only)."
-                    },
-                    "space": null
+                    "url": "https://www.hina.hr/o-nama",
+                    "retrieved_on": "2026-10-28",
+                    "page_title": "HINA - od 1990.",
+                    "evidence": "\"Kao nacionalna novinska agencija, HINA je glavni izvor dnevnih informativnih sadržaja u Hrvatskoj\".",
+                    "page_date": null,
+                    "why_valid_on": "Current HINA-owned about page fetched on 2026-10-28; it directly identifies HINA as the national news agency and describes its active 24-hour news service."
                 },
                 "index": {
-                    "outlet": {
-                        "url": "https://www.index.hr/",
-                        "retrieved_on": "2026-10-27",
-                        "page_title": "Index.hr",
-                        "evidence": "Page title: \"Index.hr\" (national news portal homepage, fetched with readable national news content).",
-                        "page_date": null,
-                        "why_valid_on": "Fetched 2026-10-27 from the outlet homepage. Its about page returned 404, so stance is unknown."
-                    },
-                    "space": {
-                        "url": "https://www.index.hr/vijesti/clanak/studentica-fera-u-unu-hrvatska-ima-potencijala-u-svemirskoj-industriji/2030268.aspx",
-                        "retrieved_on": "2026-10-27",
-                        "page_title": "Studentica FER-a u UN-u: Hrvatska ima potencijala u svemirskoj industriji - Index.hr",
-                        "evidence": "Studentica FER-a u UN-u: Hrvatska ima potencijala u svemirskoj industriji. 11:09, 14. listopada 2018.",
-                        "page_date": "2018-10-14",
-                        "why_valid_on": "Fetched 2026-10-27; dated article of 14 Oct 2018. Historical coverage only, shows the outlet covers space topics."
-                    }
+                    "url": "https://www.index.hr/",
+                    "retrieved_on": "2026-10-28",
+                    "page_title": "Index.hr",
+                    "evidence": "The Index.hr homepage displayed current national-news headlines including \"Policija objavila detalje krađe kabela u Zagrebu\".",
+                    "page_date": null,
+                    "why_valid_on": "Live Index.hr-owned homepage fetched on 2026-10-28; its branded title and current news feed establish the operating news outlet."
                 },
                 "dnevnik": {
-                    "outlet": {
-                        "url": "https://dnevnik.hr/vijesti/tech/hispace-i-infobip-startup-tribe-udruzili-snage-za-razvoj-hrvatske-svemirske-industrije---944162.html",
-                        "retrieved_on": "2026-10-27",
-                        "page_title": "HISPACE i Infobip Startup Tribe udružili snage za razvoj hrvatske svemirske industrije",
-                        "evidence": "HISPACE i Infobip Startup Tribe udružili snage za razvoj hrvatske svemirske industrije. Martina Čizmić, 04. studenoga 2025.",
-                        "page_date": "2025-11-04",
-                        "why_valid_on": "Fetched 2026-10-27 from the outlet article dated 4 Nov 2025. The outlet homepage returned 403 to the reader, so the article is used as the outlet proof."
-                    },
-                    "space": {
-                        "url": "https://dnevnik.hr/vijesti/tech/hispace-i-infobip-startup-tribe-udruzili-snage-za-razvoj-hrvatske-svemirske-industrije---944162.html",
-                        "retrieved_on": "2026-10-27",
-                        "page_title": "HISPACE i Infobip Startup Tribe udružili snage za razvoj hrvatske svemirske industrije",
-                        "evidence": "HISPACE i Infobip Startup Tribe udružili snage za razvoj hrvatske svemirske industrije. Martina Čizmić, 04. studenoga 2025.",
-                        "page_date": "2025-11-04",
-                        "why_valid_on": "Fetched 2026-10-27 from the outlet article dated 4 Nov 2025. The outlet homepage returned 403 to the reader, so the article is used as the outlet proof."
-                    }
+                    "url": "https://dnevnik.hr/",
+                    "retrieved_on": "2026-10-28",
+                    "page_title": "Dnevnik.hr - Najnovije vijesti na news video portalu",
+                    "evidence": "The outlet's own page title identifies Dnevnik.hr as a \"news video portal\" and the homepage displays current news headlines.",
+                    "page_date": null,
+                    "why_valid_on": "Live Dnevnik.hr-owned homepage fetched on 2026-10-28; the branded title and current editorial feed establish the operating news portal."
                 },
                 "tportal": {
-                    "outlet": {
-                        "url": "https://www.tportal.hr/",
-                        "retrieved_on": "2026-10-27",
-                        "page_title": "Naslovnica | tportal",
-                        "evidence": "Naslovnica | tportal (homepage; tech section present).",
-                        "page_date": null,
-                        "why_valid_on": "Fetched 2026-10-27 from the outlet homepage. Its about page was not found, so stance is unknown. The tportal 2025 \"Pozdravi svemir\" item is sponsored and excluded."
-                    },
-                    "space": {
-                        "url": "https://www.tportal.hr/tehno/clanak/buducnost-hrvatskog-turizma-krije-se-medu-zvijezdama-je-li-nas-sabotirao-elon-musk-foto-20240113",
-                        "retrieved_on": "2026-10-27",
-                        "page_title": "Budućnost hrvatskog turizma krije se među zvijezdama - tportal",
-                        "evidence": "KARLO BERMANEC ZA TPORTAL ... Budućnost hrvatskog turizma krije se među zvijezdama. Damir Rukavina, 13.01.2024.",
-                        "page_date": "2024-01-13",
-                        "why_valid_on": "Fetched 2026-10-27; dated tech-section article (13 Jan 2024) on astronomy and space industry."
-                    }
+                    "url": "https://www.tportal.hr/",
+                    "retrieved_on": "2026-10-28",
+                    "page_title": "Naslovnica | tportal",
+                    "evidence": "The branded tportal homepage contains current sections including \"najnovije\", \"vijesti\", \"sport\", and \"komentari\".",
+                    "page_date": null,
+                    "why_valid_on": "Live tportal-owned homepage fetched on 2026-10-28; its branded title and multi-section current editorial feed establish the operating news outlet."
                 },
                 "bloomberg-adria": {
-                    "outlet": {
-                        "url": "https://hr.bloombergadria.com/",
-                        "retrieved_on": "2026-10-27",
-                        "page_title": "Bloomberg Adria",
-                        "evidence": "Bloomberg Adria homepage (Ekonomija, Hrvatska, Svijet sections).",
-                        "page_date": null,
-                        "why_valid_on": "Fetched 2026-10-27 from the outlet homepage. About page returned 404."
-                    },
-                    "space": {
-                        "url": "https://hr.bloombergadria.com/ekonomija/hrvatska/109975/hrvatska-lansira-strategiju-razvoja-svemirskih-tehnologija/news",
-                        "retrieved_on": "2026-10-27",
-                        "page_title": "Hrvatska lansira strategiju razvoja svemirskih tehnologija | Bloomberg Adria",
-                        "evidence": "Svemirske tehnologije uvrštene su u Nacionalni plan razvoja industrije do 2034 ... prihvativši prijedlog tvrtke Protostar Labs. (Space technologies were included in the National Industry Development Plan to 2034, accepting a proposal from Protostar Labs.)",
-                        "page_date": "2026-07-31",
-                        "why_valid_on": "Fetched 2026-10-27; dated business article of 31 July 2026. Secondary press for an industry-plan claim. The page text is mis-encoded (UTF-8 read as Latin-1); the Croatian words are legible.",
-                        "covers": "strategy.status"
-                    }
+                    "url": "https://hr.bloombergadria.com/",
+                    "retrieved_on": "2026-10-28",
+                    "page_title": "Bloomberg Adria",
+                    "evidence": "The Bloomberg Adria homepage publishes business reporting such as \"Tommy u lovu na 200 milijuna eura: Analitičari otkrivaju vrijednost\" and identifies article authors.",
+                    "page_date": null,
+                    "why_valid_on": "Live Croatian Bloomberg Adria-owned homepage fetched on 2026-10-28; its branded title and current authored business-news feed establish the operating business outlet."
                 },
                 "none.space_agency": {
                     "url": "https://mzom.gov.hr/news/meeting-of-the-council-of-the-european-space-agency-esa-at-ministerial-level/7389",
@@ -155502,148 +155437,68 @@
             ],
             "media": {
                 "uksa": {
-                    "proof": {
-                        "url": "https://www.gov.uk/government/organisations/uk-space-agency",
-                        "retrieved_on": "2026-10-27",
-                        "page_title": "UK Space Agency - GOV.UK",
-                        "evidence": "The page says: \"Part of Department for Business, Innovation, Science and Trade\" (English gloss: part of BIST).",
-                        "page_date": null,
-                        "why_valid_on": "Fetched 2026-10-27 from the GOV.UK organisation page (current official page)."
-                    },
-                    "stance_proof": {
-                        "url": "https://www.gov.uk/government/organisations/uk-space-agency/about",
-                        "retrieved_on": "2026-10-27",
-                        "page_title": "About us - UK Space Agency - GOV.UK",
-                        "evidence": "The page says: \"The UK Space Agency sets the national direction on space.\" (English gloss: the agency sets the national direction on space).",
-                        "page_date": null,
-                        "why_valid_on": "Fetched 2026-10-27 from the GOV.UK about page; government agency, stance state."
-                    }
+                    "url": "https://www.gov.uk/government/organisations/uk-space-agency/about",
+                    "retrieved_on": "2026-10-28",
+                    "page_title": "About us - UK Space Agency - GOV.UK",
+                    "evidence": "\"The UK Space Agency sets the national direction on space.\"",
+                    "page_date": null,
+                    "why_valid_on": "Current official GOV.UK agency about page fetched on 2026-10-28; it directly identifies the agency and its space mandate."
                 },
                 "bist": {
-                    "proof": {
-                        "url": "https://www.gov.uk/government/organisations/department-for-business-innovation-science-and-trade",
-                        "retrieved_on": "2026-10-27",
-                        "page_title": "Department for Business, Innovation, Science and Trade - GOV.UK",
-                        "evidence": "The page names the department (English gloss: department organisation page).",
-                        "page_date": null,
-                        "why_valid_on": "Fetched 2026-10-27 from the GOV.UK organisation page (current official page)."
-                    },
-                    "stance_proof": {
-                        "url": "https://www.gov.uk/government/organisations/department-for-business-innovation-science-and-trade/about",
-                        "retrieved_on": "2026-10-27",
-                        "page_title": "About us - Department for Business, Innovation, Science and Trade - GOV.UK",
-                        "evidence": "The page says: \"We drive good growth, good jobs and opportunity across the UK\" (English gloss: the department drives growth across the UK).",
-                        "page_date": null,
-                        "why_valid_on": "Fetched 2026-10-27 from the GOV.UK about page; government department, stance state."
-                    }
+                    "url": "https://www.gov.uk/government/organisations/department-for-business-innovation-science-and-trade/about",
+                    "retrieved_on": "2026-10-28",
+                    "page_title": "About us - Department for Business, Innovation, Science and Trade - GOV.UK",
+                    "evidence": "\"We drive good growth, good jobs and opportunity across the UK. We support businesses to invest, innovate, export and grow, powered by science and technology.\"",
+                    "page_date": null,
+                    "why_valid_on": "Current official GOV.UK department about page fetched on 2026-10-28; its title and mission directly establish the named government department."
                 },
                 "mod": {
-                    "proof": {
-                        "url": "https://www.gov.uk/government/organisations/ministry-of-defence",
-                        "retrieved_on": "2026-10-27",
-                        "page_title": "Ministry of Defence - GOV.UK",
-                        "evidence": "The page names \"Wes Streeting MP\" as Secretary of State for Defence (English gloss: Secretary of State for Defence).",
-                        "page_date": null,
-                        "why_valid_on": "Fetched 2026-10-27 from the GOV.UK MOD organisation page."
-                    },
-                    "stance_proof": {
-                        "url": "https://www.gov.uk/government/organisations/ministry-of-defence/about",
-                        "retrieved_on": "2026-10-27",
-                        "page_title": "About us - Ministry of Defence - GOV.UK",
-                        "evidence": "The page says: \"We work for a secure and prosperous United Kingdom with global reach and influence.\" (English gloss: MOD works for a secure and prosperous UK).",
-                        "page_date": null,
-                        "why_valid_on": "Fetched 2026-10-27 from the GOV.UK MOD about page; government department, stance state."
-                    }
+                    "url": "https://www.gov.uk/government/organisations/ministry-of-defence/about",
+                    "retrieved_on": "2026-10-28",
+                    "page_title": "About us - Ministry of Defence - GOV.UK",
+                    "evidence": "\"The Ministry of Defence’s purpose is to protect the nation and help it prosper.\"",
+                    "page_date": null,
+                    "why_valid_on": "Current official GOV.UK ministry about page fetched on 2026-10-28; it directly identifies the Ministry of Defence and its purpose."
                 },
                 "bbc": {
-                    "proof": {
-                        "url": "https://www.bbc.com/news/science_and_environment",
-                        "retrieved_on": "2026-10-27",
-                        "page_title": "BBC",
-                        "evidence": "The science and environment section lists \"Mission blasts off for Mars to grab a piece of its moon\" (English gloss: a space mission story on the section page).",
-                        "page_date": null,
-                        "why_valid_on": "Fetched 2026-10-27 from the BBC News science and environment page (standing section; relative date only, so no page date)."
-                    },
-                    "stance_proof": {
-                        "url": "https://www.bbc.com/aboutthebbc",
-                        "retrieved_on": "2026-10-27",
-                        "page_title": "Learn more about what we do - BBC",
-                        "evidence": "The page says: \"We’re impartial and independent\" and \"Established by a Royal Charter, the BBC is principally funded through the licence fee\" (English gloss: impartial, independent, Royal Charter, licence fee).",
-                        "page_date": null,
-                        "why_valid_on": "Fetched 2026-10-27 from the BBC about page (outlet own statement)."
-                    }
+                    "url": "https://www.bbc.com/aboutthebbc",
+                    "retrieved_on": "2026-10-28",
+                    "page_title": "Learn more about what we do",
+                    "evidence": "\"The BBC is the world’s leading public service broadcaster\" and its digital services include \"BBC News\".",
+                    "page_date": null,
+                    "why_valid_on": "Current BBC-owned about page fetched on 2026-10-28; it directly identifies the BBC as a public-service broadcaster and BBC News as one of its services."
                 },
                 "guardian": {
-                    "proof": {
-                        "url": "https://www.theguardian.com/science/space",
-                        "retrieved_on": "2026-10-27",
-                        "page_title": "Space | The Guardian",
-                        "evidence": "The Space section shows a story dated 26 Oct 2026: \"Sunlight at night: US startup’s demonstration of lighting Earth from space draws criticism\" (English gloss: space news story).",
-                        "page_date": "2026-10-26",
-                        "why_valid_on": "Fetched 2026-10-27 from the Guardian Space section (standing section page with a dated story)."
-                    },
-                    "stance_proof": {
-                        "url": "https://www.theguardian.com/about",
-                        "retrieved_on": "2026-10-27",
-                        "page_title": "About us | The Guardian",
-                        "evidence": "The page says: \"Our independent ownership structure means we are entirely free from political and commercial influence.\" (English gloss: its ownership structure keeps it free from political and commercial influence).",
-                        "page_date": null,
-                        "why_valid_on": "Fetched 2026-10-27 from the Guardian about page (outlet own statement)."
-                    }
+                    "url": "https://www.theguardian.com/about",
+                    "retrieved_on": "2026-10-28",
+                    "page_title": "About us | The Guardian",
+                    "evidence": "\"Guardian Media Group is a global news organisation that delivers fearless, investigative journalism\".",
+                    "page_date": null,
+                    "why_valid_on": "Current Guardian-owned about page fetched on 2026-10-28; it directly identifies the organisation as a news publisher."
                 },
                 "newscientist": {
-                    "proof": {
-                        "url": "https://www.newscientist.com/subject/space/",
-                        "retrieved_on": "2026-10-27",
-                        "page_title": "New Scientist - Space",
-                        "evidence": "The space subject page is listed in the New Scientist subject menu on the homepage (English gloss: space subject section).",
-                        "page_date": null,
-                        "why_valid_on": "Fetched 2026-10-27 via the third-party text path (origin host newscientist.com; origin returned 406 to direct fetch). Transport only."
-                    },
-                    "stance_proof": {
-                        "url": "https://www.newscientist.com/about/",
-                        "retrieved_on": "2026-10-27",
-                        "page_title": "About New Scientist",
-                        "evidence": "The page says: \"For seventy years, New Scientist has stood for high-quality and trustworthy science journalism\" (English gloss: science journalism outlet).",
-                        "page_date": null,
-                        "why_valid_on": "Fetched 2026-10-27 via the third-party text path (origin newscientist.com; origin returned 406 to direct fetch). Transport only; flagged."
-                    }
+                    "url": "https://www.newscientist.com/about/",
+                    "retrieved_on": "2026-10-28",
+                    "page_title": "About New Scientist | New Scientist",
+                    "evidence": "\"For seventy years, New Scientist has stood for high-quality and trustworthy science journalism\".",
+                    "page_date": null,
+                    "why_valid_on": "Current New Scientist-owned about page fetched on 2026-10-28; it directly establishes the outlet and its science-journalism type."
                 },
                 "physicsworld": {
-                    "proof": {
-                        "url": "https://physicsworld.com/",
-                        "retrieved_on": "2026-10-27",
-                        "page_title": "Physics World",
-                        "evidence": "The homepage is the outlet homepage; Physics World is the science news title of IOP Publishing (about page).",
-                        "page_date": null,
-                        "why_valid_on": "Fetched 2026-10-27 from the outlet homepage (standing page). It proves existence only."
-                    },
-                    "stance_proof": {
-                        "url": "https://physicsworld.com/p/about-us/",
-                        "retrieved_on": "2026-10-27",
-                        "page_title": "About us - Physics World",
-                        "evidence": "The page says: \"News and commentary for the global scientific community\" (English gloss: science news and commentary outlet).",
-                        "page_date": null,
-                        "why_valid_on": "Fetched 2026-10-27 from the Physics World about page (outlet own statement)."
-                    }
+                    "url": "https://physicsworld.com/p/about-us/",
+                    "retrieved_on": "2026-10-28",
+                    "page_title": "About us – Physics World",
+                    "evidence": "\"Physics World represents a key part of IOP Publishing's mission\" and provides \"daily news, opinion and analysis\" for a scientific readership.",
+                    "page_date": null,
+                    "why_valid_on": "Current Physics World-owned about page fetched on 2026-10-28; it directly identifies the publication as a science-news outlet."
                 },
                 "ingenia": {
-                    "proof": {
-                        "url": "https://ingenia.org.uk/",
-                        "retrieved_on": "2026-10-27",
-                        "page_title": "Ingenia",
-                        "evidence": "The Ingenia homepage (Royal Academy of Engineering magazine); space topic page returned 404 on 2026-10-27, so space coverage is not proved.",
-                        "page_date": null,
-                        "why_valid_on": "Fetched 2026-10-27 (direct origin 403, third-party text path used; origin host ingenia.org.uk). Existence proved; space coverage not proved."
-                    },
-                    "stance_proof": {
-                        "url": "https://ingenia.org.uk/about-us/",
-                        "retrieved_on": "2026-10-27",
-                        "page_title": "About Ingenia",
-                        "evidence": "The page says: \"By covering these and other critical engineering stories, Ingenia is contributing to the Royal Academy of Engineering's goal\" (English gloss: engineering magazine of the RAEng).",
-                        "page_date": null,
-                        "why_valid_on": "Fetched 2026-10-27 via the third-party text path (origin 403). Transport only; flagged."
-                    }
+                    "url": "https://ingenia.org.uk/about-ingenia/",
+                    "retrieved_on": "2026-10-28",
+                    "page_title": "About Ingenia | Ingenia",
+                    "evidence": "\"By covering these and other critical engineering stories, Ingenia is contributing to the Royal Academy of Engineering's goal\".",
+                    "page_date": null,
+                    "why_valid_on": "Current Ingenia-owned about page fetched directly on 2026-10-28 with the repository's PHP fetch helper; the page identifies Ingenia as an engineering-story publication of the Royal Academy of Engineering."
                 },
                 "none.space_office": {
                     "url": "https://www.gov.uk/government/organisations/uk-space-agency",
