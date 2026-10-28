@@ -186248,8 +186248,16 @@
                 "id": "871fc1733ae1d533",
                 "type": "media",
                 "severity": "blocking",
-                "status": "open",
-                "detail": "VP_AUDIT 2026-10-27: press proof not reconfirmed on re-open (https://sparrso.gov.bd/, status 200); kept partial."
+                "status": "resolved",
+                "detail": "VP_AUDIT 2026-10-27: press proof not reconfirmed on re-open (https://sparrso.gov.bd/, status 200); kept partial.",
+                "resolved_on": "2026-10-28",
+                "resolution": "The SPARRSO homepage again identifies the agency site.",
+                "evidence": {
+                    "url": "https://sparrso.gov.bd/",
+                    "retrieved_on": "2026-10-28",
+                    "evidence": "The homepage title is \"বাংলাদেশ মহাকাশ গবেষণা ও দূর অনুধাবন প্রতিষ্ঠান (স্পারসো)\" (Bangladesh Space Research and Remote Sensing Organization, SPARRSO).",
+                    "why_valid_on": "Fetched 2026-10-28. The official agency homepage is readable and identifies SPARRSO, which reconfirms the press proof."
+                }
             },
             {
                 "id": "f880f11959ab3bc3",
@@ -186269,22 +186277,46 @@
                 "id": "7ddd22e3b3a2dd07",
                 "type": "leadership",
                 "severity": "blocking",
-                "status": "open",
-                "detail": "VP_AUDIT 2026-10-27: government.head_of_state proof not reconfirmed on re-open (https://bangabhaban.gov.bd/, status 200); kept partial."
+                "status": "resolved",
+                "detail": "VP_AUDIT 2026-10-27: government.head_of_state proof not reconfirmed on re-open (https://bangabhaban.gov.bd/, status 200); kept partial.",
+                "resolved_on": "2026-10-28",
+                "resolution": "Bangabhaban still names Mirza Fakhrul Islam Alamgir as President.",
+                "evidence": {
+                    "url": "https://bangabhaban.gov.bd/",
+                    "retrieved_on": "2026-10-28",
+                    "evidence": "The homepage says \"রাষ্ট্রপতি মির্জা ফখরুল ইসলাম আলমগীর\" (President Mirza Fakhrul Islam Alamgir).",
+                    "why_valid_on": "Fetched directly on 2026-10-28 from the President's office homepage, a current official page with no end date."
+                }
             },
             {
                 "id": "892b6881fc5ab3fd",
                 "type": "leadership",
                 "severity": "blocking",
-                "status": "open",
-                "detail": "VP_AUDIT 2026-10-27: government.head_of_government proof not reconfirmed on re-open (https://pmo.gov.bd/, status 200); kept partial."
+                "status": "resolved",
+                "detail": "VP_AUDIT 2026-10-27: government.head_of_government proof not reconfirmed on re-open (https://pmo.gov.bd/, status 200); kept partial.",
+                "resolved_on": "2026-10-28",
+                "resolution": "The Prime Minister's Office homepage still names Tarique Rahman as Prime Minister.",
+                "evidence": {
+                    "url": "https://pmo.gov.bd/",
+                    "retrieved_on": "2026-10-28",
+                    "evidence": "The homepage says \"প্রধানমন্ত্রী জনাব তারেক রহমান\" (Prime Minister Mr Tarique Rahman).",
+                    "why_valid_on": "Fetched directly on 2026-10-28 from the Prime Minister's Office homepage, a current official page with no end date."
+                }
             },
             {
                 "id": "cd6779e9c53c8f9d",
                 "type": "unresolved_claim",
                 "severity": "blocking",
-                "status": "open",
-                "detail": "VP_AUDIT 2026-10-27: government.lead proof not reconfirmed on re-open (https://mod.gov.bd/, status 200); kept partial."
+                "status": "resolved",
+                "detail": "VP_AUDIT 2026-10-27: government.lead proof not reconfirmed on re-open (https://mod.gov.bd/, status 200); kept partial.",
+                "resolved_on": "2026-10-28",
+                "resolution": "The Ministry of Defence page again lists SPARRSO among its attached bodies.",
+                "evidence": {
+                    "url": "https://mod.gov.bd/",
+                    "retrieved_on": "2026-10-28",
+                    "evidence": "The ministry's attached-body list includes \"বাংলাদেশ মহাকাশ গবেষণা ও দূর অনুধাবন প্রতিষ্ঠান\" (Bangladesh Space Research and Remote Sensing Organization).",
+                    "why_valid_on": "Fetched directly on 2026-10-28. The standing attached-body list again places SPARRSO under the Ministry of Defence."
+                }
             }
         ],
         "CHN": [
@@ -188828,8 +188860,16 @@
                 "id": "65f9c76825be51d1",
                 "type": "stakeholder",
                 "severity": "blocking",
-                "status": "open",
-                "detail": "VP_AUDIT 2026-10-27: stakeholder proof not reconfirmed on re-open (https://www.czechspaceportal.cz/wp-content/uploads/2025/11/nkp_2026_2032.pdf, status 200); kept partial."
+                "status": "resolved",
+                "detail": "VP_AUDIT 2026-10-27: stakeholder proof not reconfirmed on re-open (https://www.czechspaceportal.cz/wp-content/uploads/2025/11/nkp_2026_2032.pdf, status 200); kept partial.",
+                "resolved_on": "2026-10-28",
+                "resolution": "The National Space Plan again names CzechInvest as operator of ESA BIC Czech Republic.",
+                "evidence": {
+                    "url": "https://www.czechspaceportal.cz/wp-content/uploads/2025/11/nkp_2026_2032.pdf",
+                    "retrieved_on": "2026-10-28",
+                    "evidence": "The plan says \"Agentura CzechInvest je operátor podnikatelského inkubátoru ESA BIC Czech Republic\" (CzechInvest operates the ESA BIC Czech Republic incubator).",
+                    "why_valid_on": "Fetched 2026-10-28. The CzechInvest sentence is in the National Space Plan PDF, so the stakeholder proof is reconfirmed."
+                }
             }
         ],
         "EST": [
@@ -191137,8 +191177,16 @@
                 "id": "d96539202f635d59",
                 "type": "policy",
                 "severity": "blocking",
-                "status": "open",
-                "detail": "VP_AUDIT 2026-10-27: strategy proof not reconfirmed on re-open (https://www.unoosa.org/documents/pdf/Space4SDGs/Space2030/Bahrain_B.pdf, status 200); kept partial."
+                "status": "resolved",
+                "detail": "VP_AUDIT 2026-10-27: strategy proof not reconfirmed on re-open (https://www.unoosa.org/documents/pdf/Space4SDGs/Space2030/Bahrain_B.pdf, status 200); kept partial.",
+                "resolved_on": "2026-10-28",
+                "resolution": "The UNOOSA return again states Bahrain's 2018 space policy and 2024-2028 strategic plan.",
+                "evidence": {
+                    "url": "https://www.unoosa.org/documents/pdf/Space4SDGs/Space2030/Bahrain_B.pdf",
+                    "retrieved_on": "2026-10-28",
+                    "evidence": "Bahrain's Space2030 return says \"The national space policy announced in 2018, and the 3rd strategic plan (2024-2028) link space activities to national priorities.\"",
+                    "why_valid_on": "Fetched 2026-10-28. The policy and 2024-2028 plan sentence the audit could not reconfirm is in the PDF."
+                }
             }
         ],
         "DZA": [
@@ -193286,8 +193334,16 @@
                 "id": "b6654b118bcd5055",
                 "type": "stakeholder",
                 "severity": "blocking",
-                "status": "open",
-                "detail": "VP_AUDIT 2026-10-27: stakeholder proof not reconfirmed on re-open (https://www.vtg.admin.ch/de/die-armee-staerkt-ihre-faehigkeiten-im-weltraum, status 200); kept partial."
+                "status": "resolved",
+                "detail": "VP_AUDIT 2026-10-27: stakeholder proof not reconfirmed on re-open (https://www.vtg.admin.ch/de/die-armee-staerkt-ihre-faehigkeiten-im-weltraum, status 200); kept partial.",
+                "resolved_on": "2026-10-28",
+                "resolution": "The defence page again describes the army's space role and the Space Competence Centre founded on 1 April 2025.",
+                "evidence": {
+                    "url": "https://www.vtg.admin.ch/de/die-armee-staerkt-ihre-faehigkeiten-im-weltraum",
+                    "retrieved_on": "2026-10-28",
+                    "evidence": "The page, published 9 October 2025, says \"Die Armee stärkt ihre Fähigkeiten im Weltraum\" and \"Das am 1. April 2025 gegründete Kompetenzzentrum Weltraum.\"",
+                    "why_valid_on": "Fetched directly on 2026-10-28 from the armed-forces site. Both sentences the stakeholder proof uses are on the page."
+                }
             }
         ],
         "CYP": [
@@ -193546,15 +193602,31 @@
                 "id": "6f229851766b4d02",
                 "type": "stakeholder",
                 "severity": "blocking",
-                "status": "open",
-                "detail": "VP_AUDIT 2026-10-27: stakeholder proof not reconfirmed on re-open (https://www.bmvg.de/de/aktuelles/erste-weltraumsicherheitsstrategie-der-bundesregierung-6042422, status 200); kept partial."
+                "status": "resolved",
+                "detail": "VP_AUDIT 2026-10-27: stakeholder proof not reconfirmed on re-open (https://www.bmvg.de/de/aktuelles/erste-weltraumsicherheitsstrategie-der-bundesregierung-6042422, status 200); kept partial.",
+                "resolved_on": "2026-10-28",
+                "resolution": "The defence ministry page again records cabinet presentation of the first space security strategy on 19 November 2025.",
+                "evidence": {
+                    "url": "https://www.bmvg.de/de/aktuelles/erste-weltraumsicherheitsstrategie-der-bundesregierung-6042422",
+                    "retrieved_on": "2026-10-28",
+                    "evidence": "The page says ministers \"haben am 19. November 2025 die erste Weltraumsicherheitsstrategie der Bundesregierung im Kabinett vorgestellt.\"",
+                    "why_valid_on": "Fetched directly on 2026-10-28 from the defence ministry. The 19 November 2025 cabinet sentence is on the page."
+                }
             },
             {
                 "id": "9c353025219dfded",
                 "type": "stakeholder",
                 "severity": "blocking",
-                "status": "open",
-                "detail": "VP_AUDIT 2026-10-27: stakeholder proof not reconfirmed on re-open (https://dserver.bundestag.de/btd/21/027/2102796.pdf, status 200); kept partial."
+                "status": "resolved",
+                "detail": "VP_AUDIT 2026-10-27: stakeholder proof not reconfirmed on re-open (https://dserver.bundestag.de/btd/21/027/2102796.pdf, status 200); kept partial.",
+                "resolved_on": "2026-10-28",
+                "resolution": "The Bundestag answer again says space responsibility is in final implementation at the BMFTR.",
+                "evidence": {
+                    "url": "https://dserver.bundestag.de/btd/21/027/2102796.pdf",
+                    "retrieved_on": "2026-10-28",
+                    "evidence": "The government answer says integration of space responsibility into the \"Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR) befindet sich derzeit in der abschließenden Umsetzung.\"",
+                    "why_valid_on": "Fetched 2026-10-28 from Bundestag Drucksache 21/2796. The BMFTR sentence is in the PDF."
+                }
             }
         ],
         "ESP": [
@@ -194761,8 +194833,16 @@
                 "id": "87397419165a5ae9",
                 "type": "source_access",
                 "severity": "blocking",
-                "status": "open",
-                "detail": "Premier Cora Richardson-Hodge: current on the gov.ai homepage (fetched 27 Oct 2026)."
+                "status": "resolved",
+                "detail": "Premier Cora Richardson-Hodge: current on the gov.ai homepage (fetched 27 Oct 2026).",
+                "resolved_on": "2026-10-28",
+                "resolution": "The official homepage still names Cora Richardson-Hodge as Premier of Anguilla.",
+                "evidence": {
+                    "url": "https://www.gov.ai/",
+                    "retrieved_on": "2026-10-28",
+                    "evidence": "The homepage says \"Mrs Cora Richardson-Hodge, Premier of Anguilla\" under \"A message from the Premier\".",
+                    "why_valid_on": "Fetched directly on 2026-10-28 from the standing official homepage, which still presents her as Premier and gives no end date."
+                }
             },
             {
                 "id": "ee15c625a9974596",
@@ -194820,15 +194900,31 @@
                 "id": "eecf14efa4e20174",
                 "type": "leadership",
                 "severity": "blocking",
-                "status": "open",
-                "detail": "VP_AUDIT 2026-10-27: government.head_of_state proof not reconfirmed on re-open (https://www.gov.ai/document/2026-01-27-040221_1900140465.pdf, status 200); kept partial."
+                "status": "resolved",
+                "detail": "VP_AUDIT 2026-10-27: government.head_of_state proof not reconfirmed on re-open (https://www.gov.ai/document/2026-01-27-040221_1900140465.pdf, status 200); kept partial.",
+                "resolved_on": "2026-10-28",
+                "resolution": "The re-opened minutes still name Julia Crouch as Governor on 6 November 2025.",
+                "evidence": {
+                    "url": "https://www.gov.ai/document/2026-01-27-040221_1900140465.pdf",
+                    "retrieved_on": "2026-10-28",
+                    "evidence": "Executive Council minutes for 6 November 2025 list \"Her Excellency the Governor, Ms. Julia Crouch\" as present.",
+                    "why_valid_on": "Fetched 2026-10-28 from the gov.ai minutes PDF. The sentence the audit could not reconfirm is in the document text."
+                }
             },
             {
                 "id": "f5546f6ba851712e",
                 "type": "unresolved_claim",
                 "severity": "blocking",
-                "status": "open",
-                "detail": "VP_AUDIT 2026-10-27: government.lead proof not reconfirmed on re-open (https://www.gov.ai/document/2026-01-27-040221_1900140465.pdf, status 200); kept partial."
+                "status": "resolved",
+                "detail": "VP_AUDIT 2026-10-27: government.lead proof not reconfirmed on re-open (https://www.gov.ai/document/2026-01-27-040221_1900140465.pdf, status 200); kept partial.",
+                "resolved_on": "2026-10-28",
+                "resolution": "The minutes reconfirm who sat as the Executive Council on 6 November 2025.",
+                "evidence": {
+                    "url": "https://www.gov.ai/document/2026-01-27-040221_1900140465.pdf",
+                    "retrieved_on": "2026-10-28",
+                    "evidence": "The same minutes list the Governor, the Premier Mrs. Cora Richardson-Hodge, the Deputy Governor and ministers as present.",
+                    "why_valid_on": "Fetched 2026-10-28. The attendance list is the government.lead proof that the audit had not reconfirmed."
+                }
             }
         ],
         "ATG": [
@@ -194853,8 +194949,16 @@
                 "id": "f888b0f340922464",
                 "type": "leadership",
                 "severity": "blocking",
-                "status": "open",
-                "detail": "Head of government: Gaston Browne is current on the 7 Oct 2026 cabinet note (dated official report)."
+                "status": "resolved",
+                "detail": "Head of government: Gaston Browne is current on the 7 Oct 2026 cabinet note (dated official report).",
+                "resolved_on": "2026-10-28",
+                "resolution": "The official 7 October 2026 cabinet note already names Gaston Browne as Prime Minister.",
+                "evidence": {
+                    "url": "https://ab.gov.ag/detail_template.php?page=media/cabinet_notes/2026/2026_oct-07-cabinet_meeting",
+                    "retrieved_on": "2026-10-28",
+                    "evidence": "The 7 October 2026 cabinet note says \"Prime Minister the Right Honourable Gaston Browne\" updated Cabinet.",
+                    "why_valid_on": "Stored official cabinet-note proof, read 27 October 2026, is a dated government report naming him as the sitting Prime Minister."
+                }
             },
             {
                 "id": "513dc6397c0b42e6",
@@ -194919,15 +195023,31 @@
                 "id": "86bc8790d2e62191",
                 "type": "leadership",
                 "severity": "blocking",
-                "status": "open",
-                "detail": "VP_AUDIT 2026-10-27: government.head_of_state proof not reconfirmed on re-open (https://ab.gov.ag/pdf/throne_speech/2026_throne_speech.pdf, status 200); kept partial."
+                "status": "resolved",
+                "detail": "VP_AUDIT 2026-10-27: government.head_of_state proof not reconfirmed on re-open (https://ab.gov.ag/pdf/throne_speech/2026_throne_speech.pdf, status 200); kept partial.",
+                "resolved_on": "2026-10-28",
+                "resolution": "The throne speech again names Sir Rodney Williams as Governor-General on 20 November 2025.",
+                "evidence": {
+                    "url": "https://ab.gov.ag/pdf/throne_speech/2026_throne_speech.pdf",
+                    "retrieved_on": "2026-10-28",
+                    "evidence": "The speech is headed \"His Excellency Sir Rodney Williams ... Governor-General of Antigua and Barbuda\" and is dated Thursday, 20 November 2025.",
+                    "why_valid_on": "Fetched 2026-10-28. The Governor-General sentence the audit could not reconfirm is in the official PDF."
+                }
             },
             {
                 "id": "d35b227ed6977846",
                 "type": "policy",
                 "severity": "blocking",
-                "status": "open",
-                "detail": "VP_AUDIT 2026-10-27: strategy proof not reconfirmed on re-open (https://ab.gov.ag/pdf/throne_speech/2026_throne_speech.pdf, status 200); kept partial."
+                "status": "resolved",
+                "detail": "VP_AUDIT 2026-10-27: strategy proof not reconfirmed on re-open (https://ab.gov.ag/pdf/throne_speech/2026_throne_speech.pdf, status 200); kept partial.",
+                "resolved_on": "2026-10-28",
+                "resolution": "The 20 November 2025 throne speech still contains no space or satellite reference.",
+                "evidence": {
+                    "url": "https://ab.gov.ag/pdf/throne_speech/2026_throne_speech.pdf",
+                    "retrieved_on": "2026-10-28",
+                    "evidence": "The full fetched throne-speech text contains no \"space\" or \"satellite\"; it does discuss technology in other sectors.",
+                    "why_valid_on": "Fetched 2026-10-28 (39,818 characters). This reconfirms the absence inside this speech only, not a later budget or strategy."
+                }
             }
         ],
         "BHS": [
@@ -195391,15 +195511,31 @@
                 "id": "0f396b66746bc6e6",
                 "type": "stakeholder",
                 "severity": "blocking",
-                "status": "open",
-                "detail": "VP_AUDIT 2026-10-27: stakeholder proof not reconfirmed on re-open (https://www.abe.bo/files/Audiencias-publicas/Informe_RCPI-2026_ABE_23.04.26_3.pdf, status 200); kept partial."
+                "status": "resolved",
+                "detail": "VP_AUDIT 2026-10-27: stakeholder proof not reconfirmed on re-open (https://www.abe.bo/files/Audiencias-publicas/Informe_RCPI-2026_ABE_23.04.26_3.pdf, status 200); kept partial.",
+                "resolved_on": "2026-10-28",
+                "resolution": "The ABE report again names Javier Alexis Andrade Romero as acting executive director.",
+                "evidence": {
+                    "url": "https://www.abe.bo/files/Audiencias-publicas/Informe_RCPI-2026_ABE_23.04.26_3.pdf",
+                    "retrieved_on": "2026-10-28",
+                    "evidence": "The 2026 ABE report names \"Javier Alexis Andrade Romero — Director General Ejecutivo en Suplencia\" by Ministerial Resolution 052 of 27 March 2026.",
+                    "why_valid_on": "Fetched 2026-10-28 from the agency's public-accountability PDF. The office-holder sentence is in the text."
+                }
             },
             {
                 "id": "507bfc4d8edbff5e",
                 "type": "policy",
                 "severity": "blocking",
-                "status": "open",
-                "detail": "VP_AUDIT 2026-10-27: strategy proof not reconfirmed on re-open (https://www.abe.bo/files/Audiencias-publicas/Informe_RCPI-2026_ABE_23.04.26_3.pdf, status 200); kept partial."
+                "status": "resolved",
+                "detail": "VP_AUDIT 2026-10-27: strategy proof not reconfirmed on re-open (https://www.abe.bo/files/Audiencias-publicas/Informe_RCPI-2026_ABE_23.04.26_3.pdf, status 200); kept partial.",
+                "resolved_on": "2026-10-28",
+                "resolution": "The ABE report again states the 2026 expenditure total and the PDES 2021-2025 reference.",
+                "evidence": {
+                    "url": "https://www.abe.bo/files/Audiencias-publicas/Informe_RCPI-2026_ABE_23.04.26_3.pdf",
+                    "retrieved_on": "2026-10-28",
+                    "evidence": "The report's 2026 expenditure table lists total gastos of 241.298.156, and it cites the PDES 2021-2025 as the medium-term reference plan.",
+                    "why_valid_on": "Fetched 2026-10-28. Both the budget total and the PDES reference are in the official PDF."
+                }
             }
         ],
         "BRB": [
@@ -195668,8 +195804,16 @@
                 "id": "61019d2003dad37f",
                 "type": "policy",
                 "severity": "blocking",
-                "status": "open",
-                "detail": "VP_AUDIT 2026-10-27: strategy proof not reconfirmed on re-open (https://www.unoosa.org/documents/pdf/Space4SDGs/Space2030/Cuba_ESP.pdf, status 200); kept partial."
+                "status": "resolved",
+                "detail": "VP_AUDIT 2026-10-27: strategy proof not reconfirmed on re-open (https://www.unoosa.org/documents/pdf/Space4SDGs/Space2030/Cuba_ESP.pdf, status 200); kept partial.",
+                "resolved_on": "2026-10-28",
+                "resolution": "Cuba's Space2030 return again says a policy on the use of space resources is being prepared.",
+                "evidence": {
+                    "url": "https://www.unoosa.org/documents/pdf/Space4SDGs/Space2030/Cuba_ESP.pdf",
+                    "retrieved_on": "2026-10-28",
+                    "evidence": "Cuba's return says work proceeds \"de manera acelerada en una política para la utilización de los recursos espaciales\" (quickly on a policy for the use of space resources).",
+                    "why_valid_on": "Fetched 2026-10-28. The policy sentence the audit could not reconfirm is in the PDF."
+                }
             }
         ],
         "CUW": [
@@ -195815,15 +195959,31 @@
                 "id": "a14cfddf97fee00c",
                 "type": "stakeholder",
                 "severity": "blocking",
-                "status": "open",
-                "detail": "VP_AUDIT 2026-10-27: stakeholder proof not reconfirmed on re-open (https://www.ofreg.ky/viewPDF/documents/2025-09-25-13-04-55-ICT-2025---1----Final-Determination-Licensing-of-Satellite-Services.pdf, status 200); kept partial."
+                "status": "resolved",
+                "detail": "VP_AUDIT 2026-10-27: stakeholder proof not reconfirmed on re-open (https://www.ofreg.ky/viewPDF/documents/2025-09-25-13-04-55-ICT-2025---1----Final-Determination-Licensing-of-Satellite-Services.pdf, status 200); kept partial.",
+                "resolved_on": "2026-10-28",
+                "resolution": "The OfReg determination again shows satellite-spectrum licensing and names Starlink Cayman Islands Ltd.",
+                "evidence": {
+                    "url": "https://www.ofreg.ky/viewPDF/documents/2025-09-25-13-04-55-ICT-2025---1----Final-Determination-Licensing-of-Satellite-Services.pdf",
+                    "retrieved_on": "2026-10-28",
+                    "evidence": "The determination quotes the power to \"issue licences authorising the use of specified portions of the electromagnetic spectrum\" including spectrum \"used on any ... spacecraft registered in the Islands,\" and lists Starlink Cayman Islands Ltd. as a respondent.",
+                    "why_valid_on": "Fetched 2026-10-28. The licensing power and the Starlink respondent are in the official determination."
+                }
             },
             {
                 "id": "949ab85d2991dd02",
                 "type": "policy",
                 "severity": "blocking",
-                "status": "open",
-                "detail": "VP_AUDIT 2026-10-27: strategy proof not reconfirmed on re-open (https://www.ofreg.ky/viewPDF/documents/2025-09-25-13-04-55-ICT-2025---1----Final-Determination-Licensing-of-Satellite-Services.pdf, status 200); kept partial."
+                "status": "resolved",
+                "detail": "VP_AUDIT 2026-10-27: strategy proof not reconfirmed on re-open (https://www.ofreg.ky/viewPDF/documents/2025-09-25-13-04-55-ICT-2025---1----Final-Determination-Licensing-of-Satellite-Services.pdf, status 200); kept partial.",
+                "resolved_on": "2026-10-28",
+                "resolution": "The determination again states that OfReg regulates electromagnetic spectrum.",
+                "evidence": {
+                    "url": "https://www.ofreg.ky/viewPDF/documents/2025-09-25-13-04-55-ICT-2025---1----Final-Determination-Licensing-of-Satellite-Services.pdf",
+                    "retrieved_on": "2026-10-28",
+                    "evidence": "Paragraph 1 says \"The Office also regulates the use of electromagnetic spectrum and manages the .ky Internet domain.\"",
+                    "why_valid_on": "Fetched 2026-10-28. That sentence is the strategy proof the audit had not reconfirmed."
+                }
             }
         ],
         "DMA": [
@@ -195993,15 +196153,31 @@
                 "id": "c1cf5968ece85fb8",
                 "type": "unresolved_claim",
                 "severity": "blocking",
-                "status": "open",
-                "detail": "VP_AUDIT 2026-10-27: government.lead proof not reconfirmed on re-open (https://memoriahistorica.senadord.gob.do/bitstreams/774a3388-1596-48c6-8e25-6cc5151ba922/download, status 200); kept partial."
+                "status": "resolved",
+                "detail": "VP_AUDIT 2026-10-27: government.lead proof not reconfirmed on re-open (https://memoriahistorica.senadord.gob.do/bitstreams/774a3388-1596-48c6-8e25-6cc5151ba922/download, status 200); kept partial.",
+                "resolved_on": "2026-10-28",
+                "resolution": "The official address again states the LOD Holdings commercial spaceport agreement at Oviedo, Pedernales.",
+                "evidence": {
+                    "url": "https://memoriahistorica.senadord.gob.do/bitstreams/774a3388-1596-48c6-8e25-6cc5151ba922/download",
+                    "retrieved_on": "2026-10-28",
+                    "evidence": "The address says \"firmamos un acuerdo histórico con la empresa estadounidense LOD Holdings para el desarrollo de un puerto espacial comercial en Oviedo, en Pedernales.\"",
+                    "why_valid_on": "Fetched 2026-10-28 from the Senate repository transcript. The LOD Holdings sentence is in the text."
+                }
             },
             {
                 "id": "ca8e1f932c0d2964",
                 "type": "policy",
                 "severity": "blocking",
-                "status": "open",
-                "detail": "VP_AUDIT 2026-10-27: strategy proof not reconfirmed on re-open (https://memoriahistorica.senadord.gob.do/bitstreams/774a3388-1596-48c6-8e25-6cc5151ba922/download, status 200); kept partial."
+                "status": "resolved",
+                "detail": "VP_AUDIT 2026-10-27: strategy proof not reconfirmed on re-open (https://memoriahistorica.senadord.gob.do/bitstreams/774a3388-1596-48c6-8e25-6cc5151ba922/download, status 200); kept partial.",
+                "resolved_on": "2026-10-28",
+                "resolution": "The transcript again states more than 600 million dollars of investment in the spaceport project.",
+                "evidence": {
+                    "url": "https://memoriahistorica.senadord.gob.do/bitstreams/774a3388-1596-48c6-8e25-6cc5151ba922/download",
+                    "retrieved_on": "2026-10-28",
+                    "evidence": "The same address says \"Y con mas de 600 millones de dólares de inversión\" for that project.",
+                    "why_valid_on": "Fetched 2026-10-28. The investment sentence is in the transcript and is stated as investment, not a budget line."
+                }
             }
         ],
         "ECU": [
@@ -198968,22 +199144,46 @@
                 "id": "8e2c8ddd29e63f42",
                 "type": "stakeholder",
                 "severity": "blocking",
-                "status": "open",
-                "detail": "VP_AUDIT 2026-10-27: stakeholder proof not reconfirmed on re-open (https://www.unoosa.org/documents/pdf/psa/activities/2023/UN-IAF2023/Presentations/Panel_11_Lepcha_23Sep2023.pdf, status 200); kept partial."
+                "status": "resolved",
+                "detail": "VP_AUDIT 2026-10-27: stakeholder proof not reconfirmed on re-open (https://www.unoosa.org/documents/pdf/psa/activities/2023/UN-IAF2023/Presentations/Panel_11_Lepcha_23Sep2023.pdf, status 200); kept partial.",
+                "resolved_on": "2026-10-28",
+                "resolution": "The GovTech slides again record the India-Bhutan Sat launch with India.",
+                "evidence": {
+                    "url": "https://www.unoosa.org/documents/pdf/psa/activities/2023/UN-IAF2023/Presentations/Panel_11_Lepcha_23Sep2023.pdf",
+                    "retrieved_on": "2026-10-28",
+                    "evidence": "The GovTech slides say \"Developed and Launched the second satellite, India-Bhutan Sat in collaboration with India.\"",
+                    "why_valid_on": "Fetched 2026-10-28. The India-Bhutan Sat sentence is in the 23 September 2023 presentation."
+                }
             },
             {
                 "id": "a9d47ab6450c5b2f",
                 "type": "unresolved_claim",
                 "severity": "blocking",
-                "status": "open",
-                "detail": "VP_AUDIT 2026-10-27: government.lead proof not reconfirmed on re-open (https://www.unoosa.org/documents/pdf/psa/activities/2023/UN-IAF2023/Presentations/Panel_11_Lepcha_23Sep2023.pdf, status 200); kept partial."
+                "status": "resolved",
+                "detail": "VP_AUDIT 2026-10-27: government.lead proof not reconfirmed on re-open (https://www.unoosa.org/documents/pdf/psa/activities/2023/UN-IAF2023/Presentations/Panel_11_Lepcha_23Sep2023.pdf, status 200); kept partial.",
+                "resolved_on": "2026-10-28",
+                "resolution": "The slides again say GovTech formed the Division of Telecom and Space.",
+                "evidence": {
+                    "url": "https://www.unoosa.org/documents/pdf/psa/activities/2023/UN-IAF2023/Presentations/Panel_11_Lepcha_23Sep2023.pdf",
+                    "retrieved_on": "2026-10-28",
+                    "evidence": "The slides say GovTech \"Formed the Satellite Working Group (SWG) and the Division of Telecom and Space (DoTS).\"",
+                    "why_valid_on": "Fetched 2026-10-28. The DoTS sentence is the lead proof the audit had not reconfirmed."
+                }
             },
             {
                 "id": "3a3b353fb3b271ea",
                 "type": "policy",
                 "severity": "blocking",
-                "status": "open",
-                "detail": "VP_AUDIT 2026-10-27: strategy proof not reconfirmed on re-open (https://www.unoosa.org/documents/pdf/psa/activities/2023/UN-IAF2023/Presentations/Panel_11_Lepcha_23Sep2023.pdf, status 200); kept partial."
+                "status": "resolved",
+                "detail": "VP_AUDIT 2026-10-27: strategy proof not reconfirmed on re-open (https://www.unoosa.org/documents/pdf/psa/activities/2023/UN-IAF2023/Presentations/Panel_11_Lepcha_23Sep2023.pdf, status 200); kept partial.",
+                "resolved_on": "2026-10-28",
+                "resolution": "The GovTech slides again describe a space activities plan as being drafted.",
+                "evidence": {
+                    "url": "https://www.unoosa.org/documents/pdf/psa/activities/2023/UN-IAF2023/Presentations/Panel_11_Lepcha_23Sep2023.pdf",
+                    "retrieved_on": "2026-10-28",
+                    "evidence": "The slides list \"Drafting space activities plan\" among current work items.",
+                    "why_valid_on": "Fetched 2026-10-28. The drafting line reconfirms a plan in preparation, not an adopted law or budget."
+                }
             }
         ],
         "COK": [
@@ -206984,8 +207184,16 @@
                 "id": "1a1c2570c7aa84bf",
                 "type": "leadership",
                 "severity": "blocking",
-                "status": "open",
-                "detail": "VP_AUDIT 2026-10-27: government.head_of_state proof not reconfirmed on re-open (https://www.consellgeneral.ad/fitxers/documents/constitucio/titol-iii-dels-coprinceps, status 200); kept partial."
+                "status": "resolved",
+                "detail": "VP_AUDIT 2026-10-27: government.head_of_state proof not reconfirmed on re-open (https://www.consellgeneral.ad/fitxers/documents/constitucio/titol-iii-dels-coprinceps, status 200); kept partial.",
+                "resolved_on": "2026-10-28",
+                "resolution": "The constitution text again names the two co-prince offices.",
+                "evidence": {
+                    "url": "https://www.consellgeneral.ad/fitxers/documents/constitucio/titol-iii-dels-coprinceps",
+                    "retrieved_on": "2026-10-28",
+                    "evidence": "Title III says the co-princes are, personally and exclusively, \"el bisbe d'Urgell i el president de la República Francesa\" (the Bishop of Urgell and the President of the French Republic).",
+                    "why_valid_on": "Fetched 2026-10-28 from the parliament's constitution text. It reconfirms the offices, not the current Bishop's name."
+                }
             }
         ],
         "ATF": [
