@@ -1250,9 +1250,6 @@ function mergeCountryPacket(string $packetPath): void
         throw new RuntimeException("Country packet rejected:\n- ".implode("\n- ", array_unique($errors)));
     }
 
-    ksort($database['files']);
-    ksort($database['evidence']);
-    ksort($database['flags']);
     $coverage['counts'] = countsByStatus($coverage['countries'] ?? [], COUNTRY_STATUSES);
     $coverage['monthly_ready'] = countryMonthlyReady($coverage['countries'] ?? []);
     writeJson(COUNTRY_DIR.'/database.json', $database);

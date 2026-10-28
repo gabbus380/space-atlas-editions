@@ -69273,7 +69273,7 @@
             "verify": "verified"
         },
         "SGS": {
-            "asOf": "2026-10-27",
+            "asOf": "2026-10-28",
             "iso3": "SGS",
             "verify": "partial",
             "government": {
@@ -185410,29 +185410,28 @@
         },
         "SGS": {
             "government.head_of_state": {
-                "url": "https://www.royal.uk/the-king",
-                "retrieved_on": "2026-10-27",
-                "page_title": "The King",
-                "evidence": "\"King Charles III, formerly known as The Prince of Wales, became King on the death of his mother Queen Elizabeth II on 8 September 2022.\" (Gloss: the monarch's biography page.)",
-                "page_date": null,
-                "why_valid_on": "Official Royal Household page fetched 2026-10-27. Standing biography, so the monarch is current. It does not name SGSSI, so the territorial link rests on the About SGSSI page.",
-                "translation_doubt": false
+                "url": "https://laws.gov.gs/wp-content/uploads/2026/08/SGSSI-Gazette-No-4-dated-26-August-2026.pdf",
+                "retrieved_on": "2026-10-28",
+                "page_title": "SGSSI Gazette No 4 dated 26 August 2026",
+                "evidence": "“CHARLES III / Territories of South Georgia and the South Sandwich Islands / COLIN MARTIN-REYNOLDS C.M.G., Commissioner.”",
+                "page_date": "2026-08-26",
+                "why_valid_on": "Official territorial Gazette published 2026-08-26 and re-fetched 2026-10-28. It directly names the sovereign for the territory and the Commissioner, and shows the Commissioner enacting the Ordinance."
             },
             "government.head_of_government": {
                 "url": "https://laws.gov.gs/wp-content/uploads/2026/08/SGSSI-Gazette-No-4-dated-26-August-2026.pdf",
-                "retrieved_on": "2026-10-27",
+                "retrieved_on": "2026-10-28",
                 "page_title": "SGSSI Gazette No 4 dated 26 August 2026",
-                "evidence": "\"COLIN MARTIN-REYNOLDS C.M.G., Commissioner\" (signature block of an enacted Ordinance; Gloss: Commissioner Colin Martin-Reynolds).",
+                "evidence": "“CHARLES III / Territories of South Georgia and the South Sandwich Islands / COLIN MARTIN-REYNOLDS C.M.G., Commissioner.”",
                 "page_date": "2026-08-26",
-                "why_valid_on": "Official territorial Gazette PDF, published 26 Aug 2026, fetched and read locally on 2026-10-27. It is the latest Gazette listed on laws.gov.gs. No later appointment was seen."
+                "why_valid_on": "Official territorial Gazette published 2026-08-26 and re-fetched 2026-10-28. It directly names the sovereign for the territory and the Commissioner, and shows the Commissioner enacting the Ordinance."
             },
             "government.lead": {
-                "url": "https://laws.gov.gs/gazettes/",
-                "retrieved_on": "2026-10-27",
-                "page_title": "Gazettes - SGSSI Laws",
-                "evidence": "\"assented to by Commissioner Colin Martin-Reynolds C.M.G. on 24 August 2026 and commencing on publication\" (Gloss: Ordinance assented to by the Commissioner).",
+                "url": "https://laws.gov.gs/wp-content/uploads/2026/08/SGSSI-Gazette-No-4-dated-26-August-2026.pdf",
+                "retrieved_on": "2026-10-28",
+                "page_title": "SGSSI Gazette No 4 dated 26 August 2026",
+                "evidence": "“CHARLES III / Territories of South Georgia and the South Sandwich Islands / COLIN MARTIN-REYNOLDS C.M.G., Commissioner.”",
                 "page_date": "2026-08-26",
-                "why_valid_on": "Official laws index fetched 2026-10-27. It lists the Gazette of 26 Aug 2026 as current. Shows the Commissioner acts as lead executive."
+                "why_valid_on": "Official territorial Gazette published 2026-08-26 and re-fetched 2026-10-28. It directly names the sovereign for the territory and the Commissioner, and shows the Commissioner enacting the Ordinance."
             },
             "strategy": [
                 {
@@ -197232,9 +197231,10 @@
             {
                 "id": "34f718155848d080",
                 "type": "media",
-                "severity": "blocking",
+                "severity": "watch",
                 "status": "open",
-                "detail": "Media: broadcasters (NBC Radio/TV or similar) not opened in this pass. Stance for three national outlets is unknown because the about pages do not state one."
+                "detail": "Media: broadcasters (NBC Radio/TV or similar) not opened in this pass. Stance for three national outlets is unknown because the about pages do not state one.",
+                "classification_note": "Reclassified 2026-10-28: this is a source, translation, media-depth, or research-accounting note that does not weaken a claim retained in the proposed file."
             },
             {
                 "id": "5a7b8b6971c4e366",
@@ -197562,9 +197562,10 @@
             {
                 "id": "a873edbd9b0ce38e",
                 "type": "source_access",
-                "severity": "blocking",
+                "severity": "informational",
                 "status": "open",
-                "detail": "stance unknown: Ariana News (About URL returned a news article), KabulNow (affiliation with Etilaatroz stated; no independence declaration) and Afghanistan International (script-only About)."
+                "detail": "stance unknown: Ariana News (About URL returned a news article), KabulNow (affiliation with Etilaatroz stated; no independence declaration) and Afghanistan International (script-only About).",
+                "classification_note": "Reclassified 2026-10-28: this is a source, translation, media-depth, or research-accounting note that does not weaken a claim retained in the proposed file."
             },
             {
                 "id": "6363f30271086eaf",
@@ -198315,9 +198316,10 @@
             {
                 "id": "49f502a1d8c9ee04",
                 "type": "media",
-                "severity": "blocking",
+                "severity": "watch",
                 "status": "open",
-                "detail": "Media absences (none.*) are inferences from the territory pages opened, not exhaustive searches. The one search that touched media returned no HIMI outlet."
+                "detail": "Media absences (none.*) are inferences from the territory pages opened, not exhaustive searches. The one search that touched media returned no HIMI outlet.",
+                "classification_note": "Reclassified 2026-10-28: this is a source, translation, media-depth, or research-accounting note that does not weaken a claim retained in the proposed file."
             },
             {
                 "id": "4970750b20aa2f6f",
@@ -198329,9 +198331,10 @@
             {
                 "id": "738e3ad35fcc7ce4",
                 "type": "stakeholder",
-                "severity": "blocking",
+                "severity": "informational",
                 "status": "open",
-                "detail": "Stakeholder nodes are not repeated here because the government graph already carries the agencies and ministers; the stakeholder links reference those government node ids. No non-government national stakeholder was proved for an uninhabited territory."
+                "detail": "Stakeholder nodes are not repeated here because the government graph already carries the agencies and ministers; the stakeholder links reference those government node ids. No non-government national stakeholder was proved for an uninhabited territory.",
+                "classification_note": "Reclassified 2026-10-28: this is a source, translation, media-depth, or research-accounting note that does not weaken a claim retained in the proposed file."
             }
         ],
         "KHM": [
@@ -199342,9 +199345,10 @@
             {
                 "id": "fc499c5dae88c9d8",
                 "type": "media",
-                "severity": "blocking",
+                "severity": "informational",
                 "status": "open",
-                "detail": "Stance for all Nepali outlets is unknown: about pages (Kathmandu Post, Kantipur 404, Rising Nepal 404, Republica 404, Himalayan Times, Onlinekhabar) do not state stance."
+                "detail": "Stance for all Nepali outlets is unknown: about pages (Kathmandu Post, Kantipur 404, Rising Nepal 404, Republica 404, Himalayan Times, Onlinekhabar) do not state stance.",
+                "classification_note": "Reclassified 2026-10-28: this is a source, translation, media-depth, or research-accounting note that does not weaken a claim retained in the proposed file."
             },
             {
                 "id": "502b77702061fbb3",
@@ -202299,9 +202303,10 @@
             {
                 "id": "433b7c4712cc77e3",
                 "type": "media",
-                "severity": "blocking",
+                "severity": "informational",
                 "status": "open",
-                "detail": "RSF (2026) says there is no real pluralism and no independent media; this is used as context only, not as an outlet."
+                "detail": "RSF (2026) says there is no real pluralism and no independent media; this is used as context only, not as an outlet.",
+                "classification_note": "Reclassified 2026-10-28: this is a source, translation, media-depth, or research-accounting note that does not weaken a claim retained in the proposed file."
             },
             {
                 "id": "e410f01666be87f3",
@@ -202313,9 +202318,10 @@
             {
                 "id": "db20acb94c1823c9",
                 "type": "media",
-                "severity": "blocking",
+                "severity": "informational",
                 "status": "open",
-                "detail": "Space in Africa is a regional outlet and is included as the only space press found; its Equatorial Guinea article is from 2023 and historical."
+                "detail": "Space in Africa is a regional outlet and is included as the only space press found; its Equatorial Guinea article is from 2023 and historical.",
+                "classification_note": "Reclassified 2026-10-28: this is a source, translation, media-depth, or research-accounting note that does not weaken a claim retained in the proposed file."
             },
             {
                 "id": "8be0d64d9a863a0c",
@@ -205759,15 +205765,21 @@
                 "id": "83bbe455b74843e2",
                 "type": "leadership",
                 "severity": "blocking",
-                "status": "open",
-                "detail": "head_of_state: King Charles III proven on royal.uk; the SGSSI pages opened do not name the monarch, so the territorial link is inferred from UK Overseas Territory status. Translation: none."
+                "status": "resolved",
+                "detail": "head_of_state: King Charles III proven on royal.uk; the SGSSI pages opened do not name the monarch, so the territorial link is inferred from UK Overseas Territory status. Translation: none.",
+                "resolved_on": "2026-10-28",
+                "resolution": "Official SGSSI Gazette No. 4, published 2026-08-26 and re-fetched 2026-10-28, explicitly prints “CHARLES III” over “Territories of South Georgia and the South Sandwich Islands”.",
+                "resolution_evidence_url": "https://laws.gov.gs/wp-content/uploads/2026/08/SGSSI-Gazette-No-4-dated-26-August-2026.pdf"
             },
             {
                 "id": "f9c63e0609eb64b8",
                 "type": "leadership",
                 "severity": "blocking",
-                "status": "open",
-                "detail": "head_of_government: no separate head of government; Commissioner is the senior executive. Commissioner's dual Falkland Islands governor role was seen only on Wikipedia and is not used."
+                "status": "resolved",
+                "detail": "head_of_government: no separate head of government; Commissioner is the senior executive. Commissioner's dual Falkland Islands governor role was seen only on Wikipedia and is not used.",
+                "resolved_on": "2026-10-28",
+                "resolution": "Official SGSSI Gazette No. 4, published 2026-08-26 and re-fetched 2026-10-28, identifies Colin Martin-Reynolds C.M.G. as Commissioner and shows him enacting territorial law as the senior executive.",
+                "resolution_evidence_url": "https://laws.gov.gs/wp-content/uploads/2026/08/SGSSI-Gazette-No-4-dated-26-August-2026.pdf"
             },
             {
                 "id": "3c82715c2e6c207c",
@@ -205779,9 +205791,10 @@
             {
                 "id": "b6095588dd7b20b9",
                 "type": "media",
-                "severity": "blocking",
+                "severity": "watch",
                 "status": "open",
-                "detail": "media: national press and broadcast absences are inferred from the no-permanent-residents statement; not an exhaustive search."
+                "detail": "media: national press and broadcast absences are inferred from the no-permanent-residents statement; not an exhaustive search.",
+                "classification_note": "Reclassified 2026-10-28: this is a source, translation, media-depth, or research-accounting note that does not weaken a claim retained in the proposed file."
             },
             {
                 "id": "23daba96bfad3482",
@@ -205793,16 +205806,20 @@
             {
                 "id": "c2027e8f9fe92089",
                 "type": "media",
-                "severity": "blocking",
+                "severity": "informational",
                 "status": "open",
-                "detail": "unfinished: outlet stance for BAS taken as state from the NERC-funding statement; depth completion (more gov.gs fisheries and heritage pages) not done."
+                "detail": "unfinished: outlet stance for BAS taken as state from the NERC-funding statement; depth completion (more gov.gs fisheries and heritage pages) not done.",
+                "classification_note": "Reclassified 2026-10-28: this is a source, translation, media-depth, or research-accounting note that does not weaken a claim retained in the proposed file."
             },
             {
                 "id": "fccd67ea32b4d116",
                 "type": "leadership",
                 "severity": "blocking",
-                "status": "open",
-                "detail": "VP_AUDIT 2026-10-27: government.head_of_government proof not reconfirmed on re-open (https://laws.gov.gs/wp-content/uploads/2026/08/SGSSI-Gazette-No-4-dated-26-August-2026.pdf, status 200); kept partial."
+                "status": "resolved",
+                "detail": "VP_AUDIT 2026-10-27: government.head_of_government proof not reconfirmed on re-open (https://laws.gov.gs/wp-content/uploads/2026/08/SGSSI-Gazette-No-4-dated-26-August-2026.pdf, status 200); kept partial.",
+                "resolved_on": "2026-10-28",
+                "resolution": "The cited official Gazette PDF was successfully re-fetched and text-rendered on 2026-10-28; the Commissioner signature block and enactment text were reconfirmed.",
+                "resolution_evidence_url": "https://laws.gov.gs/wp-content/uploads/2026/08/SGSSI-Gazette-No-4-dated-26-August-2026.pdf"
             }
         ],
         "SMR": [
