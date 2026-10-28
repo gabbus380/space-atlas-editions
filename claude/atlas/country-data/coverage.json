@@ -29,11 +29,7 @@
             "status": "partial",
             "last_checked": "2026-10-27",
             "missing": [
-                "addd015d40a62130",
-                "3083bd91fde63eb9",
-                "b43be943c167469c",
-                "1b59e8d46aaa2fda",
-                "6363f30271086eaf"
+                "depth completion and unresolved items (see database flags)"
             ],
             "source": "database",
             "core_status": "partial",
@@ -1073,11 +1069,7 @@
             "status": "partial",
             "last_checked": "2026-10-27",
             "missing": [
-                "02d8fc5ce935584e",
-                "ee3dae1db3f4559e",
-                "198bef602b35f2ff",
-                "e410f01666be87f3",
-                "8be0d64d9a863a0c"
+                "depth completion and unresolved items (see database flags)"
             ],
             "source": "database",
             "core_status": "partial",
@@ -1181,10 +1173,7 @@
             "status": "partial",
             "last_checked": "2026-10-27",
             "missing": [
-                "cc16eabb0b5a65b9",
-                "1b03e3f3b5a3b92b",
-                "deee74036075e5c5",
-                "4970750b20aa2f6f"
+                "depth completion and unresolved items (see database flags)"
             ],
             "source": "database",
             "core_status": "partial",
@@ -2081,12 +2070,7 @@
             "status": "partial",
             "last_checked": "2026-10-27",
             "missing": [
-                "36c4db0ebcf8ca92",
-                "cd0d09a2294ca138",
-                "777e31d198e82947",
-                "a4dbc5e5152c5d3c",
-                "8168841eb6bf1b14",
-                "2e3bd1e2546178e9"
+                "depth completion and unresolved items (see database flags)"
             ],
             "source": "database",
             "core_status": "partial",
@@ -2422,10 +2406,9 @@
         "SGS": {
             "iso3": "SGS",
             "status": "partial",
-            "last_checked": "2026-10-28",
+            "last_checked": "2026-10-27",
             "missing": [
-                "3c82715c2e6c207c",
-                "23daba96bfad3482"
+                "depth completion and unresolved items (see database flags)"
             ],
             "source": "database",
             "core_status": "partial",
@@ -2919,12 +2902,7 @@
             "status": "partial",
             "last_checked": "2026-10-27",
             "missing": [
-                "3f3a4776249e7809",
-                "1e05713670967aa5",
-                "b1be09301e53ec13",
-                "450de54f10bcb9c9",
-                "d37daf98ed58fc12",
-                "5a7b8b6971c4e366"
+                "depth completion and unresolved items (see database flags)"
             ],
             "source": "database",
             "core_status": "partial",
