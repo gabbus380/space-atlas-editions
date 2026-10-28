@@ -2271,6 +2271,14 @@ function selfTest(): void
     $snapshot['TST']['name'] = 'Mutated';
     $assert($snapshotHash !== countrySnapshotHash($snapshot), 'Protected snapshot mutation was not detected.');
 
+    $blockingFlag = normalizeCountryFlag('Current office-holder is not proved.');
+    $watchFlag = normalizeCountryFlag('Translation doubt: title requires a future recheck.');
+    $infoFlag = normalizeCountryFlag('Searches used: 2.');
+    $assert(($blockingFlag['severity'] ?? null) === 'blocking', 'Blocking flag classification failed.');
+    $assert(($watchFlag['severity'] ?? null) === 'watch', 'Watch flag classification failed.');
+    $assert(($infoFlag['severity'] ?? null) === 'informational', 'Informational flag classification failed.');
+    $assert(count(openBlockingFlags([$blockingFlag, $watchFlag, $infoFlag])) === 1, 'Blocking flag gate failed.');
+
     if ($failures !== []) {
         throw new RuntimeException('Self-test failed: '.implode(' ', $failures));
     }

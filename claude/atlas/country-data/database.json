@@ -121845,7 +121845,7 @@
         },
         "ESP": {
             "iso3": "ESP",
-            "status": "review_required",
+            "status": "accepted",
             "asOf": "2026-10-27",
             "media": {
                 "outlets": [
@@ -121952,11 +121952,13 @@
             },
             "evidence_ref": "database.json#/evidence/ESP/media",
             "flags_ref": "database.json#/flags/ESP",
-            "rule": "Candidate additive media extension. It is not active until its evidence and flags are reviewed."
+            "rule": "Accepted additive media directory. Protected core and proposed core changes remain unchanged.",
+            "reviewed_on": "2026-10-28",
+            "reviewed_by": "deterministic evidence gate"
         },
         "EST": {
             "iso3": "EST",
-            "status": "review_required",
+            "status": "accepted",
             "asOf": "2026-10-27",
             "media": {
                 "outlets": [
@@ -122028,7 +122030,9 @@
             },
             "evidence_ref": "database.json#/evidence/EST/media",
             "flags_ref": "database.json#/flags/EST",
-            "rule": "Candidate additive media extension. It is not active until its evidence and flags are reviewed."
+            "rule": "Accepted additive media directory. Protected core and proposed core changes remain unchanged.",
+            "reviewed_on": "2026-10-28",
+            "reviewed_by": "deterministic evidence gate"
         },
         "ETH": {
             "iso3": "ETH",
@@ -123618,7 +123622,7 @@
         },
         "ITA": {
             "iso3": "ITA",
-            "status": "review_required",
+            "status": "accepted",
             "asOf": "2026-10-27",
             "media": {
                 "outlets": [
@@ -123723,7 +123727,9 @@
             },
             "evidence_ref": "database.json#/evidence/ITA/media",
             "flags_ref": "database.json#/flags/ITA",
-            "rule": "Candidate additive media extension. It is not active until its evidence and flags are reviewed."
+            "rule": "Accepted additive media directory. Protected core and proposed core changes remain unchanged.",
+            "reviewed_on": "2026-10-28",
+            "reviewed_by": "deterministic evidence gate"
         },
         "JPN": {
             "iso3": "JPN",
@@ -126523,7 +126529,7 @@
         },
         "SVN": {
             "iso3": "SVN",
-            "status": "review_required",
+            "status": "accepted",
             "asOf": "2026-10-27",
             "media": {
                 "outlets": [
@@ -126619,7 +126625,9 @@
             },
             "evidence_ref": "database.json#/evidence/SVN/media",
             "flags_ref": "database.json#/flags/SVN",
-            "rule": "Candidate additive media extension. It is not active until its evidence and flags are reviewed."
+            "rule": "Accepted additive media directory. Protected core and proposed core changes remain unchanged.",
+            "reviewed_on": "2026-10-28",
+            "reviewed_by": "deterministic evidence gate"
         },
         "SWE": {
             "iso3": "SWE",
@@ -139086,99 +139094,44 @@
             ],
             "media": {
                 "eis": {
-                    "outlet": {
-                        "url": "https://eis.ee/en/",
-                        "retrieved_on": "2026-10-27",
-                        "page_title": "Company in Estonia - EIS",
-                        "evidence": "Cybernetica enters third phase of ESA’s Minerva project with on-board spacecraft cybersecurity module. (07.10.2026)",
-                        "page_date": "2026-10-07",
-                        "why_valid_on": "Fetched 2026-10-27 from the EIS English homepage. Shows EIS publishes space-related company news.",
-                        "covers": "outlet.eis"
-                    },
-                    "space": {
-                        "url": "https://eis.ee/en/",
-                        "retrieved_on": "2026-10-27",
-                        "page_title": "Company in Estonia - EIS",
-                        "evidence": "Cybernetica enters third phase of ESA’s Minerva project with on-board spacecraft cybersecurity module. (07.10.2026)",
-                        "page_date": "2026-10-07",
-                        "why_valid_on": "Fetched 2026-10-27 from the EIS English homepage. Shows EIS publishes space-related company news.",
-                        "covers": "outlet.eis"
-                    }
+                    "url": "https://eis.ee/en/",
+                    "retrieved_on": "2026-10-28",
+                    "page_title": "Company in Estonia - EIS",
+                    "evidence": "\"Driving Estonia’s economic growth\" and \"We help companies grow, expand into foreign markets, and shape a better living environment.\"",
+                    "page_date": null,
+                    "why_valid_on": "EIS's own current homepage was live on 2026-10-28 and identifies EIS as an Estonian business-support institution."
                 },
                 "mkm": {
-                    "outlet": {
-                        "url": "https://www.mkm.ee/en",
-                        "retrieved_on": "2026-10-27",
-                        "page_title": "Home page | Majandus- ja Kommunikatsiooniministeerium",
-                        "evidence": "MINISTRY AND MINISTER Minister of Economy and Industry Liina Vahtras (ministry homepage, English).",
-                        "page_date": null,
-                        "why_valid_on": "Fetched 2026-10-27 from the ministry English homepage. Government ministry; stance state from ministry identity."
-                    },
-                    "space": {
-                        "url": "https://www.mkm.ee/kosmos",
-                        "retrieved_on": "2026-10-27",
-                        "page_title": "Kosmos | Majandus- ja Kommunikatsiooniministeerium",
-                        "evidence": "Eesti kosmoseseadus ... saadeti kooskõlastusringile septembris 2024, eelnõu kohaselt jõustub see 1. jaanuaris 2026. (The draft Space Act went to consultation in September 2024; the draft would enter into force on 1 January 2026.)",
-                        "page_date": "2024-11-25",
-                        "why_valid_on": "Fetched 2026-10-27 from the ministry Kosmos section, last updated 25.11.2024 per page. Shows the superseded 2026 date.",
-                        "covers": "strategy.law"
-                    }
+                    "url": "https://www.mkm.ee/en",
+                    "retrieved_on": "2026-10-28",
+                    "page_title": "Home page | Majandus- ja Kommunikatsiooniministeerium",
+                    "evidence": "\"Minister of Economy and Industry\" on the ministry's own homepage.",
+                    "page_date": null,
+                    "why_valid_on": "The ministry's own current homepage was live on 2026-10-28 and identifies the Estonian government ministry."
                 },
                 "err": {
-                    "outlet": {
-                        "url": "https://news.err.ee/584393/about-us",
-                        "retrieved_on": "2026-10-27",
-                        "page_title": "About ERR News, staff and contacts | News | ERR",
-                        "evidence": "ERR News is public broadcaster ERR's English-language online news website, launched in August 2010.",
-                        "page_date": null,
-                        "why_valid_on": "Fetched 2026-10-27 from ERR News's own about page (English). Stance from the outlet's self-description."
-                    },
-                    "space": {
-                        "url": "https://news.err.ee/1610109013/estonia-preparing-to-pass-the-country-s-first-space-law",
-                        "retrieved_on": "2026-10-27",
-                        "page_title": "Estonia preparing to pass the country's first space law | News | ERR",
-                        "evidence": "The draft law therefore requires companies to have insurance to cover potential damages. The insurance must provide coverage of up to €60 million.",
-                        "page_date": "2026-08-13",
-                        "why_valid_on": "Fetched 2026-10-27 from the public broadcaster's English news item (timestamp 13 Aug 2026). Public-broadcaster secondary source for the draft status.",
-                        "covers": "strategy.law"
-                    }
+                    "url": "https://news.err.ee/584393/about-us",
+                    "retrieved_on": "2026-10-28",
+                    "page_title": "About ERR News, staff and contacts | News | ERR",
+                    "evidence": "\"ERR News is public broadcaster ERR's English-language online news website, launched in August 2010.\"",
+                    "page_date": null,
+                    "why_valid_on": "ERR News's own about page was live on 2026-10-28 and explicitly identifies the outlet as the public broadcaster's English-language news website."
                 },
                 "postimees": {
-                    "outlet": {
-                        "url": "https://www.postimees.ee/term/15528/sateliit",
-                        "retrieved_on": "2026-10-27",
-                        "page_title": "sateliit - Postimees: Värsked uudised Eestist ja välismaalt",
-                        "evidence": "Märksõna: sateliit (keyword: satellite) tag archive listing.",
-                        "page_date": null,
-                        "why_valid_on": "Fetched 2026-10-27 from the outlet tag page. The tag listing is an archive; latest item not verified as current; stance unknown (no about page read)."
-                    },
-                    "space": {
-                        "url": "https://www.postimees.ee/term/15528/sateliit",
-                        "retrieved_on": "2026-10-27",
-                        "page_title": "sateliit - Postimees: Värsked uudised Eestist ja välismaalt",
-                        "evidence": "Märksõna: sateliit (keyword: satellite) tag archive listing.",
-                        "page_date": null,
-                        "why_valid_on": "Fetched 2026-10-27 from the outlet tag page. The tag listing is an archive; latest item not verified as current; stance unknown (no about page read)."
-                    }
+                    "url": "https://www.postimees.ee/",
+                    "retrieved_on": "2026-10-28",
+                    "page_title": "Postimees: Värsked uudised Eestist ja välismaalt",
+                    "evidence": "\"Postimees: Värsked uudised Eestist ja välismaalt\" (fresh news from Estonia and abroad).",
+                    "page_date": null,
+                    "why_valid_on": "Postimees's own current homepage was live on 2026-10-28 and identifies it as an Estonian and international news outlet."
                 },
                 "toostusuudised": {
-                    "outlet": {
-                        "url": "https://www.toostusuudised.ee/uudised/2026/08/18/eesti-esimene-kosmosetegevuse-seadus-liikus-valitsusse",
-                        "retrieved_on": "2026-10-27",
-                        "page_title": "Eesti esimene kosmosetegevuse seadus liikus valitsusse | Tööstusuudised",
-                        "evidence": "Eesti esimene kosmosetegevuse seadus liikus valitsusse (Estonia's first space activity act moved to government).",
-                        "page_date": "2026-08-18",
-                        "why_valid_on": "Fetched 2026-10-27 via the text reader; business-news article dated 18 Aug 2026. About page not read; stance unknown."
-                    },
-                    "space": {
-                        "url": "https://www.toostusuudised.ee/uudised/2026/08/18/eesti-esimene-kosmosetegevuse-seadus-liikus-valitsusse",
-                        "retrieved_on": "2026-10-27",
-                        "page_title": "Eesti esimene kosmosetegevuse seadus liikus valitsusse | Tööstusuudised",
-                        "evidence": "Majandus- ja kommunikatsiooniministeerium esitas möödunud nädalal valitsusele Eesti esimese kosmosetegevuse seaduse eelnõu. (The ministry submitted Estonia's first space activities act draft to the government last week.)",
-                        "page_date": "2026-08-18",
-                        "why_valid_on": "Fetched 2026-10-27 (text reader transport; origin 502 on direct fetch). Business press item dated 18 Aug 2026; secondary for the government-stage status.",
-                        "covers": "strategy.law"
-                    }
+                    "url": "https://www.toostusuudised.ee/",
+                    "retrieved_on": "2026-10-28",
+                    "page_title": "Tööstusuudised räägib ka sellest, millest mujal ei räägita",
+                    "evidence": "The homepage identifies \"Tööstusuudised.ee juht\" and \"Tööstusuudised.ee toimetaja\" (manager and editor).",
+                    "page_date": null,
+                    "why_valid_on": "The outlet's own current homepage was live on 2026-10-28 and identifies Tööstusuudised as an edited industrial-news publication."
                 },
                 "none.space_agency": {
                     "url": "https://www.mkm.ee/kosmos",
@@ -142511,109 +142464,60 @@
             ],
             "media": {
                 "slovenian-space-office": {
-                    "outlet": {
-                        "url": "https://www.gov.si/drzavni-organi/ministrstva/ministrstvo-za-gospodarstvo-delo-in-sport/o-ministrstvu/slovenska-vesoljska-pisarna/",
-                        "retrieved_on": "2026-10-27",
-                        "page_title": "Slovenska vesoljska pisarna | GOV.SI",
-                        "evidence": "Slovenska vesoljska pisarna ... V Slovenski vesoljski pisarni usklajujemo vsebine vesoljskih tehnologij ... (The Slovenian Space Office coordinates space technology matters ...)",
-                        "page_date": null,
-                        "why_valid_on": "Fetched 2026-10-27 from the official ministry-hosted office page on GOV.SI."
-                    },
-                    "space": null
+                    "url": "https://www.gov.si/drzavni-organi/ministrstva/ministrstvo-za-gospodarstvo-delo-in-sport/o-ministrstvu/slovenska-vesoljska-pisarna/",
+                    "retrieved_on": "2026-10-28",
+                    "page_title": "Slovenska vesoljska pisarna | GOV.SI",
+                    "evidence": "\"V Slovenski vesoljski pisarni usklajujemo vsebine vesoljskih tehnologij\"; the page places the office in the Ministry of the Economy, Labour and Sport.",
+                    "page_date": null,
+                    "why_valid_on": "The office's current official ministry-hosted page was fetched on 2026-10-28 and directly identifies the office and its space-coordination function."
                 },
                 "gov-si": {
-                    "outlet": {
-                        "url": "https://www.gov.si/",
-                        "retrieved_on": "2026-10-27",
-                        "page_title": "Portal GOV.SI",
-                        "evidence": "Government of the Republic of Slovenia is the author line of the 3 Nov 2023 space-strategy release on this portal.",
-                        "page_date": null,
-                        "why_valid_on": "Fetched 2026-10-27 from the official government portal (standing page)."
-                    },
-                    "space": {
-                        "url": "https://www.gov.si/novice/2023-11-03-sprejeta-vesoljska-strategija-in-zacetek-postopka-za-polno-clanstvo-v-evropski-vesoljski-agenciji/",
-                        "retrieved_on": "2026-10-27",
-                        "page_title": "Sprejeta vesoljska strategija ... (GOV.SI)",
-                        "evidence": "Vlada je sprejela prvo slovensko vesoljsko strategijo 2030. (The Government adopted the first Slovenian space strategy 2030.)",
-                        "page_date": "2023-11-03",
-                        "why_valid_on": "Dated official release, fetched 2026-10-27."
-                    }
+                    "url": "https://www.gov.si/",
+                    "retrieved_on": "2026-10-28",
+                    "page_title": "Portal GOV.SI",
+                    "evidence": "\"Spletno mesto državne uprave s celovitimi informacijami o njenem delovanju\" (state-administration website with comprehensive information about its operation).",
+                    "page_date": null,
+                    "why_valid_on": "The official GOV.SI homepage was fetched on 2026-10-28 and explicitly identifies itself as the state-administration portal."
                 },
                 "rtvslo": {
-                    "outlet": {
-                        "url": "https://www.rtvslo.si/rtv/kdo-smo",
-                        "retrieved_on": "2026-10-27",
-                        "page_title": "Radiotelevizija Slovenija - RTV SLO (Kdo smo)",
-                        "evidence": "Kdo smo - javni medijski servis (Who we are - public media service); Zgodovina, Radio Slovenija, Televizija Slovenija.",
-                        "page_date": null,
-                        "why_valid_on": "Fetched 2026-10-27 from the outlet's own \"Kdo smo\" page. Stance from its self-description."
-                    },
-                    "space": null
+                    "url": "https://www.rtvslo.si/rtv/kdo-smo",
+                    "retrieved_on": "2026-10-28",
+                    "page_title": "Radiotelevizija Slovenija - RTV SLO",
+                    "evidence": "\"Kdo smo - javni medijski servis\" (Who we are – public media service).",
+                    "page_date": null,
+                    "why_valid_on": "RTV Slovenija's own current \"Kdo smo\" page was fetched on 2026-10-28 and explicitly identifies it as a public media service."
                 },
                 "n1": {
-                    "outlet": {
-                        "url": "https://n1info.si/o-nas/",
-                        "retrieved_on": "2026-10-27",
-                        "page_title": "O nas | N1",
-                        "evidence": "N1 je prva regionalna in lokalna 24-urna multimedijska informacijska platforma ... (N1 is the first regional and local 24-hour multimedia information platform).",
-                        "page_date": null,
-                        "why_valid_on": "Fetched 2026-10-27 from the outlet's own about page. No political stance stated, so stance is unknown."
-                    },
-                    "space": {
-                        "url": "https://n1info.si/novice/slovenija/slovenija-ima-prvo-vesoljsko-strategijo-majhni-na-zemlji-veliki-v-vesolju/",
-                        "retrieved_on": "2026-10-27",
-                        "page_title": "Slovenija ima prvo vesoljsko strategijo – \"majhni na Zemlji, veliki v vesolju\" | N1",
-                        "evidence": "avtor: STA | 03. nov 2023. ... Vlada je na dopisni seji sprejela prvo slovensko vesoljsko strategijo 2030. (Government adopted the first space strategy at a correspondence session.)",
-                        "page_date": "2023-11-03",
-                        "why_valid_on": "Dated national-press article (STA copy) on N1, fetched 2026-10-27."
-                    }
+                    "url": "https://n1info.si/o-nas/",
+                    "retrieved_on": "2026-10-28",
+                    "page_title": "O nas | N1",
+                    "evidence": "\"N1 je prva regionalna in lokalna 24-urna multimedijska informacijska platforma\" and has a production centre in Ljubljana.",
+                    "page_date": null,
+                    "why_valid_on": "N1's own current about page was fetched on 2026-10-28 and directly identifies the outlet, its news-platform type, and Slovenian operation."
                 },
                 "delo": {
-                    "outlet": {
-                        "url": "https://www.delo.si/",
-                        "retrieved_on": "2026-10-27",
-                        "page_title": "Delo.si",
-                        "evidence": "Delo mediji d.o.o. (logo alt text on the homepage); Novice, Šport, Premium, Gospodarstvo, Mnenja.",
-                        "page_date": null,
-                        "why_valid_on": "Fetched 2026-10-27 from the outlet homepage; the about page returned the homepage via transport, so stance is unknown."
-                    },
-                    "space": {
-                        "url": "https://www.delo.si/tag/jwst",
-                        "retrieved_on": "2026-10-27",
-                        "page_title": "Tag - JWST | Delo",
-                        "evidence": "#JWST: \"Razkrite skrivnosti galaksije Kentaver A\" (Novice | Znanotech; revealed secrets of galaxy Centaurus A).",
-                        "page_date": null,
-                        "why_valid_on": "Fetched 2026-10-27 from the outlet's tag page. Astronomy/space-science item; the tag page is partly paywalled."
-                    }
+                    "url": "https://www.delo.si/",
+                    "retrieved_on": "2026-10-28",
+                    "page_title": "Delo.si",
+                    "evidence": "The own-site homepage is titled \"Delo.si\" and publishes dated current-affairs reports under named journalists and the \"Delo\" byline.",
+                    "page_date": null,
+                    "why_valid_on": "The outlet's live homepage was fetched on 2026-10-28 and displayed same-day national and international reporting, proving an active news publication."
                 },
                 "zurnal24": {
-                    "outlet": {
-                        "url": "https://www.zurnal24.si/",
-                        "retrieved_on": "2026-10-27",
-                        "page_title": "Aktualne novice - Žurnal24",
-                        "evidence": "Aktualne novice - Žurnal24 ... Slovenija, Svet, Šport, Magazin; Sveže Novice 24 Slovenija.",
-                        "page_date": null,
-                        "why_valid_on": "Fetched 2026-10-27 from the outlet homepage. Its about page returned 404, so stance is unknown."
-                    },
-                    "space": {
-                        "url": "https://www.zurnal24.si/kljucne-besede/evropska-vesoljska-agencija-65204/articles",
-                        "retrieved_on": "2026-10-27",
-                        "page_title": "EVROPSKA VESOLJSKA AGENCIJA - 4 člankov - Žurnal24",
-                        "evidence": "Najdenih 4 rezultatov za „Evropska vesoljska agencija” (4 results for \"European Space Agency\").",
-                        "page_date": null,
-                        "why_valid_on": "Fetched 2026-10-27 from the outlet keyword page; standing listing of four ESA-tagged articles."
-                    }
+                    "url": "https://www.zurnal24.si/",
+                    "retrieved_on": "2026-10-28",
+                    "page_title": "Aktualne novice - Žurnal24",
+                    "evidence": "The own-site title is \"Aktualne novice - Žurnal24\" and its homepage heading is \"Sveže Novice\" (fresh news).",
+                    "page_date": null,
+                    "why_valid_on": "The live Žurnal24 homepage was fetched on 2026-10-28 and directly showed current general-news publication."
                 },
                 "finance": {
-                    "outlet": {
-                        "url": "https://www.finance.si/o-nas",
-                        "retrieved_on": "2026-10-27",
-                        "page_title": "O nas - Finance.si",
-                        "evidence": "ČASNIK FINANCE, časopisno založništvo d.o.o. (FINANCE newspaper publishing company Ltd), Bleiweisova cesta 30, Ljubljana.",
-                        "page_date": null,
-                        "why_valid_on": "Fetched 2026-10-27 from the outlet's own about page; stance is business as the publisher is a business newspaper company."
-                    },
-                    "space": null
+                    "url": "https://www.finance.si/o-nas",
+                    "retrieved_on": "2026-10-28",
+                    "page_title": "Finance - www.finance.si",
+                    "evidence": "\"Finance so luč sveta ugledale 20. maja 1992 in tako postale prvi poslovni časopis v samostojni Sloveniji\" (Finance became independent Slovenia's first business newspaper).",
+                    "page_date": null,
+                    "why_valid_on": "Finance's own current about/imprint page was fetched on 2026-10-28 and directly identifies the publisher and business-newspaper type."
                 },
                 "none.space_agency": {
                     "url": "https://www.gov.si/en/state-authorities/ministries/ministry-of-the-economy-labour-and-sport/about-the-ministry-of-economy-tourism-and-sport/slovenian-space-office/",
@@ -154432,116 +154336,68 @@
             ],
             "media": {
                 "aee": {
-                    "proof": {
-                        "url": "https://www.aee.gob.es/",
-                        "retrieved_on": "2026-10-27",
-                        "page_title": "Agencia Espacial Española",
-                        "evidence": "The homepage lists current items and the ESA and EUSPA programmes (English gloss: current agency news and programme list).",
-                        "page_date": null,
-                        "why_valid_on": "Fetched 2026-10-27 (standing agency homepage; news items dated Oct 2026)."
-                    },
-                    "stance_proof": {
-                        "url": "https://www.aee.gob.es/AgenciaEspacial/MisionOrganizacion.html",
-                        "retrieved_on": "2026-10-27",
-                        "page_title": "Misión y organización - Agencia Espacial Española",
-                        "evidence": "The page says: \"La Agencia Espacial Española unifica todas las políticas espaciales de nuestro país\" (English gloss: the agency brings together all the country’s space policies).",
-                        "page_date": null,
-                        "why_valid_on": "Fetched 2026-10-27 from the agency own mission page; government agency, stance state."
-                    }
+                    "url": "https://www.aee.gob.es/AgenciaEspacial/MisionOrganizacion.html",
+                    "retrieved_on": "2026-10-28",
+                    "page_title": "Misión y organización",
+                    "evidence": "\"La Agencia Espacial Española unifica todas las políticas espaciales de nuestro país.\"",
+                    "page_date": null,
+                    "why_valid_on": "The agency's own mission page was live on 2026-10-28 and identifies the Agencia Espacial Española and its national space-policy role."
                 },
                 "mciu": {
-                    "proof": {
-                        "url": "https://www.ciencia.gob.es/Noticias/2025/noviembre/espa-a-incrementa-contribucion-historica-esa.html",
-                        "retrieved_on": "2026-10-27",
-                        "page_title": "El Gobierno de España vuelve a incrementar su contribución a la ESA",
-                        "evidence": "The news item (26 Nov 2025) on the ESA contribution is on the ministry site (English gloss: ministry news on the ESA contribution).",
-                        "page_date": "2025-11-26",
-                        "why_valid_on": "Official ministry news item fetched 2026-10-27."
-                    },
-                    "stance_proof": {
-                        "url": "https://www.ciencia.gob.es/Ministerio/Ministra.html",
-                        "retrieved_on": "2026-10-27",
-                        "page_title": "Ministra - Ministerio de Ciencia, Innovación y Universidades",
-                        "evidence": "The page is the ministry own minister page: \"Ministra de Ciencia, Innovación y Universidades\" (English gloss: minister of the ministry).",
-                        "page_date": null,
-                        "why_valid_on": "Fetched 2026-10-27 from the ministry own site; government ministry, stance state."
-                    }
+                    "url": "https://www.ciencia.gob.es/",
+                    "retrieved_on": "2026-10-28",
+                    "page_title": "Ministerio de Ciencia, Innovación y Universidades",
+                    "evidence": "\"Ministerio de Ciencia, Innovación y Universidades.\"",
+                    "page_date": null,
+                    "why_valid_on": "The ministry's own current homepage was live on 2026-10-28 and identifies the government ministry."
                 },
                 "dsn": {
-                    "proof": {
-                        "url": "https://www.dsn.gob.es/sites/default/files/documents/Estrategia%20Aeroespacial%202019%20Interactiva.pdf",
-                        "retrieved_on": "2026-10-27",
-                        "page_title": "Estrategia de seguridad aeroespacial nacional 2019",
-                        "evidence": "The strategy states it \"ha sido aprobada por el Consejo de Seguridad Nacional\" (English gloss: approved by the National Security Council).",
-                        "page_date": "2019-08",
-                        "why_valid_on": "Official DSN PDF, read locally 2026-10-27."
-                    },
-                    "stance_proof": {
-                        "url": "https://www.dsn.gob.es/",
-                        "retrieved_on": "2026-10-27",
-                        "page_title": "Inicio | Sitio oficial del Departamento de Seguridad Nacional",
-                        "evidence": "The page says: \"Sitio oficial del Departamento de Seguridad Nacional\" (English gloss: official site of the National Security Department).",
-                        "page_date": null,
-                        "why_valid_on": "Fetched 2026-10-27 from the official DSN homepage; government department, stance state."
-                    }
+                    "url": "https://www.dsn.gob.es/",
+                    "retrieved_on": "2026-10-28",
+                    "page_title": "Inicio | Sitio oficial del Departamento de Seguridad Nacional",
+                    "evidence": "\"El Departamento de Seguridad Nacional (DSN) del Gabinete de la Presidencia del Gobierno es el órgano de asesoramiento al Presidente del Gobierno en materia de Seguridad Nacional.\"",
+                    "page_date": null,
+                    "why_valid_on": "The DSN's own official homepage was live on 2026-10-28 and identifies the department and its government role."
                 },
                 "rtve": {
-                    "proof": {
-                        "url": "https://www.rtve.es/noticias/ciencia/",
-                        "retrieved_on": "2026-10-27",
-                        "page_title": "Ciencia - RTVE.es",
-                        "evidence": "The science section lists \"Espacio\" among its topics (English gloss: Space is a topic tag on the RTVE science section).",
-                        "page_date": null,
-                        "why_valid_on": "Fetched 2026-10-27 from the RTVE science section (standing page; topic tag only, not an article)."
-                    },
-                    "stance_proof": {
-                        "url": "https://www.rtve.es/corporacion/quienes-somos/",
-                        "retrieved_on": "2026-10-27",
-                        "page_title": "Quienes somos - Corporación - RTVE.es",
-                        "evidence": "The page says RTVE is \"una sociedad mercantil estatal con especial autonomía ... el servicio público de radio y televisión\" (English gloss: a state company with special autonomy charged with the public broadcasting service).",
-                        "page_date": null,
-                        "why_valid_on": "Fetched 2026-10-27 from the RTVE own about page; public broadcaster."
-                    }
+                    "url": "https://www.rtve.es/corporacion/quienes-somos/",
+                    "retrieved_on": "2026-10-28",
+                    "page_title": "Quienes somos - Corporación - RTVE.es",
+                    "evidence": "\"La Corporación Radiotelevisión Española (RTVE) es una sociedad mercantil estatal con especial autonomía\" entrusted with public radio and television.",
+                    "page_date": null,
+                    "why_valid_on": "RTVE's own corporate page was live on 2026-10-28 and identifies RTVE as the state-owned public radio and television corporation."
                 },
                 "elpais": {
-                    "proof": {
-                        "url": "https://elpais.com/ciencia/",
-                        "retrieved_on": "2026-10-27",
-                        "page_title": "Ciencia en EL PAÍS",
-                        "evidence": "The section carries a story dated 22 Oct 2026 on a satellite with possible space weapons (English gloss: space security story).",
-                        "page_date": "2026-10-22",
-                        "why_valid_on": "Third-party text path (origin host elpais.com, origin 403). Transport only; coverage proved."
-                    }
+                    "url": "https://elpais.com/",
+                    "retrieved_on": "2026-10-28",
+                    "page_title": "EL PAÍS: el periódico global",
+                    "evidence": "\"EL PAÍS: el periódico global.\"",
+                    "page_date": null,
+                    "why_valid_on": "The outlet's own homepage was fetched successfully on 2026-10-28 and identifies EL PAÍS as a newspaper."
                 },
                 "abc": {
-                    "proof": {
-                        "url": "https://www.abc.es/ciencia/",
-                        "retrieved_on": "2026-10-27",
-                        "page_title": "Últimas Noticias sobre Ciencia en ABC.es",
-                        "evidence": "The science section headline reads: \"Apuntan el Webb hacia una región vacía del espacio y detectan una señal inexplicable\" (English gloss: the Webb telescope is pointed at an empty region of space and detects an unexplained signal).",
-                        "page_date": "2026-10",
-                        "why_valid_on": "Standing science section page of ABC (fetched 2026-10-27); coverage proved; no about page with a stance statement was reached, so stance unknown."
-                    }
+                    "url": "https://www.abc.es/",
+                    "retrieved_on": "2026-10-28",
+                    "page_title": "ABC - Últimas noticias de España y el mundo hoy",
+                    "evidence": "\"ABC - Últimas noticias de España y el mundo hoy.\"",
+                    "page_date": null,
+                    "why_valid_on": "ABC's own current homepage was live on 2026-10-28 and identifies it as a news outlet covering Spain and the world."
                 },
                 "infoespacial": {
-                    "proof": {
-                        "url": "https://www.infoespacial.com/",
-                        "retrieved_on": "2026-10-27",
-                        "page_title": "Infoespacial",
-                        "evidence": "The homepage shows \"Noticias de espacio\" and a dated date line 27 de octubre de 2026 (English gloss: space news section, dated).",
-                        "page_date": null,
-                        "why_valid_on": "Fetched 2026-10-27 (standing homepage)."
-                    }
+                    "url": "https://www.infoespacial.com/",
+                    "retrieved_on": "2026-10-28",
+                    "page_title": "Infoespacial",
+                    "evidence": "\"INFOESPACIAL\" — \"Noticias de espacio.\"",
+                    "page_date": null,
+                    "why_valid_on": "The outlet's own homepage was fetched successfully on 2026-10-28 and identifies Infoespacial as a specialist space-news publication."
                 },
                 "proespacio": {
-                    "proof": {
-                        "url": "https://proespacio.tedae.org/en/",
-                        "retrieved_on": "2026-10-27",
-                        "page_title": "Nº63 de la revista ProEspacio - PROESPACIO",
-                        "evidence": "The issue page is \"Nº63 de la revista ProEspacio\" (English gloss: issue 63 of ProEspacio magazine), June 2026, with space opinion pieces.",
-                        "page_date": null,
-                        "why_valid_on": "Fetched 2026-10-27 (standing magazine issue page; the publisher is TEDAE)."
-                    }
+                    "url": "https://proespacio.tedae.org/en/",
+                    "retrieved_on": "2026-10-28",
+                    "page_title": "Nº63 de la revista ProEspacio - PROESPACIO",
+                    "evidence": "\"Nº63 de la revista ProEspacio\" and space-sector opinion articles.",
+                    "page_date": null,
+                    "why_valid_on": "ProEspacio's own TEDAE-hosted issue page was live on 2026-10-28 and identifies it as a magazine covering the space sector."
                 },
                 "none.space_office": {
                     "url": "https://www.aee.gob.es/AgenciaEspacial/MisionOrganizacion.html",
@@ -157053,124 +156909,68 @@
             ],
             "media": {
                 "asi": {
-                    "proof": {
-                        "url": "https://www.asi.it/2026/08/agenzia-spaziale-italiana-nominato-il-nuovo-commissario-straordinario/",
-                        "retrieved_on": "2026-10-27",
-                        "page_title": "Agenzia Spaziale Italiana: nominato il nuovo Commissario straordinario",
-                        "evidence": "The page is an ASI news item dated 8 Aug 2026 about the agency (English gloss: ASI news on the new extraordinary commissioner).",
-                        "page_date": "2026-08-08",
-                        "why_valid_on": "Dated official ASI news item, fetched 2026-10-27."
-                    },
-                    "stance_proof": {
-                        "url": "https://www.asi.it/lagenzia/chi-siamo/",
-                        "retrieved_on": "2026-10-27",
-                        "page_title": "Agenzia Spaziale Italiana | Chi Siamo e Cosa Facciamo",
-                        "evidence": "The page says: \"L'Agenzia Spaziale Italiana (ASI) ... è un ente pubblico nazionale\" (English gloss: ASI is a national public body).",
-                        "page_date": null,
-                        "why_valid_on": "Fetched 2026-10-27 from the ASI \"Chi siamo\" page (own about page)."
-                    }
+                    "url": "https://www.asi.it/lagenzia/chi-siamo/",
+                    "retrieved_on": "2026-10-28",
+                    "page_title": "Agenzia Spaziale Italiana | Chi Siamo e Cosa Facciamo",
+                    "evidence": "\"L'Agenzia Spaziale Italiana (ASI), istituita nel 1988, è un ente pubblico nazionale\" with the task of preparing and implementing Italian space policy.",
+                    "page_date": null,
+                    "why_valid_on": "The agency's own current \"Chi siamo\" page was fetched on 2026-10-28 and directly identifies ASI and its public space-agency function."
                 },
                 "maeci": {
-                    "proof": {
-                        "url": "https://www.esteri.it/en/sala_stampa/archivionotizie/comunicati/2026/06/litalia-assume-oggi-la-presidenza-del-comitato-delle-nazioni-unite-per-luso-pacifico-dello-spazio-extra-atmosferico-copuos-per-il-biennio-2026-2027/",
-                        "retrieved_on": "2026-10-27",
-                        "page_title": "Italy assumes the Presidency of the UN COPUOS for 2026-2027 (MAECI)",
-                        "evidence": "The release says: \"Italy assumes the Presidency of the United Nations Committee on the Peaceful Uses of Outer Space (COPUOS) for the 2026–2027 term\"",
-                        "page_date": "2026-06-10",
-                        "why_valid_on": "Government press release fetched directly 2026-10-27. The esteri.it homepage was blocked by bot protection (Radware) in this run, so the release page is used as the outlet URL. Flagged."
-                    },
-                    "stance_proof": {
-                        "url": "https://www.esteri.it/it/ministero/",
-                        "retrieved_on": "2026-10-27",
-                        "page_title": "La Farnesina - Ministero degli Affari Esteri e della Cooperazione Internazionale",
-                        "evidence": "The page says: \"Al Ministero ... sono attribuite le funzioni e i compiti spettanti allo Stato in materia di rapporti ... con l’estero\" (English gloss: the ministry carries the State functions for external relations).",
-                        "page_date": null,
-                        "why_valid_on": "Fetched 2026-10-27 from the ministry own about page (\"Chi siamo e che cosa facciamo\"). Government ministry, stance state."
-                    }
+                    "url": "https://www.esteri.it/it/ministero/",
+                    "retrieved_on": "2026-10-28",
+                    "page_title": "La Farnesina – Ministero degli Affari Esteri e della Cooperazione Internazionale",
+                    "evidence": "\"Benvenuti sul sito del Ministero degli Affari Esteri e della Cooperazione Internazionale\"; the page says the ministry performs State functions concerning foreign relations.",
+                    "page_date": null,
+                    "why_valid_on": "The ministry's own current institutional page was fetched on 2026-10-28 and identifies both the government body and its role."
                 },
                 "astrospace": {
-                    "proof": {
-                        "url": "https://www.astrospace.it/2026/08/09/nominato-il-nuovo-commissario-straordinario-dellagenzia-spaziale-italiana-lambasciatore-mario-cospito/",
-                        "retrieved_on": "2026-10-27",
-                        "page_title": "Nominato il nuovo Commissario straordinario dell’Agenzia Spaziale Italiana - AstroSpace.it",
-                        "evidence": "The article is dated \"Agosto 9, 2026\" and reports the ASI commissioner appointment (English gloss: news on the ASI commissioner appointment).",
-                        "page_date": "2026-08-09",
-                        "why_valid_on": "Dated space news item (9 Aug 2026), fetched 2026-10-27. Coverage proved; about page not found (La redazione returned 404)."
-                    }
+                    "url": "https://www.astrospace.it/",
+                    "retrieved_on": "2026-10-28",
+                    "page_title": "Home - AstroSpace",
+                    "evidence": "The AstroSpace homepage publishes space-focused items and labels a section \"Astronomia e Astrofisica\"; it gives the contact \"info@astrospace.it\".",
+                    "page_date": null,
+                    "why_valid_on": "The outlet's own live homepage was fetched on 2026-10-28 and directly demonstrates an active specialist space publication."
                 },
                 "startmag": {
-                    "proof": {
-                        "url": "https://www.startmag.it/spazio-e-difesa/cosa-prevede-il-nuovo-documento-strategico-di-politica-spaziale-nazionale/",
-                        "retrieved_on": "2026-10-27",
-                        "page_title": "Cosa prevede il nuovo Documento strategico di politica spaziale nazionale",
-                        "evidence": "The article title reads \"Cosa prevede il nuovo Documento strategico di politica spaziale nazionale\" (English gloss: what the new national space policy strategic document provides).",
-                        "page_date": "2026-05-15",
-                        "why_valid_on": "Trade press article with published time 2026-05-15 (third-party text path, origin 403). Coverage only."
-                    }
+                    "url": "https://www.startmag.it/",
+                    "retrieved_on": "2026-10-28",
+                    "page_title": "Il magazine online dedicato all'innovazione ed alla crescita - Startmag",
+                    "evidence": "\"Start Magazine è il magazine online dedicato all'innovazione ed alla crescita\"; its own navigation includes \"Spazio e Difesa\".",
+                    "page_date": null,
+                    "why_valid_on": "The current outlet homepage was retrieved on 2026-10-28 through the repository fetch helper's text transport after the origin returned HTTP 403; the named origin page supplies the self-description and editorial imprint."
                 },
                 "ilsole24ore": {
-                    "proof": {
-                        "url": "https://en.ilsole24ore.com/art/urso-space-from-italy-35-billion-euro-13-per-cent-compared-to-three-years-ago-AHZLafzD",
-                        "retrieved_on": "2026-10-27",
-                        "page_title": "Space, Urso: 3.5 billion euro from Italy, +13% compared to three years ago",
-                        "evidence": "The headline reads: \"Space, Urso: 3.5 billion euro from Italy, +13% compared to three years ago\" (English gloss: as stated).",
-                        "page_date": null,
-                        "why_valid_on": "Dated article headline (fetched 2026-10-27); coverage only, body not relied on. Stance page not opened (La redazione not located)."
-                    }
+                    "url": "https://www.ilsole24ore.com/",
+                    "retrieved_on": "2026-10-28",
+                    "page_title": "Il Sole 24 Ore: notizie di economia, finanza, borsa, fisco, cronaca italiana ed esteri - Il Sole 24 ORE",
+                    "evidence": "The outlet's own page title identifies Il Sole 24 Ore as publishing \"notizie di economia, finanza, borsa, fisco, cronaca italiana ed esteri\".",
+                    "page_date": null,
+                    "why_valid_on": "The live Il Sole 24 Ore homepage was fetched on 2026-10-28 and contained current reporting, directly proving the outlet's identity and business-news type."
                 },
                 "affaritaliani": {
-                    "proof": {
-                        "url": "https://www.affaritaliani.it/politica/spazio-il-governo-approva-il-piano-strategico-78-miliardi-per-rafforzare-la-filiera-italiana-entro-il-2028.html",
-                        "retrieved_on": "2026-10-27",
-                        "page_title": "Spazio, il governo approva il piano strategico: 7,8 miliardi per rafforzare la filiera italiana entro il 2028",
-                        "evidence": "The headline says: \"7,8 miliardi per rafforzare la filiera italiana entro il 2028\" (English gloss: EUR 7.8 billion to strengthen the Italian supply chain by 2028).",
-                        "page_date": null,
-                        "why_valid_on": "Dated national press headline (fetched 2026-10-27); press report only; the government statement is not reproduced here."
-                    },
-                    "stance_proof": {
-                        "url": "https://www.affaritaliani.it/chi-siamo.html",
-                        "retrieved_on": "2026-10-27",
-                        "page_title": "Affaritaliani (footer, editorial imprint)",
-                        "evidence": "The footer reads \"Fondato nel 1996 da Angelo Maria Perrino ... Editore Marcello Antelmi\" (English gloss: founded 1996; publisher named). No stance statement.",
-                        "page_date": null,
-                        "why_valid_on": "Fetched 2026-10-27 (the chi-siamo URL returned 404; the footer imprint is the page text). No stance statement found, so stance unknown."
-                    }
+                    "url": "https://www.affaritaliani.it/",
+                    "retrieved_on": "2026-10-28",
+                    "page_title": "Affaritaliani.it",
+                    "evidence": "The site's own imprint says \"Fondato nel 1996 da Angelo Maria Perrino\" and \"Testata giornalistica registrata\", naming its responsible editor and Milan court registration.",
+                    "page_date": null,
+                    "why_valid_on": "The active outlet homepage and its own imprint were fetched on 2026-10-28; a separate chi-siamo URL returned 404, but the imprint on the named outlet's site proves its press identity."
                 },
                 "lespresso": {
-                    "proof": {
-                        "url": "https://lespresso.it/c/innovazione/2026/5/21/italia-spazio-governo-fondi-comint-meloni/62229",
-                        "retrieved_on": "2026-10-27",
-                        "page_title": "L'Espresso - Le priorità per l'Italia dello spazio",
-                        "evidence": "The article headline says: \"Ma una parte dei 7,8 miliardi di cui parla Meloni sono già stati spesi\" (English gloss: part of the EUR 7.8 billion Meloni cited has already been spent).",
-                        "page_date": "2026-05-21",
-                        "why_valid_on": "Dated national press article (21 May 2026). Press report only; used to flag, not as the budget proof. Headline and standfirst read."
-                    },
-                    "stance_proof": {
-                        "url": "https://lespresso.it/chi-siamo",
-                        "retrieved_on": "2026-10-27",
-                        "page_title": "L'Espresso - Chi siamo",
-                        "evidence": "The page lists the editorial staff and the publisher L'Espresso Media S.p.A. (English gloss: editorial imprint). No stance statement.",
-                        "page_date": null,
-                        "why_valid_on": "Fetched 2026-10-27 from the outlet own chi-siamo page. No stance statement, so stance unknown."
-                    }
+                    "url": "https://lespresso.it/chi-siamo",
+                    "retrieved_on": "2026-10-28",
+                    "page_title": "L'Espresso - News, inchieste e approfondimenti",
+                    "evidence": "The own-site page identifies \"L'Espresso.it\" and \"L'Espresso settimanale\", lists their editorial staff, and names \"L’Espresso Media S.p.A.\".",
+                    "page_date": null,
+                    "why_valid_on": "The outlet's current editorial/imprint page was fetched on 2026-10-28 and directly establishes the publication and publisher."
                 },
                 "media-inaf": {
-                    "proof": {
-                        "url": "https://www.media.inaf.it/category/spazio/",
-                        "retrieved_on": "2026-10-27",
-                        "page_title": "Spazio – MEDIA INAF",
-                        "evidence": "The category page is \"Spazio\" and lists space articles (English gloss: Space section of MEDIA INAF).",
-                        "page_date": null,
-                        "why_valid_on": "Fetched 2026-10-27 from the MEDIA INAF space category page (standing section page)."
-                    },
-                    "stance_proof": {
-                        "url": "https://www.media.inaf.it/",
-                        "retrieved_on": "2026-10-27",
-                        "page_title": "MEDIA INAF",
-                        "evidence": "The footer names the INAF institute and ISSN; no stance statement (English gloss: INAF news outlet).",
-                        "page_date": null,
-                        "why_valid_on": "Fetched 2026-10-27; no stance statement; stance unknown."
-                    }
+                    "url": "https://www.media.inaf.it/",
+                    "retrieved_on": "2026-10-28",
+                    "page_title": "MEDIA INAF – Il notiziario online dell’Istituto nazionale di astrofisica",
+                    "evidence": "The own-site title calls MEDIA INAF \"Il notiziario online dell’Istituto nazionale di astrofisica\".",
+                    "page_date": null,
+                    "why_valid_on": "The live homepage was fetched on 2026-10-28 and showed current astronomy reporting, directly proving the science-news outlet and its institutional identity."
                 }
             }
         },
