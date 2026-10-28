@@ -187503,8 +187503,16 @@
                 "id": "93b5f99f02d6d940",
                 "type": "policy",
                 "severity": "blocking",
-                "status": "open",
-                "detail": "VP_AUDIT 2026-10-27: strategy proof not reconfirmed on re-open (https://www.isro.gov.in/media_isro/pdf/IndianSpacePolicy2023.pdf, status 200); kept partial."
+                "status": "resolved",
+                "detail": "VP_AUDIT 2026-10-27: strategy proof not reconfirmed on re-open (https://www.isro.gov.in/media_isro/pdf/IndianSpacePolicy2023.pdf, status 200); kept partial.",
+                "resolved_on": "2026-10-28",
+                "resolution": "Indian Space Policy-2023 says the Department of Space is the nodal department for its implementation.",
+                "evidence": {
+                    "url": "https://www.isro.gov.in/media_isro/pdf/IndianSpacePolicy2023.pdf",
+                    "retrieved_on": "2026-10-28",
+                    "evidence": "\"Department of Space: DOS shall: ... be the nodal department for implementation of the Indian Space Policy-2023 through detailed policy directives.\"",
+                    "why_valid_on": "The official ISRO-hosted policy PDF, read 2026-10-28, assigns implementation to the Department of Space. That is the strategy proof the audit did not reconfirm."
+                }
             }
         ],
         "JPN": [
@@ -187644,8 +187652,16 @@
                 "id": "bd9c54b19134cdc8",
                 "type": "stakeholder",
                 "severity": "blocking",
-                "status": "open",
-                "detail": "VP_AUDIT 2026-10-27: stakeholder proof not reconfirmed on re-open (https://www.soumu.go.jp/, status 200); kept partial."
+                "status": "resolved",
+                "detail": "VP_AUDIT 2026-10-27: stakeholder proof not reconfirmed on re-open (https://www.soumu.go.jp/, status 200); kept partial.",
+                "resolved_on": "2026-10-28",
+                "resolution": "The official homepage identifies the ministry as 総務省 on a page current to 28 October 2026.",
+                "evidence": {
+                    "url": "https://www.soumu.go.jp/",
+                    "retrieved_on": "2026-10-28",
+                    "evidence": "The ministry homepage is headed \"総務省\" and lists items dated 2026年10月28日.",
+                    "why_valid_on": "Direct fetch on 2026-10-28 of the official homepage. The page title is the stakeholder identity the audit did not reconfirm. It does not state a space role."
+                }
             }
         ],
         "KOR": [
@@ -190287,8 +190303,16 @@
                 "id": "b6241e1f7c80d96c",
                 "type": "policy",
                 "severity": "blocking",
-                "status": "open",
-                "detail": "VP_AUDIT 2026-10-27: strategy proof not reconfirmed on re-open (https://adilet.zan.kz/rus/docs/Z1200000528, status 200); kept partial."
+                "status": "resolved",
+                "detail": "VP_AUDIT 2026-10-27: strategy proof not reconfirmed on re-open (https://adilet.zan.kz/rus/docs/Z1200000528, status 200); kept partial.",
+                "resolved_on": "2026-10-28",
+                "resolution": "The Adilet text of the space-activity law defines national operators of space systems.",
+                "evidence": {
+                    "url": "https://adilet.zan.kz/rus/docs/Z1200000528",
+                    "retrieved_on": "2026-10-28",
+                    "evidence": "\"национальные операторы космических систем – юридические лица, осуществляющие создание, эксплуатацию и развитие космических систем\" (national operators of space systems are legal entities that create, operate and develop space systems).",
+                    "why_valid_on": "The official Adilet text of the law on space activity, read 2026-10-28, contains the definition used as the strategy proof."
+                }
             }
         ],
         "KGZ": [
@@ -191211,8 +191235,16 @@
                 "id": "b1345f2ccd8869ad",
                 "type": "policy",
                 "severity": "blocking",
-                "status": "open",
-                "detail": "VP_AUDIT 2026-10-27: strategy proof not reconfirmed on re-open (https://www.unoosa.org/documents/pdf/copuos/lsc/2024/Statements/4_Algeria.pdf, status 200); kept partial."
+                "status": "resolved",
+                "detail": "VP_AUDIT 2026-10-27: strategy proof not reconfirmed on re-open (https://www.unoosa.org/documents/pdf/copuos/lsc/2024/Statements/4_Algeria.pdf, status 200); kept partial.",
+                "resolved_on": "2026-10-28",
+                "resolution": "The UNOOSA statement names the Programme Spatial National and its 2040 horizon.",
+                "evidence": {
+                    "url": "https://www.unoosa.org/documents/pdf/copuos/lsc/2024/Statements/4_Algeria.pdf",
+                    "retrieved_on": "2026-10-28",
+                    "evidence": "\"inscrits dans son Programme Spatial National horizon 2040\" (listed in its National Space Programme, horizon 2040).",
+                    "why_valid_on": "Fetched 2026-10-28 from the Algerian delegation's COPUOS statement. The sentence names the National Space Programme and the 2040 horizon, which is the strategy proof this audit flag said was not reconfirmed."
+                }
             }
         ],
         "EGY": [
@@ -192687,15 +192719,31 @@
                 "id": "d8962d222a7dac3b",
                 "type": "stakeholder",
                 "severity": "blocking",
-                "status": "open",
-                "detail": "VP_AUDIT 2026-10-27: stakeholder proof not reconfirmed on re-open (https://api.hankeikkuna.fi/asiakirjat/9c722d3a-eb9e-4b24-a643-833fafcd8636/d19d1368-c276-42d5-adc6-3810338e63c3/JULKAISU_20250218144827.PDF, status 200); kept partial."
+                "status": "resolved",
+                "detail": "VP_AUDIT 2026-10-27: stakeholder proof not reconfirmed on re-open (https://api.hankeikkuna.fi/asiakirjat/9c722d3a-eb9e-4b24-a643-833fafcd8636/d19d1368-c276-42d5-adc6-3810338e63c3/JULKAISU_20250218144827.PDF, status 200); kept partial.",
+                "resolved_on": "2026-10-28",
+                "resolution": "The Space Strategy 2030 PDF names the ministry and the Finnish Space Committee as its authors.",
+                "evidence": {
+                    "url": "https://api.hankeikkuna.fi/asiakirjat/9c722d3a-eb9e-4b24-a643-833fafcd8636/d19d1368-c276-42d5-adc6-3810338e63c3/JULKAISU_20250218144827.PDF",
+                    "retrieved_on": "2026-10-28",
+                    "evidence": "\"Group author Ministry of Economic Affairs and Employment and Finland Finnish Space Committee\" (Space Strategy 2030, Publications of the Finnish Government 2025:8).",
+                    "why_valid_on": "The official strategy PDF, read 2026-10-28, names those two bodies as group authors. That is the stakeholder proof the audit could not reconfirm."
+                }
             },
             {
                 "id": "b111679750540941",
                 "type": "unresolved_claim",
                 "severity": "blocking",
-                "status": "open",
-                "detail": "VP_AUDIT 2026-10-27: government.lead proof not reconfirmed on re-open (https://api.hankeikkuna.fi/asiakirjat/9c722d3a-eb9e-4b24-a643-833fafcd8636/d19d1368-c276-42d5-adc6-3810338e63c3/JULKAISU_20250218144827.PDF, status 200); kept partial."
+                "status": "resolved",
+                "detail": "VP_AUDIT 2026-10-27: government.lead proof not reconfirmed on re-open (https://api.hankeikkuna.fi/asiakirjat/9c722d3a-eb9e-4b24-a643-833fafcd8636/d19d1368-c276-42d5-adc6-3810338e63c3/JULKAISU_20250218144827.PDF, status 200); kept partial.",
+                "resolved_on": "2026-10-28",
+                "resolution": "The strategy PDF says it was prepared under the Secretary-General of the Finnish Space Committee, with the ministry in the working group.",
+                "evidence": {
+                    "url": "https://api.hankeikkuna.fi/asiakirjat/9c722d3a-eb9e-4b24-a643-833fafcd8636/d19d1368-c276-42d5-adc6-3810338e63c3/JULKAISU_20250218144827.PDF",
+                    "retrieved_on": "2026-10-28",
+                    "evidence": "\"The strategy has been prepared under the leadership of the Secretary-General of the Finnish Space Committee in a working group that included the Ministry of Economic Affairs and Employment.\"",
+                    "why_valid_on": "The same official PDF, read 2026-10-28, states who led preparation. That reconfirms the government lead proof."
+                }
             }
         ],
         "NOR": [
@@ -193646,8 +193694,16 @@
                 "id": "51bec696d91e8063",
                 "type": "leadership",
                 "severity": "blocking",
-                "status": "open",
-                "detail": "VP_AUDIT 2026-10-27: stakeholder proof not reconfirmed on re-open (https://www.aee.gob.es/Noticias/2026/marzo/Cortes-elegido-presidente-Consejo-AEE.html, status 200); kept partial."
+                "status": "resolved",
+                "detail": "VP_AUDIT 2026-10-27: stakeholder proof not reconfirmed on re-open (https://www.aee.gob.es/Noticias/2026/marzo/Cortes-elegido-presidente-Consejo-AEE.html, status 200); kept partial.",
+                "resolved_on": "2026-10-28",
+                "resolution": "The AEE page states that Juan Carlos Cortés was elected president of the ESA Council.",
+                "evidence": {
+                    "url": "https://www.aee.gob.es/Noticias/2026/marzo/Cortes-elegido-presidente-Consejo-AEE.html",
+                    "retrieved_on": "2026-10-28",
+                    "evidence": "\"Juan Carlos Cortés, es elegido presidente del Consejo de la Agencia Espacial Europea\" (19-03-2026); the Council is \"órgano ejecutivo de la organización intergubernamental integrada por 23 Estados Miembros.\"",
+                    "why_valid_on": "Direct fetch on 2026-10-28 of the AEE news item dated 19 March 2026. It states the Cortés appointment and the 23-member description the stakeholder proof relied on."
+                }
             }
         ],
         "FRA": [
@@ -196152,8 +196208,16 @@
                 "id": "02814702029ea48e",
                 "type": "stakeholder",
                 "severity": "blocking",
-                "status": "open",
-                "detail": "VP_AUDIT 2026-10-27: stakeholder proof not reconfirmed on re-open (https://grenadaparliament.gd/wp-content/uploads/2026/06/No.-26-of-2026-Friday-5th-June-2026.pdf, status 200); kept partial."
+                "status": "resolved",
+                "detail": "VP_AUDIT 2026-10-27: stakeholder proof not reconfirmed on re-open (https://grenadaparliament.gd/wp-content/uploads/2026/06/No.-26-of-2026-Friday-5th-June-2026.pdf, status 200); kept partial.",
+                "resolved_on": "2026-10-28",
+                "resolution": "The June 2026 gazette appoints Ron Redhead as Minister of State for Digital Transformation from 1 June 2026.",
+                "evidence": {
+                    "url": "https://grenadaparliament.gd/wp-content/uploads/2026/06/No.-26-of-2026-Friday-5th-June-2026.pdf",
+                    "retrieved_on": "2026-10-28",
+                    "evidence": "\"I HEREBY APPOINT YOU, RON REDHEAD, Minister of State in the Office of the Prime Minister and designated Minister for Digital Transformation ... with effect from 1st June, 2026.\"",
+                    "why_valid_on": "The 5 June 2026 Government Gazette, read 2026-10-28, contains the appointment the stakeholder proof relied on."
+                }
             }
         ],
         "GRL": [
@@ -196248,15 +196312,31 @@
                 "id": "153171ac321ec475",
                 "type": "media",
                 "severity": "blocking",
-                "status": "open",
-                "detail": "VP_AUDIT 2026-10-27: press proof not reconfirmed on re-open (https://knr.gl/da/om-knr, status 200); kept partial."
+                "status": "resolved",
+                "detail": "VP_AUDIT 2026-10-27: press proof not reconfirmed on re-open (https://knr.gl/da/om-knr, status 200); kept partial.",
+                "resolved_on": "2026-10-28",
+                "resolution": "KNR's About page says it is an independent publicly financed broadcaster founded in 1958.",
+                "evidence": {
+                    "url": "https://knr.gl/da/om-knr",
+                    "retrieved_on": "2026-10-28",
+                    "evidence": "\"Kalaallit Nunaata Radioa er en selvstændig offentligt financieret institution grundlagt i 1958\" (KNR is an independent, publicly financed institution founded in 1958).",
+                    "why_valid_on": "Direct fetch on 2026-10-28 of KNR's own About page. The sentence is the outlet proof the audit did not reconfirm."
+                }
             },
             {
                 "id": "194171ee34249ed0",
                 "type": "media",
                 "severity": "blocking",
-                "status": "open",
-                "detail": "VP_AUDIT 2026-10-27: government.lead proof not reconfirmed on re-open (https://www.inatsisartut.gl:443/media/idvf5zb0/041_2024_tele_peleb_svar.pdf, status 200); kept partial."
+                "status": "resolved",
+                "detail": "VP_AUDIT 2026-10-27: government.lead proof not reconfirmed on re-open (https://www.inatsisartut.gl:443/media/idvf5zb0/041_2024_tele_peleb_svar.pdf, status 200); kept partial.",
+                "resolved_on": "2026-10-28",
+                "resolution": "The official answer states Naalakkersuisut's position on satellite services in Greenland.",
+                "evidence": {
+                    "url": "https://www.inatsisartut.gl:443/media/idvf5zb0/041_2024_tele_peleb_svar.pdf",
+                    "retrieved_on": "2026-10-28",
+                    "evidence": "\"Naalakkersuisut har ikke planer om at liberalisere adgangen til satellittjenester i Grønland\" (Naalakkersuisut has no plans to liberalise access to satellite services in Greenland).",
+                    "why_valid_on": "The 23 February 2024 government answer, read 2026-10-28, contains the satellite-policy sentence used as the lead proof."
+                }
             }
         ],
         "GTM": [
@@ -196636,8 +196716,16 @@
                 "id": "bf7f92b725e6e898",
                 "type": "leadership",
                 "severity": "blocking",
-                "status": "open",
-                "detail": "Head of government: Andrew Holness is proved by the OPM ministers page (fetched 2026-10-27), which is a current official page."
+                "status": "resolved",
+                "detail": "Head of government: Andrew Holness is proved by the OPM ministers page (fetched 2026-10-27), which is a current official page.",
+                "resolved_on": "2026-10-28",
+                "resolution": "The official OPM ministers page names Andrew Holness as Prime Minister of Jamaica.",
+                "evidence": {
+                    "url": "https://opm.gov.jm/ministers/",
+                    "retrieved_on": "2026-10-28",
+                    "evidence": "\"Dr The Most Honourable Andrew Michael Holness (ON, PC, MP) Prime Minister of Jamaica\"",
+                    "why_valid_on": "The country evidence already quotes this line from the official OPM ministers page. The flag states that proof and records no remaining gap."
+                }
             },
             {
                 "id": "dcc7c57f90cb1111",
@@ -196814,8 +196902,16 @@
                 "id": "55dff03aa73b70ab",
                 "type": "unresolved_claim",
                 "severity": "blocking",
-                "status": "open",
-                "detail": "VP_AUDIT 2026-10-27: government.lead proof not reconfirmed on re-open (https://www.gov.kn/, status 307); kept partial."
+                "status": "resolved",
+                "detail": "VP_AUDIT 2026-10-27: government.lead proof not reconfirmed on re-open (https://www.gov.kn/, status 307); kept partial.",
+                "resolved_on": "2026-10-28",
+                "resolution": "The government homepage lists the Cabinet, including the Prime Minister and the ICT minister, and names no space office.",
+                "evidence": {
+                    "url": "https://www.gov.kn/",
+                    "retrieved_on": "2026-10-28",
+                    "evidence": "The cabinet list names \"Hon. Dr. Terrance Michael Drew\" and \"Hon. Konris G. Maynard\" as Minister of Information, Communication and Technology and Posts. No space office is named.",
+                    "why_valid_on": "Direct fetch on 2026-10-28 of the government homepage. The names are in the page text, and the list has no space portfolio, which is the lead proof."
+                }
             },
             {
                 "id": "cebf8c1ec7396742",
@@ -203272,8 +203368,16 @@
                 "id": "3ef11375ebac547f",
                 "type": "unresolved_claim",
                 "severity": "blocking",
-                "status": "open",
-                "detail": "VP_AUDIT 2026-10-27: government.lead proof not reconfirmed on re-open (https://faolex.fao.org/docs/pdf/gab107374.pdf, status 200); kept partial."
+                "status": "resolved",
+                "detail": "VP_AUDIT 2026-10-27: government.lead proof not reconfirmed on re-open (https://faolex.fao.org/docs/pdf/gab107374.pdf, status 200); kept partial.",
+                "resolved_on": "2026-10-28",
+                "resolution": "Article 2 of the ordinance creates AGEOS under the tutelle of the President.",
+                "evidence": {
+                    "url": "https://faolex.fao.org/docs/pdf/gab107374.pdf",
+                    "retrieved_on": "2026-10-28",
+                    "evidence": "Article 2: \"Il est créé et placée sous la tutelle du Président de la République, un établissement public ... dénommé Agence Gabonaise d'Etudes et d'Observations Spatiales ... (AGEOS).\"",
+                    "why_valid_on": "Fetched 2026-10-28 from the FAOLEX copy of the 2010 ordinance. Article 2 creates AGEOS under the President's tutelle, which is the lead proof the audit did not reconfirm."
+                }
             }
         ],
         "GHA": [
@@ -203924,22 +204028,46 @@
                 "id": "901cd93c28a8cc02",
                 "type": "stakeholder",
                 "severity": "blocking",
-                "status": "open",
-                "detail": "VP_AUDIT 2026-10-27: stakeholder proof not reconfirmed on re-open (https://www.unoosa.org/documents/pdf/Space4SDGs/Space2030/Jordan_B.pdf, status 200); kept partial."
+                "status": "resolved",
+                "detail": "VP_AUDIT 2026-10-27: stakeholder proof not reconfirmed on re-open (https://www.unoosa.org/documents/pdf/Space4SDGs/Space2030/Jordan_B.pdf, status 200); kept partial.",
+                "resolved_on": "2026-10-28",
+                "resolution": "Jordan's Space2030 submission names the Jordan Meteorological Department among its national stakeholders.",
+                "evidence": {
+                    "url": "https://www.unoosa.org/documents/pdf/Space4SDGs/Space2030/Jordan_B.pdf",
+                    "retrieved_on": "2026-10-28",
+                    "evidence": "The government's stakeholder list includes \"Jordan Meteorological Department\" with the Higher Council for Science and Technology, universities, and the Jordanian Astronomical Society.",
+                    "why_valid_on": "Jordan's own Space2030 submission, read 2026-10-28, names those bodies. That reconfirms the stakeholder proof."
+                }
             },
             {
                 "id": "730b3e6961d27bcb",
                 "type": "unresolved_claim",
                 "severity": "blocking",
-                "status": "open",
-                "detail": "VP_AUDIT 2026-10-27: government.lead proof not reconfirmed on re-open (https://www.unoosa.org/documents/pdf/Space4SDGs/Space2030/Jordan_B.pdf, status 200); kept partial."
+                "status": "resolved",
+                "detail": "VP_AUDIT 2026-10-27: government.lead proof not reconfirmed on re-open (https://www.unoosa.org/documents/pdf/Space4SDGs/Space2030/Jordan_B.pdf, status 200); kept partial.",
+                "resolved_on": "2026-10-28",
+                "resolution": "Jordan's submission says a national space strategy is still needed and does not name a space lead.",
+                "evidence": {
+                    "url": "https://www.unoosa.org/documents/pdf/Space4SDGs/Space2030/Jordan_B.pdf",
+                    "retrieved_on": "2026-10-28",
+                    "evidence": "\"To advance, Jordan needs: A Stronger governmental commitment and national space strategy.\"",
+                    "why_valid_on": "The same official submission, read 2026-10-28, states the need and does not name a space-lead body. That is the lead proof the audit did not reconfirm."
+                }
             },
             {
                 "id": "5016f3f2400c5393",
                 "type": "policy",
                 "severity": "blocking",
-                "status": "open",
-                "detail": "VP_AUDIT 2026-10-27: strategy proof not reconfirmed on re-open (https://www.unoosa.org/documents/pdf/Space4SDGs/Space2030/Jordan_B.pdf, status 200); kept partial."
+                "status": "resolved",
+                "detail": "VP_AUDIT 2026-10-27: strategy proof not reconfirmed on re-open (https://www.unoosa.org/documents/pdf/Space4SDGs/Space2030/Jordan_B.pdf, status 200); kept partial.",
+                "resolved_on": "2026-10-28",
+                "resolution": "Jordan asks for help to draft a national space strategy and a regulatory framework.",
+                "evidence": {
+                    "url": "https://www.unoosa.org/documents/pdf/Space4SDGs/Space2030/Jordan_B.pdf",
+                    "retrieved_on": "2026-10-28",
+                    "evidence": "\"Space Policy & Law – Help draft a national space strategy and regulatory framework.\"",
+                    "why_valid_on": "The submission, read 2026-10-28, asks UNOOSA to help draft a national space strategy. That reconfirms the strategy proof that none is described as already adopted."
+                }
             }
         ],
         "LBN": [
