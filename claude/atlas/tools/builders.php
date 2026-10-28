@@ -68,6 +68,7 @@ function main(array $argv): void
             'merge-media-evidence' => mergeMediaEvidence($argv[2] ?? ''),
             'normalize-country-flags' => normalizeCountryFlags(),
             'triage-country-flags' => triageCountryFlags(),
+            'merge-flag-resolutions' => mergeFlagResolutions($argv[2] ?? ''),
             'merge-country-packet' => mergeCountryPacket($argv[2] ?? ''),
             'repair-registry' => repairRegistry(),
             'self-test' => selfTest(),
@@ -135,6 +136,10 @@ ATLAS worldwide-builder utility
       Resolve flags that already record a completed research decision, and
       reclassify allowed unknowns and translation notes. Flags that still name
       an unproved current fact stay blocking.
+
+  merge-flag-resolutions <packet.json>
+      Resolve flagged claims only when the packet supplies dated evidence for
+      the existing flag ID. Unknown flags and evidence-free resolutions fail.
 
   merge-country-packet <packet.json>
       Merge full-file manager proposals for unprotected countries after the
@@ -1236,6 +1241,62 @@ function triageCountryFlags(): void
 
     writeJson(COUNTRY_DIR.'/database.json', $database);
     echo 'Triaged blocking flags: '.json_encode($counts, JSON_UNESCAPED_SLASHES).PHP_EOL;
+}
+
+function mergeFlagResolutions(string $packetPath): void
+{
+    if ($packetPath === '' || ! file_exists($packetPath)) {
+        throw new InvalidArgumentException('merge-flag-resolutions requires a readable JSON packet.');
+    }
+
+    $packet = readJson($packetPath);
+    $database = readJson(COUNTRY_DIR.'/database.json');
+    $errors = [];
+    $resolved = 0;
+    $today = gmdate('Y-m-d');
+
+    foreach ($packet as $iso3 => $resolutions) {
+        if (! is_array($resolutions) || ! isset($database['flags'][$iso3])) {
+            $errors[] = "Resolution packet has unknown country {$iso3}.";
+            continue;
+        }
+        $indexById = [];
+        foreach ($database['flags'][$iso3] as $index => $flag) {
+            $indexById[$flag['id'] ?? ''] = $index;
+        }
+        foreach ($resolutions as $resolution) {
+            $id = $resolution['id'] ?? '';
+            $proof = $resolution['evidence'] ?? null;
+            if (! isset($indexById[$id]) || ! is_array($proof)) {
+                $errors[] = "Resolution {$iso3}/{$id} does not match an evidenced flag.";
+                continue;
+            }
+            foreach (['url', 'retrieved_on', 'evidence', 'why_valid_on'] as $required) {
+                if (! is_string($proof[$required] ?? null) || trim($proof[$required]) === '') {
+                    $errors[] = "Resolution {$iso3}/{$id} lacks {$required}.";
+                }
+            }
+            if (($proof['retrieved_on'] ?? null) !== $today || ! validPublicUrl($proof['url'] ?? '')) {
+                $errors[] = "Resolution {$iso3}/{$id} lacks today's valid source URL.";
+            }
+            $flag = $database['flags'][$iso3][$indexById[$id]];
+            if (($flag['status'] ?? null) === 'resolved') {
+                continue;
+            }
+            $flag['status'] = 'resolved';
+            $flag['resolved_on'] = $today;
+            $flag['resolution'] = trim((string) ($resolution['reason'] ?? 'Closed by dated evidence.'));
+            $flag['evidence'] = $proof;
+            $database['flags'][$iso3][$indexById[$id]] = $flag;
+            $resolved++;
+        }
+    }
+
+    if ($errors !== []) {
+        throw new RuntimeException("Flag resolutions rejected:\n- ".implode("\n- ", array_unique($errors)));
+    }
+    writeJson(COUNTRY_DIR.'/database.json', $database);
+    echo "Resolved {$resolved} flags from dated evidence.".PHP_EOL;
 }
 
 function openBlockingFlags(array $flags): array
