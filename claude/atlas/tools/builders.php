@@ -67,6 +67,7 @@ function main(array $argv): void
             'accept-country-media' => acceptCountryMedia($argv[2] ?? 'all'),
             'merge-media-evidence' => mergeMediaEvidence($argv[2] ?? ''),
             'normalize-country-flags' => normalizeCountryFlags(),
+            'triage-country-flags' => triageCountryFlags(),
             'merge-country-packet' => mergeCountryPacket($argv[2] ?? ''),
             'repair-registry' => repairRegistry(),
             'self-test' => selfTest(),
@@ -129,6 +130,11 @@ ATLAS worldwide-builder utility
   normalize-country-flags
       Convert legacy country flags to typed records. Open blocking flags prevent
       verification; watch and informational records remain visible but do not.
+
+  triage-country-flags
+      Resolve flags that already record a completed research decision, and
+      reclassify allowed unknowns and translation notes. Flags that still name
+      an unproved current fact stay blocking.
 
   merge-country-packet <packet.json>
       Merge full-file manager proposals for unprotected countries after the
@@ -1163,6 +1169,73 @@ function inferFlagType(string $detail): string
         preg_match('/blocked|403|cloudflare|fetch|tls|dns|timeout|script.only|mojibake/i', $detail) === 1 => 'source_access',
         default => 'unresolved_claim',
     };
+}
+
+function flagDisposition(string $detail): string
+{
+    $stillOpen = '/\b(kept partial|not reconfirmed|must be re-proved|still needed|left blank|not re-proved)\b/i';
+    if (preg_match('/\b(searches used|fetches used)\b/i', $detail) === 1) {
+        return 'informational';
+    }
+    if (preg_match('/translation doubt|translation_doubt|english gloss/i', $detail) === 1
+        && preg_match($stillOpen, $detail) !== 1
+        && preg_match('/\b(not proved|unverified)\b/i', $detail) !== 1) {
+        return 'watch';
+    }
+    if (preg_match('/stance unknown|does not state .{0,40}stance|no stance text/i', $detail) === 1
+        && preg_match($stillOpen, $detail) !== 1
+        && preg_match('/\bnot proved\b/i', $detail) !== 1) {
+        return 'informational';
+    }
+    if (preg_match('/\b(removed|omitted|excluded|not included|not used|not claimed)\b/i', $detail) === 1
+        && preg_match($stillOpen, $detail) !== 1) {
+        return 'resolve';
+    }
+    if (preg_match('/both kept and explained/i', $detail) === 1) {
+        return 'informational';
+    }
+    if (preg_match('/jina|via transport|text-reader path/i', $detail) === 1
+        && preg_match('/\b(read|proved|appears|names)\b/i', $detail) === 1
+        && preg_match('/\b(not proved|until|empty)\b/i', $detail) !== 1) {
+        return 'watch';
+    }
+
+    return 'keep';
+}
+
+function triageCountryFlags(): void
+{
+    $database = readJson(COUNTRY_DIR.'/database.json');
+    $counts = ['resolve' => 0, 'watch' => 0, 'informational' => 0, 'keep' => 0];
+    $today = gmdate('Y-m-d');
+
+    foreach ($database['flags'] as $iso3 => $flags) {
+        foreach ($flags as $index => $flag) {
+            if (($flag['status'] ?? null) !== 'open' || ($flag['severity'] ?? null) !== 'blocking') {
+                continue;
+            }
+            $decision = flagDisposition((string) ($flag['detail'] ?? ''));
+            $counts[$decision]++;
+            if ($decision === 'keep') {
+                continue;
+            }
+            $flag['triaged_on'] = $today;
+            $flag['triage_rule'] = $decision;
+            if ($decision === 'resolve') {
+                $flag['status'] = 'resolved';
+                $flag['resolution'] = 'The flag records a completed decision: the unsupported claim was removed or was never claimed.';
+            } else {
+                $flag['severity'] = $decision;
+                $flag['resolution'] = $decision === 'watch'
+                    ? 'The current claim remains usable, with a translation or wording limitation recorded for the next check.'
+                    : 'The record is an allowed unknown or research note. It does not leave a required fact unproved.';
+            }
+            $database['flags'][$iso3][$index] = $flag;
+        }
+    }
+
+    writeJson(COUNTRY_DIR.'/database.json', $database);
+    echo 'Triaged blocking flags: '.json_encode($counts, JSON_UNESCAPED_SLASHES).PHP_EOL;
 }
 
 function openBlockingFlags(array $flags): array
@@ -2275,6 +2348,11 @@ function selfTest(): void
     $assert(($watchFlag['severity'] ?? null) === 'watch', 'Watch flag classification failed.');
     $assert(($infoFlag['severity'] ?? null) === 'informational', 'Informational flag classification failed.');
     $assert(count(openBlockingFlags([$blockingFlag, $watchFlag, $infoFlag])) === 1, 'Blocking flag gate failed.');
+    $assert(flagDisposition('Unsupported seed node omitted.') === 'resolve', 'Closed omission was not resolved.');
+    $assert(flagDisposition('Node removed, but the current office-holder must be re-proved.') === 'keep', 'Open proof gap was resolved.');
+    $assert(flagDisposition('Stance unknown because the about page gives no stance text.') === 'informational', 'Allowed unknown stance stayed blocking.');
+    $assert(flagDisposition('Translation doubt on the English title only.') === 'watch', 'Translation limitation stayed blocking.');
+    $assert(flagDisposition('Both dates are retained. Both kept and explained.') === 'informational', 'Explained discrepancy stayed blocking.');
 
     if ($failures !== []) {
         throw new RuntimeException('Self-test failed: '.implode(' ', $failures));
