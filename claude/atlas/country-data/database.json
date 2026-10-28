@@ -15756,7 +15756,7 @@
             "verify": "verified"
         },
         "CIV": {
-            "asOf": "2026-10-27",
+            "asOf": "2026-10-28",
             "iso3": "CIV",
             "verify": "partial",
             "government": {
@@ -21076,7 +21076,7 @@
             "verify": "verified"
         },
         "DJI": {
-            "asOf": "2026-10-27",
+            "asOf": "2026-10-28",
             "iso3": "DJI",
             "verify": "partial",
             "government": {
@@ -23090,7 +23090,7 @@
             }
         },
         "ECU": {
-            "asOf": "2026-10-27",
+            "asOf": "2026-10-28",
             "iso3": "ECU",
             "verify": "partial",
             "government": {
@@ -23303,7 +23303,7 @@
                 "summary": "No published national space strategy was found in the sources opened. In Feb 2024 Ecuador told COPUOS it was drafting a National Space Development Plan and planned a space policy and framework law. Decree 143 (RO Nº 127, 18 Sept 2025) transferred IGM space powers to the Air Force under the Defence Ministry and promotion of peaceful outer-space use to the foreign ministry. No adopted document was found.",
                 "budget": "No space budget line found. Decree 143, Disposición Novena: no negative impact on the General State Budget; no space allocation was found.",
                 "goals": [],
-                "law": "No dedicated national space law found. Decree 143 relies on the Ley Orgánica para Control del Espacio Aéreo Nacional, the Ley Orgánica de la Defensa Nacional and the Ley de Cartografía Nacional (as cited in its recitals).",
+                "law": "No dedicated national space law found. Decree 143, signed 16 September 2025 and published in Registro Oficial Nº 127 on 18 September 2025, transfers space powers to the FAE under the Defence Ministry and relies on the national airspace-control, defence and cartography laws cited in its recitals.",
                 "other_docs": [
                     "Decreto Ejecutivo 1246 (19 Jul 2012) created the Instituto Espacial Ecuatoriano (IEE).",
                     "Decreto Ejecutivo 714 (11 Apr 2019) abolished the IEE and assigned its powers to the Instituto Geográfico Militar.",
@@ -52125,7 +52125,7 @@
             }
         },
         "MNE": {
-            "asOf": "2026-10-27",
+            "asOf": "2026-10-28",
             "iso3": "MNE",
             "verify": "partial",
             "government": {
@@ -53754,7 +53754,7 @@
             }
         },
         "MSR": {
-            "asOf": "2026-10-27",
+            "asOf": "2026-10-28",
             "iso3": "MSR",
             "verify": "partial",
             "government": {
@@ -79146,7 +79146,7 @@
             "verify": "verified"
         },
         "TZA": {
-            "asOf": "2026-10-27",
+            "asOf": "2026-10-28",
             "iso3": "TZA",
             "verify": "partial",
             "government": {
@@ -79362,13 +79362,13 @@
                 ]
             },
             "strategy": {
-                "title": "From Mount Kilimanjaro, the Peak of Africa, to Space: Five-Year Strategic Plan for Space Programmes (2025-2030)",
-                "year": 2026,
-                "status": "unveiled",
-                "horizon": "2025-2030",
+                "title": "From Mount Kilimanjaro, the Peak of Africa, to Space — five-year space programme (official programme name; adopted plan document not retrieved)",
+                "year": 2024,
+                "status": "announced in official 2024 government speeches; 2026 press reporting describes a 2025-2030 plan; the adopted plan document and current status remain unverified",
+                "horizon": "Official 2024 speech: FY2024/25-2029/30; 2026 Daily News report: 2025-2030; conflict unresolved",
                 "owner": "Ministry of Communication and Information Technology",
-                "summary": "Five-year plan with five pillars; the first is governance frameworks, policies, laws and institutional arrangements. Unveiled by Minister Angellah Kairuki (reported 9 Feb 2026). Implementation includes a CubeSat under KiboCUBE; procurement reported complete on 30 Apr 2026.",
-                "budget": "No separate space budget line found. Ministry-wide 2026/27 estimate: Sh222.6 billion, presented to Parliament on 30 Apr 2026 (The Citizen); the space share was not retrieved.",
+                "summary": "Official 2024 ICT Commission speeches name a five-year space programme, state a FY2024/25-2029/30 horizon, and say preparation covers policy, law and international agreements. A February 2026 Daily News report describes a five-year strategic plan for 2025-2030 with six goals. The underlying adopted plan was not retrieved, so the horizon and current legal status remain partial.",
+                "budget": "No separate space-programme appropriation was proved. The official 2026/27 revenue estimates list TCRA revenue of Sh61,609,435,111, which is not a space budget. A press-reported ministry-wide Sh222.6 billion figure is not used as a space allocation.",
                 "goals": [
                     "Establish governance frameworks, policies, laws and institutional arrangements",
                     "Enhance presence in international space efforts",
@@ -79385,7 +79385,7 @@
                 "sources": [
                     {
                         "outlet": "allAfrica (Daily News reprint)",
-                        "primary": true,
+                        "primary": false,
                         "title": "Tanzania's Space Ambitions Take Off",
                         "url": "https://allafrica.com/stories/202602090544.html"
                     },
@@ -79400,6 +79400,24 @@
                         "primary": false,
                         "title": "Tanzania Completes Satellite Development Procurement, Advancing National Space Programme",
                         "url": "https://spaceinafrica.com/2026/04/30/tanzania-completes-satellite-development-procurement-advancing-national-space-programme/"
+                    },
+                    {
+                        "outlet": "Tanzania ICT Commission",
+                        "primary": true,
+                        "title": "Official speech archive: five-year space plan, FY2024/25-2029/30",
+                        "url": "https://www.ictc.go.tz/media-centre/posts/speech"
+                    },
+                    {
+                        "outlet": "Tanzania ICT Commission",
+                        "primary": true,
+                        "title": "Official programme name: From Mount Kilimanjaro, the Peak of Africa, to Space",
+                        "url": "https://www.ictc.go.tz/media-centre/read/28"
+                    },
+                    {
+                        "outlet": "Ministry of Finance",
+                        "primary": true,
+                        "title": "Volume I Revenue Estimates 2026/2027",
+                        "url": "https://www.mof.go.tz/uploads/documents/en-1779086771-Vol%20I%20As%20Submitted%202026.27.pdf"
                     }
                 ]
             },
@@ -161173,6 +161191,14 @@
                     "evidence": "Spanish original: \"Artículo 1.- Créase el Instituto Espacial Ecuatoriano como una entidad de derecho público\" (gloss: the Ecuadorian Space Institute is created as a public-law entity).",
                     "page_date": "2012-07-19",
                     "why_valid_on": "FAO FAOLEX copy; proves the 2012 creation only; superseded by Decree 714."
+                },
+                "decree143_confirmation_2026": {
+                    "url": "https://esacc.corteconstitucional.gob.ec/storage/api/v1/10_DWL_FL/eyJjYXJwZXRhIjoicm8iLCJ1dWlkIjoiMjNmYzI4ZWItMTdhOC00Njc1LTgwNzAtMThlODYxZjc0ZmJkLnBkZiJ9",
+                    "retrieved_on": "2026-10-28",
+                    "page_title": "Registro Oficial, Suplemento Nº 257 — Plan Estratégico Institucional de la Defensa 2025-2029",
+                    "evidence": "\"mediante Decreto Ejecutivo N°. 143, de fecha 16 de septiembre de 2025\" and it transferred the listed space powers to the Fuerza Aérea Ecuatoriana under the Defence Ministry.",
+                    "page_date": "2026-04-02",
+                    "why_valid_on": "Official 2026 Registro Oficial publication fetched on 2026-10-28 through the helper PDF text transport. Its institutional history independently confirms Decree 143's date and transfer after the glyph-shifted 2025 copy."
                 }
             },
             "stakeholders": [
@@ -163897,6 +163923,14 @@
                     "page_date": null,
                     "why_valid_on": "Fetched 2026-10-27 from the outlet homepage. Sourced absence limited to the four Montserrat outlets opened; not proof that no Montserrat space coverage exists anywhere."
                 }
+            },
+            "government.head_of_state_current_2026": {
+                "url": "https://www.gov.uk/world/organisations/the-governors-office-montserrat",
+                "retrieved_on": "2026-10-28",
+                "page_title": "Governor's Office Brades - GOV.UK",
+                "evidence": "\"Harriet Cross — Governor to Montserrat.\"",
+                "page_date": null,
+                "why_valid_on": "Current official GOV.UK organisation page fetched directly with HTTP 200 on 2026-10-28; it names Harriet Cross as Governor to Montserrat."
             }
         },
         "NIC": {
@@ -173896,6 +173930,22 @@
                     "page_date": null,
                     "why_valid_on": "Outlet homepage fetched 2026-10-27. Navigation sample only; not exhaustive."
                 }
+            },
+            "strategy.current_listing_2026": {
+                "url": "https://www.gov.me/en/documents/e0c75f8f-f975-4e6f-a6fb-0ba0a336f9c5",
+                "retrieved_on": "2026-10-28",
+                "page_title": "Strategy for Scientific Research Activity of Montenegro 2024-2028",
+                "evidence": "\"Strategy for Scientific Research Activity of Montenegro 2024-2028\"; the Government document page lists the Ministry of Education, Science and Innovation as author and publication on 3 September 2024.",
+                "page_date": "2024-09-03",
+                "why_valid_on": "Official Government of Montenegro document-library page fetched on 2026-10-28 through the helper transport. It confirms the document and owner; the budget and adoption-wording blockers remain."
+            },
+            "strategy.action_plan_2026_2027": {
+                "url": "https://www.gov.me/dokumenta/3545294f-d6c4-427f-98e6-bcf4940ea692",
+                "retrieved_on": "2026-10-28",
+                "page_title": "Predlog akcionog plana za sprovođenje Strategije naučnoistraživačke djelatnosti Crne Gore (2024–2028) za 2026. i 2027. godinu - Zaključci",
+                "evidence": "\"Objavljeno: 16.06.2026\" and the title identifies Government conclusions on the proposed 2026-2027 action plan.",
+                "page_date": "2026-06-16",
+                "why_valid_on": "Official Government of Montenegro document-library page fetched on 2026-10-28 through the helper transport. It confirms ongoing implementation work but not the unread budget section."
             }
         },
         "XKX": {
@@ -175144,6 +175194,14 @@
                     "page_date": "2025-06-05",
                     "why_valid_on": "Specialist article dated 5 June 2025. Its About Us page describes consulting, reports, data hub, media and events for African space; stance 'specialist' from that page. About page checked: https://spaceinafrica.com/about-us/"
                 }
+            },
+            "strategy.asci_operations_2026": {
+                "url": "https://www.gouv.ci/actualite/agence-spatiale-de-cote-divoire-le-ministre-adama-diawara-sollicite-lexpertise-du-centre-spatial-de-luniversite-de-montpellier-6401",
+                "retrieved_on": "2026-10-28",
+                "page_title": "Agence spatiale de Côte d'Ivoire : le ministre Adama Diawara sollicite l'expertise du Centre spatial de l'Université de Montpellier",
+                "evidence": "\"c'est par décret en 2025 que la Côte d'Ivoire a créé son agence spatiale ... Ses activités ont déjà commencé\" (gloss: Côte d'Ivoire created its space agency by decree in 2025 and its activities have begun).",
+                "page_date": "2026-04-16",
+                "why_valid_on": "Official Government of Côte d'Ivoire news page fetched directly with HTTP 200 on 2026-10-28. It corroborates creation and operation, but gives neither the decree number nor the entry-into-force date."
             }
         },
         "CMR": {
@@ -176137,6 +176195,14 @@
                     "page_date": null,
                     "why_valid_on": "Absence is provisional: the government and programme sites opened name no separate agency with a legal instrument. Secondary plans for an agency are not used. (Last reviewed: January 2026)"
                 }
+            },
+            "government.prime_minister_current": {
+                "url": "https://primature.gouv.dj/discours-du-premier-ministre-11/",
+                "retrieved_on": "2026-10-28",
+                "page_title": "DISCOURS DU PREMIER MINISTRE – Primature",
+                "evidence": "\"SEM. ABOULKADER KAMIL MOHAMED – LANCEMENT DU PND 2025-2030 – 16 Février 2026\" (gloss: Prime Minister Abdoulkader Kamil Mohamed, launch of the 2025-2030 national development plan, 16 February 2026).",
+                "page_date": "2026-02-16",
+                "why_valid_on": "Official Primature speech page fetched on 2026-10-28 through the helper text transport after the origin returned status 0. It corroborates the office-holder but does not replace the later 27 October 2026 Presidency communique."
             }
         },
         "ERI": {
@@ -182682,7 +182748,31 @@
                 "page_title": "Tanzania's Space Ambitions Take Off - allAfrica.com (reprint of Tanzania Daily News)",
                 "evidence": "\"the government has unveiled a Five-Year Strategic Plan for Space Programmes (2025-2030)\" (gloss: same)",
                 "page_date": "2026-02-09",
-                "why_valid_on": "Daily News story of 9 Feb 2026 reprinted by allAfrica, fetched 2026-10-27. Third-party reprint of a national daily report of the minister's speech; the official plan document itself was not retrieved (see flags)."
+                "why_valid_on": "Daily News story of 9 Feb 2026 reprinted by allAfrica, fetched 2026-10-27. Third-party reprint of a national daily report of the minister's speech; the official plan document itself was not retrieved (see flags).",
+                "official_programme_2024": {
+                    "url": "https://www.ictc.go.tz/media-centre/posts/speech",
+                    "retrieved_on": "2026-10-28",
+                    "page_title": "Information and Communication Technologies Commission — Speeches",
+                    "evidence": "\"serikali ... imeandaa mpango mkakati wa miaka 5, unaoanza mwaka wa fedha 2024/2025 hadi 2029/2030. Huu ni mkakati wa kuendeleza masuala ya anga za juu\" (gloss: government prepared a five-year space plan from FY2024/25 to 2029/30).",
+                    "page_date": "2024",
+                    "why_valid_on": "Official Tanzania ICT Commission speech archive fetched directly with HTTP 200 on 2026-10-28. It proves the announced horizon, while the plan document itself remains unavailable and conflicts with the 2026 press-reported 2025-2030 horizon."
+                },
+                "official_programme_name": {
+                    "url": "https://www.ictc.go.tz/media-centre/read/28",
+                    "retrieved_on": "2026-10-28",
+                    "page_title": "Information and Communication Technologies Commission",
+                    "evidence": "\"programu ya miaka mitano ... ijulikanayo kama 'From Mount Kilimanjaro, the Peak of Africa, to Space'\" (gloss: the five-year programme is called From Mount Kilimanjaro, the Peak of Africa, to Space).",
+                    "page_date": null,
+                    "why_valid_on": "Official Tanzania ICT Commission page fetched directly with HTTP 200 on 2026-10-28. It confirms the programme name and preparation of policy, law and international agreements."
+                },
+                "official_revenue_estimates_2026_27": {
+                    "url": "https://www.mof.go.tz/uploads/documents/en-1779086771-Vol%20I%20As%20Submitted%202026.27.pdf",
+                    "retrieved_on": "2026-10-28",
+                    "page_title": "United Republic of Tanzania — Volume I Revenue Estimates 2026/2027",
+                    "evidence": "\"Tanzania Communication Regulatory Authority (TCRA) ... 2026/2027 Estimates Shs. 61,609,435,111.\"",
+                    "page_date": "2026-05-18",
+                    "why_valid_on": "Official Ministry of Finance revenue-estimates PDF fetched on 2026-10-28 through the helper PDF transport. This is a TCRA revenue estimate, not a space-programme appropriation; it does not close the space-budget blocker."
+                }
             },
             "stakeholders": [
                 {
@@ -195154,8 +195244,11 @@
                 "id": "c3dd3e667f6e2bb8",
                 "type": "unresolved_claim",
                 "severity": "blocking",
-                "status": "open",
-                "detail": "REMAINING: IGM homepage unreachable (status 0); IGM status proved only by Decree 143 text and an undated UNOOSA questionnaire."
+                "status": "resolved",
+                "detail": "REMAINING: IGM homepage unreachable (status 0); IGM status proved only by Decree 143 text and an undated UNOOSA questionnaire.",
+                "resolved_on": "2026-10-28",
+                "resolution": "Resolved for the current institutional claim: the official April 2026 Defence PEI in Registro Oficial confirms that Decree 143 transferred the former IGM space powers to the FAE. The unreachable IGM homepage is retained as source-access history, not a current-claim blocker.",
+                "evidence_ref": "#/evidence/ECU/strategy/decree143_confirmation_2026"
             },
             {
                 "id": "5492836f4217aeb5",
@@ -195175,8 +195268,11 @@
                 "id": "c10ef2995acd0ca4",
                 "type": "unresolved_claim",
                 "severity": "blocking",
-                "status": "open",
-                "detail": "REMAINING: Decree 143 day is not legible in the RO copy (signed 16 Sept 2025 per Teleamazonas). Glyph-shifted text layer decoded locally with a fixed +29 offset; accents uncertain (translation_doubt set on those proofs)."
+                "status": "resolved",
+                "detail": "REMAINING: Decree 143 day is not legible in the RO copy (signed 16 Sept 2025 per Teleamazonas). Glyph-shifted text layer decoded locally with a fixed +29 offset; accents uncertain (translation_doubt set on those proofs).",
+                "resolved_on": "2026-10-28",
+                "resolution": "Resolved by the official April 2026 Defence PEI, whose readable text states that Decree 143 is dated 16 September 2025. The translation-doubt history on the glyph-shifted 2025 copy remains in evidence.",
+                "evidence_ref": "#/evidence/ECU/strategy/decree143_confirmation_2026"
             }
         ],
         "FLK": [
@@ -196137,8 +196233,11 @@
                 "id": "4aadac7db63fabd0",
                 "type": "source_access",
                 "severity": "blocking",
-                "status": "open",
-                "detail": "Governor conflict: a search snippet (Nation News, header dated 12 May 2026) says Adrian Davis was sworn in as Governor; the snippet content appears older. Not fetched; rejected. GOV.UK profile (fetched 2026-10-27) names Harriet Cross. Re-check on gov.uk before verification."
+                "status": "resolved",
+                "detail": "Governor conflict: a search snippet (Nation News, header dated 12 May 2026) says Adrian Davis was sworn in as Governor; the snippet content appears older. Not fetched; rejected. GOV.UK profile (fetched 2026-10-27) names Harriet Cross. Re-check on gov.uk before verification.",
+                "resolved_on": "2026-10-28",
+                "resolution": "Resolved by a fresh direct fetch of the current GOV.UK Governor's Office page naming Harriet Cross. The rejected Adrian Davis search snippet remains rejected and is not evidence.",
+                "evidence_ref": "#/evidence/MSR/government.head_of_state_current_2026"
             },
             {
                 "id": "76e1d64da33b3e78",
@@ -204537,7 +204636,7 @@
                 "type": "unresolved_claim",
                 "severity": "blocking",
                 "status": "open",
-                "detail": "REMAINING: The ministry's own 2025-2030 plan document ('From Mount Kilimanjaro...') was not retrieved; the title is taken from the Daily News (9 Feb 2026) and differs from Space in Africa's 'From Mount Kilimanjaro to Space'."
+                "detail": "REMAINING: Official 2024 ICT Commission speeches prove the programme name and FY2024/25-2029/30 horizon, while a 9 Feb 2026 Daily News report gives 2025-2030. The adopted ministry plan document was not retrieved, so the conflict and current status remain blocking."
             },
             {
                 "id": "b2ba7d669f26ba72",
