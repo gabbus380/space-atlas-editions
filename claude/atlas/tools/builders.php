@@ -15,6 +15,9 @@ declare(strict_types=1);
  *   php claude/atlas/tools/builders.php protect-country <atlas.json> [source-ref]
  *   php claude/atlas/tools/builders.php import-country-research <database.json|-> [source-ref]
  *   php claude/atlas/tools/builders.php accept-country-media [all|ISO3[,ISO3...]]
+ *   php claude/atlas/tools/builders.php merge-media-evidence <packet.json>
+ *   php claude/atlas/tools/builders.php normalize-country-flags
+ *   php claude/atlas/tools/builders.php merge-country-packet <packet.json>
  *   php claude/atlas/tools/builders.php repair-registry
  *   php claude/atlas/tools/builders.php self-test
  */
@@ -62,6 +65,9 @@ function main(array $argv): void
             'protect-country' => protectCountry($argv[2] ?? '', $argv[3] ?? null),
             'import-country-research' => importCountryResearch($argv[2] ?? '', $argv[3] ?? null),
             'accept-country-media' => acceptCountryMedia($argv[2] ?? 'all'),
+            'merge-media-evidence' => mergeMediaEvidence($argv[2] ?? ''),
+            'normalize-country-flags' => normalizeCountryFlags(),
+            'merge-country-packet' => mergeCountryPacket($argv[2] ?? ''),
             'repair-registry' => repairRegistry(),
             'self-test' => selfTest(),
             default => usage($command !== 'help'),
@@ -115,6 +121,18 @@ ATLAS worldwide-builder utility
       Accept additive media extensions only after their outlet records and
       separate dated evidence pass the publication gate. Protected country
       cores and proposed core changes remain untouched.
+
+  merge-media-evidence <packet.json>
+      Merge evidence for existing protected media-extension outlets. Unknown
+      countries and outlet IDs are rejected.
+
+  normalize-country-flags
+      Convert legacy country flags to typed records. Open blocking flags prevent
+      verification; watch and informational records remain visible but do not.
+
+  merge-country-packet <packet.json>
+      Merge full-file manager proposals for unprotected countries after the
+      semantic and mechanical promotion gates pass.
 
   repair-registry
       Apply the canonical sovereign-state relationships for mapped territories
@@ -411,6 +429,8 @@ function queue(string $cause, ?int $limit): void
     $coverageFile = $cause === 'country' ? COUNTRY_DIR.'/coverage.json' : ECOSYSTEM_DIR.'/coverage.json';
     $coverage = readJson($coverageFile);
     $entries = $coverage['countries'] ?? [];
+    $countryDatabase = $cause === 'country' ? readJson(COUNTRY_DIR.'/database.json') : [];
+    $watchCodes = $cause === 'country' ? countryWatchCodes() : [];
     $limit ??= $cause === 'country' ? 12 : 18;
     $limit = max(1, min($limit, $cause === 'country' ? 24 : 30));
 
@@ -436,10 +456,15 @@ function queue(string $cause, ?int $limit): void
 
         return isset($priority[$entry['status'] ?? '']);
     });
-    uasort($pending, function (array $left, array $right) use ($priority, $registry): int {
+    uasort($pending, function (array $left, array $right) use ($priority, $registry, $countryDatabase, $watchCodes, $cause): int {
         $byStatus = $priority[$left['status']] <=> $priority[$right['status']];
         if ($byStatus !== 0) {
             return $byStatus;
+        }
+
+        if ($cause === 'country') {
+            return countryQueueRank($left, $registry, $countryDatabase, $watchCodes)
+                <=> countryQueueRank($right, $registry, $countryDatabase, $watchCodes);
         }
 
         $leftCountry = $registry[$left['iso3']];
@@ -463,6 +488,9 @@ function queue(string $cause, ?int $limit): void
             'work_type' => ($entry['extension_status'] ?? null) === 'review_required'
                 ? 'protected_media_review'
                 : $phase,
+            'priority' => $cause === 'country'
+                ? countryQueuePriority($iso3, $countryDatabase, $watchCodes)
+                : null,
             'remaining' => $entry['missing'] ?? $entry['remaining'] ?? [],
         ];
     }
@@ -487,6 +515,54 @@ function queue(string $cause, ?int $limit): void
     ], JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE).PHP_EOL;
 }
 
+function countryWatchCodes(): array
+{
+    $watchPath = ROOT.'/registry/watch.md';
+    if (! file_exists($watchPath)) {
+        return [];
+    }
+    preg_match_all('/^\-\s+\d{4}-\d{2}-\d{2}\s+\|\s+(?:observed|expected)\s+\|\s+([A-Z]{3})\s+\|\s+country\s+\|/m', (string) file_get_contents($watchPath), $matches);
+
+    return array_fill_keys(array_unique($matches[1] ?? []), true);
+}
+
+function countryQueuePriority(string $iso3, array $database, array $watchCodes): array
+{
+    $flags = $database['flags'][$iso3] ?? [];
+    $blocking = openBlockingFlags($flags);
+    $sourceRisk = count(array_filter(
+        $blocking,
+        fn (array $flag): bool => ($flag['type'] ?? null) === 'source_access'
+            || preg_match('/blocked|403|cloudflare|unreachable|script.only|tls|dns|timeout/i', $flag['detail'] ?? '') === 1,
+    ));
+    $file = $database['files'][$iso3] ?? [];
+    $activity = count($file['stakeholders']['nodes'] ?? [])
+        + count($file['government']['nodes'] ?? [])
+        + (is_array($file['strategy'] ?? null) ? 5 : 0);
+
+    return [
+        'blocking_flags' => count($blocking),
+        'source_risk' => $sourceRisk,
+        'material_activity' => $activity,
+        'daily_watch' => isset($watchCodes[$iso3]),
+    ];
+}
+
+function countryQueueRank(array $entry, array $registry, array $database, array $watchCodes): array
+{
+    $iso3 = $entry['iso3'];
+    $priority = countryQueuePriority($iso3, $database, $watchCodes);
+
+    return [
+        $priority['blocking_flags'],
+        $priority['source_risk'],
+        -$priority['material_activity'],
+        $priority['daily_watch'] ? 0 : 1,
+        $registry[$iso3]['desk'] ?? '',
+        $iso3,
+    ];
+}
+
 function campaign(string $cause, int $target, int $waveSize): void
 {
     if ($cause !== 'country') {
@@ -497,6 +573,8 @@ function campaign(string $cause, int $target, int $waveSize): void
     $waveSize = max(4, min($waveSize, 12));
     $registry = registry();
     $coverage = readJson(COUNTRY_DIR.'/coverage.json');
+    $database = readJson(COUNTRY_DIR.'/database.json');
+    $watchCodes = countryWatchCodes();
     $entries = $coverage['countries'] ?? [];
     $firstPass = array_filter(
         $entries,
@@ -509,7 +587,7 @@ function campaign(string $cause, int $target, int $waveSize): void
         fn (array $entry): bool => ($entry['status'] ?? null) === 'partial'
             || ($entry['extension_status'] ?? null) === 'review_required',
     );
-    uasort($candidates, function (array $left, array $right) use ($registry, $phase): int {
+    uasort($candidates, function (array $left, array $right) use ($registry, $phase, $database, $watchCodes): int {
         $priority = $phase === 'worldwide_file_build'
             ? ['seeded' => 0, 'unstarted' => 1]
             : ['complete' => 0, 'partial' => 1];
@@ -518,10 +596,8 @@ function campaign(string $cause, int $target, int $waveSize): void
             return $byStatus;
         }
 
-        $leftCountry = $registry[$left['iso3']];
-        $rightCountry = $registry[$right['iso3']];
-
-        return [$leftCountry['desk'] ?? '', $left['iso3']] <=> [$rightCountry['desk'] ?? '', $right['iso3']];
+        return countryQueueRank($left, $registry, $database, $watchCodes)
+            <=> countryQueueRank($right, $registry, $database, $watchCodes);
     });
 
     $selected = array_slice($candidates, 0, $target, true);
@@ -538,6 +614,7 @@ function campaign(string $cause, int $target, int $waveSize): void
             'work_type' => ($entry['extension_status'] ?? null) === 'review_required'
                 ? 'protected_media_review'
                 : $phase,
+            'priority' => countryQueuePriority($iso3, $database, $watchCodes),
         ];
     }
 
@@ -651,6 +728,7 @@ function protectCountry(string $productionPath, ?string $sourceRef): void
         'authoritative' => 'claude/atlas/country-data/authoritative.json',
         'mode' => 'worldwide_build',
         'run' => $database['run'] ?? ['searches_used' => 0, 'fetches_used' => 0, 'stopped_because' => null],
+        'flag_schema' => $database['flag_schema'] ?? null,
         'files' => $database['files'],
         'research_files' => $campaignFiles,
         'extensions' => $extensions,
@@ -830,8 +908,8 @@ function assertCountryImportValid(
         }
         if (! $isProtected
             && ($file['verify'] ?? null) === 'verified'
-            && ($database['flags'][$iso3] ?? []) !== []) {
-            $errors[] = "Imported file {$iso3} is verified with unresolved flags.";
+            && openBlockingFlags($database['flags'][$iso3] ?? []) !== []) {
+            $errors[] = "Imported file {$iso3} is verified with unresolved blocking flags.";
         }
     }
 
@@ -887,6 +965,55 @@ function buildCountryExtension(
         'flags_ref' => 'database.json#/flags/'.$iso3,
         'rule' => 'Candidate additive media extension. It is not active until its evidence and flags are reviewed.',
     ];
+}
+
+function mergeMediaEvidence(string $packetPath): void
+{
+    if ($packetPath === '' || ! file_exists($packetPath)) {
+        throw new InvalidArgumentException('merge-media-evidence requires a readable JSON packet.');
+    }
+
+    $packet = readJson($packetPath);
+    $database = readJson(COUNTRY_DIR.'/database.json');
+    $errors = [];
+    $merged = 0;
+
+    foreach ($packet as $iso3 => $proofs) {
+        if (str_starts_with((string) $iso3, '_')) {
+            continue;
+        }
+        $outlets = $database['extensions'][$iso3]['media']['outlets'] ?? null;
+        if (! is_array($outlets) || ! is_array($proofs)) {
+            $errors[] = "Media packet country {$iso3} has no protected extension.";
+            continue;
+        }
+        $knownIds = array_fill_keys(array_column($outlets, 'id'), true);
+        foreach ($proofs as $id => $proof) {
+            if (! isset($knownIds[$id]) || ! is_array($proof)) {
+                $errors[] = "Media packet contains unknown outlet {$iso3}/{$id}.";
+                continue;
+            }
+            foreach (['url', 'retrieved_on', 'evidence', 'why_valid_on'] as $required) {
+                if (! is_string($proof[$required] ?? null) || trim($proof[$required]) === '') {
+                    $errors[] = "Media proof {$iso3}/{$id} lacks {$required}.";
+                }
+            }
+            if (($proof['retrieved_on'] ?? null) !== gmdate('Y-m-d')) {
+                $errors[] = "Media proof {$iso3}/{$id} was not retrieved today.";
+            }
+            if (! validPublicUrl($proof['url'] ?? '')) {
+                $errors[] = "Media proof {$iso3}/{$id} has an invalid URL.";
+            }
+            $database['evidence'][$iso3]['media'][$id] = $proof;
+            $merged++;
+        }
+    }
+    if ($errors !== []) {
+        throw new RuntimeException("Media evidence packet rejected:\n- ".implode("\n- ", array_unique($errors)));
+    }
+
+    writeJson(COUNTRY_DIR.'/database.json', $database);
+    echo "Merged {$merged} protected-media evidence records.".PHP_EOL;
 }
 
 function acceptCountryMedia(string $target): void
@@ -959,6 +1086,180 @@ function acceptCountryMedia(string $target): void
     updateProtectedCoverage(array_keys($authoritative), $database);
 
     echo 'Accepted evidenced additive media for '.count($requested).' protected country files.'.PHP_EOL;
+}
+
+function normalizeCountryFlags(): void
+{
+    $database = readJson(COUNTRY_DIR.'/database.json');
+    $counts = ['blocking' => 0, 'watch' => 0, 'informational' => 0, 'resolved' => 0];
+
+    $normalizedFlags = [];
+    foreach ($database['flags'] ?? [] as $iso3 => $flags) {
+        $normalizedFlags[$iso3] = array_values(array_map('normalizeCountryFlag', is_array($flags) ? $flags : []));
+        foreach ($normalizedFlags[$iso3] as $flag) {
+            $key = ($flag['status'] ?? null) === 'resolved'
+                ? 'resolved'
+                : ($flag['severity'] ?? 'blocking');
+            $counts[$key] = ($counts[$key] ?? 0) + 1;
+        }
+    }
+    $database['flags'] = $normalizedFlags;
+
+    $database['flag_schema'] = [
+        'version' => 1,
+        'severity' => ['blocking', 'watch', 'informational'],
+        'status' => ['open', 'resolved'],
+        'rule' => 'Only open blocking flags prevent verification. Watch and informational flags remain visible and must not be silently deleted.',
+    ];
+    writeJson(COUNTRY_DIR.'/database.json', $database);
+    updateProtectedCoverage(
+        array_keys(readJson(AUTHORITATIVE_COUNTRY_FILE)['countries'] ?? []),
+        $database,
+    );
+
+    echo 'Normalised country flags: '.json_encode($counts, JSON_UNESCAPED_SLASHES).PHP_EOL;
+}
+
+function normalizeCountryFlag(mixed $flag): array
+{
+    if (is_array($flag) && isset($flag['severity'], $flag['status'], $flag['detail'])) {
+        return $flag;
+    }
+
+    $detail = is_string($flag)
+        ? trim($flag)
+        : trim((string) ($flag['detail'] ?? safeJson($flag)));
+    $type = is_array($flag) && is_string($flag['type'] ?? null)
+        ? $flag['type']
+        : inferFlagType($detail);
+    $severity = match (true) {
+        preg_match('/\b(searches|fetches) used\b/i', $detail) === 1 => 'informational',
+        preg_match('/\btranslation doubt\b|^helper defect:/i', $detail) === 1 => 'watch',
+        default => 'blocking',
+    };
+    $status = preg_match('/^(resolved|closed)\b/i', $detail) === 1 ? 'resolved' : 'open';
+
+    $normalized = [
+        'id' => substr(hash('sha256', $type."\0".$detail), 0, 16),
+        'type' => $type,
+        'severity' => $severity,
+        'status' => $status,
+        'detail' => $detail,
+    ];
+    if (is_array($flag) && is_string($flag['item'] ?? null)) {
+        $normalized['item'] = $flag['item'];
+    }
+
+    return $normalized;
+}
+
+function inferFlagType(string $detail): string
+{
+    return match (true) {
+        preg_match('/head.of.state|head.of.government|president|prime minister/i', $detail) === 1 => 'leadership',
+        preg_match('/strategy|space law|budget|legislat|appropriat/i', $detail) === 1 => 'policy',
+        preg_match('/stakeholder|university|industry|company|cluster|association/i', $detail) === 1 => 'stakeholder',
+        preg_match('/media|outlet|press|broadcast|rss/i', $detail) === 1 => 'media',
+        preg_match('/blocked|403|cloudflare|fetch|tls|dns|timeout|script.only|mojibake/i', $detail) === 1 => 'source_access',
+        default => 'unresolved_claim',
+    };
+}
+
+function openBlockingFlags(array $flags): array
+{
+    return array_values(array_filter(
+        array_map('normalizeCountryFlag', $flags),
+        fn (array $flag): bool => ($flag['status'] ?? 'open') === 'open'
+            && ($flag['severity'] ?? 'blocking') === 'blocking',
+    ));
+}
+
+function mergeCountryPacket(string $packetPath): void
+{
+    if ($packetPath === '' || ! file_exists($packetPath)) {
+        throw new InvalidArgumentException('merge-country-packet requires a readable JSON packet.');
+    }
+
+    $packet = readJson($packetPath);
+    $database = readJson(COUNTRY_DIR.'/database.json');
+    $coverage = readJson(COUNTRY_DIR.'/coverage.json');
+    $registry = registry();
+    $authoritative = readJson(AUTHORITATIVE_COUNTRY_FILE)['countries'] ?? [];
+    $errors = [];
+    $merged = [];
+    $promoted = [];
+
+    foreach ($packet as $iso3 => $proposal) {
+        if (str_starts_with((string) $iso3, '_')) {
+            continue;
+        }
+        if (! isset($registry[$iso3]) || isset($authoritative[$iso3])) {
+            $errors[] = "Packet country {$iso3} is unknown or protected.";
+            continue;
+        }
+        if (! is_array($proposal)
+            || ! is_array($proposal['file'] ?? null)
+            || ! is_array($proposal['evidence'] ?? null)
+            || ! is_array($proposal['flags'] ?? null)) {
+            $errors[] = "Packet country {$iso3} lacks a complete file, evidence, or flags object.";
+            continue;
+        }
+
+        $file = $proposal['file'];
+        $evidence = $proposal['evidence'];
+        $flags = array_values(array_map('normalizeCountryFlag', $proposal['flags']));
+        if (($file['iso3'] ?? null) !== $iso3) {
+            $errors[] = "Packet country {$iso3} has a mismatched file iso3.";
+            continue;
+        }
+        foreach (['asOf', 'verify', 'government', 'stakeholders', 'strategy', 'media'] as $required) {
+            if (! array_key_exists($required, $file)) {
+                $errors[] = "Packet country {$iso3} lacks {$required}.";
+            }
+        }
+        validateCountryMedia($iso3, $file['media']['outlets'] ?? [], $evidence['media'] ?? [], $errors);
+        foreach (countryFileIssues($file, $evidence, false, $flags) as $issue) {
+            $errors[] = "Packet country {$iso3}: {$issue}.";
+        }
+        $blocking = openBlockingFlags($flags);
+        $claimsReady = ($proposal['promotion_ready'] ?? false) === true;
+        if (($file['verify'] ?? null) === 'verified' && ($blocking !== [] || ! $claimsReady)) {
+            $errors[] = "Packet country {$iso3} claims verified without a clean promotion decision.";
+        }
+        if ($claimsReady && (($file['verify'] ?? null) !== 'verified' || $blocking !== [])) {
+            $errors[] = "Packet country {$iso3} is promotion-ready but still partial or blocked.";
+        }
+
+        $database['files'][$iso3] = $file;
+        $database['evidence'][$iso3] = $evidence;
+        $database['flags'][$iso3] = $flags;
+        $coverage['countries'][$iso3]['status'] = ($file['verify'] ?? null) === 'verified' ? 'complete' : 'partial';
+        $coverage['countries'][$iso3]['core_status'] = $file['verify'] ?? 'partial';
+        $coverage['countries'][$iso3]['last_checked'] = $file['asOf'] ?? null;
+        $coverage['countries'][$iso3]['campaign_status'] = $file['verify'] ?? null;
+        $coverage['countries'][$iso3]['missing'] = $blocking === []
+            ? []
+            : array_values(array_map(fn (array $flag): string => $flag['id'], $blocking));
+        $merged[] = $iso3;
+        if (($file['verify'] ?? null) === 'verified') {
+            $promoted[] = $iso3;
+        }
+    }
+
+    if ($errors !== []) {
+        throw new RuntimeException("Country packet rejected:\n- ".implode("\n- ", array_unique($errors)));
+    }
+
+    ksort($database['files']);
+    ksort($database['evidence']);
+    ksort($database['flags']);
+    $coverage['counts'] = countsByStatus($coverage['countries'] ?? [], COUNTRY_STATUSES);
+    $coverage['monthly_ready'] = countryMonthlyReady($coverage['countries'] ?? []);
+    writeJson(COUNTRY_DIR.'/database.json', $database);
+    writeJson(COUNTRY_DIR.'/coverage.json', $coverage);
+
+    echo 'Merged '.count($merged).' country proposals; promoted '.count($promoted)
+        .($promoted === [] ? '.' : ': '.implode(', ', $promoted).'.').PHP_EOL;
 }
 
 function countryCoreDiff(string $iso3, array $authoritative, array $campaign): array
@@ -1052,6 +1353,7 @@ function audit(string $scope): void
     foreach ($database['files'] ?? [] as $iso3 => $file) {
         $evidence = $database['evidence'][$iso3] ?? [];
         $flags = $database['flags'][$iso3] ?? [];
+        $blockingFlags = openBlockingFlags($flags);
         $isProtected = isset($authoritative[$iso3]);
         $issues = countryFileIssues($file, $evidence, $isProtected, $flags);
 
@@ -1064,13 +1366,14 @@ function audit(string $scope): void
             'protected_core' => $isProtected,
             'issue_count' => count($issues),
             'declared_flag_count' => count($flags),
+            'blocking_flag_count' => count($blockingFlags),
             'issues' => $issues,
         ];
 
-        if (! $isProtected && ($file['verify'] ?? null) === 'verified' && ($issues !== [] || $flags !== [])) {
+        if (! $isProtected && ($file['verify'] ?? null) === 'verified' && ($issues !== [] || $blockingFlags !== [])) {
             $unsafeComplete[$iso3] = [
                 'machine_issues' => $issues,
-                'declared_flags' => $flags,
+                'blocking_flags' => $blockingFlags,
             ];
         }
     }
@@ -1093,6 +1396,10 @@ function audit(string $scope): void
             fn (array $file): bool => ($file['verify'] ?? null) !== 'verified',
         )),
         'declared_flag_total' => array_sum(array_map('count', $database['flags'] ?? [])),
+        'blocking_flag_total' => array_sum(array_map(
+            fn (array $flags): int => count(openBlockingFlags($flags)),
+            $database['flags'] ?? [],
+        )),
         'unsafe_complete_count' => count($unsafeComplete),
         'unsafe_complete' => $unsafeComplete,
         'results' => $results,
@@ -1124,7 +1431,7 @@ function countryFileIssues(array $file, array $evidence, bool $isProtected, arra
         }
         $unresolvedProofs = 0;
         collectProofShapeIssues($evidence, 'evidence', $issues, $unresolvedProofs);
-        if ($unresolvedProofs > 0 && (($file['verify'] ?? null) === 'verified' || $flags === [])) {
+        if ($unresolvedProofs > 0 && (($file['verify'] ?? null) === 'verified' || openBlockingFlags($flags) === [])) {
             $issues[] = "{$unresolvedProofs} unresolved evidence placeholder(s) require partial status and declared flags";
         }
     }
@@ -1250,6 +1557,9 @@ function validateCountry(array $registry, array &$errors, array &$warnings): voi
     if (($database['schema'] ?? null) !== 2) {
         $errors[] = 'Country database must use layered schema 2.';
     }
+    if (($database['flag_schema']['version'] ?? null) !== 1) {
+        $errors[] = 'Country database must use typed flag schema 1.';
+    }
     if (($database['authoritative'] ?? null) !== 'claude/atlas/country-data/authoritative.json') {
         $errors[] = 'Country database must reference the authoritative production snapshot.';
     }
@@ -1305,6 +1615,18 @@ function validateCountry(array $registry, array &$errors, array &$warnings): voi
         }
         if (! $isProtected) {
             validateCountryMedia($iso3, $file['media']['outlets'] ?? [], $database['evidence'][$iso3]['media'] ?? [], $errors);
+        }
+    }
+
+    foreach ($database['flags'] ?? [] as $iso3 => $flags) {
+        foreach ($flags as $flag) {
+            if (! is_array($flag)
+                || ! is_string($flag['id'] ?? null)
+                || ! in_array($flag['severity'] ?? null, ['blocking', 'watch', 'informational'], true)
+                || ! in_array($flag['status'] ?? null, ['open', 'resolved'], true)
+                || trim((string) ($flag['detail'] ?? '')) === '') {
+                $errors[] = "Country {$iso3} has a malformed typed flag.";
+            }
         }
     }
 
