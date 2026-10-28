@@ -188131,8 +188131,16 @@
                 "id": "a0847f11ec4aea64",
                 "type": "unresolved_claim",
                 "severity": "blocking",
-                "status": "open",
-                "detail": "VP_AUDIT 2026-10-27: government.lead proof not reconfirmed on re-open (https://psarb.gov.pk/assets/client/pdf/6943-23-Ex-II-National%20Command%20Authority.pdf, status 200); kept partial."
+                "status": "resolved",
+                "detail": "VP_AUDIT 2026-10-27: government.lead proof not reconfirmed on re-open (https://psarb.gov.pk/assets/client/pdf/6943-23-Ex-II-National%20Command%20Authority.pdf, status 200); kept partial.",
+                "resolved_on": "2026-10-28",
+                "resolution": "Rule 4 of the Pakistan Space Activities Rules, gazetted 2 February 2024, says SUPARCO shall act as the national space agency.",
+                "evidence": {
+                    "url": "https://psarb.gov.pk/assets/client/pdf/6943-23-Ex-II-National%20Command%20Authority.pdf",
+                    "retrieved_on": "2026-10-28",
+                    "evidence": "Gazette of Pakistan, Extra., 2 February 2024, rule 4: \"SUPARCO shall act as the National Space Agency of Pakistan.\"",
+                    "why_valid_on": "Official National Command Authority rules, text read 2026-10-28. Rule 4 is the lead proof the audit did not reconfirm."
+                }
             }
         ],
         "PHL": [
@@ -191858,15 +191866,31 @@
                 "id": "423f5200cd1832f4",
                 "type": "stakeholder",
                 "severity": "blocking",
-                "status": "open",
-                "detail": "VP_AUDIT 2026-10-27: stakeholder proof not reconfirmed on re-open (https://www.unoosa.org/documents/pdf/copuos/stsc/2025/Statements/3_Morocco.pdf, status 200); kept partial."
+                "status": "resolved",
+                "detail": "VP_AUDIT 2026-10-27: stakeholder proof not reconfirmed on re-open (https://www.unoosa.org/documents/pdf/copuos/stsc/2025/Statements/3_Morocco.pdf, status 200); kept partial.",
+                "resolved_on": "2026-10-28",
+                "resolution": "Morocco's February 2025 UN statement names the UM5 nanosatellites, the Oukaimeden observatory, and the Rabat regional centre.",
+                "evidence": {
+                    "url": "https://www.unoosa.org/documents/pdf/copuos/stsc/2025/Statements/3_Morocco.pdf",
+                    "retrieved_on": "2026-10-28",
+                    "evidence": "The statement names \"« UM5-EOSat », et « UM5-Ribat », le 16 aout 2024\", \"l'observatoire de l'Oukaimeden, relevant de l'université Cadi Ayyad\", and the \"Centre Régional Africain des Sciences et Technologies Spatiales\" in Rabat.",
+                    "why_valid_on": "Morocco's statement to the UN Scientific and Technical Subcommittee, session 3–14 February 2025, text read 2026-10-28. It contains the stakeholder sentences the audit did not reconfirm."
+                }
             },
             {
                 "id": "4bf50f20a2dba2af",
                 "type": "policy",
                 "severity": "blocking",
-                "status": "open",
-                "detail": "VP_AUDIT 2026-10-27: strategy proof not reconfirmed on re-open (https://www.unoosa.org/documents/pdf/copuos/stsc/2024/Statements/e.g.4-Morocco.pdf, status 200); kept partial."
+                "status": "resolved",
+                "detail": "VP_AUDIT 2026-10-27: strategy proof not reconfirmed on re-open (https://www.unoosa.org/documents/pdf/copuos/stsc/2024/Statements/e.g.4-Morocco.pdf, status 200); kept partial.",
+                "resolved_on": "2026-10-28",
+                "resolution": "The 2024 UN statement says African cooperation is a pillar of Morocco's national space strategy.",
+                "evidence": {
+                    "url": "https://www.unoosa.org/documents/pdf/copuos/stsc/2024/Statements/e.g.4-Morocco.pdf",
+                    "retrieved_on": "2026-10-28",
+                    "evidence": "\"cooperation with African countries constitutes a fundamental pillar in the Moroccan national strategy for the development of space activities.\"",
+                    "why_valid_on": "Morocco's statement to the UN Scientific and Technical Subcommittee, text read 2026-10-28. That sentence is the stored strategy proof the audit did not reconfirm. It refers to a strategy and does not supply the strategy document."
+                }
             }
         ],
         "NGA": [
@@ -194417,8 +194441,16 @@
                 "id": "4544be7366de454d",
                 "type": "stakeholder",
                 "severity": "blocking",
-                "status": "open",
-                "detail": "VP_AUDIT 2026-10-27: stakeholder proof not reconfirmed on re-open (https://gouvernement.lu/dam-assets/documents/actualites/2022/12-decembre/stratgie-spatiale-2023-2027.pdf, status 200); kept partial."
+                "status": "resolved",
+                "detail": "VP_AUDIT 2026-10-27: stakeholder proof not reconfirmed on re-open (https://gouvernement.lu/dam-assets/documents/actualites/2022/12-decembre/stratgie-spatiale-2023-2027.pdf, status 200); kept partial.",
+                "resolved_on": "2026-10-28",
+                "resolution": "The official 2023–2027 space strategy names the FNR PEARL programme and the Orbital Ventures and SNCI funds.",
+                "evidence": {
+                    "url": "https://gouvernement.lu/dam-assets/documents/actualites/2022/12-decembre/stratgie-spatiale-2023-2027.pdf",
+                    "retrieved_on": "2026-10-28",
+                    "evidence": "The strategy names \"le programme FNR PEARL\" and funds \"comme le fonds Orbital Ventures ... ou encore ceux de la SNCI.\"",
+                    "why_valid_on": "Official gouvernement.lu space strategy for 2023–2027, text read 2026-10-28. Those sentences are the stakeholder proofs the audit did not reconfirm."
+                }
             }
         ],
         "NLD": [
@@ -197005,8 +197037,16 @@
                 "id": "205f02be5388cd04",
                 "type": "leadership",
                 "severity": "blocking",
-                "status": "open",
-                "detail": "VP_AUDIT 2026-10-27: government.head_of_state proof not reconfirmed on re-open (https://thevoiceslu.com/2026/08/gg-demits-office-felix-finisterre-appointed-acting-governor-general/, status 307); kept partial."
+                "status": "resolved",
+                "detail": "VP_AUDIT 2026-10-27: government.head_of_state proof not reconfirmed on re-open (https://thevoiceslu.com/2026/08/gg-demits-office-felix-finisterre-appointed-acting-governor-general/, status 307); kept partial.",
+                "resolved_on": "2026-10-28",
+                "resolution": "The Voice article of 5 August 2026 states the acting Governor-General appointment that the audit could not reconfirm.",
+                "evidence": {
+                    "url": "https://thevoiceslu.com/2026/08/gg-demits-office-felix-finisterre-appointed-acting-governor-general/",
+                    "retrieved_on": "2026-10-28",
+                    "evidence": "The 5 August 2026 article says: \"His Majesty King Charles III, acting on the advice of Prime Minister Hon. Philip J. Pierre, appointed Mr. Felix Finisterre to serve as Acting Governor-General of Saint Lucia,\" effective 1 August 2026.",
+                    "why_valid_on": "Direct fetch on 2026-10-28 returned HTTP 200. The dated article states the acting appointment that the 27 October re-open (HTTP 307) could not reconfirm."
+                }
             },
             {
                 "id": "cebf8c1ec7396742",
@@ -200342,22 +200382,46 @@
                 "id": "7aa55a393a5ad46c",
                 "type": "leadership",
                 "severity": "blocking",
-                "status": "open",
-                "detail": "VP_AUDIT 2026-10-27: government.head_of_government proof not reconfirmed on re-open (https://mobi-juridoc.gouv.nc/juridoc/jdtextes.nsf/7B612361ACACE2474B25791A001F81B6/$file/Arrete_AP-2026-SCAI-1883_du_31-07-2026_ChG.pdf, status 200); kept partial."
+                "status": "resolved",
+                "detail": "VP_AUDIT 2026-10-27: government.head_of_government proof not reconfirmed on re-open (https://mobi-juridoc.gouv.nc/juridoc/jdtextes.nsf/7B612361ACACE2474B25791A001F81B6/$file/Arrete_AP-2026-SCAI-1883_du_31-07-2026_ChG.pdf, status 200); kept partial.",
+                "resolved_on": "2026-10-28",
+                "resolution": "The 31 July 2026 arrêté records Milakulo Tukumuli taking office as President of the Government.",
+                "evidence": {
+                    "url": "https://mobi-juridoc.gouv.nc/juridoc/jdtextes.nsf/7B612361ACACE2474B25791A001F81B6/$file/Arrete_AP-2026-SCAI-1883_du_31-07-2026_ChG.pdf",
+                    "retrieved_on": "2026-10-28",
+                    "evidence": "Arrêté n° AP-2026-SCAI-1883 du 31 juillet 2026 \"constatant la prise de fonctions du président du gouvernement\" names \"Milakulo Tukumuli, président.\"",
+                    "why_valid_on": "Official Journal officiel act on the territory juridoc, text read 2026-10-28. It is the head-of-government proof the audit did not reconfirm."
+                }
             },
             {
                 "id": "9621e5def0b987b4",
                 "type": "unresolved_claim",
                 "severity": "blocking",
-                "status": "open",
-                "detail": "VP_AUDIT 2026-10-27: government.lead proof not reconfirmed on re-open (https://gouv.nc/sites/default/files/atoms/files/2026.08.19_decisions_du_gouvernement.pdf, status 200); kept partial."
+                "status": "resolved",
+                "detail": "VP_AUDIT 2026-10-27: government.lead proof not reconfirmed on re-open (https://gouv.nc/sites/default/files/atoms/files/2026.08.19_decisions_du_gouvernement.pdf, status 200); kept partial.",
+                "resolved_on": "2026-10-28",
+                "resolution": "The 19 August 2026 portfolio list assigns research and climate to Johanito Wamytan and names no space portfolio.",
+                "evidence": {
+                    "url": "https://gouv.nc/sites/default/files/atoms/files/2026.08.19_decisions_du_gouvernement.pdf",
+                    "retrieved_on": "2026-10-28",
+                    "evidence": "The 19 August 2026 allocation gives Johanito Wamytan \"questions relatives à la recherche et au climat\" and names no space portfolio.",
+                    "why_valid_on": "Official government communiqué, text read 2026-10-28. The sector table is the lead proof the audit did not reconfirm: research and climate sit with Wamytan, and the word spatial does not appear."
+                }
             },
             {
                 "id": "9f0b6aa84286628b",
                 "type": "policy",
                 "severity": "blocking",
-                "status": "open",
-                "detail": "VP_AUDIT 2026-10-27: strategy proof not reconfirmed on re-open (https://gouv.nc/sites/default/files/atoms/files/2023.02.20_signature_convention_cnes.pdf, status 200); kept partial."
+                "status": "resolved",
+                "detail": "VP_AUDIT 2026-10-27: strategy proof not reconfirmed on re-open (https://gouv.nc/sites/default/files/atoms/files/2023.02.20_signature_convention_cnes.pdf, status 200); kept partial.",
+                "resolved_on": "2026-10-28",
+                "resolution": "The government communiqué states CNES funding of EUR 140,000 for Connect by CNES.",
+                "evidence": {
+                    "url": "https://gouv.nc/sites/default/files/atoms/files/2023.02.20_signature_convention_cnes.pdf",
+                    "retrieved_on": "2026-10-28",
+                    "evidence": "The communiqué of 20 February 2024 says \"Le CNES s'engage à soutenir financièrement le programme « Connect by CNES », à hauteur de 140 000 euros.\"",
+                    "why_valid_on": "Government press release on gouv.nc, text read 2026-10-28. The body is dated 20 February 2024 and the signature 19 February 2024, despite the 2023 file name. The funding sentence is the strategy proof the audit did not reconfirm."
+                }
             }
         ],
         "NFK": [
@@ -200718,15 +200782,31 @@
                 "id": "b1f79c82746912bd",
                 "type": "stakeholder",
                 "severity": "blocking",
-                "status": "open",
-                "detail": "VP_AUDIT 2026-10-27: stakeholder proof not reconfirmed on re-open (https://digitallibrary.un.org/record/4040657/files/A_AC.109_2024_12-EN.pdf, status 200); kept partial."
+                "status": "resolved",
+                "detail": "VP_AUDIT 2026-10-27: stakeholder proof not reconfirmed on re-open (https://digitallibrary.un.org/record/4040657/files/A_AC.109_2024_12-EN.pdf, status 200); kept partial.",
+                "resolved_on": "2026-10-28",
+                "resolution": "The 2024 UN working paper describes the Administrator job-share and the seven-member Island Council.",
+                "evidence": {
+                    "url": "https://digitallibrary.un.org/record/4040657/files/A_AC.109_2024_12-EN.pdf",
+                    "retrieved_on": "2026-10-28",
+                    "evidence": "The paper says the Administrators \"are performing the role on a job-share basis, rotating each month\" and that the Council \"consists of seven voting members (the Mayor, the Deputy Mayor and five Councillors, all elected).\"",
+                    "why_valid_on": "Same UN working paper, text read 2026-10-28. Those sentences are the stakeholder proofs the audit did not reconfirm. They describe the 2024 structure, not the current holders."
+                }
             },
             {
                 "id": "0d4a42a0cd5b6179",
                 "type": "unresolved_claim",
                 "severity": "blocking",
-                "status": "open",
-                "detail": "VP_AUDIT 2026-10-27: government.lead proof not reconfirmed on re-open (https://digitallibrary.un.org/record/4040657/files/A_AC.109_2024_12-EN.pdf, status 200); kept partial."
+                "status": "resolved",
+                "detail": "VP_AUDIT 2026-10-27: government.lead proof not reconfirmed on re-open (https://digitallibrary.un.org/record/4040657/files/A_AC.109_2024_12-EN.pdf, status 200); kept partial.",
+                "resolved_on": "2026-10-28",
+                "resolution": "The 2024 UN working paper vests overall administration of Pitcairn in the Governor.",
+                "evidence": {
+                    "url": "https://digitallibrary.un.org/record/4040657/files/A_AC.109_2024_12-EN.pdf",
+                    "retrieved_on": "2026-10-28",
+                    "evidence": "The working paper says the Governor of Pitcairn holds the office and \"overall responsibility for the administration of the island is accordingly vested in this function.\"",
+                    "why_valid_on": "United Nations working paper A/AC.109/2024/12, text read 2026-10-28. That sentence is the collective-lead proof the audit did not reconfirm. It describes the structure and does not name the October 2026 office-holder."
+                }
             }
         ],
         "PLW": [
@@ -200966,8 +201046,16 @@
                 "id": "895c0b51364ae2ac",
                 "type": "media",
                 "severity": "blocking",
-                "status": "open",
-                "detail": "VP_AUDIT 2026-10-27: press proof not reconfirmed on re-open (http://www.vok.rep.kp/, status 200); kept partial."
+                "status": "resolved",
+                "detail": "VP_AUDIT 2026-10-27: press proof not reconfirmed on re-open (http://www.vok.rep.kp/, status 200); kept partial.",
+                "resolved_on": "2026-10-28",
+                "resolution": "The Voice of Korea homepage describes the broadcaster that first went on air on 16 March 1947.",
+                "evidence": {
+                    "url": "http://www.vok.rep.kp/",
+                    "retrieved_on": "2026-10-28",
+                    "evidence": "The homepage says: \"1947년 3월 16일에 첫 전파를 날린 《조선의 소리》방송\" (the Voice of Korea broadcast that first went on air on 16 March 1947).",
+                    "why_valid_on": "Direct fetch on 2026-10-28 returned HTTP 200 from the Voice of Korea homepage. That sentence is the outlet proof the audit did not reconfirm."
+                }
             }
         ],
         "PYF": [
@@ -204553,8 +204641,16 @@
                 "id": "a64781c0b21b7538",
                 "type": "stakeholder",
                 "severity": "blocking",
-                "status": "open",
-                "detail": "VP_AUDIT 2026-10-27: stakeholder proof not reconfirmed on re-open (https://sgg-mali.ml/JO/2026/mali-jo-2026-01-sp.pdf, status 200); kept partial."
+                "status": "resolved",
+                "detail": "VP_AUDIT 2026-10-27: stakeholder proof not reconfirmed on re-open (https://sgg-mali.ml/JO/2026/mali-jo-2026-01-sp.pdf, status 200); kept partial.",
+                "resolved_on": "2026-10-28",
+                "resolution": "The 12 February 2026 gazette names Alhamdou Ag Ilyène as Minister of Communication, Digital Economy and Administrative Modernisation.",
+                "evidence": {
+                    "url": "https://sgg-mali.ml/JO/2026/mali-jo-2026-01-sp.pdf",
+                    "retrieved_on": "2026-10-28",
+                    "evidence": "Journal Officiel special n°01 of 12 February 2026: \"24. Ministre de la Communication, de l'Economie numérique et de la Modernisation de l'Administration : Monsieur Alhamdou AG ILYENE.\"",
+                    "why_valid_on": "Official gazette decree n°2026-0062/PT-RM appointing the government, text read 2026-10-28. It names the minister used as the stakeholder proof."
+                }
             }
         ],
         "MOZ": [
@@ -205128,8 +205224,16 @@
                 "id": "d548808b8abdee93",
                 "type": "policy",
                 "severity": "blocking",
-                "status": "open",
-                "detail": "VP_AUDIT 2026-10-27: strategy proof not reconfirmed on re-open (https://www.mtit.gov.ps/, status 200); kept partial."
+                "status": "resolved",
+                "detail": "VP_AUDIT 2026-10-27: strategy proof not reconfirmed on re-open (https://www.mtit.gov.ps/, status 200); kept partial.",
+                "resolved_on": "2026-10-28",
+                "resolution": "The ministry homepage lists communications, information technology and postal work and does not name a space strategy.",
+                "evidence": {
+                    "url": "https://www.mtit.gov.ps/",
+                    "retrieved_on": "2026-10-28",
+                    "evidence": "The homepage lists communications, information technology (including الإدارة العامة للحكومة الذكية) and قطاع البريد, plus a menu سياسات و استراتيجيات, and names no space strategy.",
+                    "why_valid_on": "Direct fetch on 2026-10-28 returned HTTP 200; the page is dated 28 October 2026. The only satellite wording is a 2023 item on fees for رخص البث الفضائي (SNG), which is not a space strategy. This reconfirms the stored absence on the pages opened."
+                }
             }
         ],
         "SDN": [
@@ -207287,15 +207391,31 @@
                 "id": "283680b3bd4f72cc",
                 "type": "unresolved_claim",
                 "severity": "blocking",
-                "status": "open",
-                "detail": "VP_AUDIT 2026-10-27: government.lead proof not reconfirmed on re-open (https://gesetze.li/konso/pdf/2023443000?version=2, status 200); kept partial."
+                "status": "resolved",
+                "detail": "VP_AUDIT 2026-10-27: government.lead proof not reconfirmed on re-open (https://gesetze.li/konso/pdf/2023443000?version=2, status 200); kept partial.",
+                "resolved_on": "2026-10-28",
+                "resolution": "Article 16 of the current consolidated Space Act names the Office for Communications as the supervisory authority.",
+                "evidence": {
+                    "url": "https://gesetze.li/konso/pdf/2023443000?version=2",
+                    "retrieved_on": "2026-10-28",
+                    "evidence": "Art. 16 of the Weltraumgesetz: \"Aufsichtsbehörde ist das Amt für Kommunikation.\" The consolidated text is marked Fassung 01.01.2026.",
+                    "why_valid_on": "Official consolidated Space Act on gesetze.li, read 2026-10-28 from the named PDF. Article 16 names the Office for Communications as supervisory authority, which is the lead proof the audit did not reconfirm."
+                }
             },
             {
                 "id": "32c09a88d35bc3de",
                 "type": "policy",
                 "severity": "blocking",
-                "status": "open",
-                "detail": "VP_AUDIT 2026-10-27: strategy proof not reconfirmed on re-open (https://gesetze.li/konso/pdf/2023443000?version=2, status 200); kept partial."
+                "status": "resolved",
+                "detail": "VP_AUDIT 2026-10-27: strategy proof not reconfirmed on re-open (https://gesetze.li/konso/pdf/2023443000?version=2, status 200); kept partial.",
+                "resolved_on": "2026-10-28",
+                "resolution": "Article 4(4) of the current Space Act gives the Government power to regulate licence applications by ordinance.",
+                "evidence": {
+                    "url": "https://gesetze.li/konso/pdf/2023443000?version=2",
+                    "retrieved_on": "2026-10-28",
+                    "evidence": "Art. 4(4): \"Die Regierung regelt das Nähere über den Genehmigungsantrag ... mit Verordnung.\" Fassung 01.01.2026.",
+                    "why_valid_on": "Same official consolidated law, read 2026-10-28. Article 4(4) is the ordinance clause stored as the strategy proof. A separate flag still records that no exhaustive search found another strategy."
+                }
             }
         ],
         "MCO": [
@@ -207474,8 +207594,16 @@
                 "id": "b45f2c2198815d4f",
                 "type": "policy",
                 "severity": "blocking",
-                "status": "open",
-                "detail": "VP_AUDIT 2026-10-27: strategy proof not reconfirmed on re-open (https://www.unoosa.org/documents/pdf/copuos/2025/Statements/Thursday26AM/4_Malta.pdf, status 200); kept partial."
+                "status": "resolved",
+                "detail": "VP_AUDIT 2026-10-27: strategy proof not reconfirmed on re-open (https://www.unoosa.org/documents/pdf/copuos/2025/Statements/Thursday26AM/4_Malta.pdf, status 200); kept partial.",
+                "resolved_on": "2026-10-28",
+                "resolution": "Malta's 2025 UN statement says the country has a first National Space Strategy for 2022–2027.",
+                "evidence": {
+                    "url": "https://www.unoosa.org/documents/pdf/copuos/2025/Statements/Thursday26AM/4_Malta.pdf",
+                    "retrieved_on": "2026-10-28",
+                    "evidence": "Malta's statement says the work \"has resulted in our first National Space Strategy (2022-2027).\"",
+                    "why_valid_on": "Malta's statement to UN COPUOS, text read 2026-10-28. That sentence is the stored strategy proof the audit did not reconfirm."
+                }
             }
         ],
         "SGS": [
