@@ -68,7 +68,7 @@ The trust layers are:
 Only an explicitly reviewed change may update both the production file and its authoritative snapshot. A campaign run may never perform that promotion itself.
 The approved authoritative count and SHA-256 are pinned independently in `builders.php`. Never alter those constants during research; a site engineer may update them only after reviewing an intentional production change.
 
-The queue enforces the campaign phases. While any `seeded` or `unstarted` entry remains, it selects those entries for the worldwide first-file pass and temporarily defers `partial` files. After all 235 entries have a researched file or inherited result, it returns to `partial` entries for depth completion. Therefore a first-pass file may be honestly partial without blocking worldwide coverage, but monthly maintenance still cannot begin until all completion gates pass.
+The queue enforces the campaign phases. While any `seeded` or `unstarted` entry remains, it selects those entries for the worldwide first-file pass and temporarily defers `partial` files. After all 235 entries have a researched file or inherited result, it returns to `partial` entries for depth completion. Protected media reviews come first. Remaining files are ranked by fewest blocking flags, lowest source-access risk, strongest material space activity, daily-briefing watch signals, then stable desk and ISO3 order. Therefore a first-pass file may be honestly partial without blocking worldwide coverage, but monthly maintenance still cannot begin until all completion gates pass.
 
 For each map entry, status is:
 
@@ -93,6 +93,15 @@ A complete file contains:
 A complete small or inactive country may have short arrays and proved absences. Completeness means the real situation is represented; it does not mean padding the file.
 
 For a territory, research its own government, economy, university, media, and space activity. Identify the sovereign relationship. Do not copy the sovereign's entire file into the territory and do not invent an independent national space strategy.
+
+Flags are typed records. `severity` is `blocking`, `watch`, or `informational`; `status` is `open` or `resolved`. Only an open blocking flag prevents promotion to `verified`. Use:
+
+- `blocking` when a required current claim is missing, contradicted, stale, or rests on insufficient proof;
+- `watch` when the current claim is proved but a dated transition, translation doubt, or source-access weakness merits a future recheck;
+- `informational` for research accounting and context that does not weaken a published claim;
+- `resolved` only when the flag's gap has been closed by evidence stored in the database.
+
+Never delete watch or informational history merely to make a file pass. Never downgrade a real missing proof to evade the verification gate.
 
 ### Neutral prioritisation
 
@@ -228,7 +237,7 @@ A Country Manager returns one packet per ISO3. It does not return prose instead 
 }
 ```
 
-For an unprotected ISO3, `file` is the complete proposed country object in the exact shape above, including preserved valid seed content. For a protected ISO3, return `extension.media` plus `proposed_changes`; do not return or merge an active replacement. Evidence uses the proof object below. `flags` identifies translation doubt, blocked primary sources, unresolved conflicts and missing sections. `rejected` identifies candidate URLs or claims and why they failed. Only the VP merges accepted data into `database.json`.
+For an unprotected ISO3, `file` is the complete proposed country object in the exact shape above, including preserved valid seed content. For a protected ISO3, return `extension.media` plus `proposed_changes`; do not return or merge an active replacement. Evidence uses the proof object below. `flags` uses the typed severity/status records above for translation doubt, blocked primary sources, unresolved conflicts and missing sections. `rejected` identifies candidate URLs or claims and why they failed. Only the VP merges accepted data into `database.json`.
 
 Government node `type` uses the existing file vocabulary: `state`, `parliament`, `executive`, `ministry`, `defense`, `agency`, `research`, `advisory`, `regulator`.
 
@@ -261,7 +270,7 @@ Managers attach evidence outside the website file. The VP reviews every core evi
 
 If the title does not match, send that country back once. If the cap is gone, mark it `partial`.
 
-`verify` is `verified` only when every required section is complete, every current office-holder and lead body passed the audit, and the sources support the strategy, stakeholder, and media claims. Otherwise `partial`. `php claude/atlas/tools/builders.php audit country` is a hard gate: it must reject any file marked verified while machine issues or declared flags remain.
+`verify` is `verified` only when every required section is complete, every current office-holder and lead body passed the audit, and the sources support the strategy, stakeholder, and media claims. Otherwise `partial`. `php claude/atlas/tools/builders.php audit country` is a hard gate: it must reject any file marked verified while machine issues or open blocking flags remain.
 
 ### The database file
 

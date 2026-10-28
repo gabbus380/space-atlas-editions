@@ -29,7 +29,11 @@
             "status": "partial",
             "last_checked": "2026-10-27",
             "missing": [
-                "depth completion and unresolved items (see database flags)"
+                "addd015d40a62130",
+                "3083bd91fde63eb9",
+                "b43be943c167469c",
+                "1b59e8d46aaa2fda",
+                "6363f30271086eaf"
             ],
             "source": "database",
             "core_status": "partial",
@@ -534,9 +538,16 @@
         "CIV": {
             "iso3": "CIV",
             "status": "partial",
-            "last_checked": "2026-10-27",
+            "last_checked": "2026-10-28",
             "missing": [
-                "depth completion and unresolved items (see database flags)"
+                "061912800488b812",
+                "d8a96f53c6c172b5",
+                "a4c7e77d4805bb92",
+                "065f7a60e50b4407",
+                "11a38c504edcbbb0",
+                "306df01d7c78148f",
+                "42f0984bb9486421",
+                "d59ba893ad12023e"
             ],
             "source": "database",
             "core_status": "partial",
@@ -729,9 +740,16 @@
         "DJI": {
             "iso3": "DJI",
             "status": "partial",
-            "last_checked": "2026-10-27",
+            "last_checked": "2026-10-28",
             "missing": [
-                "depth completion and unresolved items (see database flags)"
+                "5b3822eae8b2b3f5",
+                "5d4f5905e8766bf9",
+                "c59604682a9a10a7",
+                "dd3bafbad5feb3c0",
+                "45b4e6396d845e91",
+                "868dd4f3c7f3a60a",
+                "8e6e8d3d7f52e1dc",
+                "98690afde4b16d90"
             ],
             "source": "database",
             "core_status": "partial",
@@ -794,9 +812,14 @@
         "ECU": {
             "iso3": "ECU",
             "status": "partial",
-            "last_checked": "2026-10-27",
+            "last_checked": "2026-10-28",
             "missing": [
-                "depth completion and unresolved items (see database flags)"
+                "05fe3929219ef1ed",
+                "bd8d75aa3aad6c5b",
+                "eaae607f0886ea70",
+                "738020da352bc696",
+                "5492836f4217aeb5",
+                "5a73ffb7499675ba"
             ],
             "source": "database",
             "core_status": "partial",
@@ -848,11 +871,11 @@
             "status": "complete",
             "last_checked": "2026-10-23",
             "missing": [
-                "review additive media extension and any proposed core changes"
+                "review proposed core changes"
             ],
             "source": "authoritative",
             "core_status": "production_verified",
-            "extension_status": "review_required",
+            "extension_status": "complete",
             "campaign_status": "partial",
             "extension_last_checked": "2026-10-27"
         },
@@ -861,11 +884,11 @@
             "status": "complete",
             "last_checked": "2026-10-23",
             "missing": [
-                "review additive media extension and any proposed core changes"
+                "review proposed core changes"
             ],
             "source": "authoritative",
             "core_status": "production_verified",
-            "extension_status": "review_required",
+            "extension_status": "complete",
             "campaign_status": "partial",
             "extension_last_checked": "2026-10-27"
         },
@@ -978,11 +1001,11 @@
             "status": "complete",
             "last_checked": "2026-10-23",
             "missing": [
-                "review additive media extension and any proposed core changes"
+                "review proposed core changes"
             ],
             "source": "authoritative",
             "core_status": "production_verified",
-            "extension_status": "review_required",
+            "extension_status": "complete",
             "campaign_status": "partial",
             "extension_last_checked": "2026-10-27"
         },
@@ -1069,7 +1092,11 @@
             "status": "partial",
             "last_checked": "2026-10-27",
             "missing": [
-                "depth completion and unresolved items (see database flags)"
+                "02d8fc5ce935584e",
+                "ee3dae1db3f4559e",
+                "198bef602b35f2ff",
+                "e410f01666be87f3",
+                "8be0d64d9a863a0c"
             ],
             "source": "database",
             "core_status": "partial",
@@ -1173,7 +1200,10 @@
             "status": "partial",
             "last_checked": "2026-10-27",
             "missing": [
-                "depth completion and unresolved items (see database flags)"
+                "cc16eabb0b5a65b9",
+                "1b03e3f3b5a3b92b",
+                "deee74036075e5c5",
+                "4970750b20aa2f6f"
             ],
             "source": "database",
             "core_status": "partial",
@@ -1199,11 +1229,11 @@
             "status": "complete",
             "last_checked": "2026-10-23",
             "missing": [
-                "review additive media extension and any proposed core changes"
+                "review proposed core changes"
             ],
             "source": "authoritative",
             "core_status": "production_verified",
-            "extension_status": "review_required",
+            "extension_status": "complete",
             "campaign_status": "partial",
             "extension_last_checked": "2026-10-27"
         },
@@ -1355,11 +1385,11 @@
             "status": "complete",
             "last_checked": "2026-10-23",
             "missing": [
-                "review additive media extension and any proposed core changes"
+                "review proposed core changes"
             ],
             "source": "authoritative",
             "core_status": "production_verified",
-            "extension_status": "review_required",
+            "extension_status": "complete",
             "campaign_status": "partial",
             "extension_last_checked": "2026-10-27"
         },
@@ -1834,9 +1864,16 @@
         "MNE": {
             "iso3": "MNE",
             "status": "partial",
-            "last_checked": "2026-10-27",
+            "last_checked": "2026-10-28",
             "missing": [
-                "depth completion and unresolved items (see database flags)"
+                "7a7d6ea3496a6c9e",
+                "43e427e96d820e63",
+                "387f5eb8b89fa7b6",
+                "7038c016baeadded",
+                "b721f62832d2052f",
+                "6f660bea0e4850a5",
+                "a30d16aff4a6726b",
+                "bdd4cccb3aeb7a9d"
             ],
             "source": "database",
             "core_status": "partial",
@@ -1899,9 +1936,15 @@
         "MSR": {
             "iso3": "MSR",
             "status": "partial",
-            "last_checked": "2026-10-27",
+            "last_checked": "2026-10-28",
             "missing": [
-                "depth completion and unresolved items (see database flags)"
+                "089d79edce7caba0",
+                "37b26b9e13861eda",
+                "abb09ce19741757d",
+                "46052885d11c7bde",
+                "13693737096becad",
+                "b0070585ab21e79e",
+                "5fd91db67ed82bf3"
             ],
             "source": "database",
             "core_status": "partial",
@@ -2070,7 +2113,12 @@
             "status": "partial",
             "last_checked": "2026-10-27",
             "missing": [
-                "depth completion and unresolved items (see database flags)"
+                "36c4db0ebcf8ca92",
+                "cd0d09a2294ca138",
+                "777e31d198e82947",
+                "a4dbc5e5152c5d3c",
+                "8168841eb6bf1b14",
+                "2e3bd1e2546178e9"
             ],
             "source": "database",
             "core_status": "partial",
@@ -2406,9 +2454,10 @@
         "SGS": {
             "iso3": "SGS",
             "status": "partial",
-            "last_checked": "2026-10-27",
+            "last_checked": "2026-10-28",
             "missing": [
-                "depth completion and unresolved items (see database flags)"
+                "3c82715c2e6c207c",
+                "23daba96bfad3482"
             ],
             "source": "database",
             "core_status": "partial",
@@ -2577,11 +2626,11 @@
             "status": "complete",
             "last_checked": "2026-10-23",
             "missing": [
-                "review additive media extension and any proposed core changes"
+                "review proposed core changes"
             ],
             "source": "authoritative",
             "core_status": "production_verified",
-            "extension_status": "review_required",
+            "extension_status": "complete",
             "campaign_status": "partial",
             "extension_last_checked": "2026-10-27"
         },
@@ -2809,9 +2858,16 @@
         "TZA": {
             "iso3": "TZA",
             "status": "partial",
-            "last_checked": "2026-10-27",
+            "last_checked": "2026-10-28",
             "missing": [
-                "depth completion and unresolved items (see database flags)"
+                "0d8cf6f6c3709f2e",
+                "b2ba7d669f26ba72",
+                "531d68b0c06354d9",
+                "cdb76d2f575bfb69",
+                "415254f2e16b977f",
+                "7806c8ca32bbcbc7",
+                "2a190c34cd3446d8",
+                "fda6b5ab95756854"
             ],
             "source": "database",
             "core_status": "partial",
@@ -2902,7 +2958,12 @@
             "status": "partial",
             "last_checked": "2026-10-27",
             "missing": [
-                "depth completion and unresolved items (see database flags)"
+                "3f3a4776249e7809",
+                "1e05713670967aa5",
+                "b1be09301e53ec13",
+                "450de54f10bcb9c9",
+                "d37daf98ed58fc12",
+                "5a7b8b6971c4e366"
             ],
             "source": "database",
             "core_status": "partial",
