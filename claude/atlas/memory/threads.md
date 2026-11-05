@@ -141,3 +141,17 @@ Next: 2026-10-30, comment deadline.
 
 Episodes:
 - 2026-10-20 to 2026-10-22, filed in the 21 and 23 October editions. The request and the pads. Not carried in the rebuilt edition.
+
+
+## 2026-11-05
+- Japan MMX and Idefix: no change; transfer orbit toward Mars, no arrival date on file.
+- US commercial space surveillance reserve: no change; six CASR agreements of 22 October, firms not named on a government page.
+- ICEYE, close approaches and Ukrainian satcom: approaches unchanged, no government statement; Starshield now has a stated mid-2027 contract hope and no answers on October; reported congressional interest via RIA/CNN.
+- China state broadband constellation: no change; group 28 of 25 October is the last state; a further launch was previewed by NASASpaceflight but not confirmed.
+- Poland's partnerships and objects overhead: new low-confidence entries for the Gdańsk EO Forum and the Berlin-Brandenburg delegation; no POLSA-ISRO agreement and no new object.
+- Türkiye's space and aviation budget: no change; TL 24.59 billion proposal for 2027, no split published.
+- NASA's Swift observatory: re-entered 4 November over western Indonesia per press; thread closed pending any NASA page.
+- Matera laser ranging: no change; station complete, not yet in routine operations.
+- ESA, the EU and the road to Rome: European-led outpost studies awarded 3 November; OHB's EUR 554 million Sentinel-3 NGT figure; ExoMars egress rehearsal; next 10 November vote, then 15 December Rome.
+- Artemis and the 2028 landing: no change to dates; proclamation of 3 November and midterm result add political context; second spacewalk scheduled 5 November, outcome pending; 8 December proposals due.
+- Blue Origin and New Glenn's cadence: reported slip into January via Reuters/Bloomberg/US News, unconfirmed by company; 30 October FAA comment deadline passed without a result on file.

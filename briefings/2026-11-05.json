@@ -1,0 +1,1070 @@
+{
+  "date": "2026-11-05",
+  "edition": "06:00 UTC",
+  "headline": "Democrats take Congress as Swift falls; China sets out its lunar rendezvous plan",
+  "summary": [
+    "Democratic candidates won majorities in both chambers of the US Congress on 3 November, placing the committees that write NASA's appropriation and set Space Force policy under new leadership from January, one day after President Trump issued a proclamation titled the American Declaration of Freedom in Space.",
+    "NASA's Neil Gehrels Swift Observatory re-entered over western Indonesia on 4 November after nearly 22 years in orbit, closing the thread opened by the failed Katalyst reboost, while press reports citing unnamed sources say Blue Origin has pushed the next New Glenn launch into January.",
+    "China described a two-launch, lunar-orbit-rendezvous architecture for landing astronauts on the Moon before 2030, with the Mengzhou crew craft and Lanyue lander flying separately.",
+    "In Europe, OHB put a figure of EUR 554 million on its Sentinel-3 Next Generation Topography contract and ESA awarded two consortia feasibility studies for a European-led orbital outpost, both ahead of the 10 November EU Space Act committee vote and the 15 December Rome ministerial.",
+    "Ukraine's chargé d'affaires in Washington said Kyiv hopes to sign a new Starshield contract by mid-2027 without yet having answers on October's service problems, and Canada named former NASA chief economist Alexander MacDonald as president of the Canadian Space Agency."
+  ],
+  "bottom_line": "The US political map that frames NASA, Space Force and SpaceX oversight changed in one night, and the first consequences, from the Starlink inquiry in Ukraine to the Artemis-versus-China timetable, will be set by committees that do not sit until January; Europe's own decisions remain on the calendar for 10 November and 15 December.",
+  "global": [
+    {
+      "date": "2026-11-04",
+      "iso3": [
+        "USA"
+      ],
+      "status": "fresh",
+      "priority": "high",
+      "title": "Democrats win House and Senate; space committees change hands in January",
+      "summary": "Democratic candidates won majorities in both the House and the Senate in the 3 November midterm elections, according to SpacePolicyOnline, Payload and SpaceQ, giving the party the chairs of the committees that write NASA's appropriation, set Space Force policy and can summon company executives. The South China Morning Post puts Elon Musk's spending on political groups in the cycle at US$474 million. RIA Novosti, citing CNN, reports that Democratic members intend to examine the October slowdown of Starlink service in Ukraine. The new Congress sits in January; the final tally was not complete in the packet.",
+      "why": "Control of the authorising and appropriating committees decides what happens to the Artemis acceleration plan, Space Force commercial purchases and oversight of SpaceX. The reported Starlink inquiry links directly to the Ukrainian satellite-communications thread on file.",
+      "sources": [
+        {
+          "outlet": "SpacePolicyOnline",
+          "url": "https://spacepolicyonline.com/news/blue-tsunami-puts-democrats-in-control-of-house-and-senate-next-year/",
+          "language": "en",
+          "type": "press"
+        },
+        {
+          "outlet": "Payload",
+          "url": "https://payloadspace.com/election-2026-space-winners-losers-and-whats-next/",
+          "language": "en",
+          "type": "press"
+        },
+        {
+          "outlet": "SpaceQ",
+          "url": "https://spaceq.ca/midterm-elections-space-committees-democrats/",
+          "language": "en",
+          "type": "press"
+        },
+        {
+          "outlet": "South China Morning Post",
+          "url": "https://www.scmp.com/tech/big-tech/article/3373422/after-us474m-gamble-flops-what-happens-now-elon-musks-tesla-spacex-and-china-ties",
+          "language": "en",
+          "type": "press"
+        },
+        {
+          "outlet": "NBC News",
+          "url": "https://www.nbcnews.com/nightly-news/video/election-results-yield-historic-firsts-272885317680",
+          "language": "en",
+          "type": "national-language"
+        },
+        {
+          "outlet": "RIA Novosti",
+          "url": "https://ria.ru/20261105/ukraina-2129550613.html",
+          "language": "ru",
+          "type": "national-language"
+        }
+      ],
+      "bar": "high"
+    },
+    {
+      "date": "2026-11-03",
+      "iso3": [
+        "USA"
+      ],
+      "status": "fresh",
+      "priority": "high",
+      "title": "Trump proclaims an 'American Declaration of Freedom in Space'",
+      "summary": "A presidential proclamation dated 3 November on the White House site, titled the American Declaration of Freedom in Space, states that the solar system and all of outer space beyond Earth are the province of all humans and that the United States will lead the exploration, development, use and settlement of new frontiers. SpacePolicyOnline and Space.com reported the text on 4 November; Space.com characterised it as asserting a right to develop and settle the solar system under US law. No agency instruction or budget line accompanied the proclamation in the packet.",
+      "why": "The proclamation is the first stated space policy position of the administration after the midterm vote and sets the frame for the Artemis 2028 landing target. It is a government text, so the item meets the source rule at high confidence.",
+      "sources": [
+        {
+          "outlet": "White House",
+          "url": "https://www.whitehouse.gov/presidential-actions/2026/11/the-american-declaration-of-freedom-in-space/",
+          "language": "en",
+          "type": "government-or-embassy"
+        },
+        {
+          "outlet": "SpacePolicyOnline",
+          "url": "https://spacepolicyonline.com/news/trump-issues-american-declaration-of-freedom-in-space/",
+          "language": "en",
+          "type": "press"
+        },
+        {
+          "outlet": "Space.com",
+          "url": "https://www.space.com/space-exploration/trump-declares-american-space-superiority-for-all-eternity-in-new-white-house-proclamation",
+          "language": "en",
+          "type": "press"
+        }
+      ],
+      "bar": "high"
+    },
+    {
+      "date": "2026-11-04",
+      "iso3": [
+        "USA"
+      ],
+      "status": "fresh",
+      "priority": "medium",
+      "title": "Swift re-enters over western Indonesia",
+      "summary": "NASA's Neil Gehrels Swift Observatory re-entered the atmosphere on 4 November over western Indonesia, ending nearly 22 years in orbit, according to Spaceflight Now and SpacePolicyOnline. The Frankfurter Allgemeine carried the re-entry on 5 November. The US Space Force had predicted re-entry at about 08:30 UTC on 4 November within a band about 21 degrees either side of the equator. SpacePolicyOnline notes that NASA contracted Katalyst Space in September 2025 to attempt a reboost, which did not succeed. No NASA page confirming the re-entry appeared in the packet, so the item is filed at medium confidence.",
+      "why": "The thread on file expected re-entry within weeks of 23 October, and it has now arrived. The outcome closes the first attempted commercial rescue of a NASA science satellite without a replacement plan on record.",
+      "sources": [
+        {
+          "outlet": "Spaceflight Now",
+          "url": "https://spaceflightnow.com/2026/11/04/nasas-neil-gehrels-swift-observatory-reenters-over-western-indonesia/",
+          "language": "en",
+          "type": "press"
+        },
+        {
+          "outlet": "SpacePolicyOnline",
+          "url": "https://spacepolicyonline.com/news/farewell-swift/",
+          "language": "en",
+          "type": "press"
+        },
+        {
+          "outlet": "Frankfurter Allgemeine Zeitung",
+          "url": "https://www.faz.net/aktuell/wissen/weltraum/nasa-satellit-stuerzt-nach-spektakulaerer-rettungsmission-zurueck-auf-die-erde-accg-201654861.html",
+          "language": "de",
+          "type": "national-language"
+        },
+        {
+          "outlet": "The Guardian",
+          "url": "https://www.theguardian.com/science/2026/nov/03/nasa-telescope-neil-gehrels-swift-observatory",
+          "language": "en",
+          "type": "press"
+        }
+      ],
+      "bar": "medium"
+    },
+    {
+      "date": "2026-11-03",
+      "iso3": [
+        "CHN"
+      ],
+      "status": "fresh",
+      "priority": "high",
+      "title": "China describes two-launch, lunar-orbit-rendezvous plan for a crewed landing before 2030",
+      "summary": "China's crewed lunar program has set out its landing architecture. According to SpacePolicyOnline, Universe Today, Space.com and Der Spiegel, deputy chief designer Wang Xiang said on 3 November that two Long March-10 launches will carry the Mengzhou crew spacecraft and the Lanyue lander separately, with the crew and lander meeting in lunar orbit before descent, for a landing before 2030. Der Spiegel notes NASA's stated view that the West must win the race. No Chinese government page carrying the statement is in the packet, so the item is filed at medium confidence.",
+      "why": "A published sequence replaces general statements about a landing by 2030 and gives a direct comparison with NASA's 2027 Artemis III orbital test and 2028 landing target. The hardware named, Long March-10, Mengzhou and Lanyue, now has defined roles.",
+      "sources": [
+        {
+          "outlet": "SpacePolicyOnline",
+          "url": "https://spacepolicyonline.com/news/china-plans-two-launches-lunar-orbit-rendezvous-to-land-taikonauts-on-moon/",
+          "language": "en",
+          "type": "press"
+        },
+        {
+          "outlet": "Universe Today",
+          "url": "https://www.universetoday.com/articles/china-unveils-their-plan-for-a-crewed-moon-landing",
+          "language": "en",
+          "type": "press"
+        },
+        {
+          "outlet": "Space.com",
+          "url": "https://www.space.com/astronomy/moon/china-lays-out-plans-to-land-astronauts-on-the-moon-before-2030-can-nasa-still-win-this-race",
+          "language": "en",
+          "type": "press"
+        },
+        {
+          "outlet": "Der Spiegel",
+          "url": "https://www.spiegel.de/wissenschaft/weltall/raumfahrt-china-plant-bemannte-mondlandung-vor-2030-a-96ec221a-a77c-4a35-adbe-ce90d7b475f9#ref=rss",
+          "language": "de",
+          "type": "national-language"
+        }
+      ],
+      "bar": "medium"
+    },
+    {
+      "date": "2026-11-05",
+      "iso3": [
+        "USA"
+      ],
+      "status": "fresh",
+      "priority": "medium",
+      "title": "New Glenn's next launch reported to slip into January",
+      "summary": "Reuters, Bloomberg and US News & World Report, as relayed by Google News on 5 November, report that Blue Origin has delayed the next New Glenn launch into January 2027. Reuters attributes the report to the Financial Times; the others cite unnamed sources. One aggregated headline refers to a pad explosion, which is not on file and is not reconfirmed here. Blue Origin has made no statement in the packet. The 30 October comment deadline on the company's request to the FAA for up to 50 launches a year from Florida passed without a result in the packet.",
+      "why": "The thread on file turned on cadence, with a request to raise the Florida limit from 12 to 50 launches a year; a slip into January moves the opposite way. The claim rests on anonymous sourcing through one originating report, so it stays at medium confidence.",
+      "sources": [
+        {
+          "outlet": "Reuters via Google News",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOb2s1TW9rYXE2a0xvY29OclU0Si1PX3lLUXQwTmN1ZG90aV9rdGo2NXowX0ZzTDVhOF9tNWtUa1N0bU9iZmpocEVGRzBOMzFkeUhwX1hEZlNlUFlkdDI5M1c1M2ZzY2FGQnlrTlBfcVI2c1kxV211V1BFSmpnT2hHek4zWm5mald4NTlvNUhqTUk0S1dPOUtSNFVCdHNwOEs0TmMxRjBBdm4xSWl0TS1n?oc=5",
+          "language": "en",
+          "type": "press"
+        },
+        {
+          "outlet": "Bloomberg via Google News",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQ1ZnVGNiTDZLM1I1dkRLekpFUjh2TldyRVVncl9POW9HalZRTEpnNGRNYmxKRDFYTU5TTWpvZFVzNElkbHptUy05VG1JTVA0TWZaSlJNOVc5N29sYzBkR2xacGRIMUJjdU9vd3V3MF82RVBheUlQdVIwcW9wc3FpalNRSEZBd3hQQ3FRQjhYT3l5NHpXVkpYTXY5NnlSaWlRV3VXWk5HbnhzelZUdXF2ODBiUl9XT3pUdFc5TGQzYnRZQkE0V1IxT3dn?oc=5",
+          "language": "en",
+          "type": "press"
+        },
+        {
+          "outlet": "US News & World Report via Google News",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUm5tYU9uZGhtYWFyOEx3cGtXbnZqTjNHVFlFN1VHNjZhRXlpZV9LTHRmOVpJVHhTMkxUVUhVZENVTkthLXpDM3VxeVhBZ1dZNkd1Snc3bFRrdnhfdjhXQlhDV1ZsOHBLWVNCd2ltcnpSNUFHbHQzb1l3Nl9PaXk3LURiajkwZGdNd0hRVDRCZVkyWmxYUEp2N0p1ZTB5REk5dUd1SFZHNk1GTDFtemd3YnRSTlF4ZllTdkFBNk1kUG4?oc=5",
+          "language": "en",
+          "type": "press"
+        }
+      ],
+      "bar": "medium"
+    },
+    {
+      "date": "2026-11-05",
+      "iso3": [
+        "UKR",
+        "USA"
+      ],
+      "status": "fresh",
+      "priority": "high",
+      "title": "Ukraine hopes for a new Starshield contract by mid-2027, still without answers on October",
+      "summary": "Ukraine's chargé d'affaires in Washington, Denys Sienik, told Breaking Defense on 5 November that he hopes a new Starshield contract with SpaceX will be signed by mid-2027, while Kyiv still has no explanation for the service problems of October and is considering alternatives. Separately, RIA Novosti reported on 5 November, citing CNN, that Democratic members of Congress want to investigate the Starlink slowdown in Ukraine. The letter of intent with Nokia and ICEYE remains the only alternative on file and is not an order.",
+      "why": "The thread on file left Kyiv saying caps remained after the US said access was restored; a stated target date for a replacement contract and a stated lack of answers are both new. The reported congressional interest ties the question to the change of committee control in January.",
+      "sources": [
+        {
+          "outlet": "Breaking Defense",
+          "url": "https://breakingdefense.com/2026/11/ukraine-eyeing-new-spacex-starshield-deal-by-mid-2027-still-no-answers-about-october-problems/",
+          "language": "en",
+          "type": "press"
+        },
+        {
+          "outlet": "RIA Novosti",
+          "url": "https://ria.ru/20261105/ukraina-2129550613.html",
+          "language": "ru",
+          "type": "national-language"
+        }
+      ],
+      "bar": "medium"
+    },
+    {
+      "date": "2026-11-05",
+      "iso3": [
+        "CAN",
+        "USA"
+      ],
+      "status": "fresh",
+      "priority": "medium",
+      "title": "Second solar-array spacewalk scheduled for 5 November",
+      "summary": "Canadian Space Agency astronaut Joshua Kutryk and NASA astronaut Anil Menon were scheduled to begin a second spacewalk at 06:45 ET (11:45 UTC) on 5 November to install the eighth and final roll-out solar array on the International Space Station, completing upgrade work begun in 2021, according to the agency's event page. The first spacewalk on 29 October lasted 7 hours 11 minutes. Space.com and the Tallahassee Democrat carried previews, the latter describing an aim of about 30 per cent more station power. No completion report was in the packet at the time of filing.",
+      "why": "The milestone on file for the first of two spacewalks has been followed by the second on its scheduled date. The outcome determines whether the station's power upgrade is complete before the commercial-station proposals due on 8 December.",
+      "sources": [
+        {
+          "outlet": "Canadian Space Agency",
+          "url": "https://www.asc-csa.gc.ca/eng/events/2026/2026-11-05-crew-13-second-spacewalk-joshua-kutryk-outside-international-space-station.asp",
+          "language": "en",
+          "type": "government-or-embassy"
+        },
+        {
+          "outlet": "Canadian Space Agency",
+          "url": "https://www.asc-csa.gc.ca/eng/news/articles/2026/2026-10-30-csa-astronaut-joshua-kutryk-reflects-first-spacewalk.asp",
+          "language": "en",
+          "type": "government-or-embassy"
+        },
+        {
+          "outlet": "Space.com",
+          "url": "https://www.space.com/space-exploration/international-space-station/2-astronauts-will-finish-upgrading-iss-solar-arrays-during-spacewalk-today-watch-it-live",
+          "language": "en",
+          "type": "press"
+        },
+        {
+          "outlet": "Tallahassee Democrat via Google News",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLTRzNXRnems0X1JmQnNPR3VhMTZpdDBybmZpNFA3NFpZV0UxOW5qR3pqd0E4NzNOd3ZxT1ljLWwwQVIxT0Uwd1RRemd1VTN1TU03NndwYVV1eXRQYmxQVDZFTE9tNklnXzhiU29zemRmbTlXVFQtdlFWX1JvRF9ONjJicTk1b0JQUW9FLWhaRVo2M2hjR2pKZUdGZUxCQVZoZ2k0WkNocHNHR3dWMkoyejVpb2U?oc=5",
+          "language": "en",
+          "type": "press"
+        }
+      ],
+      "bar": "high"
+    },
+    {
+      "date": "2026-11-03",
+      "iso3": [
+        "DEU",
+        "FRA",
+        "ITA"
+      ],
+      "status": "fresh",
+      "priority": "medium",
+      "title": "ESA awards feasibility studies for a European-led orbital outpost",
+      "summary": "ESA said on 3 November that it had awarded a contract to two European industrial consortia for preliminary studies on the feasibility of a European-led orbital outpost for the period after the International Space Station. The agency describes the studies as one of the options it is exploring for the post-ISS era, alongside its memoranda with Axiom Space and Vast. The consortia are not named in the packet excerpt. The claim rests on the ESA page alone and is filed at low confidence.",
+      "why": "The road-to-Rome thread was quiet on 26 October; a funded study on a European-led station is a concrete input to the 15 December ministerial. It sits beside, rather than replaces, the commercial-station memoranda signed in September and October.",
+      "sources": [
+        {
+          "outlet": "ESA",
+          "url": "https://www.esa.int/articles/about-us/directorates/human-and-robotic-exploration/low-earth-orbit/esa-investigates-potential-future-european-led-orbital-outpost",
+          "language": "en",
+          "type": "government-or-embassy"
+        },
+        {
+          "outlet": "ESA",
+          "url": "https://www.esa.int/articles/about-us/directorates/human-and-robotic-exploration/low-earth-orbit/shaping-europe-s-future-in-low-earth-orbit",
+          "language": "en",
+          "type": "government-or-embassy"
+        }
+      ],
+      "bar": "low"
+    }
+  ],
+  "regions": [
+    {
+      "id": "esa_eu",
+      "name": "ESA and EU",
+      "items": [
+        {
+          "date": "2026-11-04",
+          "iso3": [
+            "DEU"
+          ],
+          "status": "fresh",
+          "priority": "high",
+          "title": "OHB puts EUR 554 million on Sentinel-3 Next Generation Topography contract",
+          "summary": "OHB SE said on 4 November that ESA has commissioned its subsidiary OHB System AG to develop the Sentinel-3 Next Generation Topography satellite within the Copernicus program, under a contract the company values at EUR 554 million. The mission is to continue monitoring of oceans, coastlines and ice-covered regions. No ESA page carrying the award is in the packet, and the ESA feeds returned no content, so the figure rests on the company alone and is filed at low confidence.",
+          "why": "It is the first published figure for a Copernicus next-generation award since the Rome ministerial calendar was set. The sum is relevant to German industry's return on ESA subscriptions ahead of 15 December.",
+          "sources": [
+            {
+              "outlet": "OHB",
+              "url": "https://www.ohb.de/en/news/ohb-awarded-eur-554-million-contract-for-new-copernicus-sentinel-3-next-generation-topography-satellite",
+              "language": "en",
+              "type": "press"
+            }
+          ],
+          "bar": "low"
+        },
+        {
+          "date": "2026-11-03",
+          "iso3": [
+            "DEU",
+            "FRA",
+            "ITA"
+          ],
+          "status": "fresh",
+          "priority": "medium",
+          "title": "ESA awards feasibility studies for a European-led orbital outpost",
+          "summary": "ESA said on 3 November that two European industrial consortia will carry out preliminary studies on a European-led orbital outpost for the post-ISS era, as one of the options the agency is exploring alongside its memoranda with Axiom Space and Vast. The consortia are not named in the packet excerpt. One government source; low confidence.",
+          "why": "The thread on file carried no ESA development meeting the source rule since 22 October; this is a dated, funded step toward the Rome decisions. It opens a European-built option beside the US commercial stations already on the table.",
+          "sources": [
+            {
+              "outlet": "ESA",
+              "url": "https://www.esa.int/articles/about-us/directorates/human-and-robotic-exploration/low-earth-orbit/esa-investigates-potential-future-european-led-orbital-outpost",
+              "language": "en",
+              "type": "government-or-embassy"
+            },
+            {
+              "outlet": "ESA",
+              "url": "https://www.esa.int/articles/about-us/directorates/human-and-robotic-exploration/low-earth-orbit/shaping-europe-s-future-in-low-earth-orbit",
+              "language": "en",
+              "type": "government-or-embassy"
+            }
+          ],
+          "bar": "low"
+        },
+        {
+          "date": "2026-11-04",
+          "iso3": [
+            "ITA",
+            "GBR"
+          ],
+          "status": "fresh",
+          "priority": "low",
+          "title": "ExoMars rover test model completes egress rehearsal in Turin",
+          "summary": "ESA said on 4 November that the ground test model of the Rosalind Franklin rover rehearsed its first drive off a lander. Thales Alenia Space, prime contractor for the ExoMars 2028 mission, says the egress campaign used the Amalia model at ALTEC's Rover Operations Control Centre in Turin with a landing-platform mock-up supplied by Airbus Defence and Space. Two sources, one government and one company; medium confidence.",
+          "why": "The 2028 mission depends on the lander and egress sequence that was lost when the Russian platform was dropped. A completed campaign is a dated milestone on the way to the Rome ministerial, where exploration funding is decided.",
+          "sources": [
+            {
+              "outlet": "ESA",
+              "url": "https://www.esa.int/articles/what-we-do/explore-discover-space/mars/exomars-rover-twin-rehearses-first-drive",
+              "language": "en",
+              "type": "government-or-embassy"
+            },
+            {
+              "outlet": "Thales Alenia Space",
+              "url": "https://www.thalesaleniaspace.com/en/news/preparing-exomars-rosalind-franklin-rover-its-first-steps-mars",
+              "language": "en",
+              "type": "press"
+            }
+          ],
+          "bar": "medium"
+        }
+      ]
+    },
+    {
+      "id": "cee",
+      "name": "Central and Eastern Europe",
+      "items": [
+        {
+          "date": "2026-11-05",
+          "iso3": [
+            "UKR",
+            "USA"
+          ],
+          "status": "fresh",
+          "priority": "high",
+          "title": "Ukraine hopes for a new Starshield contract by mid-2027, still without answers on October",
+          "summary": "Ukraine's chargé d'affaires in Washington, Denys Sienik, told Breaking Defense on 5 November that he hopes a new Starshield contract with SpaceX will be signed by mid-2027, while Kyiv still has no explanation for October's service problems and is considering alternatives. RIA Novosti, citing CNN, reported the same day that Democratic members of Congress want to investigate the Starlink slowdown in Ukraine. The Nokia and ICEYE letter of intent remains the only alternative on file. Two sources; medium confidence.",
+          "why": "The thread left Kyiv disputing restored access; a target date for a replacement contract and a stated lack of answers are new. Committee control in Washington changes in January, which gives the reported inquiry a venue.",
+          "sources": [
+            {
+              "outlet": "Breaking Defense",
+              "url": "https://breakingdefense.com/2026/11/ukraine-eyeing-new-spacex-starshield-deal-by-mid-2027-still-no-answers-about-october-problems/",
+              "language": "en",
+              "type": "press"
+            },
+            {
+              "outlet": "RIA Novosti",
+              "url": "https://ria.ru/20261105/ukraina-2129550613.html",
+              "language": "ru",
+              "type": "national-language"
+            }
+          ],
+          "bar": "medium"
+        },
+        {
+          "date": "2026-11-05",
+          "iso3": [
+            "POL",
+            "DEU"
+          ],
+          "status": "fresh",
+          "priority": "low",
+          "title": "POLSA hosts Earth Observation Forum in Gdańsk and a Berlin-Brandenburg delegation",
+          "summary": "The Polish Space Agency said the Earth Observation Forum 2026 took place in Gdańsk on 4 and 5 November under the theme of Baltic security and resilience, covering satellite data for coastal monitoring, ship traffic, storm damage and pollution. Separately, a delegation of Berlin and Brandenburg space and aviation firms, organised by the Berlin Brandenburg Aerospace Allianz, visited Wrocław, Warsaw and Gdańsk between 2 and 5 November. Both items rest on the agency's Polish-language pages alone; low confidence.",
+          "why": "The agency's partnerships thread on file was with India and Vietnam; a German industrial visit and a Baltic-security forum are new entries. No contract or funded project came out of either in the packet.",
+          "sources": [
+            {
+              "outlet": "Polska Agencja Kosmiczna",
+              "url": "https://polsa.gov.pl/wydarzenia/forum-obserwacji-ziemi-2026/",
+              "language": "pl",
+              "type": "government-or-embassy"
+            },
+            {
+              "outlet": "Polska Agencja Kosmiczna",
+              "url": "https://polsa.gov.pl/wydarzenia/delegacja-niemieckich-firm-w-polsa-w-warszawie-i-gdansku/",
+              "language": "pl",
+              "type": "government-or-embassy"
+            }
+          ],
+          "bar": "low"
+        }
+      ]
+    },
+    {
+      "id": "nordics",
+      "name": "Nordics",
+      "items": [
+        {
+          "date": "2026-11-05",
+          "iso3": [
+            "FIN",
+            "NOR",
+            "SWE",
+            "DNK"
+          ],
+          "status": "overview",
+          "priority": "low",
+          "title": "Quiet desk: no government statement on the Kosmos 2612 approaches",
+          "summary": "No Nordic development met the source rule. The Japan Times carried a specialist's assessment on 5 November that a Russian satellite's mid-October manoeuvres close to a commercial satellite may have rehearsed an attack; no Finnish, Norwegian, US or Russian government statement appeared, so the Kosmos 2612 and ICEYE-X36 thread is unchanged. Norway has still not confirmed the satellite-communications work President Zelensky described after his Oslo talks. The next dated event in the edition's calendar is the European Parliament industry committee vote on the EU Space Act on 10 November, which binds Finland, Sweden and Denmark as member states.",
+          "why": "A thread moves only on an official statement, a confirmed effect on the satellite or a contract. None arrived.",
+          "sources": [
+            {
+              "outlet": "The Japan Times",
+              "url": "https://www.japantimes.co.jp/news/2026/11/05/world/russia-attack-satellite-specialist/",
+              "language": "en",
+              "type": "press"
+            }
+          ],
+          "bar": "low"
+        }
+      ]
+    },
+    {
+      "id": "west",
+      "name": "Western and Southern Europe",
+      "items": [
+        {
+          "date": "2026-11-04",
+          "iso3": [
+            "FRA"
+          ],
+          "status": "fresh",
+          "priority": "medium",
+          "title": "Second SyLEx sounding rocket flies for the DGA from Biscarrosse",
+          "summary": "ArianeGroup said its second SyLEx sounding rocket was launched on 4 November under the direction of the French defence procurement agency DGA from the missile test centre at Biscarrosse. The single-stage vehicle carried a payload for the DGA and the Ministry for the Armed Forces and Veterans. The company describes it as the system's first operational flight, after a demonstration flight on 28 November 2025, and as a sovereign suborbital test platform. The claim rests on the company page alone; low confidence.",
+          "why": "A second flight within a year turns a demonstration into a service the French state is using for defence payloads. No ministry page confirming the launch is in the packet.",
+          "sources": [
+            {
+              "outlet": "ArianeGroup",
+              "url": "https://www.ariane.group/en/news/second-successful-launch-of-the-sylex-sounding-rocket/",
+              "language": "en",
+              "type": "press"
+            }
+          ],
+          "bar": "low"
+        },
+        {
+          "date": "2026-11-05",
+          "iso3": [
+            "GBR"
+          ],
+          "status": "fresh",
+          "priority": "low",
+          "title": "UK Space Agency opens environmental intelligence and emissions grant call",
+          "summary": "The UK Space Agency published on 5 November a grant call under its Unlocking Space for Business program inviting proposals for environmental intelligence and emissions services using satellite data. The program page, updated the same day, describes support for companies delivering operational, customer and environmental benefits from satellite services. No funding amount or deadline appears in the packet excerpt. One government source; low confidence.",
+          "why": "It is a dated government funding action in a desk that has carried no UK item since the 26 October edition. The absence of an amount in the packet limits what can be said about scale.",
+          "sources": [
+            {
+              "outlet": "UK Space Agency",
+              "url": "https://www.gov.uk/government/publications/usb-environmental-intelligence-and-emissions-grant-call",
+              "language": "en",
+              "type": "government-or-embassy"
+            },
+            {
+              "outlet": "UK Space Agency",
+              "url": "https://www.gov.uk/government/publications/unlocking-space-for-business",
+              "language": "en",
+              "type": "government-or-embassy"
+            }
+          ],
+          "bar": "low"
+        }
+      ]
+    },
+    {
+      "id": "eurasia",
+      "name": "Eurasia and Central Asia",
+      "items": [
+        {
+          "date": "2026-11-05",
+          "iso3": [
+            "RUS",
+            "KAZ",
+            "UZB"
+          ],
+          "status": "overview",
+          "priority": "low",
+          "title": "Quiet desk: single-source reports on imagery resale and Tanzania not confirmed",
+          "summary": "No item met the source rule. Google News carried a Meduza report that Russian space start-ups may be passing off Chinese satellite imagery as their own, and a Capmad report that Tanzania is drawing on Moscow, Luanda and SpaceX for a national space industry; each has one source and neither is reconfirmed. RIA Novosti's report on a prospective congressional inquiry into Starlink in Ukraine is filed on the Central and Eastern Europe desk. No dated event is on file for this desk; the Kosmos 2612 thread still waits on a Russian statement, and the edition's next dated event is the 10 November EU Space Act committee vote.",
+          "why": "Single reports from outside the standing list do not move a thread. A Russian government statement on the October approaches would.",
+          "sources": [],
+          "bar": "low"
+        }
+      ]
+    },
+    {
+      "id": "mena",
+      "name": "Türkiye, Middle East and Africa",
+      "items": [
+        {
+          "date": "2026-11-05",
+          "iso3": [
+            "IRN",
+            "USA",
+            "TUR"
+          ],
+          "status": "fresh",
+          "priority": "medium",
+          "title": "US intelligence report describes Iran as an emerging space power",
+          "summary": "Anadolu Agency reported on 5 November that a US Defense Intelligence Agency report describes Iran as an emerging space power and says Tehran is expanding both its military and civilian space programs. The DIA document itself is not in the packet, and no other outlet carried it. Low confidence, one source. Türkiye's 2027 Space and Aviation budget line, TL 24.59 billion against TL 8.73 billion in 2026, is unchanged since 26 October.",
+          "why": "An intelligence characterisation of Iran's program arrives as Iranian forces report tanker strikes in the Strait of Hormuz, raising the regional stakes of any Iranian launch. The desk has no earlier item on Iran's space program to which this attaches.",
+          "sources": [
+            {
+              "outlet": "Anadolu Agency",
+              "url": "https://www.aa.com.tr/en/world/us-intelligence-report-describes-iran-as-emerging-space-power/4113073",
+              "language": "en",
+              "type": "press"
+            }
+          ],
+          "bar": "low"
+        }
+      ]
+    },
+    {
+      "id": "asia_pac",
+      "name": "Asia Pacific",
+      "items": [
+        {
+          "date": "2026-11-03",
+          "iso3": [
+            "CHN"
+          ],
+          "status": "fresh",
+          "priority": "high",
+          "title": "China describes two-launch, lunar-orbit-rendezvous plan for a crewed landing before 2030",
+          "summary": "Deputy chief designer Wang Xiang set out on 3 November how China intends to land astronauts on the Moon before 2030: two Long March-10 launches carrying the Mengzhou crew spacecraft and the Lanyue lander separately, with rendezvous in lunar orbit before descent. SpacePolicyOnline, Universe Today, Space.com and Der Spiegel carried the plan; Der Spiegel records NASA's view that the West must win the race, and Space.com sets it against NASA's 2028 target. No Chinese government page is in the packet; medium confidence.",
+          "why": "A published sequence replaces a bare date and allows comparison with NASA's 2027 orbital test and 2028 landing. It names the roles of each vehicle in development.",
+          "sources": [
+            {
+              "outlet": "SpacePolicyOnline",
+              "url": "https://spacepolicyonline.com/news/china-plans-two-launches-lunar-orbit-rendezvous-to-land-taikonauts-on-moon/",
+              "language": "en",
+              "type": "press"
+            },
+            {
+              "outlet": "Universe Today",
+              "url": "https://www.universetoday.com/articles/china-unveils-their-plan-for-a-crewed-moon-landing",
+              "language": "en",
+              "type": "press"
+            },
+            {
+              "outlet": "Space.com",
+              "url": "https://www.space.com/astronomy/moon/china-lays-out-plans-to-land-astronauts-on-the-moon-before-2030-can-nasa-still-win-this-race",
+              "language": "en",
+              "type": "press"
+            },
+            {
+              "outlet": "Der Spiegel",
+              "url": "https://www.spiegel.de/wissenschaft/weltall/raumfahrt-china-plant-bemannte-mondlandung-vor-2030-a-96ec221a-a77c-4a35-adbe-ce90d7b475f9#ref=rss",
+              "language": "de",
+              "type": "national-language"
+            }
+          ],
+          "bar": "medium"
+        },
+        {
+          "date": "2026-11-05",
+          "iso3": [
+            "IND"
+          ],
+          "status": "fresh",
+          "priority": "medium",
+          "title": "ISRO's NVS-03 reaches geosynchronous orbit",
+          "summary": "ISRO said its NVS-03 navigation satellite reached geosynchronous orbit at an inclination of 29.98 degrees after four orbit manoeuvres with a cumulative liquid apogee motor burn of 6,164 seconds, and that the satellite is in good health, according to The Hindu on 5 November. Chairman V. Narayanan said in-orbit testing of the payload will follow as part of building the NavIC system; he also praised Russian support for India's program. No ISRO page is in the packet; one outlet, low confidence.",
+          "why": "NavIC capacity depends on the satellite entering service, and the orbit-raising phase is now complete. The chairman's remarks on Russian support come as Western threads on Russia's orbital conduct remain open.",
+          "sources": [
+            {
+              "outlet": "The Hindu",
+              "url": "https://www.thehindu.com/sci-tech/science/nvs-03-reaches-geosynchronous-orbit-satellite-in-good-health/article71667218.ece",
+              "language": "en",
+              "type": "national-language"
+            },
+            {
+              "outlet": "The Hindu",
+              "url": "https://www.thehindu.com/news/cities/chennai/isros-latest-navigation-satellite-nvs-03-is-fully-healthy-says-chairman-v-narayanan/article71670095.ece",
+              "language": "en",
+              "type": "national-language"
+            }
+          ],
+          "bar": "low"
+        }
+      ]
+    },
+    {
+      "id": "americas",
+      "name": "Americas",
+      "items": [
+        {
+          "date": "2026-11-04",
+          "iso3": [
+            "USA"
+          ],
+          "status": "fresh",
+          "priority": "high",
+          "title": "Democrats win House and Senate; space committees change hands in January",
+          "summary": "Democratic candidates won majorities in both the House and the Senate in the 3 November midterm elections, according to SpacePolicyOnline, Payload and SpaceQ, giving the party the chairs of the committees that write NASA's appropriation, set Space Force policy and can summon company executives. The South China Morning Post puts Elon Musk's political spending in the cycle at US$474 million. RIA Novosti, citing CNN, reports Democratic intent to examine the October Starlink slowdown in Ukraine. The final tally was not complete in the packet.",
+          "why": "The committees now changing hands decide what happens to the Artemis acceleration plan, Space Force commercial purchases and SpaceX oversight. The reported Starlink inquiry links directly to the Ukrainian satellite-communications thread.",
+          "sources": [
+            {
+              "outlet": "SpacePolicyOnline",
+              "url": "https://spacepolicyonline.com/news/blue-tsunami-puts-democrats-in-control-of-house-and-senate-next-year/",
+              "language": "en",
+              "type": "press"
+            },
+            {
+              "outlet": "Payload",
+              "url": "https://payloadspace.com/election-2026-space-winners-losers-and-whats-next/",
+              "language": "en",
+              "type": "press"
+            },
+            {
+              "outlet": "SpaceQ",
+              "url": "https://spaceq.ca/midterm-elections-space-committees-democrats/",
+              "language": "en",
+              "type": "press"
+            },
+            {
+              "outlet": "South China Morning Post",
+              "url": "https://www.scmp.com/tech/big-tech/article/3373422/after-us474m-gamble-flops-what-happens-now-elon-musks-tesla-spacex-and-china-ties",
+              "language": "en",
+              "type": "press"
+            },
+            {
+              "outlet": "NBC News",
+              "url": "https://www.nbcnews.com/nightly-news/video/election-results-yield-historic-firsts-272885317680",
+              "language": "en",
+              "type": "national-language"
+            }
+          ],
+          "bar": "high"
+        },
+        {
+          "date": "2026-11-03",
+          "iso3": [
+            "USA"
+          ],
+          "status": "fresh",
+          "priority": "high",
+          "title": "Trump proclaims an 'American Declaration of Freedom in Space'",
+          "summary": "A proclamation dated 3 November on the White House site states that the solar system and all of outer space beyond Earth are the province of all humans and that the United States will lead the exploration, development, use and settlement of new frontiers. SpacePolicyOnline and Space.com reported it on 4 November; Space.com describes it as asserting a right to develop and settle the solar system under US law. No agency instruction accompanied it in the packet. Government text plus two press reports; high confidence.",
+          "why": "It is the administration's first stated space position after the vote and frames the 2028 landing target. It will be read by the incoming committee chairs alongside the Artemis update of 23 October.",
+          "sources": [
+            {
+              "outlet": "White House",
+              "url": "https://www.whitehouse.gov/presidential-actions/2026/11/the-american-declaration-of-freedom-in-space/",
+              "language": "en",
+              "type": "government-or-embassy"
+            },
+            {
+              "outlet": "SpacePolicyOnline",
+              "url": "https://spacepolicyonline.com/news/trump-issues-american-declaration-of-freedom-in-space/",
+              "language": "en",
+              "type": "press"
+            },
+            {
+              "outlet": "Space.com",
+              "url": "https://www.space.com/space-exploration/trump-declares-american-space-superiority-for-all-eternity-in-new-white-house-proclamation",
+              "language": "en",
+              "type": "press"
+            }
+          ],
+          "bar": "high"
+        },
+        {
+          "date": "2026-11-04",
+          "iso3": [
+            "USA"
+          ],
+          "status": "fresh",
+          "priority": "medium",
+          "title": "Swift re-enters over western Indonesia",
+          "summary": "NASA's Neil Gehrels Swift Observatory re-entered on 4 November over western Indonesia after nearly 22 years in orbit, according to Spaceflight Now and SpacePolicyOnline, with the Frankfurter Allgemeine carrying it on 5 November. The Space Force prediction had been about 08:30 UTC within 21 degrees of the equator. The Katalyst Space reboost contracted in September 2025 did not succeed. No NASA page confirming re-entry is in the packet; medium confidence.",
+          "why": "The thread expected re-entry within weeks of 23 October and it has arrived. No replacement plan is on record.",
+          "sources": [
+            {
+              "outlet": "Spaceflight Now",
+              "url": "https://spaceflightnow.com/2026/11/04/nasas-neil-gehrels-swift-observatory-reenters-over-western-indonesia/",
+              "language": "en",
+              "type": "press"
+            },
+            {
+              "outlet": "SpacePolicyOnline",
+              "url": "https://spacepolicyonline.com/news/farewell-swift/",
+              "language": "en",
+              "type": "press"
+            },
+            {
+              "outlet": "Frankfurter Allgemeine Zeitung",
+              "url": "https://www.faz.net/aktuell/wissen/weltraum/nasa-satellit-stuerzt-nach-spektakulaerer-rettungsmission-zurueck-auf-die-erde-accg-201654861.html",
+              "language": "de",
+              "type": "national-language"
+            }
+          ],
+          "bar": "medium"
+        },
+        {
+          "date": "2026-11-05",
+          "iso3": [
+            "USA"
+          ],
+          "status": "fresh",
+          "priority": "medium",
+          "title": "New Glenn's next launch reported to slip into January",
+          "summary": "Reuters (attributing the Financial Times), Bloomberg and US News & World Report, as relayed by Google News on 5 November, report that Blue Origin has delayed the next New Glenn launch into January 2027, citing unnamed sources. One aggregated headline refers to a pad explosion, which is not on file and not reconfirmed. Blue Origin made no statement in the packet. The 30 October FAA comment deadline on the company's request for up to 50 launches a year from Florida passed without a result in the packet. Medium confidence.",
+          "why": "The thread on file was about raising cadence; a slip into January moves the other way. The sourcing is anonymous and traces to one originating report.",
+          "sources": [
+            {
+              "outlet": "Reuters via Google News",
+              "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOb2s1TW9rYXE2a0xvY29OclU0Si1PX3lLUXQwTmN1ZG90aV9rdGo2NXowX0ZzTDVhOF9tNWtUa1N0bU9iZmpocEVGRzBOMzFkeUhwX1hEZlNlUFlkdDI5M1c1M2ZzY2FGQnlrTlBfcVI2c1kxV211V1BFSmpnT2hHek4zWm5mald4NTlvNUhqTUk0S1dPOUtSNFVCdHNwOEs0TmMxRjBBdm4xSWl0TS1n?oc=5",
+              "language": "en",
+              "type": "press"
+            },
+            {
+              "outlet": "Bloomberg via Google News",
+              "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQ1ZnVGNiTDZLM1I1dkRLekpFUjh2TldyRVVncl9POW9HalZRTEpnNGRNYmxKRDFYTU5TTWpvZFVzNElkbHptUy05VG1JTVA0TWZaSlJNOVc5N29sYzBkR2xacGRIMUJjdU9vd3V3MF82RVBheUlQdVIwcW9wc3FpalNRSEZBd3hQQ3FRQjhYT3l5NHpXVkpYTXY5NnlSaWlRV3VXWk5HbnhzelZUdXF2ODBiUl9XT3pUdFc5TGQzYnRZQkE0V1IxT3dn?oc=5",
+              "language": "en",
+              "type": "press"
+            },
+            {
+              "outlet": "US News & World Report via Google News",
+              "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUm5tYU9uZGhtYWFyOEx3cGtXbnZqTjNHVFlFN1VHNjZhRXlpZV9LTHRmOVpJVHhTMkxUVUhVZENVTkthLXpDM3VxeVhBZ1dZNkd1Snc3bFRrdnhfdjhXQlhDV1ZsOHBLWVNCd2ltcnpSNUFHbHQzb1l3Nl9PaXk3LURiajkwZGdNd0hRVDRCZVkyWmxYUEp2N0p1ZTB5REk5dUd1SFZHNk1GTDFtemd3YnRSTlF4ZllTdkFBNk1kUG4?oc=5",
+              "language": "en",
+              "type": "press"
+            }
+          ],
+          "bar": "medium"
+        },
+        {
+          "date": "2026-11-05",
+          "iso3": [
+            "CAN",
+            "USA"
+          ],
+          "status": "fresh",
+          "priority": "medium",
+          "title": "Second solar-array spacewalk scheduled for 5 November",
+          "summary": "CSA astronaut Joshua Kutryk and NASA astronaut Anil Menon were scheduled to begin a second spacewalk at 11:45 UTC on 5 November to install the eighth and final roll-out solar array on the International Space Station, completing upgrade work begun in 2021. The first spacewalk on 29 October lasted 7 hours 11 minutes. The Tallahassee Democrat describes an aim of about 30 per cent more station power. No completion report was in the packet at filing. Government plus press; high confidence on the schedule.",
+          "why": "The second of the two spacewalks on file has arrived on its date. Completion would close the power-upgrade thread before the 8 December commercial-station proposals.",
+          "sources": [
+            {
+              "outlet": "Canadian Space Agency",
+              "url": "https://www.asc-csa.gc.ca/eng/events/2026/2026-11-05-crew-13-second-spacewalk-joshua-kutryk-outside-international-space-station.asp",
+              "language": "en",
+              "type": "government-or-embassy"
+            },
+            {
+              "outlet": "Canadian Space Agency",
+              "url": "https://www.asc-csa.gc.ca/eng/news/articles/2026/2026-10-30-csa-astronaut-joshua-kutryk-reflects-first-spacewalk.asp",
+              "language": "en",
+              "type": "government-or-embassy"
+            },
+            {
+              "outlet": "Space.com",
+              "url": "https://www.space.com/space-exploration/international-space-station/2-astronauts-will-finish-upgrading-iss-solar-arrays-during-spacewalk-today-watch-it-live",
+              "language": "en",
+              "type": "press"
+            },
+            {
+              "outlet": "Tallahassee Democrat via Google News",
+              "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLTRzNXRnems0X1JmQnNPR3VhMTZpdDBybmZpNFA3NFpZV0UxOW5qR3pqd0E4NzNOd3ZxT1ljLWwwQVIxT0Uwd1RRemd1VTN1TU03NndwYVV1eXRQYmxQVDZFTE9tNklnXzhiU29zemRmbTlXVFQtdlFWX1JvRF9ONjJicTk1b0JQUW9FLWhaRVo2M2hjR2pKZUdGZUxCQVZoZ2k0WkNocHNHR3dWMkoyejVpb2U?oc=5",
+              "language": "en",
+              "type": "press"
+            }
+          ],
+          "bar": "high"
+        },
+        {
+          "date": "2026-11-04",
+          "iso3": [
+            "CAN"
+          ],
+          "status": "fresh",
+          "priority": "medium",
+          "title": "Alexander MacDonald named president of the Canadian Space Agency",
+          "summary": "Industry Minister Mélanie Joly announced on 4 November that Alexander MacDonald will be the next president of the Canadian Space Agency, according to SpaceQ and SpacePolicyOnline. MacDonald, Canadian-born, was NASA's first chief economist and held the post until December 2024; SpaceQ says he has spent the past year analysing Canada's space sector and arguing it must move faster. No Government of Canada page carrying the appointment is in the packet; two sources, medium confidence.",
+          "why": "The agency gains a head with NASA budget experience as Canada's Arctic communications contract with Telesat and its lunar reactor and HAWCsat procurements are in motion. The appointment follows the midterm result that will reshape the NASA partners the agency deals with.",
+          "sources": [
+            {
+              "outlet": "SpaceQ",
+              "url": "https://spaceq.ca/canadian-space-agency-president-alex-macdonald/",
+              "language": "en",
+              "type": "press"
+            },
+            {
+              "outlet": "SpacePolicyOnline",
+              "url": "https://spacepolicyonline.com/news/former-nasa-chief-economist-is-new-head-of-canadian-space-agency/",
+              "language": "en",
+              "type": "press"
+            }
+          ],
+          "bar": "medium"
+        },
+        {
+          "date": "2026-11-04",
+          "iso3": [
+            "USA"
+          ],
+          "status": "fresh",
+          "priority": "low",
+          "title": "NASA selects three companies for Ka-band relay concept work",
+          "summary": "NASA said on 4 November that it had selected three companies to develop Ka-band space relay capability concepts compatible with current missions, to ensure service continuity for existing spacecraft without modifying their onboard systems, with a view to acquiring end-to-end solutions covering space, ground, launch, operations and integration. The company names are not in the packet excerpt. One government source; low confidence.",
+          "why": "It is a dated step toward replacing government relay capacity with commercial services, in the same vein as the Communications Services Project demonstration launched on 20 October. The names of the awardees would move the item to a fuller filing.",
+          "sources": [
+            {
+              "outlet": "NASA",
+              "url": "https://www.nasa.gov/news-release/nasa-announces-ka-band-satellite-relay-awards-for-space-communications/",
+              "language": "en",
+              "type": "government-or-embassy"
+            }
+          ],
+          "bar": "low"
+        }
+      ]
+    }
+  ],
+  "countries": [
+    {
+      "iso3": "USA",
+      "name": "United States",
+      "note": "Midterm result, space proclamation, Swift re-entry, New Glenn slip, Ka-band relay awards, ISS spacewalk."
+    },
+    {
+      "iso3": "CAN",
+      "name": "Canada",
+      "note": "MacDonald named CSA president; Kutryk's second spacewalk."
+    },
+    {
+      "iso3": "CHN",
+      "name": "China",
+      "note": "Two-launch lunar-orbit-rendezvous plan for a crewed landing before 2030."
+    },
+    {
+      "iso3": "UKR",
+      "name": "Ukraine",
+      "note": "Starshield contract hoped for by mid-2027; no answers on October problems."
+    },
+    {
+      "iso3": "DEU",
+      "name": "Germany",
+      "note": "OHB's EUR 554 million Sentinel-3 NGT contract; Berlin-Brandenburg delegation to Poland."
+    },
+    {
+      "iso3": "ITA",
+      "name": "Italy",
+      "note": "ExoMars egress rehearsal at ALTEC, Turin."
+    },
+    {
+      "iso3": "FRA",
+      "name": "France",
+      "note": "Second SyLEx flight for the DGA from Biscarrosse."
+    },
+    {
+      "iso3": "GBR",
+      "name": "United Kingdom",
+      "note": "UK Space Agency environmental intelligence and emissions grant call."
+    },
+    {
+      "iso3": "POL",
+      "name": "Poland",
+      "note": "Earth Observation Forum in Gdańsk; German industry delegation."
+    },
+    {
+      "iso3": "IND",
+      "name": "India",
+      "note": "NVS-03 in geosynchronous orbit; payload testing to follow."
+    },
+    {
+      "iso3": "IRN",
+      "name": "Iran",
+      "note": "Described as an emerging space power in a reported DIA assessment; single source."
+    },
+    {
+      "iso3": "TUR",
+      "name": "Türkiye",
+      "note": "2027 space and aviation budget line unchanged."
+    }
+  ],
+  "priorities": [
+    "Confirm the final composition of the US Congress and the incoming chairs of the committees that fund NASA and oversee the Space Force.",
+    "Watch for any NASA or agency instruction issued under the American Declaration of Freedom in Space.",
+    "Seek a Blue Origin or FAA statement on the reported January slip of New Glenn and the outcome of the 30 October comment period.",
+    "Seek a Chinese government page carrying the two-launch lunar landing architecture and any date for the first Long March-10 crewed flight.",
+    "Track the 10 November European Parliament industry committee vote on the EU Space Act.",
+    "Look for an ESA page naming the Sentinel-3 NGT award and the two consortia studying a European-led outpost.",
+    "Watch for a Ukrainian or US statement on Starshield contract terms or the reported congressional inquiry into the October Starlink slowdown."
+  ],
+  "milestones": [
+    {
+      "date": "2026-11-05",
+      "event": "Second ISS spacewalk, Kutryk and Menon, eighth and final roll-out solar array; outcome not yet reported."
+    },
+    {
+      "date": "2026-11-10",
+      "event": "European Parliament industry committee vote on the EU Space Act."
+    },
+    {
+      "date": "2026-11-23",
+      "event": "Ariane 6 flight VA271 with 36 Amazon Leo satellites, no earlier than this date."
+    },
+    {
+      "date": "2026-12-08",
+      "event": "NASA commercial space-station proposals due."
+    },
+    {
+      "date": "2026-12-15",
+      "event": "ESA intermediate ministerial meeting in Rome."
+    },
+    {
+      "date": "2027-01",
+      "event": "Reported new target window for the next New Glenn launch; not confirmed by Blue Origin."
+    },
+    {
+      "date": "2027-01",
+      "event": "New US Congress sits; committee chairs change."
+    }
+  ],
+  "watchlist": [
+    "ISS spacewalk completion report from NASA or CSA.",
+    "Any NASA page confirming the Swift re-entry location and time.",
+    "A Finnish, US or Russian government statement on the Kosmos 2612 approaches to ICEYE-X36.",
+    "Norway confirming or denying satellite-communications work for Ukraine.",
+    "Published split between space and aviation in Türkiye's 2027 budget.",
+    "ISRO page on NVS-03 in-orbit testing.",
+    "Names of the three NASA Ka-band relay awardees.",
+    "ESA page carrying the Sentinel-3 NGT award and naming the orbital-outpost study consortia."
+  ],
+  "competitive_watch": [
+    "New Glenn: reported slip into January against a request for 50 launches a year; no company statement.",
+    "Ariane 6: VA271 with 36 Amazon Leo satellites no earlier than 23 November would be the tenth flight and the fourth for Amazon.",
+    "Starshield in Ukraine: Kyiv targets a new contract by mid-2027 while weighing alternatives; the Nokia-ICEYE letter of intent is the only one on file.",
+    "China's state broadband constellation: NASASpaceflight's weekly preview listed a further internet-satellite launch, not confirmed in the packet; group 28 of 25 October remains the last state.",
+    "Post-ISS stations: ESA's European-led outpost studies sit beside its memoranda with Axiom Space and Vast; NASA proposals due 8 December.",
+    "Le Monde reports that SpaceX has closed Falcon 9 access to Europe; single source, not reconfirmed."
+  ],
+  "stats": [
+    {
+      "label": "OHB Sentinel-3 NGT contract value, company figure",
+      "value": "EUR 554 million"
+    },
+    {
+      "label": "Reported Musk political spending in the 2026 cycle",
+      "value": "US$474 million"
+    },
+    {
+      "label": "Swift time in orbit",
+      "value": "nearly 22 years"
+    },
+    {
+      "label": "NVS-03 cumulative orbit-raising burn",
+      "value": "6,164 seconds"
+    },
+    {
+      "label": "First Kutryk-Menon spacewalk duration, 29 October",
+      "value": "7 h 11 min"
+    },
+    {
+      "label": "Amazon Leo satellites on VA271",
+      "value": "36"
+    },
+    {
+      "label": "China's stated crewed lunar landing target",
+      "value": "before 2030"
+    }
+  ],
+  "audio_script": "This is Sovereign Space ATLAS for Thursday the fifth of November 2026, the 06:00 UTC edition. Washington has a new Congress in prospect, a presidential proclamation on space and an observatory that has fallen from orbit. China has published the sequence for its crewed lunar landing. Europe has a contract figure for the next Sentinel-3 and studies for a European-led outpost. Here is the reading, desk by desk.\n\nThe top story is the United States midterm election. Democratic candidates won majorities in both the House and the Senate on Tuesday, according to SpacePolicyOnline, Payload and SpaceQ, and from January the party will chair the committees that write NASA's appropriation and set Space Force policy. The South China Morning Post puts Elon Musk's spending on political groups in the cycle at 474 million dollars. RIA Novosti, citing CNN, says Democratic members intend to examine the October slowdown of Starlink service in Ukraine. The day before the vote, President Trump issued a proclamation titled the American Declaration of Freedom in Space, dated 3 November on the White House site. It states that outer space is the province of all humans and that the United States will lead its exploration, development, use and settlement. No agency instruction accompanied it.\n\nAt the ESA and EU desk, OHB said on 4 November that the agency has commissioned its Bremen subsidiary to build the Sentinel-3 Next Generation Topography satellite under a contract worth 554 million euros. The figure comes from the company alone and is filed at low confidence. ESA said on 3 November that it had awarded two European industrial consortia preliminary studies into a European-led orbital outpost for the period after the International Space Station. The ground test model of the Rosalind Franklin rover also completed its egress rehearsal at ALTEC in Turin, with Thales Alenia Space as prime. The European Parliament's industry committee votes on the EU Space Act on 10 November, and the ESA ministerial in Rome follows on 15 December.\n\nCentral and Eastern Europe. Ukraine's chargé d'affaires in Washington, Denys Sienik, told Breaking Defense that Kyiv hopes to sign a new Starshield contract with SpaceX by mid-2027, while it still has no explanation for October's service problems and is weighing alternatives. The letter of intent with Nokia and ICEYE remains the only alternative on file. In Poland, the Polish Space Agency hosted the Earth Observation Forum in Gdańsk on 4 and 5 November, on Baltic security and resilience, and received a delegation of Berlin and Brandenburg space firms. Both rest on the agency's Polish-language pages alone.\n\nThe Nordics desk was quiet. The Japan Times carried a specialist's view that Russia's mid-October manoeuvres near a commercial satellite may have rehearsed an attack, but no Finnish, Norwegian or Russian government statement appeared, so the Kosmos 2612 and ICEYE-X36 thread is unchanged. The next dated event in the edition's calendar is the 10 November committee vote on the EU Space Act, which binds Finland, Sweden and Denmark as member states.\n\nWestern and Southern Europe. ArianeGroup reported the second launch of its SyLEx sounding rocket on 4 November from the DGA missile test centre at Biscarrosse, the system's first operational flight, carrying a payload for the armed forces ministry. The claim rests on the company page alone. The UK Space Agency published a grant call for environmental intelligence and emissions services under Unlocking Space for Business on 5 November; no amount appears in the packet.\n\nEurasia and Central Asia. No item met the source rule. Single reports that Russian start-ups may be reselling Chinese imagery and that Tanzania is working with Moscow on a national space industry remain unconfirmed. No dated event is on file for the desk, and the Kosmos 2612 thread still waits on a Russian statement.\n\nTürkiye, Middle East and Africa. Anadolu Agency reports that a US Defense Intelligence Agency assessment describes Iran as an emerging space power with expanding civilian and military programs. It has one source and is filed at low confidence. Türkiye's 2027 space and aviation budget line is unchanged since 26 October.\n\nAsia Pacific. China has set out how it intends to land astronauts on the Moon before 2030. Under the plan described on 3 November by deputy chief designer Wang Xiang, two launches will send the Mengzhou crew craft and the Lanyue lander separately, and the crew will transfer in lunar orbit. SpacePolicyOnline, Universe Today, Space.com and Der Spiegel carried it; no Chinese government page is in the packet. In India, ISRO said its NVS-03 navigation satellite reached geosynchronous orbit after four manoeuvres and a cumulative burn of 6,164 seconds, with payload testing to follow. The Hindu is the only source.\n\nAmericas. NASA's Neil Gehrels Swift Observatory re-entered over western Indonesia on 4 November after nearly 22 years in orbit, following the failed Katalyst Space reboost; Spaceflight Now, SpacePolicyOnline and the Frankfurter Allgemeine reported it, and no NASA page appeared. Reports relayed by Reuters, Bloomberg and US News, citing unnamed sources, say Blue Origin has pushed the next New Glenn launch into January; the company has not said so, and the 30 October comment deadline on its request for 50 launches a year passed without a result in the packet. On the International Space Station, Canadian astronaut Joshua Kutryk and NASA's Anil Menon were due to begin a second spacewalk at 11:45 UTC to install the eighth and final roll-out solar array; no completion report was available. Canada named Alexander MacDonald, NASA's chief economist until December 2024, as president of the Canadian Space Agency on 4 November. NASA also selected three companies for Ka-band relay concept work; their names are not in the packet.\n\nThat is the edition. The next dates are 10 November for the EU Space Act committee vote, 23 November at the earliest for Ariane 6 flight VA271 with 36 Amazon Leo satellites, 8 December for NASA's commercial station proposals and 15 December for the ESA ministerial in Rome. Sovereign Space ATLAS returns tomorrow.",
+  "audio_sections": [
+    {
+      "section": "opening",
+      "text": "This is Sovereign Space ATLAS for Thursday the fifth of November 2026, the 06:00 UTC edition. Washington has a new Congress in prospect, a presidential proclamation on space and an observatory that has fallen from orbit. China has published the sequence for its crewed lunar landing. Europe has a contract figure for the next Sentinel-3 and studies for a European-led outpost. Here is the reading, desk by desk."
+    },
+    {
+      "section": "top_story",
+      "text": "The top story is the United States midterm election. Democratic candidates won majorities in both the House and the Senate on Tuesday, according to SpacePolicyOnline, Payload and SpaceQ, and from January the party will chair the committees that write NASA's appropriation and set Space Force policy. The South China Morning Post puts Elon Musk's spending on political groups in the cycle at 474 million dollars. RIA Novosti, citing CNN, says Democratic members intend to examine the October slowdown of Starlink service in Ukraine. The day before the vote, President Trump issued a proclamation titled the American Declaration of Freedom in Space, dated 3 November on the White House site. It states that outer space is the province of all humans and that the United States will lead its exploration, development, use and settlement. No agency instruction accompanied it."
+    },
+    {
+      "section": "esa_eu",
+      "text": "At the ESA and EU desk, OHB said on 4 November that the agency has commissioned its Bremen subsidiary to build the Sentinel-3 Next Generation Topography satellite under a contract worth 554 million euros. The figure comes from the company alone and is filed at low confidence. ESA said on 3 November that it had awarded two European industrial consortia preliminary studies into a European-led orbital outpost for the period after the International Space Station. The ground test model of the Rosalind Franklin rover also completed its egress rehearsal at ALTEC in Turin, with Thales Alenia Space as prime. The European Parliament's industry committee votes on the EU Space Act on 10 November, and the ESA ministerial in Rome follows on 15 December."
+    },
+    {
+      "section": "cee",
+      "text": "Central and Eastern Europe. Ukraine's chargé d'affaires in Washington, Denys Sienik, told Breaking Defense that Kyiv hopes to sign a new Starshield contract with SpaceX by mid-2027, while it still has no explanation for October's service problems and is weighing alternatives. The letter of intent with Nokia and ICEYE remains the only alternative on file. In Poland, the Polish Space Agency hosted the Earth Observation Forum in Gdańsk on 4 and 5 November, on Baltic security and resilience, and received a delegation of Berlin and Brandenburg space firms. Both rest on the agency's Polish-language pages alone."
+    },
+    {
+      "section": "nordics",
+      "text": "The Nordics desk was quiet. The Japan Times carried a specialist's view that Russia's mid-October manoeuvres near a commercial satellite may have rehearsed an attack, but no Finnish, Norwegian or Russian government statement appeared, so the Kosmos 2612 and ICEYE-X36 thread is unchanged. The next dated event in the edition's calendar is the 10 November committee vote on the EU Space Act, which binds Finland, Sweden and Denmark as member states."
+    },
+    {
+      "section": "west",
+      "text": "Western and Southern Europe. ArianeGroup reported the second launch of its SyLEx sounding rocket on 4 November from the DGA missile test centre at Biscarrosse, the system's first operational flight, carrying a payload for the armed forces ministry. The claim rests on the company page alone. The UK Space Agency published a grant call for environmental intelligence and emissions services under Unlocking Space for Business on 5 November; no amount appears in the packet."
+    },
+    {
+      "section": "eurasia",
+      "text": "Eurasia and Central Asia. No item met the source rule. Single reports that Russian start-ups may be reselling Chinese imagery and that Tanzania is working with Moscow on a national space industry remain unconfirmed. No dated event is on file for the desk, and the Kosmos 2612 thread still waits on a Russian statement."
+    },
+    {
+      "section": "mena",
+      "text": "Türkiye, Middle East and Africa. Anadolu Agency reports that a US Defense Intelligence Agency assessment describes Iran as an emerging space power with expanding civilian and military programs. It has one source and is filed at low confidence. Türkiye's 2027 space and aviation budget line is unchanged since 26 October."
+    },
+    {
+      "section": "asia_pac",
+      "text": "Asia Pacific. China has set out how it intends to land astronauts on the Moon before 2030. Under the plan described on 3 November by deputy chief designer Wang Xiang, two launches will send the Mengzhou crew craft and the Lanyue lander separately, and the crew will transfer in lunar orbit. SpacePolicyOnline, Universe Today, Space.com and Der Spiegel carried it; no Chinese government page is in the packet. In India, ISRO said its NVS-03 navigation satellite reached geosynchronous orbit after four manoeuvres and a cumulative burn of 6,164 seconds, with payload testing to follow. The Hindu is the only source."
+    },
+    {
+      "section": "americas",
+      "text": "Americas. NASA's Neil Gehrels Swift Observatory re-entered over western Indonesia on 4 November after nearly 22 years in orbit, following the failed Katalyst Space reboost; Spaceflight Now, SpacePolicyOnline and the Frankfurter Allgemeine reported it, and no NASA page appeared. Reports relayed by Reuters, Bloomberg and US News, citing unnamed sources, say Blue Origin has pushed the next New Glenn launch into January; the company has not said so, and the 30 October comment deadline on its request for 50 launches a year passed without a result in the packet. On the International Space Station, Canadian astronaut Joshua Kutryk and NASA's Anil Menon were due to begin a second spacewalk at 11:45 UTC to install the eighth and final roll-out solar array; no completion report was available. Canada named Alexander MacDonald, NASA's chief economist until December 2024, as president of the Canadian Space Agency on 4 November. NASA also selected three companies for Ka-band relay concept work; their names are not in the packet."
+    },
+    {
+      "section": "close",
+      "text": "That is the edition. The next dates are 10 November for the EU Space Act committee vote, 23 November at the earliest for Ariane 6 flight VA271 with 36 Amazon Leo satellites, 8 December for NASA's commercial station proposals and 15 December for the ESA ministerial in Rome. Sovereign Space ATLAS returns tomorrow."
+    }
+  ],
+  "generated_at": "2026-11-05T20:18:38+00:00"
+}
