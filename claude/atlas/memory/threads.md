@@ -155,3 +155,11 @@ Episodes:
 - ESA, the EU and the road to Rome: European-led outpost studies awarded 3 November; OHB's EUR 554 million Sentinel-3 NGT figure; ExoMars egress rehearsal; next 10 November vote, then 15 December Rome.
 - Artemis and the 2028 landing: no change to dates; proclamation of 3 November and midterm result add political context; second spacewalk scheduled 5 November, outcome pending; 8 December proposals due.
 - Blue Origin and New Glenn's cadence: reported slip into January via Reuters/Bloomberg/US News, unconfirmed by company; 30 October FAA comment deadline passed without a result on file.
+
+
+## 2026-11-05
+- Swift: FAZ reported fall to Earth on 5 November; no NASA page; thread closed pending NASA.
+- Matera laser ranging: no change; station complete, no routine-operations date.
+- ESA, EU, Rome: OHB company claims only; next 10 November committee vote, then 15 December Rome.
+- Artemis: dates unchanged; NSF 1 November checkout sequence, single source; 8 December proposals due.
+- Blue Origin: January 2027 return reported by FT via Reuters and Bloomberg, unconfirmed by company; GS3 and Northstar announced 5 November; 30 October FAA deadline passed, no decision on file.
