@@ -163,3 +163,12 @@ Episodes:
 - ESA, EU, Rome: OHB company claims only; next 10 November committee vote, then 15 December Rome.
 - Artemis: dates unchanged; NSF 1 November checkout sequence, single source; 8 December proposals due.
 - Blue Origin: January 2027 return reported by FT via Reuters and Bloomberg, unconfirmed by company; GS3 and Northstar announced 5 November; 30 October FAA deadline passed, no decision on file.
+
+
+## 2026-11-05
+- Blue Origin: January 2027 return reported via FT, Reuters, Bloomberg; GS3 and Northstar announced 5 November; FAA 30 October deadline passed, no decision on file.
+- Swift: FAZ only reports the fall on 5 November; no NASA page; closed pending NASA.
+- Artemis: dates unchanged; NSF 1 November checkout sequence, single source; 8 December proposals due.
+- ESA, EU, Rome: OHB company claims only; next 10 November committee vote, then 15 December Rome.
+- Matera laser ranging: no change; station complete, no routine-operations date.
+- Starshield and Ukraine: mid-2027 hope reported by Breaking Defense, single source.

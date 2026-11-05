@@ -1,41 +1,39 @@
 {
-  "date": "2026-11-05",
-  "headline": "Blue Origin is reported to move New Glenn's return to flight into January 2027 as NASA's Swift observatory is reported to have fallen to Earth.",
-  "summary": [
-    "The Financial Times, relayed by Reuters, and Bloomberg reported on 5 November that Blue Origin has moved New Glenn's return to flight into January 2027, and no company page in the packet confirms it.",
-    "Frankfurter Allgemeine reported on 5 November that NASA's Swift observatory fell to Earth, a single-source claim with no NASA page behind it.",
-    "Bloomberg reported on 5 November that SpaceX's default-risk measure reached a record high, which is a market gauge and not a default.",
-    "OHB said on an undated newsroom page that it has been awarded a EUR 554 million Sentinel-3 Next Generation Topography contract, a company claim with no ESA or EU page alongside.",
-    "Breaking Defense reported on 5 November that Ukraine is eyeing a new Starshield deal by mid-2027, a stated hope and not a signed contract."
-  ],
-  "bottom_line": "The facts move New Glenn from a flight with no confirmed slip to a return to flight reported for January, and they close the Swift thread pending a NASA page. They do not move the dated European decisions, the 10 November committee vote and the 15 December Rome meeting.",
+  "edition": "06:00 UTC",
+  "headline": "Blue Origin is reported to push New Glenn's return to flight into January; Swift is reported fallen to Earth",
   "global": [
     {
       "date": "2026-11-05",
       "iso3": [
         "USA"
       ],
-      "status": "event",
+      "status": "statement",
       "priority": "P1",
-      "exposure": "US heavy-lift launch schedule and the Blue Origin cadence request before the FAA",
-      "title": "Blue Origin is reported to move New Glenn's return to flight into January 2027 as the 30 October FAA comment deadline passes with no decision on file",
-      "summary": "The Financial Times, relayed by Reuters on 5 November, reported that Blue Origin has delayed New Glenn's return to flight into January, and the report cites no company statement in the packet. Bloomberg reported the same delay on 5 November, and the Seattle Times, Quartz and U.S. News carried reports of it the same day, which counts as two independent chains and not six. Quartz put the return to flight in January 2027, but the packet holds headlines only and no day within the month. Blue Origin had asked the FAA on an earlier date to allow up to 50 New Glenn launches a year from Florida, and the 30 October comment deadline has passed with no FAA decision in the packet. No Blue Origin page in the packet confirms the delay, so the slip is reported and not announced.",
-      "why": "A January return would leave New Glenn without a flight for the rest of 2026 on the reported schedule. The FAA cadence request is a separate matter that the delay does not settle.",
+      "exposure": "US heavy-lift launch cadence and the commercial lunar and satellite manifests that depend on New Glenn",
+      "title": "Blue Origin is reported to push New Glenn's return to flight into January, and names a third stage and a new booster engine",
+      "summary": "Reuters, citing the Financial Times, reported on the fifth of November that Blue Origin has delayed the next New Glenn launch into January, and the company had not confirmed this in the packet. Bloomberg, U.S. News and Quartz carried the January timing on the fifth of November, and these reports share one origin, so they are not separate confirmation. Blue Origin announced a New Glenn third stage called GS3 and a booster engine called Northstar on the fifth of November, per NASASpaceflight, which is a development announcement, not a flight date. The thirtieth of October deadline for comments on the FAA request for up to fifty New Glenn launches a year has passed, and the packet holds no FAA decision. No government page is in the packet, and the company has published no launch date.",
+      "why": "A slip into January moves the vehicle's next flight beyond the end of this year and keeps the launch-cadence request unresolved. The new stage and engine are announced developments, so they change the plan but not any dated event.",
       "sources": [
         {
-          "outlet": "Reuters (reporting the Financial Times)",
+          "outlet": "Reuters (via Google News)",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOb2s1TW9rYXE2a0xvY29OclU0Si1PX3lLUXQwTmN1ZG90aV9rdGo2NXowX0ZzTDVhOF9tNWtUa1N0bU9iZmpocEVGRzBOMzFkeUhwX1hEZlNlUFlkdDI5M1c1M2ZzY2FGQnlrTlBfcVI2c1kxV211V1BFSmpnT2hHek4zWm5mald4NTlvNUhqTUk0S1dPOUtSNFVCdHNwOEs0TmMxRjBBdm4xSWl0TS1n?oc=5",
           "language": "en",
           "type": "press"
         },
         {
-          "outlet": "Bloomberg",
+          "outlet": "Bloomberg (via Google News)",
           "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVW4ySmFiNGJsX1ZmczZwVEprUEc1d1RkX3FTbXlKcmY0UmtHenB3c3RrX3FxR2I5Rlh2YklSS3VmSzFXLUZDdGpqVEFwcnE1WG9tZkFvRHVOUG1mMUR5Y1AzSFJuczEtYVJoNEFkdldkZnRQMmVaWHk1ZjBvLXFseVFwYTZyVnRSTHRCU1FoakhjYlhoaGJEUjlIeEgwWDh5dS1KdUJ4NkdNV2pmTWxZNE9aaWdTXzlXTjl2ZmZmbGE2UQ?oc=5",
+          "language": "en",
+          "type": "press"
+        },
+        {
+          "outlet": "NASASpaceflight",
+          "url": "https://www.nasaspaceflight.com/2026/11/blue-origin-new-glenn-gs3-northstar-engine/",
           "language": "en",
           "type": "press"
         }
       ],
-      "bar": "Two independent sources (Financial Times via Reuters, Bloomberg); no government page and no national-language source."
+      "bar": "Three press outlets; the delay reports share one origin and count once; the GS3 announcement is a second, separate press source; no government page and no national-language source."
     },
     {
       "date": "2026-11-05",
@@ -44,10 +42,10 @@
       ],
       "status": "event",
       "priority": "P2",
-      "exposure": "NASA astrophysics assets and orbital debris handling",
-      "title": "NASA's Swift observatory is reported to have fallen to Earth, closing a thread opened by the end of science operations on 23 October",
-      "summary": "Only one source in the packet, Frankfurter Allgemeine, reported on 5 November that the Swift space telescope has crashed back to Earth. Its headline places the fall after a rescue mission, and the packet gives no time, place or detail of the re-entry. NASA ended Swift's science operations on 23 October, and the 26 October edition already carried the abandoned reboost. No NASA page in the packet confirms the re-entry, so the date and location remain unconfirmed. The thread is closed pending any NASA statement, and no replacement plan or reversal of the shutdown appears in the packet.",
-      "why": "The dated event the thread was waiting for has arrived, on one German-language report. No replacement mission is named in the packet.",
+      "exposure": "NASA astrophysics assets and the reliability of the loss date",
+      "title": "Frankfurter Allgemeine reports the Swift observatory has fallen to Earth, with no NASA page in the packet",
+      "summary": "Frankfurter Allgemeine Zeitung reported on the fifth of November that the Swift observatory has fallen to Earth, and it is the only source in the packet. The report is German-language press, not a statement from NASA. No NASA page in the packet confirms the date, the place or the outcome. The article address refers to an earlier rescue mission, and the packet does not set out what that mission achieved. The packet does not say whether any fragments reached the surface.",
+      "why": "It would end a mission that a rescue effort had sought to extend. Until a NASA page appears, the loss date rests on one newspaper.",
       "sources": [
         {
           "outlet": "Frankfurter Allgemeine Wissen",
@@ -56,28 +54,28 @@
           "type": "press"
         }
       ],
-      "bar": "One source; no government page and no national-language source for the country concerned."
+      "bar": "One independent source; no government page; the source is German-language press, not the national language of the United States."
     },
     {
       "date": "2026-11-05",
       "iso3": [
         "USA"
       ],
-      "status": "event",
+      "status": "statement",
       "priority": "P3",
-      "exposure": "Financing conditions for the largest US launch provider",
-      "title": "Bloomberg reports SpaceX's default risk at a record high in a tech-led credit slump, a market reading and not a company event",
-      "summary": "Only one source in the packet, Bloomberg, reported on 5 November that SpaceX's default risk hit a record high. The headline ties the move to a broader tech-driven credit slump and does not give a figure in the packet. No SpaceX statement appears in the packet. A default-risk reading is a market gauge, not a default, a downgrade or a change to launch plans. The packet does not show how the measure is built or who is quoting it.",
-      "why": "The reading shows how credit markets priced SpaceX on 5 November. It does not change any launch, contract or customer commitment on file.",
+      "exposure": "Financing of the largest commercial launch provider",
+      "title": "Bloomberg reports SpaceX default risk at a record high in a technology credit slump",
+      "summary": "Bloomberg reported on the fifth of November that SpaceX default risk reached a record high, and it is the only source for the claim in the packet. Bloomberg attributed the move to a technology-led sell-off, as its headline states. The packet carries the headline only, so the measure and level are not stated here. The packet holds no SpaceX statement. The report describes a market signal, not a change in launch service.",
+      "why": "A credit signal concerns financing and not launch availability, and no change in service is reported. It matters only if a company statement or a missed launch follows.",
       "sources": [
         {
-          "outlet": "Bloomberg",
+          "outlet": "Bloomberg markets",
           "url": "https://www.bloomberg.com/news/articles/2026-11-05/spacex-default-risk-hits-fresh-peak-as-tech-led-selloff-builds",
           "language": "en",
           "type": "press"
         }
       ],
-      "bar": "One source; no government page and no national-language source."
+      "bar": "One independent source; no government page; no national-language source."
     }
   ],
   "regions": [
@@ -92,32 +90,17 @@
           ],
           "status": "contract",
           "priority": "P3",
-          "exposure": "Copernicus topography capability and the German prime contractor base",
-          "title": "OHB reports a EUR 554 million contract for the Copernicus Sentinel-3 Next Generation Topography satellite, a company claim with no ESA or EU page alongside",
-          "summary": "OHB, on its own newsroom page, says it has been awarded a EUR 554 million contract for a new Copernicus Sentinel-3 Next Generation Topography satellite, and that page is the only source. The page is undated in the packet, so the award date is not established. The packet names no customer page, delivery date or subcontractor split. No ESA or EU page in the packet confirms the figure. The next dated EU and ESA decisions are the 10 November committee vote on the EU Space Act and the 15 December meeting in Rome, and neither is reported as decided.",
-          "why": "The figure is the first named Copernicus award value in the packet. It is OHB's claim until an ESA or EU page carries it.",
+          "exposure": "Copernicus Sentinel-3 follow-on and European lunar infrastructure studies",
+          "title": "OHB says it has a EUR 554 million Sentinel-3 Next Generation Topography contract, and ESA OASIS studies",
+          "summary": "OHB's own news page says the company was awarded a contract of 554 million euros for a Copernicus Sentinel-3 Next Generation Topography satellite, and it is the company alone, with no ESA or EU page in the packet. The page is undated in the packet, so the award date is not established. A second OHB page says ESA awarded OHB studies for a European lunar infrastructure under the name OASIS, also undated. Neither page states an ESA budget decision. The European Parliament industry committee vote on the EU Space Act on the tenth of November and the ESA ministerial meeting in Rome on the fifteenth of December are the next dated decisions.",
+          "why": "The figure is a company claim and does not yet change the ESA or EU position. The dated votes and the Rome meeting remain the points where funding could change.",
           "sources": [
             {
               "outlet": "OHB news",
               "url": "https://www.ohb.de/en/news/ohb-awarded-eur-554-million-contract-for-new-copernicus-sentinel-3-next-generation-topography-satellite",
               "language": "en",
               "type": "press"
-            }
-          ],
-          "bar": "One source, a company page; no government page and no national-language source."
-        },
-        {
-          "date": "2026-11-05",
-          "iso3": [
-            "DEU"
-          ],
-          "status": "contract",
-          "priority": "P3",
-          "exposure": "European lunar infrastructure studies ahead of the Rome meeting",
-          "title": "OHB says ESA has awarded it OASIS studies towards a European lunar infrastructure, a company claim with no ESA page in the packet",
-          "summary": "OHB, on its own newsroom page, says ESA has awarded it OASIS studies on the way to a European lunar infrastructure, and that page is the only source. The page is undated in the packet and gives no value, length or partners in the headline. No ESA page in the packet confirms the award. A study award is not a decision to build any lunar infrastructure. The ESA intermediate ministerial meeting in Rome on 15 December is the next dated point at which such plans could be funded.",
-          "why": "The claim adds a named study line to the lunar and Mars path the ESA Council sent on towards Rome. It adds no money and no adopted plan.",
-          "sources": [
+            },
             {
               "outlet": "OHB news",
               "url": "https://www.ohb.de/en/news/on-the-way-to-a-european-lunar-infrastructure-esa-awards-ohb-oasis-studies",
@@ -125,7 +108,7 @@
               "type": "press"
             }
           ],
-          "bar": "One source, a company page; no government page and no national-language source."
+          "bar": "One source, the company; no government page and no national-language source."
         }
       ]
     },
@@ -136,14 +119,15 @@
         {
           "date": "2026-11-05",
           "iso3": [
-            "UKR"
+            "UKR",
+            "USA"
           ],
           "status": "statement",
           "priority": "P2",
-          "exposure": "Ukrainian military satellite communications supply",
-          "title": "Ukraine is eyeing a new SpaceX Starshield deal by mid-2027, Breaking Defense reports, with no answers yet on the October problems",
-          "summary": "Only one source in the packet, Breaking Defense, reported on 5 November that Ukraine is eyeing a new Starshield deal by mid-2027. Its headline says there are still no answers about the October problems, and the packet does not describe them. No Ukrainian or SpaceX statement appears in the packet. Mid-2027 is a stated hope and not a signed contract or a date of signature. ICEYE's newsroom, undated in the packet, lists a sovereign satcom partnership with Nokia and Ukraine's Ministry of Defence, and the packet shows no new step in it.",
-          "why": "Ukraine now has a stated mid-2027 target for Starshield and no public explanation of October. The ICEYE and Nokia route remains on file without a dated step.",
+          "exposure": "Ukrainian military satellite communications",
+          "title": "Ukraine is reported to be eyeing a new SpaceX Starshield deal by mid-2027, with no answers on October problems",
+          "summary": "Breaking Defense reported on the fifth of November that Ukraine is eyeing a new SpaceX Starshield deal by the middle of next year, and it is the only source in the packet. The headline says there are still no answers about problems in October, and the packet does not describe those problems. No Ukrainian or American government page is in the packet. The target is a stated hope, not an agreement or a contract. No price or service date has been published.",
+          "why": "It sets a mid-2027 target for Ukrainian satellite communications while the October problems remain unexplained. Nothing in the packet shows a signed arrangement.",
           "sources": [
             {
               "outlet": "Breaking Defense",
@@ -152,7 +136,7 @@
               "type": "press"
             }
           ],
-          "bar": "One source; no government page and no national-language source."
+          "bar": "One independent source; no government page and no Ukrainian-language source."
         }
       ]
     },
@@ -162,27 +146,15 @@
       "items": [
         {
           "date": "2026-11-05",
-          "iso3": [
-            "SWE",
-            "NOR",
-            "FIN",
-            "DNK"
-          ],
+          "iso3": [],
           "status": "overview",
           "priority": "P3",
-          "exposure": "None changed",
-          "title": "No Nordic space item in the packet meets the source rule for 5 November",
-          "summary": "No Nordic agency, ministry or company item in the packet carries a dated act for 5 November. The standing situation is unchanged from the last edition. No Nordic announcement is on file as agreed, signed or contracted. The packet shows no dated Nordic event in the next six weeks. The nearest dated European decisions are the 10 November EU Space Act committee vote and the 15 December ESA meeting in Rome.",
-          "why": "The desk has nothing to file as news. The next date that touches it is the 10 November committee vote.",
-          "sources": [
-            {
-              "outlet": "Reading packet, no Nordic item",
-              "url": "https://www.nasaspaceflight.com/2026/11/launch-preview-110226/",
-              "language": "en",
-              "type": "press"
-            }
-          ],
-          "bar": "No qualifying source; no government page and no national-language source."
+          "exposure": "None identified",
+          "title": "Nordic desk: nothing in the packet changes a known situation",
+          "summary": "No Nordic government, agency or company filed anything in the packet that changes a known situation on the fifth of November. No Nordic launch, contract or agreement is therefore carried as fresh. The standing situation is unchanged from the last Nordic filing. The limit of this item is that an absent filing is not evidence of an absence of activity. No dated Nordic event is on file for the next six weeks.",
+          "why": "The desk records no change. The next date will be added when a dated Nordic event is filed.",
+          "sources": [],
+          "bar": "No sources; overview only."
         }
       ]
     },
@@ -197,10 +169,10 @@
           ],
           "status": "event",
           "priority": "P3",
-          "exposure": "French launch-sector testing and the Ariane 6 manifest",
-          "title": "ArianeGroup reports a second successful SyLEx sounding-rocket launch on 4 November as Ariane 6 flight 10 keeps a 23 November earliest date",
-          "summary": "ArianeGroup, on its own newsroom page dated 4 November, reports the second successful launch of the SyLEx sounding rocket, and that page is the only source. The packet gives no site, payload or altitude. An ArianeGroup page of 14 October says Arianespace will launch 36 Amazon Leo satellites on 23 November at the earliest, on the tenth Ariane 6 flight, and the date has not moved in the packet. The Arianespace folder for flight VA271, dated 16 October, covers Amazon Leo LE-04. A date given as at the earliest is not a confirmed launch.",
-          "why": "A dated test has arrived on a company page alone. The 23 November Ariane 6 date is the next dated launch event on the desk.",
+          "exposure": "French sounding-rocket capability and the Ariane 6 manifest",
+          "title": "ArianeGroup says SyLEx's second launch succeeded, and Amazon Leo is set for Ariane 6 on the twenty-third of November at the earliest",
+          "summary": "ArianeGroup said on the fourth of November that the second launch of the SyLEx sounding rocket was successful, and the company page is the only source. The packet gives no launch site, altitude or payload. No French government page is in the packet. A company page dated the fourteenth of October says Arianespace plans to launch thirty-six Amazon Leo satellites on the twenty-third of November at the earliest, on the tenth Ariane 6 flight. That date is an earliest date, not a firm launch date.",
+          "why": "The sounding-rocket result is a company claim of success without detail. The Amazon Leo date is the next dated Ariane 6 event.",
           "sources": [
             {
               "outlet": "ArianeGroup",
@@ -231,19 +203,19 @@
           ],
           "status": "statement",
           "priority": "P3",
-          "exposure": "Credibility of Russian commercial Earth-observation claims",
-          "title": "Meduza reports a researcher's finding that Russian space startups may be passing off Chinese satellite imagery as their own, with no startup response in the packet",
-          "summary": "Only one source in the packet, Meduza, reported on 2 November that a researcher found Russian space startups may be passing off Chinese satellite imagery as their own. The headline hedges with the word may, and the packet names no startup or image set. No Russian or Chinese official statement appears in the packet. The finding is a researcher's and is not an audit or a regulator's ruling. The item reached the packet through an aggregator feed, not Meduza's own page.",
-          "why": "The claim questions the sourcing of Russian commercial imagery. It stays an allegation until a startup or an agency answers.",
+          "exposure": "Provenance of Russian commercial Earth-observation imagery",
+          "title": "Meduza reports a researcher's finding that Russian space startups may be passing off Chinese satellite imagery as their own",
+          "summary": "Meduza reported on the second of November that a researcher found Russian space startups may be passing off Chinese satellite imagery as their own, and it is the only source in the packet, reached through a news aggregator. The finding is framed as possible and is not established by any authority. No Russian government, company or Chinese statement is in the packet. The packet does not name the firms or the number of images. The headline is English, and no Russian-language original is in the packet.",
+          "why": "If borne out, it would show a dependence of Russian commercial imagery on Chinese sources. As filed, it is an unverified researcher's claim.",
           "sources": [
             {
-              "outlet": "Meduza",
+              "outlet": "Meduza (via Google News)",
               "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMFMwS2xzY01IZ05OQ2Q0b2RTSDBHN2lremd2ZFZmWmh6SjIyd1h6Y2o1QUU1UENLZmxjRW1IR0xKZDNXQnI2Yy1oa0FWYVBNUU5IZmhTNUJYT01ESGY2ZkdWdi1Wa2lUQ00zeEEyU0ZCZE1vc0h6cWxmSHVWd1RhMkR2Y3NSVllDSGdiaDV5N0swMW9jLUtaOXZJdExpUHFYZ2cweXVmcFZrbXIzbzhvM1RqU3hYZFd0SktnNUt4ZjVfcXBiXy13aS1PZ2otSDZZWk000gHYAUFVX3lxTFA5b1lyVWNOblp6UnU5R25aUmVFc21adEd3SFFMbjkzYmtXMXJiZlY2MEQ0X0doQjhLYTdyNWw2ODdHajlKSWpvSmgtcU00anVrTGJfSWJXZGFER3B4djBTb3g0TmxNZmY2eDRlZFB0OGNjanFQa2xwbmd0VExwcC1VUERLeXJGRHA4cjV5Tlg4VlRHYU0tenlHTjJfMXdPWWZTd0h5a3RrRGR6eEFSTVAwQTNUZ21zdy04SVREOEg2cWMxeHB6Qmk0SDZBZ1R4bVc4d0dac21EeQ?oc=5",
               "language": "en",
               "type": "press"
             }
           ],
-          "bar": "One source; no government page and no national-language source."
+          "bar": "One independent source; no government page and no national-language source."
         }
       ]
     },
@@ -259,19 +231,19 @@
           ],
           "status": "statement",
           "priority": "P2",
-          "exposure": "US assessment of Iranian space capability",
-          "title": "A US intelligence report describes Iran as an emerging space power, Anadolu reports, with the report itself absent from the packet",
-          "summary": "Only one source in the packet, Anadolu Agency, reported on 5 November that a US intelligence report describes Iran as an emerging space power. The report is not in the packet, so its date, authors and evidence are not shown. No US government page and no Iranian statement appear in the packet. An assessment that a country is emerging is a judgement and not a count of launches or satellites. The word emerging is quoted from the headline.",
-          "why": "The item records a US assessment of Iranian space capability on the day it was reported. It cannot be tested until the report itself is on file.",
+          "exposure": "Assessment of Iranian space capability",
+          "title": "Anadolu reports a US intelligence report describes Iran as an emerging space power",
+          "summary": "Anadolu Agency reported on the fifth of November that a US intelligence report describes Iran as an emerging space power, and it is the only source in the packet. The packet carries the headline only, so the report's author, date and findings are not stated here. No US government page for the report is in the packet. No Iranian statement is in the packet. The description is an assessment, not a launch or an agreement.",
+          "why": "It records a United States intelligence characterisation of Iran's space program. Its weight depends on the report itself, which the packet does not contain.",
           "sources": [
             {
-              "outlet": "Anadolu Agency",
+              "outlet": "Anadolu Agency world",
               "url": "https://www.aa.com.tr/en/world/us-intelligence-report-describes-iran-as-emerging-space-power/4113073",
               "language": "en",
               "type": "press"
             }
           ],
-          "bar": "One source; no government page and no national-language source."
+          "bar": "One independent source; no government page and no Persian-language source."
         }
       ]
     },
@@ -280,46 +252,25 @@
       "name": "Asia Pacific",
       "items": [
         {
-          "date": "2026-11-05",
-          "iso3": [
-            "CHN"
-          ],
-          "status": "event",
-          "priority": "P3",
-          "exposure": "Chinese station science and cold-atom research",
-          "title": "Chinese scientists chill atoms to a record low on the Tiangong station, the South China Morning Post reports, with no Chinese agency page in the packet",
-          "summary": "Only one source in the packet, the South China Morning Post, reported on 5 November that Chinese scientists chilled atoms to a record low on the Tiangong space station. The headline gives no temperature, team or experiment date in the packet. No Chinese agency or academy page appears in the packet. A record in the headline is the newspaper's description, not a published paper. The item reached the packet through the SCMP feed only.",
-          "why": "The claim adds a reported science result from Tiangong. It stays unverified without a Chinese source.",
-          "sources": [
-            {
-              "outlet": "South China Morning Post",
-              "url": "https://www.scmp.com/news/china/science/article/3373343/chinese-scientists-chill-atoms-record-low-tiangong-space-station",
-              "language": "en",
-              "type": "press"
-            }
-          ],
-          "bar": "One source; no government page and no national-language source."
-        },
-        {
           "date": "2026-11-03",
           "iso3": [
             "CHN"
           ],
           "status": "statement",
           "priority": "P3",
-          "exposure": "Crewed lunar competition timeline",
-          "title": "China plans a crewed Moon landing before 2030, Der Spiegel reports on 3 November, with no new date or Chinese government page in the packet",
-          "summary": "Only one source in the packet, Der Spiegel, reported on 3 November that China plans a crewed Moon landing before 2030. The headline gives no new date, vehicle or Chinese agency attribution. No Chinese government page appears in the packet. A plan reported as before 2030 is a target and not a schedule. The NASA date of 2028 for a landing is unchanged in the packet.",
-          "why": "The report restates a Chinese target in a German outlet without adding a date. It leaves the 2028 NASA landing date and the Chinese pre-2030 target side by side.",
+          "exposure": "Timing of a crewed lunar landing",
+          "title": "Der Spiegel reports China plans a crewed Moon landing before 2030",
+          "summary": "Der Spiegel reported on the third of November that China plans a crewed Moon landing before 2030, and it is the only source in the packet. The packet carries the headline only, so the details are not stated here. No Chinese government page is in the packet. The report describes a plan, not a launch or a published schedule. The source is German-language press, not Chinese national-language.",
+          "why": "It restates a lunar timeline in a European outlet's words. No new Chinese date or decision is shown.",
           "sources": [
             {
-              "outlet": "Der Spiegel",
+              "outlet": "Der Spiegel Weltall",
               "url": "https://www.spiegel.de/wissenschaft/weltall/raumfahrt-china-plant-bemannte-mondlandung-vor-2030-a-96ec221a-a77c-4a35-adbe-ce90d7b475f9#ref=rss",
               "language": "de",
               "type": "press"
             }
           ],
-          "bar": "One source; no government page and no national-language source for China."
+          "bar": "One independent source; no government page and no Chinese-language source."
         }
       ]
     },
@@ -330,29 +281,30 @@
         {
           "date": "2026-11-05",
           "iso3": [
+            "CAN",
             "USA"
           ],
-          "status": "statement",
-          "priority": "P2",
-          "exposure": "New Glenn upper-stage and booster engine development",
-          "title": "Blue Origin announces a New Glenn third stage and the Northstar booster engine, with no flight date attached in the packet",
-          "summary": "NASASpaceflight and SpaceNews reported on 5 November that Blue Origin announced a third stage for New Glenn, called GS3, and a new booster engine, Northstar. Both reports repeat the company announcement, and the packet holds no Blue Origin page, so the details rest on press. The headlines give no first-flight date, thrust figure or cost. An announced stage and engine are development plans, not hardware that has flown. The separate reports of a January 2027 return to flight in the global section are unconfirmed by the company.",
-          "why": "The announcement gives New Glenn a longer development path on the same day as the reported slip. It sets no flight date.",
+          "status": "event",
+          "priority": "P3",
+          "exposure": "ISS power upgrade work and Canadian astronaut participation",
+          "title": "Canadian astronaut Joshua Kutryk completes a second spacewalk of more than six hours, with a station power upgrade as the aim",
+          "summary": "CBC reported on the fifth of November that Canadian astronaut Joshua Kutryk completed his second spacewalk, lasting more than six hours. The Tallahassee Democrat, via an aggregator, described NASA's hundred-and-first ISS spacewalk on the fifth of November as aiming to raise station power by thirty percent. Both are press reports, and the packet holds no NASA page for the result. The packet does not say whether the solar array work was completed. The thirty percent is an aim, not a measured result.",
+          "why": "It marks the second of two planned spacewalks for new solar arrays. The power gain remains unconfirmed until NASA publishes a result.",
           "sources": [
             {
-              "outlet": "NASASpaceflight",
-              "url": "https://www.nasaspaceflight.com/2026/11/blue-origin-new-glenn-gs3-northstar-engine/",
+              "outlet": "CBC top stories",
+              "url": "https://www.cbc.ca/news/science/canadian-astronaut-kutryk-second-spacewalk-9.7411168?cmp=rss",
               "language": "en",
               "type": "press"
             },
             {
-              "outlet": "SpaceNews",
-              "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONzJlcE9RR1lwZDJTWnN5WFRyU0lDT3BPMkJiNUN6VFBpT09vMmhTMUREZ2dDZUZTNVk3U2tRVnhLaXQtNGtpV3lVSl9RUFdTaEZDUlU3ZHNlbWY1bEVnX3Fudk9VOWFhSTM4YXI2MGkxV3dGbDZiT3lna1ZVakFPRFJ4aVpGOWw2dnlMcmVrcw?oc=5",
+              "outlet": "Tallahassee Democrat (via Google News)",
+              "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLTRzNXRnems0X1JmQnNPR3VhMTZpdDBybmZpNFA3NFpZV0UxOW5qR3pqd0E4NzNOd3ZxT1ljLWwwQVIxT0Uwd1RRemd1VTN1TU03NndwYVV1eXRQYmxQVDZFTE9tNklnXzhiU29zemRmbTlXVFQtdlFWX1JvRF9ONjJicTk1b0JQUW9FLWhaRVo2M2hjR2pKZUdGZUxCQVZoZ2k0WkNocHNHR3dWMkoyejVpb2U?oc=5",
               "language": "en",
               "type": "press"
             }
           ],
-          "bar": "Two press sources on one company announcement; no government page and no national-language source."
+          "bar": "Two press sources; no government page; CBC is a national-language source for Canada in English."
         },
         {
           "date": "2026-11-01",
@@ -360,11 +312,11 @@
             "USA"
           ],
           "status": "statement",
-          "priority": "P2",
-          "exposure": "Artemis III test sequencing and lander priority",
-          "title": "Isaacman outlines an Artemis III multi-launch checkout sequence and a Blue Origin priority, NASASpaceflight reports, with NASA dates unchanged",
-          "summary": "Only one source in the packet, NASASpaceflight, reported on 1 November that Isaacman outlined an Artemis III multi-launch checkout sequence and a Blue Origin priority. The packet holds the headline only and gives no launch count, order or date. No NASA page in the packet carries the sequence. The NASA position filed on 23 October is unchanged in the packet: Artemis III in 2027 as a low Earth orbit test and a landing in 2028. NASA commercial space-station proposals remain due on 8 December.",
-          "why": "The report adds a reported test sequence to the Artemis III plan and names Blue Origin as a priority. It alters no NASA date in the packet.",
+          "priority": "P3",
+          "exposure": "Artemis III preparation sequence",
+          "title": "NASASpaceflight reports Isaacman outlined an Artemis III multi-launch checkout sequence and a Blue Origin priority",
+          "summary": "NASASpaceflight reported on the first of November that Isaacman outlined a multi-launch checkout sequence for Artemis III and a Blue Origin priority, and it is the only source in the packet. The packet carries the headline only, so the sequence is not described here. No NASA page in the packet confirms it. No new NASA date is attached, and the 2028 landing target is unchanged. NASA commercial space-station proposals remain due on the eighth of December.",
+          "why": "It adds detail to Artemis III preparation without moving a date. The next dated Artemis-related event on file is the eighth of December proposal deadline.",
           "sources": [
             {
               "outlet": "NASASpaceflight",
@@ -373,7 +325,7 @@
               "type": "press"
             }
           ],
-          "bar": "One source; no government page and no national-language source."
+          "bar": "One independent source; no government page and no national-language source."
         }
       ]
     }
@@ -381,10 +333,36 @@
   "priorities": [
     {
       "rank": "P2",
-      "title": "Blue Origin moves New Glenn's return to flight into January 2027",
-      "status": "Reported by Financial Times via Reuters and by Bloomberg; not confirmed by the company",
-      "exposure": "US heavy-lift schedule and the FAA cadence request",
-      "implication": "A January return would leave New Glenn without a flight for the rest of 2026 on the reported schedule.",
+      "title": "Blue Origin New Glenn return to flight reported for January",
+      "status": "statement",
+      "exposure": "US heavy-lift launch cadence",
+      "implication": "The reported slip moves the next New Glenn flight past the end of this year while the FAA cadence request stays unresolved.",
+      "iso3": [
+        "USA"
+      ],
+      "next": {
+        "date": "2027-01",
+        "event": "Reported New Glenn return to flight, unconfirmed by the company"
+      }
+    },
+    {
+      "rank": "P2",
+      "title": "Ukraine eyes a Starshield deal by mid-2027",
+      "status": "statement",
+      "exposure": "Ukrainian military satellite communications",
+      "implication": "The target is a stated hope on one source, with the October problems unexplained.",
+      "iso3": [
+        "UKR",
+        "USA"
+      ],
+      "next": null
+    },
+    {
+      "rank": "P2",
+      "title": "Swift observatory reported fallen to Earth",
+      "status": "event",
+      "exposure": "NASA astrophysics assets",
+      "implication": "The loss date rests on one German newspaper until a NASA page appears.",
       "iso3": [
         "USA"
       ],
@@ -392,24 +370,10 @@
     },
     {
       "rank": "P2",
-      "title": "EU Space Act committee vote and the road to Rome",
-      "status": "No ESA or EU decision in the packet; two dated decisions remain",
-      "exposure": "European space regulation and ESA funding",
-      "implication": "The 10 November vote and the 15 December Rome meeting are the next points at which European positions can be tested.",
-      "iso3": [
-        "EUU"
-      ],
-      "next": {
-        "date": "2026-11-10",
-        "event": "European Parliament industry committee vote on the EU Space Act"
-      }
-    },
-    {
-      "rank": "P2",
-      "title": "Artemis III sequence and the 2028 landing",
-      "status": "NASA dates unchanged; checkout sequence reported by one outlet",
-      "exposure": "US crewed lunar timeline and ESA's astronaut seat",
-      "implication": "The reported checkout sequence adds detail but moves no NASA date in the packet.",
+      "title": "Artemis III checkout sequence and 2028 landing target",
+      "status": "statement",
+      "exposure": "Artemis schedule",
+      "implication": "A single-source description of the checkout sequence leaves all NASA dates unchanged.",
       "iso3": [
         "USA"
       ],
@@ -417,17 +381,6 @@
         "date": "2026-12-08",
         "event": "NASA commercial space-station proposals due"
       }
-    },
-    {
-      "rank": "P2",
-      "title": "Swift observatory reported to have fallen to Earth",
-      "status": "Single German-language report; no NASA page",
-      "exposure": "NASA astrophysics assets",
-      "implication": "The thread closes on one report, and no replacement plan or reversal is on file.",
-      "iso3": [
-        "USA"
-      ],
-      "next": null
     }
   ],
   "watchlist": [
@@ -436,13 +389,13 @@
       "event": "European Parliament industry committee vote on the EU Space Act",
       "where": "European Parliament",
       "iso3": [
-        "EUU"
+        "BEL"
       ]
     },
     {
       "date": "2026-11-23",
-      "event": "Arianespace launch of 36 Amazon Leo satellites on the tenth Ariane 6 flight, at the earliest",
-      "where": "Arianespace",
+      "event": "Arianespace Amazon Leo launch on the tenth Ariane 6 flight, at the earliest",
+      "where": "Ariane 6",
       "iso3": [
         "FRA"
       ]
@@ -467,12 +420,12 @@
   "milestones": [
     {
       "date": "2026-11-10",
-      "event": "European Parliament industry committee vote on the EU Space Act",
+      "event": "EU Space Act committee vote",
       "iso3": [
-        "EUU"
+        "BEL"
       ],
       "status": "scheduled",
-      "why": "It is the next formal step in the EU Space Act and the first dated European decision in the packet."
+      "why": "It is the next formal legislative step on the EU Space Act."
     },
     {
       "date": "2026-12-08",
@@ -481,25 +434,25 @@
         "USA"
       ],
       "status": "scheduled",
-      "why": "The proposals set the field for NASA's commercial station plan."
+      "why": "It sets the field for the commercial station program."
     },
     {
       "date": "2026-12-15",
-      "event": "ESA intermediate ministerial meeting",
+      "event": "ESA intermediate ministerial meeting in Rome",
       "iso3": [
         "ITA"
       ],
       "status": "scheduled",
-      "why": "The meeting is where ESA's path for low Earth orbit, the Moon and Mars goes on towards funding."
+      "why": "It is where the Council's low Earth orbit, Moon and Mars path could receive a plan and funding."
     },
     {
       "date": "2027-01",
-      "event": "New Glenn return to flight, as reported",
+      "event": "Reported New Glenn return to flight",
       "iso3": [
         "USA"
       ],
-      "status": "reported, unconfirmed by Blue Origin",
-      "why": "The month rests on press reports and has no day in the packet."
+      "status": "reported, unconfirmed",
+      "why": "The company has not confirmed the month, and no exact date is on file."
     }
   ],
   "competitive_watch": [],
@@ -509,112 +462,16 @@
       "name": "United States",
       "items": [
         {
-          "date": "2026-11-05",
-          "iso3": [
-            "USA"
-          ],
-          "status": "event",
-          "priority": "P1",
-          "exposure": "US heavy-lift launch schedule and the Blue Origin cadence request before the FAA",
-          "title": "Blue Origin is reported to move New Glenn's return to flight into January 2027 as the 30 October FAA comment deadline passes with no decision on file",
-          "summary": "The Financial Times, relayed by Reuters on 5 November, reported that Blue Origin has delayed New Glenn's return to flight into January, and the report cites no company statement in the packet. Bloomberg reported the same delay on 5 November, and the Seattle Times, Quartz and U.S. News carried reports of it the same day, which counts as two independent chains and not six. Quartz put the return to flight in January 2027, but the packet holds headlines only and no day within the month. Blue Origin had asked the FAA on an earlier date to allow up to 50 New Glenn launches a year from Florida, and the 30 October comment deadline has passed with no FAA decision in the packet. No Blue Origin page in the packet confirms the delay, so the slip is reported and not announced.",
-          "why": "A January return would leave New Glenn without a flight for the rest of 2026 on the reported schedule. The FAA cadence request is a separate matter that the delay does not settle.",
-          "sources": [
-            {
-              "outlet": "Reuters (reporting the Financial Times)",
-              "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOb2s1TW9rYXE2a0xvY29OclU0Si1PX3lLUXQwTmN1ZG90aV9rdGo2NXowX0ZzTDVhOF9tNWtUa1N0bU9iZmpocEVGRzBOMzFkeUhwX1hEZlNlUFlkdDI5M1c1M2ZzY2FGQnlrTlBfcVI2c1kxV211V1BFSmpnT2hHek4zWm5mald4NTlvNUhqTUk0S1dPOUtSNFVCdHNwOEs0TmMxRjBBdm4xSWl0TS1n?oc=5",
-              "language": "en",
-              "type": "press"
-            },
-            {
-              "outlet": "Bloomberg",
-              "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVW4ySmFiNGJsX1ZmczZwVEprUEc1d1RkX3FTbXlKcmY0UmtHenB3c3RrX3FxR2I5Rlh2YklSS3VmSzFXLUZDdGpqVEFwcnE1WG9tZkFvRHVOUG1mMUR5Y1AzSFJuczEtYVJoNEFkdldkZnRQMmVaWHk1ZjBvLXFseVFwYTZyVnRSTHRCU1FoakhjYlhoaGJEUjlIeEgwWDh5dS1KdUJ4NkdNV2pmTWxZNE9aaWdTXzlXTjl2ZmZmbGE2UQ?oc=5",
-              "language": "en",
-              "type": "press"
-            }
-          ],
-          "bar": "Two independent sources (Financial Times via Reuters, Bloomberg); no government page and no national-language source."
-        },
-        {
-          "date": "2026-11-05",
-          "iso3": [
-            "USA"
-          ],
-          "status": "event",
-          "priority": "P2",
-          "exposure": "NASA astrophysics assets and orbital debris handling",
-          "title": "NASA's Swift observatory is reported to have fallen to Earth, closing a thread opened by the end of science operations on 23 October",
-          "summary": "Only one source in the packet, Frankfurter Allgemeine, reported on 5 November that the Swift space telescope has crashed back to Earth. Its headline places the fall after a rescue mission, and the packet gives no time, place or detail of the re-entry. NASA ended Swift's science operations on 23 October, and the 26 October edition already carried the abandoned reboost. No NASA page in the packet confirms the re-entry, so the date and location remain unconfirmed. The thread is closed pending any NASA statement, and no replacement plan or reversal of the shutdown appears in the packet.",
-          "why": "The dated event the thread was waiting for has arrived, on one German-language report. No replacement mission is named in the packet.",
-          "sources": [
-            {
-              "outlet": "Frankfurter Allgemeine Wissen",
-              "url": "https://www.faz.net/aktuell/wissen/weltraum/nasa-satellit-stuerzt-nach-spektakulaerer-rettungsmission-zurueck-auf-die-erde-accg-201654861.html",
-              "language": "de",
-              "type": "press"
-            }
-          ],
-          "bar": "One source; no government page and no national-language source for the country concerned."
-        },
-        {
-          "date": "2026-11-05",
-          "iso3": [
-            "USA"
-          ],
-          "status": "event",
-          "priority": "P3",
-          "exposure": "Financing conditions for the largest US launch provider",
-          "title": "Bloomberg reports SpaceX's default risk at a record high in a tech-led credit slump, a market reading and not a company event",
-          "summary": "Only one source in the packet, Bloomberg, reported on 5 November that SpaceX's default risk hit a record high. The headline ties the move to a broader tech-driven credit slump and does not give a figure in the packet. No SpaceX statement appears in the packet. A default-risk reading is a market gauge, not a default, a downgrade or a change to launch plans. The packet does not show how the measure is built or who is quoting it.",
-          "why": "The reading shows how credit markets priced SpaceX on 5 November. It does not change any launch, contract or customer commitment on file.",
-          "sources": [
-            {
-              "outlet": "Bloomberg",
-              "url": "https://www.bloomberg.com/news/articles/2026-11-05/spacex-default-risk-hits-fresh-peak-as-tech-led-selloff-builds",
-              "language": "en",
-              "type": "press"
-            }
-          ],
-          "bar": "One source; no government page and no national-language source."
-        },
-        {
-          "date": "2026-11-05",
-          "iso3": [
-            "USA"
-          ],
-          "status": "statement",
-          "priority": "P2",
-          "exposure": "New Glenn upper-stage and booster engine development",
-          "title": "Blue Origin announces a New Glenn third stage and the Northstar booster engine, with no flight date attached in the packet",
-          "summary": "NASASpaceflight and SpaceNews reported on 5 November that Blue Origin announced a third stage for New Glenn, called GS3, and a new booster engine, Northstar. Both reports repeat the company announcement, and the packet holds no Blue Origin page, so the details rest on press. The headlines give no first-flight date, thrust figure or cost. An announced stage and engine are development plans, not hardware that has flown. The separate reports of a January 2027 return to flight in the global section are unconfirmed by the company.",
-          "why": "The announcement gives New Glenn a longer development path on the same day as the reported slip. It sets no flight date.",
-          "sources": [
-            {
-              "outlet": "NASASpaceflight",
-              "url": "https://www.nasaspaceflight.com/2026/11/blue-origin-new-glenn-gs3-northstar-engine/",
-              "language": "en",
-              "type": "press"
-            },
-            {
-              "outlet": "SpaceNews",
-              "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONzJlcE9RR1lwZDJTWnN5WFRyU0lDT3BPMkJiNUN6VFBpT09vMmhTMUREZ2dDZUZTNVk3U2tRVnhLaXQtNGtpV3lVSl9RUFdTaEZDUlU3ZHNlbWY1bEVnX3Fudk9VOWFhSTM4YXI2MGkxV3dGbDZiT3lna1ZVakFPRFJ4aVpGOWw2dnlMcmVrcw?oc=5",
-              "language": "en",
-              "type": "press"
-            }
-          ],
-          "bar": "Two press sources on one company announcement; no government page and no national-language source."
-        },
-        {
           "date": "2026-11-01",
           "iso3": [
             "USA"
           ],
           "status": "statement",
-          "priority": "P2",
-          "exposure": "Artemis III test sequencing and lander priority",
-          "title": "Isaacman outlines an Artemis III multi-launch checkout sequence and a Blue Origin priority, NASASpaceflight reports, with NASA dates unchanged",
-          "summary": "Only one source in the packet, NASASpaceflight, reported on 1 November that Isaacman outlined an Artemis III multi-launch checkout sequence and a Blue Origin priority. The packet holds the headline only and gives no launch count, order or date. No NASA page in the packet carries the sequence. The NASA position filed on 23 October is unchanged in the packet: Artemis III in 2027 as a low Earth orbit test and a landing in 2028. NASA commercial space-station proposals remain due on 8 December.",
-          "why": "The report adds a reported test sequence to the Artemis III plan and names Blue Origin as a priority. It alters no NASA date in the packet.",
+          "priority": "P3",
+          "exposure": "Artemis III preparation sequence",
+          "title": "NASASpaceflight reports Isaacman outlined an Artemis III multi-launch checkout sequence and a Blue Origin priority",
+          "summary": "NASASpaceflight reported on the first of November that Isaacman outlined a multi-launch checkout sequence for Artemis III and a Blue Origin priority, and it is the only source in the packet. The packet carries the headline only, so the sequence is not described here. No NASA page in the packet confirms it. No new NASA date is attached, and the 2028 landing target is unchanged. NASA commercial space-station proposals remain due on the eighth of December.",
+          "why": "It adds detail to Artemis III preparation without moving a date. The next dated Artemis-related event on file is the eighth of December proposal deadline.",
           "sources": [
             {
               "outlet": "NASASpaceflight",
@@ -623,55 +480,35 @@
               "type": "press"
             }
           ],
-          "bar": "One source; no government page and no national-language source."
+          "bar": "One independent source; no government page and no national-language source."
         }
       ]
     },
     {
-      "iso3": "DEU",
-      "name": "Germany",
+      "iso3": "CAN",
+      "name": "Canada",
       "items": [
         {
           "date": "2026-11-05",
           "iso3": [
-            "DEU"
+            "CAN",
+            "USA"
           ],
-          "status": "contract",
+          "status": "event",
           "priority": "P3",
-          "exposure": "Copernicus topography capability and the German prime contractor base",
-          "title": "OHB reports a EUR 554 million contract for the Copernicus Sentinel-3 Next Generation Topography satellite, a company claim with no ESA or EU page alongside",
-          "summary": "OHB, on its own newsroom page, says it has been awarded a EUR 554 million contract for a new Copernicus Sentinel-3 Next Generation Topography satellite, and that page is the only source. The page is undated in the packet, so the award date is not established. The packet names no customer page, delivery date or subcontractor split. No ESA or EU page in the packet confirms the figure. The next dated EU and ESA decisions are the 10 November committee vote on the EU Space Act and the 15 December meeting in Rome, and neither is reported as decided.",
-          "why": "The figure is the first named Copernicus award value in the packet. It is OHB's claim until an ESA or EU page carries it.",
+          "exposure": "ISS power upgrade work and Canadian astronaut participation",
+          "title": "Canadian astronaut Joshua Kutryk completes a second spacewalk of more than six hours, with a station power upgrade as the aim",
+          "summary": "CBC reported on the fifth of November that Canadian astronaut Joshua Kutryk completed his second spacewalk, lasting more than six hours. The Tallahassee Democrat, via an aggregator, described NASA's hundred-and-first ISS spacewalk on the fifth of November as aiming to raise station power by thirty percent. Both are press reports, and the packet holds no NASA page for the result. The packet does not say whether the solar array work was completed. The thirty percent is an aim, not a measured result.",
+          "why": "It marks the second of two planned spacewalks for new solar arrays. The power gain remains unconfirmed until NASA publishes a result.",
           "sources": [
             {
-              "outlet": "OHB news",
-              "url": "https://www.ohb.de/en/news/ohb-awarded-eur-554-million-contract-for-new-copernicus-sentinel-3-next-generation-topography-satellite",
+              "outlet": "CBC top stories",
+              "url": "https://www.cbc.ca/news/science/canadian-astronaut-kutryk-second-spacewalk-9.7411168?cmp=rss",
               "language": "en",
               "type": "press"
             }
           ],
-          "bar": "One source, a company page; no government page and no national-language source."
-        },
-        {
-          "date": "2026-11-05",
-          "iso3": [
-            "DEU"
-          ],
-          "status": "contract",
-          "priority": "P3",
-          "exposure": "European lunar infrastructure studies ahead of the Rome meeting",
-          "title": "OHB says ESA has awarded it OASIS studies towards a European lunar infrastructure, a company claim with no ESA page in the packet",
-          "summary": "OHB, on its own newsroom page, says ESA has awarded it OASIS studies on the way to a European lunar infrastructure, and that page is the only source. The page is undated in the packet and gives no value, length or partners in the headline. No ESA page in the packet confirms the award. A study award is not a decision to build any lunar infrastructure. The ESA intermediate ministerial meeting in Rome on 15 December is the next dated point at which such plans could be funded.",
-          "why": "The claim adds a named study line to the lunar and Mars path the ESA Council sent on towards Rome. It adds no money and no adopted plan.",
-          "sources": [
-            {
-              "outlet": "OHB news",
-              "url": "https://www.ohb.de/en/news/on-the-way-to-a-european-lunar-infrastructure-esa-awards-ohb-oasis-studies",
-              "language": "en",
-              "type": "press"
-            }
-          ],
-          "bar": "One source, a company page; no government page and no national-language source."
+          "bar": "Two press sources in the item as filed; no government page; CBC is national press for Canada."
         }
       ]
     },
@@ -682,14 +519,15 @@
         {
           "date": "2026-11-05",
           "iso3": [
-            "UKR"
+            "UKR",
+            "USA"
           ],
           "status": "statement",
           "priority": "P2",
-          "exposure": "Ukrainian military satellite communications supply",
-          "title": "Ukraine is eyeing a new SpaceX Starshield deal by mid-2027, Breaking Defense reports, with no answers yet on the October problems",
-          "summary": "Only one source in the packet, Breaking Defense, reported on 5 November that Ukraine is eyeing a new Starshield deal by mid-2027. Its headline says there are still no answers about the October problems, and the packet does not describe them. No Ukrainian or SpaceX statement appears in the packet. Mid-2027 is a stated hope and not a signed contract or a date of signature. ICEYE's newsroom, undated in the packet, lists a sovereign satcom partnership with Nokia and Ukraine's Ministry of Defence, and the packet shows no new step in it.",
-          "why": "Ukraine now has a stated mid-2027 target for Starshield and no public explanation of October. The ICEYE and Nokia route remains on file without a dated step.",
+          "exposure": "Ukrainian military satellite communications",
+          "title": "Ukraine is reported to be eyeing a new SpaceX Starshield deal by mid-2027, with no answers on October problems",
+          "summary": "Breaking Defense reported on the fifth of November that Ukraine is eyeing a new SpaceX Starshield deal by the middle of next year, and it is the only source in the packet. The headline says there are still no answers about problems in October, and the packet does not describe those problems. No Ukrainian or American government page is in the packet. The target is a stated hope, not an agreement or a contract. No price or service date has been published.",
+          "why": "It sets a mid-2027 target for Ukrainian satellite communications while the October problems remain unexplained. Nothing in the packet shows a signed arrangement.",
           "sources": [
             {
               "outlet": "Breaking Defense",
@@ -698,7 +536,7 @@
               "type": "press"
             }
           ],
-          "bar": "One source; no government page and no national-language source."
+          "bar": "One independent source; no government page and no Ukrainian-language source."
         }
       ]
     },
@@ -713,20 +551,41 @@
           ],
           "status": "event",
           "priority": "P3",
-          "exposure": "French launch-sector testing and the Ariane 6 manifest",
-          "title": "ArianeGroup reports a second successful SyLEx sounding-rocket launch on 4 November as Ariane 6 flight 10 keeps a 23 November earliest date",
-          "summary": "ArianeGroup, on its own newsroom page dated 4 November, reports the second successful launch of the SyLEx sounding rocket, and that page is the only source. The packet gives no site, payload or altitude. An ArianeGroup page of 14 October says Arianespace will launch 36 Amazon Leo satellites on 23 November at the earliest, on the tenth Ariane 6 flight, and the date has not moved in the packet. The Arianespace folder for flight VA271, dated 16 October, covers Amazon Leo LE-04. A date given as at the earliest is not a confirmed launch.",
-          "why": "A dated test has arrived on a company page alone. The 23 November Ariane 6 date is the next dated launch event on the desk.",
+          "exposure": "French sounding-rocket capability and the Ariane 6 manifest",
+          "title": "ArianeGroup says SyLEx's second launch succeeded, and Amazon Leo is set for Ariane 6 on the twenty-third of November at the earliest",
+          "summary": "ArianeGroup said on the fourth of November that the second launch of the SyLEx sounding rocket was successful, and the company page is the only source. The packet gives no launch site, altitude or payload. No French government page is in the packet. A company page dated the fourteenth of October says Arianespace plans to launch thirty-six Amazon Leo satellites on the twenty-third of November at the earliest, on the tenth Ariane 6 flight. That date is an earliest date, not a firm launch date.",
+          "why": "The sounding-rocket result is a company claim of success without detail. The Amazon Leo date is the next dated Ariane 6 event.",
           "sources": [
             {
               "outlet": "ArianeGroup",
               "url": "https://www.ariane.group/en/news/second-successful-launch-of-the-sylex-sounding-rocket/",
               "language": "en",
               "type": "press"
-            },
+            }
+          ],
+          "bar": "One source, the company; no government page and no national-language source."
+        }
+      ]
+    },
+    {
+      "iso3": "DEU",
+      "name": "Germany",
+      "items": [
+        {
+          "date": "2026-11-05",
+          "iso3": [
+            "DEU"
+          ],
+          "status": "contract",
+          "priority": "P3",
+          "exposure": "Copernicus Sentinel-3 follow-on and European lunar infrastructure studies",
+          "title": "OHB says it has a EUR 554 million Sentinel-3 Next Generation Topography contract, and ESA OASIS studies",
+          "summary": "OHB's own news page says the company was awarded a contract of 554 million euros for a Copernicus Sentinel-3 Next Generation Topography satellite, and it is the company alone, with no ESA or EU page in the packet. The page is undated in the packet, so the award date is not established. A second OHB page says ESA awarded OHB studies for a European lunar infrastructure under the name OASIS, also undated. Neither page states an ESA budget decision. The European Parliament industry committee vote on the EU Space Act on the tenth of November and the ESA ministerial meeting in Rome on the fifteenth of December are the next dated decisions.",
+          "why": "The figure is a company claim and does not yet change the ESA or EU position. The dated votes and the Rome meeting remain the points where funding could change.",
+          "sources": [
             {
-              "outlet": "ArianeGroup",
-              "url": "https://www.ariane.group/en/news/arianespace-to-launch-36-amazon-leo-satellites-on-november-23-at-the-earliest-for-10th-ariane-6-flight/",
+              "outlet": "OHB news",
+              "url": "https://www.ohb.de/en/news/ohb-awarded-eur-554-million-contract-for-new-copernicus-sentinel-3-next-generation-topography-satellite",
               "language": "en",
               "type": "press"
             }
@@ -747,19 +606,19 @@
           ],
           "status": "statement",
           "priority": "P3",
-          "exposure": "Credibility of Russian commercial Earth-observation claims",
-          "title": "Meduza reports a researcher's finding that Russian space startups may be passing off Chinese satellite imagery as their own, with no startup response in the packet",
-          "summary": "Only one source in the packet, Meduza, reported on 2 November that a researcher found Russian space startups may be passing off Chinese satellite imagery as their own. The headline hedges with the word may, and the packet names no startup or image set. No Russian or Chinese official statement appears in the packet. The finding is a researcher's and is not an audit or a regulator's ruling. The item reached the packet through an aggregator feed, not Meduza's own page.",
-          "why": "The claim questions the sourcing of Russian commercial imagery. It stays an allegation until a startup or an agency answers.",
+          "exposure": "Provenance of Russian commercial Earth-observation imagery",
+          "title": "Meduza reports a researcher's finding that Russian space startups may be passing off Chinese satellite imagery as their own",
+          "summary": "Meduza reported on the second of November that a researcher found Russian space startups may be passing off Chinese satellite imagery as their own, and it is the only source in the packet, reached through a news aggregator. The finding is framed as possible and is not established by any authority. No Russian government, company or Chinese statement is in the packet. The packet does not name the firms or the number of images. The headline is English, and no Russian-language original is in the packet.",
+          "why": "If borne out, it would show a dependence of Russian commercial imagery on Chinese sources. As filed, it is an unverified researcher's claim.",
           "sources": [
             {
-              "outlet": "Meduza",
+              "outlet": "Meduza (via Google News)",
               "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMFMwS2xzY01IZ05OQ2Q0b2RTSDBHN2lremd2ZFZmWmh6SjIyd1h6Y2o1QUU1UENLZmxjRW1IR0xKZDNXQnI2Yy1oa0FWYVBNUU5IZmhTNUJYT01ESGY2ZkdWdi1Wa2lUQ00zeEEyU0ZCZE1vc0h6cWxmSHVWd1RhMkR2Y3NSVllDSGdiaDV5N0swMW9jLUtaOXZJdExpUHFYZ2cweXVmcFZrbXIzbzhvM1RqU3hYZFd0SktnNUt4ZjVfcXBiXy13aS1PZ2otSDZZWk000gHYAUFVX3lxTFA5b1lyVWNOblp6UnU5R25aUmVFc21adEd3SFFMbjkzYmtXMXJiZlY2MEQ0X0doQjhLYTdyNWw2ODdHajlKSWpvSmgtcU00anVrTGJfSWJXZGFER3B4djBTb3g0TmxNZmY2eDRlZFB0OGNjanFQa2xwbmd0VExwcC1VUERLeXJGRHA4cjV5Tlg4VlRHYU0tenlHTjJfMXdPWWZTd0h5a3RrRGR6eEFSTVAwQTNUZ21zdy04SVREOEg2cWMxeHB6Qmk0SDZBZ1R4bVc4d0dac21EeQ?oc=5",
               "language": "en",
               "type": "press"
             }
           ],
-          "bar": "One source; no government page and no national-language source."
+          "bar": "One independent source; no government page and no national-language source."
         }
       ]
     },
@@ -775,19 +634,19 @@
           ],
           "status": "statement",
           "priority": "P2",
-          "exposure": "US assessment of Iranian space capability",
-          "title": "A US intelligence report describes Iran as an emerging space power, Anadolu reports, with the report itself absent from the packet",
-          "summary": "Only one source in the packet, Anadolu Agency, reported on 5 November that a US intelligence report describes Iran as an emerging space power. The report is not in the packet, so its date, authors and evidence are not shown. No US government page and no Iranian statement appear in the packet. An assessment that a country is emerging is a judgement and not a count of launches or satellites. The word emerging is quoted from the headline.",
-          "why": "The item records a US assessment of Iranian space capability on the day it was reported. It cannot be tested until the report itself is on file.",
+          "exposure": "Assessment of Iranian space capability",
+          "title": "Anadolu reports a US intelligence report describes Iran as an emerging space power",
+          "summary": "Anadolu Agency reported on the fifth of November that a US intelligence report describes Iran as an emerging space power, and it is the only source in the packet. The packet carries the headline only, so the report's author, date and findings are not stated here. No US government page for the report is in the packet. No Iranian statement is in the packet. The description is an assessment, not a launch or an agreement.",
+          "why": "It records a United States intelligence characterisation of Iran's space program. Its weight depends on the report itself, which the packet does not contain.",
           "sources": [
             {
-              "outlet": "Anadolu Agency",
+              "outlet": "Anadolu Agency world",
               "url": "https://www.aa.com.tr/en/world/us-intelligence-report-describes-iran-as-emerging-space-power/4113073",
               "language": "en",
               "type": "press"
             }
           ],
-          "bar": "One source; no government page and no national-language source."
+          "bar": "One independent source; no government page and no Persian-language source."
         }
       ]
     },
@@ -796,93 +655,92 @@
       "name": "China",
       "items": [
         {
-          "date": "2026-11-05",
-          "iso3": [
-            "CHN"
-          ],
-          "status": "event",
-          "priority": "P3",
-          "exposure": "Chinese station science and cold-atom research",
-          "title": "Chinese scientists chill atoms to a record low on the Tiangong station, the South China Morning Post reports, with no Chinese agency page in the packet",
-          "summary": "Only one source in the packet, the South China Morning Post, reported on 5 November that Chinese scientists chilled atoms to a record low on the Tiangong space station. The headline gives no temperature, team or experiment date in the packet. No Chinese agency or academy page appears in the packet. A record in the headline is the newspaper's description, not a published paper. The item reached the packet through the SCMP feed only.",
-          "why": "The claim adds a reported science result from Tiangong. It stays unverified without a Chinese source.",
-          "sources": [
-            {
-              "outlet": "South China Morning Post",
-              "url": "https://www.scmp.com/news/china/science/article/3373343/chinese-scientists-chill-atoms-record-low-tiangong-space-station",
-              "language": "en",
-              "type": "press"
-            }
-          ],
-          "bar": "One source; no government page and no national-language source."
-        },
-        {
           "date": "2026-11-03",
           "iso3": [
             "CHN"
           ],
           "status": "statement",
           "priority": "P3",
-          "exposure": "Crewed lunar competition timeline",
-          "title": "China plans a crewed Moon landing before 2030, Der Spiegel reports on 3 November, with no new date or Chinese government page in the packet",
-          "summary": "Only one source in the packet, Der Spiegel, reported on 3 November that China plans a crewed Moon landing before 2030. The headline gives no new date, vehicle or Chinese agency attribution. No Chinese government page appears in the packet. A plan reported as before 2030 is a target and not a schedule. The NASA date of 2028 for a landing is unchanged in the packet.",
-          "why": "The report restates a Chinese target in a German outlet without adding a date. It leaves the 2028 NASA landing date and the Chinese pre-2030 target side by side.",
+          "exposure": "Timing of a crewed lunar landing",
+          "title": "Der Spiegel reports China plans a crewed Moon landing before 2030",
+          "summary": "Der Spiegel reported on the third of November that China plans a crewed Moon landing before 2030, and it is the only source in the packet. The packet carries the headline only, so the details are not stated here. No Chinese government page is in the packet. The report describes a plan, not a launch or a published schedule. The source is German-language press, not Chinese national-language.",
+          "why": "It restates a lunar timeline in a European outlet's words. No new Chinese date or decision is shown.",
           "sources": [
             {
-              "outlet": "Der Spiegel",
+              "outlet": "Der Spiegel Weltall",
               "url": "https://www.spiegel.de/wissenschaft/weltall/raumfahrt-china-plant-bemannte-mondlandung-vor-2030-a-96ec221a-a77c-4a35-adbe-ce90d7b475f9#ref=rss",
               "language": "de",
               "type": "press"
             }
           ],
-          "bar": "One source; no government page and no national-language source for China."
+          "bar": "One independent source; no government page and no Chinese-language source."
         }
       ]
     }
   ],
+  "audio_script": "Good morning. It is Thursday, the fifth of November, and this is the Sovereign Space ATLAS briefing. Blue Origin is reported to have pushed New Glenn's return to flight into January. The Swift observatory is reported to have fallen to Earth. And Ukraine is eyeing a new Starshield deal by the middle of next year. The top story is Blue Origin's New Glenn. Reuters, citing the Financial Times, reported on the fifth of November that the company has pushed the rocket's return to flight into January. Bloomberg, U.S. News and Quartz carried the same timing, and these reports share one origin. Blue Origin had not confirmed it in the packet. The company also announced a third stage called GS3 and a new booster engine called Northstar. That is a development announcement, not a flight date. The thirtieth of October deadline for comments on the FAA request for fifty launches a year has passed, with no decision on file. Two other items sit on the global list. Frankfurter Allgemeine reports that the Swift observatory has fallen to Earth, with no NASA page yet. And Bloomberg reports SpaceX default risk at a record high. On the European desk, OHB's own news page says the company was awarded a contract of 554 million euros for a Copernicus Sentinel-3 Next Generation Topography satellite. That is the company alone. The page is undated in the packet, and no ESA or EU page confirms it. A second OHB page says ESA awarded it lunar infrastructure studies called OASIS. The next decisions are the European Parliament industry committee vote on the EU Space Act on the tenth of November, and the ESA ministerial meeting in Rome on the fifteenth of December. In Central and Eastern Europe, Breaking Defense reports that Ukraine is eyeing a new SpaceX Starshield deal by the middle of next year. It is the only source. The headline adds that there are still no answers about problems in October. No Ukrainian or American government page is in the packet. This is a stated hope, not an agreement. On the Nordic desk, nothing in the packet changes a known situation. No Nordic launch, contract or agreement is carried as fresh. No dated Nordic event is on file for the next six weeks. In Western and Southern Europe, ArianeGroup says the second launch of its SyLEx sounding rocket was successful on the fourth of November. The company page is the only source and gives no site or altitude. Separately, a company page says Arianespace plans to launch thirty-six Amazon Leo satellites on the twenty-third of November at the earliest, on the tenth Ariane 6 flight. On the Eurasia desk, Meduza reports a researcher's finding that Russian space startups may be passing off Chinese satellite imagery as their own. Meduza is the only source in the packet. The finding is framed as possible, and no Russian or Chinese statement is on file. On the Türkiye, Middle East and Africa desk, Anadolu Agency reports that a United States intelligence report describes Iran as an emerging space power. It is the only source, and only the headline is in the packet. No United States page or Iranian statement is on file. It is an assessment, not a launch or an agreement. In Asia Pacific, Der Spiegel reported on the third of November that China plans a crewed Moon landing before the end of this decade. It is the only source, in German, and no Chinese government page is in the packet. It is a plan, not a schedule. In the Americas, CBC reports that astronaut Joshua Kutryk completed a second spacewalk of more than six hours on the fifth of November. A second press report described the work as aiming to raise station power by thirty percent. No NASA page is in the packet, so the result is not confirmed. Separately, NASASpaceflight reported on the first of November that Isaacman outlined a multi-launch checkout sequence for Artemis III. That is a single source, with no new date. Station proposals remain due on the eighth of December. Looking ahead, the European Parliament industry committee votes on the EU Space Act on the tenth of November. The Amazon Leo launch on Ariane 6 is set for the twenty-third of November at the earliest. NASA's commercial station proposals are due on the eighth of December, and the ESA meeting in Rome follows on the fifteenth of December. That is the briefing for Thursday, the fifth of November.",
   "audio_sections": [
     {
       "id": "opening",
       "title": "Opening",
-      "text": "This is Sovereign Space ATLAS for 5 November 2026. This edition carries three global items and at least one item from each regional desk. The lead is a reported delay to the return of New Glenn. Each claim is limited to what its sources say, and single-source claims are marked."
+      "text": "Good morning. It is Thursday, the fifth of November, and this is the Sovereign Space ATLAS briefing. Blue Origin is reported to have pushed New Glenn's return to flight into January. The Swift observatory is reported to have fallen to Earth. And Ukraine is eyeing a new Starshield deal by the middle of next year."
     },
     {
       "id": "top",
       "title": "Top story",
-      "text": "Blue Origin is reported to have moved the return to flight of New Glenn into January 2027. The Financial Times reported the delay, and Reuters relayed it on 5 November. Bloomberg reported it separately the same day. Other outlets repeated those reports. No Blue Origin page in the reading packet confirms the delay. The company has asked the FAA to allow up to 50 launches a year from Florida. Comments on that request were due on 30 October, and no FAA decision is on file. Blue Origin also announced a third stage for New Glenn and a new booster engine called Northstar on 5 November. That announcement came with no flight date."
+      "text": "The top story is Blue Origin's New Glenn. Reuters, citing the Financial Times, reported on the fifth of November that the company has pushed the rocket's return to flight into January. Bloomberg, U.S. News and Quartz carried the same timing, and these reports share one origin. Blue Origin had not confirmed it in the packet. The company also announced a third stage called GS3 and a new booster engine called Northstar. That is a development announcement, not a flight date. The thirtieth of October deadline for comments on the FAA request for fifty launches a year has passed, with no decision on file. Two other items sit on the global list. Frankfurter Allgemeine reports that the Swift observatory has fallen to Earth, with no NASA page yet. And Bloomberg reports SpaceX default risk at a record high."
     },
     {
-      "id": "world",
-      "title": "Around the world",
-      "text": "NASA's Swift observatory has fallen to Earth, according to the German newspaper Frankfurter Allgemeine on 5 November. That is the only source in the packet. It describes the fall as following a rescue mission. The packet does not give the time or place, and no NASA page confirms it. Swift ended science operations on 23 October, and an earlier reboost was abandoned. Separately, Bloomberg reported on 5 November that SpaceX's default risk reached a record high in a tech-led credit slump. That is one source, and it reports a market gauge, not a default. The packet carries no SpaceX statement."
+      "id": "esa_eu",
+      "title": "ESA and EU",
+      "text": "On the European desk, OHB's own news page says the company was awarded a contract of 554 million euros for a Copernicus Sentinel-3 Next Generation Topography satellite. That is the company alone. The page is undated in the packet, and no ESA or EU page confirms it. A second OHB page says ESA awarded it lunar infrastructure studies called OASIS. The next decisions are the European Parliament industry committee vote on the EU Space Act on the tenth of November, and the ESA ministerial meeting in Rome on the fifteenth of December."
     },
     {
-      "id": "europe",
-      "title": "Europe",
-      "text": "OHB says on its own newsroom that it has been awarded a EUR 554 million contract for the Copernicus Sentinel-3 Next Generation Topography satellite. The page is undated in the packet, and no ESA or EU page confirms it. OHB also says ESA has awarded it OASIS studies towards a European lunar infrastructure. That too is a company claim. ArianeGroup dated a second successful SyLEx sounding rocket launch to 4 November. Its earlier page says Arianespace will launch 36 Amazon Leo satellites on the tenth Ariane 6 flight on 23 November at the earliest. No ESA or EU decision arrived in the packet. The next are the European Parliament industry committee vote on the EU Space Act on 10 November and the ESA meeting in Rome on 15 December."
+      "id": "cee",
+      "title": "Central and Eastern Europe",
+      "text": "In Central and Eastern Europe, Breaking Defense reports that Ukraine is eyeing a new SpaceX Starshield deal by the middle of next year. It is the only source. The headline adds that there are still no answers about problems in October. No Ukrainian or American government page is in the packet. This is a stated hope, not an agreement."
     },
     {
-      "id": "region",
-      "title": "Closer to home",
-      "text": "Breaking Defense reported on 5 November that Ukraine is eyeing a new SpaceX Starshield deal by mid-2027. The report says there are still no answers about problems in October. It is one source, and mid-2027 is a hope, not a contract. In the Nordics, no item in the packet met the source rule. In Eurasia, Meduza reported a researcher's finding that Russian space startups may be passing off Chinese satellite imagery as their own. That is an allegation from one source. In the Middle East, Anadolu reports a US intelligence report describing Iran as an emerging space power. The report itself is not in the packet. In Asia Pacific, the South China Morning Post reports atoms chilled to a record low on the Tiangong station. Der Spiegel reports on 3 November that China plans a crewed Moon landing before 2030. Neither report carries a Chinese government page."
+      "id": "nordics",
+      "title": "Nordics",
+      "text": "On the Nordic desk, nothing in the packet changes a known situation. No Nordic launch, contract or agreement is carried as fresh. No dated Nordic event is on file for the next six weeks."
     },
     {
-      "id": "industry",
-      "title": "Industry and markets",
-      "text": "NASASpaceflight reported on 1 November that Isaacman outlined an Artemis III multi-launch checkout sequence and a Blue Origin priority. That is one source, headline only. NASA's stated dates are unchanged in the packet: a landing in 2028, and commercial station proposals due 8 December. Payload reported that Redwire won a 20 million dollar DARPA contract for a second very low Earth orbit demonstration. Payload also reported that Northwood Space raised 375 million dollars in a Series C at a 2 billion dollar valuation. It reported that Tumbleweed raised 6.9 million euros to build its own reentry vehicle. And it reported that Starfish lost contact with its Otter spacecraft, cutting its mission short. Each is a single press report."
+      "id": "west",
+      "title": "Western and Southern Europe",
+      "text": "In Western and Southern Europe, ArianeGroup says the second launch of its SyLEx sounding rocket was successful on the fourth of November. The company page is the only source and gives no site or altitude. Separately, a company page says Arianespace plans to launch thirty-six Amazon Leo satellites on the twenty-third of November at the earliest, on the tenth Ariane 6 flight."
     },
     {
-      "id": "ahead",
-      "title": "The days ahead",
-      "text": "The next dated event is 10 November, the European Parliament industry committee vote on the EU Space Act. The Ariane 6 flight with 36 Amazon Leo satellites is set for 23 November at the earliest. NASA commercial space-station proposals are due on 8 December. The ESA intermediate ministerial meeting takes place in Rome on 15 December. Blue Origin's reported January return to flight has no date."
+      "id": "eurasia",
+      "title": "Eurasia and Central Asia",
+      "text": "On the Eurasia desk, Meduza reports a researcher's finding that Russian space startups may be passing off Chinese satellite imagery as their own. Meduza is the only source in the packet. The finding is framed as possible, and no Russian or Chinese statement is on file."
+    },
+    {
+      "id": "mena",
+      "title": "Türkiye, Middle East and Africa",
+      "text": "On the Türkiye, Middle East and Africa desk, Anadolu Agency reports that a United States intelligence report describes Iran as an emerging space power. It is the only source, and only the headline is in the packet. No United States page or Iranian statement is on file. It is an assessment, not a launch or an agreement."
+    },
+    {
+      "id": "asia_pac",
+      "title": "Asia Pacific",
+      "text": "In Asia Pacific, Der Spiegel reported on the third of November that China plans a crewed Moon landing before the end of this decade. It is the only source, in German, and no Chinese government page is in the packet. It is a plan, not a schedule."
+    },
+    {
+      "id": "americas",
+      "title": "Americas",
+      "text": "In the Americas, CBC reports that astronaut Joshua Kutryk completed a second spacewalk of more than six hours on the fifth of November. A second press report described the work as aiming to raise station power by thirty percent. No NASA page is in the packet, so the result is not confirmed. Separately, NASASpaceflight reported on the first of November that Isaacman outlined a multi-launch checkout sequence for Artemis III. That is a single source, with no new date. Station proposals remain due on the eighth of December."
     },
     {
       "id": "close",
       "title": "Close",
-      "text": "That was the 5 November edition of Sovereign Space ATLAS. The facts changed today are a reported New Glenn slip, the fall of Swift, and company-reported European contracts. None of them settles a decision."
+      "text": "Looking ahead, the European Parliament industry committee votes on the EU Space Act on the tenth of November. The Amazon Leo launch on Ariane 6 is set for the twenty-third of November at the earliest. NASA's commercial station proposals are due on the eighth of December, and the ESA meeting in Rome follows on the fifteenth of December. That is the briefing for Thursday, the fifth of November."
     }
   ],
-  "audio_script": "This is Sovereign Space ATLAS for 5 November 2026. This edition carries three global items and at least one item from each regional desk. The lead is a reported delay to the return of New Glenn. Each claim is limited to what its sources say, and single-source claims are marked. Blue Origin is reported to have moved the return to flight of New Glenn into January 2027. The Financial Times reported the delay, and Reuters relayed it on 5 November. Bloomberg reported it separately the same day. Other outlets repeated those reports. No Blue Origin page in the reading packet confirms the delay. The company has asked the FAA to allow up to 50 launches a year from Florida. Comments on that request were due on 30 October, and no FAA decision is on file. Blue Origin also announced a third stage for New Glenn and a new booster engine called Northstar on 5 November. That announcement came with no flight date. NASA's Swift observatory has fallen to Earth, according to the German newspaper Frankfurter Allgemeine on 5 November. That is the only source in the packet. It describes the fall as following a rescue mission. The packet does not give the time or place, and no NASA page confirms it. Swift ended science operations on 23 October, and an earlier reboost was abandoned. Separately, Bloomberg reported on 5 November that SpaceX's default risk reached a record high in a tech-led credit slump. That is one source, and it reports a market gauge, not a default. The packet carries no SpaceX statement. OHB says on its own newsroom that it has been awarded a EUR 554 million contract for the Copernicus Sentinel-3 Next Generation Topography satellite. The page is undated in the packet, and no ESA or EU page confirms it. OHB also says ESA has awarded it OASIS studies towards a European lunar infrastructure. That too is a company claim. ArianeGroup dated a second successful SyLEx sounding rocket launch to 4 November. Its earlier page says Arianespace will launch 36 Amazon Leo satellites on the tenth Ariane 6 flight on 23 November at the earliest. No ESA or EU decision arrived in the packet. The next are the European Parliament industry committee vote on the EU Space Act on 10 November and the ESA meeting in Rome on 15 December. Breaking Defense reported on 5 November that Ukraine is eyeing a new SpaceX Starshield deal by mid-2027. The report says there are still no answers about problems in October. It is one source, and mid-2027 is a hope, not a contract. In the Nordics, no item in the packet met the source rule. In Eurasia, Meduza reported a researcher's finding that Russian space startups may be passing off Chinese satellite imagery as their own. That is an allegation from one source. In the Middle East, Anadolu reports a US intelligence report describing Iran as an emerging space power. The report itself is not in the packet. In Asia Pacific, the South China Morning Post reports atoms chilled to a record low on the Tiangong station. Der Spiegel reports on 3 November that China plans a crewed Moon landing before 2030. Neither report carries a Chinese government page. NASASpaceflight reported on 1 November that Isaacman outlined an Artemis III multi-launch checkout sequence and a Blue Origin priority. That is one source, headline only. NASA's stated dates are unchanged in the packet: a landing in 2028, and commercial station proposals due 8 December. Payload reported that Redwire won a 20 million dollar DARPA contract for a second very low Earth orbit demonstration. Payload also reported that Northwood Space raised 375 million dollars in a Series C at a 2 billion dollar valuation. It reported that Tumbleweed raised 6.9 million euros to build its own reentry vehicle. And it reported that Starfish lost contact with its Otter spacecraft, cutting its mission short. Each is a single press report. The next dated event is 10 November, the European Parliament industry committee vote on the EU Space Act. The Ariane 6 flight with 36 Amazon Leo satellites is set for 23 November at the earliest. NASA commercial space-station proposals are due on 8 December. The ESA intermediate ministerial meeting takes place in Rome on 15 December. Blue Origin's reported January return to flight has no date. That was the 5 November edition of Sovereign Space ATLAS. The facts changed today are a reported New Glenn slip, the fall of Swift, and company-reported European contracts. None of them settles a decision.",
-  "edition": "06:00 UTC",
-  "generated_at": "2026-11-05T21:57:47+00:00"
+  "date": "2026-11-05",
+  "summary": [
+    "Reuters, citing the Financial Times, reported on the fifth of November that Blue Origin has delayed the next New Glenn launch into January, and the company had not confirmed this in the packet. Bloomberg, U.S. News and Quartz carried the January timing on the fifth of November, and these reports share one origin, so they are not separate confirmation. Blue Origin announced a New Glenn third stage called GS3 and a booster engine called Northstar on the fifth of November, per NASASpaceflight, which is a development announcement, not a flight date. The thirtieth of October deadline for comments on the FAA request for up to fifty New Glenn launches a year has passed, and the packet holds no FAA decision. No government page is in the packet, and the company has published no launch date.",
+    "Frankfurter Allgemeine Zeitung reported on the fifth of November that the Swift observatory has fallen to Earth, and it is the only source in the packet. The report is German-language press, not a statement from NASA. No NASA page in the packet confirms the date, the place or the outcome. The article address refers to an earlier rescue mission, and the packet does not set out what that mission achieved. The packet does not say whether any fragments reached the surface.",
+    "Bloomberg reported on the fifth of November that SpaceX default risk reached a record high, and it is the only source for the claim in the packet. Bloomberg attributed the move to a technology-led sell-off, as its headline states. The packet carries the headline only, so the measure and level are not stated here. The packet holds no SpaceX statement. The report describes a market signal, not a change in launch service."
+  ],
+  "generated_at": "2026-11-05T22:23:18+00:00"
 }
