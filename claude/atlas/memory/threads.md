@@ -181,3 +181,13 @@ Episodes:
 - Swift: closed pending a NASA page.
 - Starshield and Ukraine: mid-2027 hope via Breaking Defense, unchanged.
 - Matera laser ranging: no change.
+
+
+## 2026-11-06
+- Blue Origin: January 2027 return per FT via Reuters and Bloomberg, unconfirmed; FAA deadline of 30 October passed, no decision on file.
+- ESA, EU, Rome: studies of 3 November; vote 10 November; Rome 15 December; no new Council decision.
+- Artemis: dates unchanged; 8 December proposals due; no NASA update in packet.
+- Swift: press-only fall over Indonesia on 5 November; no NASA page.
+- Starshield and Ukraine: mid-2027 hope unchanged; no new source.
+- Matera laser ranging: no change.
+- New: NASA Ka-band relay contracts of 4 November; Iran intelligence report of 5 November; Open Cosmos ITU cut.

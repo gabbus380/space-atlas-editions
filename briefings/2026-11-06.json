@@ -1,75 +1,83 @@
 {
-  "edition": "06:00 UTC",
-  "headline": "Blue Origin moves New Glenn's return to flight into January 2027, as the EU Space Act vote and the ESA Rome meeting approach",
+  "date": "2026-11-06",
+  "headline": "NASA awards Ka-band relay contracts to Viasat, SES and Astranis",
+  "summary": [
+    "NASA has awarded Ka-band relay contracts to Viasat, SES and Astranis.",
+    "A US intelligence report has described Iran as an emerging space power.",
+    "Telesat in Canada has pushed full Lightspeed service to mid-2028, and KT SAT will lead a South Korean maritime connectivity project.",
+    "ESA's outpost studies stand ahead of a committee vote on the tenth of November and the Council in Rome on the fifteenth of December.",
+    "Blue Origin's New Glenn return is reported for January 2027 and is not confirmed by the company."
+  ],
+  "bottom_line": "The ESA path towards Rome stands at studies awarded and no new Council decision. The next date that matters is the tenth of November committee vote.",
   "global": [
     {
-      "date": "2026-11-05",
-      "iso3": [
-        "USA"
-      ],
-      "status": "statement",
-      "priority": "P1",
-      "exposure": "competitive threat",
-      "title": "Blue Origin moves New Glenn's return to flight into January 2027, and unveils a third stage and a new booster engine",
-      "summary": "The Financial Times reported on the fifth of November that New Glenn's return to flight has moved into January twenty twenty-seven. Reuters and Bloomberg carried the report. That account comes from the Financial Times. On the same day Blue Origin announced a third stage called GS3 and a booster engine called Northstar. The comment period on its request for up to fifty launches a year from Florida closed on the thirtieth of October, and no FAA decision is on file.",
-      "why": "A later return to flight keeps the heavy-lift field thinner for longer. The new stage and engine point to a larger vehicle, but no dates for them have been given.",
-      "sources": [
-        {
-          "outlet": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOb2s1TW9rYXE2a0xvY29OclU0Si1PX3lLUXQwTmN1ZG90aV9rdGo2NXowX0ZzTDVhOF9tNWtUa1N0bU9iZmpocEVGRzBOMzFkeUhwX1hEZlNlUFlkdDI5M1c1M2ZzY2FGQnlrTlBfcVI2c1kxV211V1BFSmpnT2hHek4zWm5mald4NTlvNUhqTUk0S1dPOUtSNFVCdHNwOEs0TmMxRjBBdm4xSWl0TS1n?oc=5",
-          "language": "en",
-          "type": "press"
-        },
-        {
-          "outlet": "NASASpaceflight",
-          "url": "https://www.nasaspaceflight.com/2026/11/blue-origin-new-glenn-gs3-northstar-engine/",
-          "language": "en",
-          "type": "press"
-        }
-      ],
-      "bar": "Delay is FT via Reuters and Bloomberg; no company date in packet."
-    },
-    {
-      "date": "2026-11-06",
-      "iso3": [
-        "USA"
-      ],
-      "status": "event",
-      "priority": "P2",
-      "exposure": "context",
-      "title": "Astronauts install the final iROSA solar panel on the International Space Station, adding to its ageing power systems",
-      "summary": "NASASpaceflight reported on the sixth of November that astronauts installed the final iROSA solar panel. The panels augment the power systems of the ageing station. This follows the spacewalks for new solar arrays that began on the twenty-ninth of October. The report is the only account of the installation in the record. No NASA page on it is in the record.",
-      "why": "The installation completes the array work that was on the calendar. It bears on how long the station's power holds as commercial successors are prepared.",
-      "sources": [
-        {
-          "outlet": "NASASpaceflight",
-          "url": "https://www.nasaspaceflight.com/2026/11/final-irosa-install-iss/",
-          "language": "en",
-          "type": "press"
-        }
-      ],
-      "bar": "Single press source; no NASA page."
-    },
-    {
-      "date": "2026-11-06",
+      "date": "2026-11-04",
       "iso3": [
         "USA"
       ],
       "status": "contract",
-      "priority": "P3",
-      "exposure": "context",
-      "title": "CesiumAstro raises $730 million, reaching a valuation above $4.5 billion",
-      "summary": "Payload reported on the sixth of November that CesiumAstro raised seven hundred and thirty million dollars. The round puts its valuation above four and a half billion dollars. Payload also ran a piece on the fifth of November on a growing disconnect between public and private space markets. The figures come from Payload. No company page is in the record.",
-      "why": "A raise of this size signals private capital still flowing to space hardware. It adds to a funding gap with European firms.",
+      "priority": "P1",
+      "exposure": "opportunity",
+      "title": "NASA awards Ka-band relay contracts to Viasat, SES and Astranis",
+      "summary": "NASA has awarded Ka-band relay contracts to three commercial operators. Values and terms are not in the material held.",
+      "why": "Commercial operators now sit inside NASA's relay supply. The terms are what will show how large the shift is.",
       "sources": [
         {
-          "outlet": "Payload",
-          "url": "https://payloadspace.com/cesiumastro-raises-730m-reaches-valuation-above-4-5b/",
+          "outlet": "Via Satellite",
+          "url": "https://www.satellitetoday.com/government-military/2026/11/04/viasat-ses-and-astranis-win-nasa-ka-band-relay-contracts/",
           "language": "en",
           "type": "press"
         }
       ],
-      "bar": "Headline-level; Payload only."
+      "bar": "Headline only; no values. Look for NASA page."
+    },
+    {
+      "date": "2026-10-29",
+      "iso3": [
+        "CAN"
+      ],
+      "status": "statement",
+      "priority": "P3",
+      "exposure": "context",
+      "title": "Telesat delays Lightspeed full service entry to mid-2028",
+      "summary": "Telesat has moved full Lightspeed service to mid-2028. Its chief executive addressed the launch crunch and sovereign demand.",
+      "why": "A later start narrows the window for sovereign broadband customers. Launch availability is the stated pressure.",
+      "sources": [
+        {
+          "outlet": "Via Satellite",
+          "url": "http://www.satellitetoday.com/finance/2026/10/29/telesat-delays-lightspeed-service-entry-to-mid-2028-goldberg-addresses-launch-crunch-and-sovereign-demand/?itm_source=parsely-api",
+          "language": "en",
+          "type": "press"
+        }
+      ],
+      "bar": "Company statement via trade press; a week old."
+    },
+    {
+      "date": "2026-10-30",
+      "iso3": [
+        "USA"
+      ],
+      "status": "event",
+      "priority": "P3",
+      "exposure": "policy risk",
+      "title": "FCC names Courtney Reinhard Space Bureau chief and moves on direct-to-device rules",
+      "summary": "The FCC has named a new Space Bureau chief. It also looks to update direct-to-device rules and auction more spectrum.",
+      "why": "Licensing and spectrum rules shape US satellite operators. The bureau chief will run that work.",
+      "sources": [
+        {
+          "outlet": "Via Satellite",
+          "url": "https://www.satellitetoday.com/government-military/2026/10/30/fcc-names-courtney-reinhard-as-new-space-bureau-chief/",
+          "language": "en",
+          "type": "press"
+        },
+        {
+          "outlet": "Via Satellite",
+          "url": "https://www.satellitetoday.com/government-military/2026/10/29/fcc-looks-to-update-direct-to-device-rules-and-auction-more-spectrum/",
+          "language": "en",
+          "type": "press"
+        }
+      ],
+      "bar": "Two headlines only."
     }
   ],
   "regions": [
@@ -78,25 +86,31 @@
       "name": "ESA and EU",
       "items": [
         {
-          "date": "2026-11-06",
+          "date": "2026-11-03",
           "iso3": [
-            "ITA"
+            "EUR"
           ],
-          "status": "overview",
+          "status": "event",
           "priority": "P2",
-          "exposure": "policy risk",
-          "title": "EU committee votes on the Space Act on the tenth of November, and ESA ministers meet in Rome on the fifteenth of December",
-          "summary": "A committee vote on the EU Space Act is set for the tenth of November. The European Space Agency's ministers meet in Rome on the fifteenth of December. No Council decision, no budget figure for Rome and no confirmed director appointment has been published this week. Le Monde wrote on the third of November that Europe is being forced to build its own access to space in the face of SpaceX's dominance. That view is Le Monde's own.",
-          "why": "The vote and the Rome meeting are the next points where European positions can become decisions. Until then the funding question stays open.",
+          "exposure": "context",
+          "title": "ESA investigates a European-led orbital outpost",
+          "summary": "ESA announced studies of a possible European-led orbital outpost on the third of November. No new Council decision has followed. A committee vote is due on the tenth of November, then Rome on the fifteenth of December.",
+          "why": "The studies feed the Rome meeting. Money and a plan are still not adopted.",
           "sources": [
             {
-              "outlet": "Le Monde",
-              "url": "https://www.lemonde.fr/economie/article/2026/11/03/face-a-la-domination-de-spacex-l-europe-contrainte-de-se-batir-un-acces-autonome-a-l-espace_6805523_3234.html",
-              "language": "fr",
-              "type": "national-language"
+              "outlet": "ESA",
+              "url": "https://www.esa.int/articles/about-us/directorates/human-and-robotic-exploration/low-earth-orbit/esa-investigates-potential-future-european-led-orbital-outpost",
+              "language": "en",
+              "type": "government-or-embassy"
+            },
+            {
+              "outlet": "ESA",
+              "url": "https://www.esa.int/articles/about-us/directorates/human-and-robotic-exploration/low-earth-orbit/shaping-europe-s-future-in-low-earth-orbit",
+              "language": "en",
+              "type": "government-or-embassy"
             }
           ],
-          "bar": "Dates carried from thread; Le Monde is commentary."
+          "bar": "Vote date from thread, not packet."
         }
       ]
     },
@@ -105,25 +119,26 @@
       "name": "Central and Eastern Europe",
       "items": [
         {
-          "date": "2026-11-04",
+          "date": "2026-11-06",
           "iso3": [
-            "BGR"
+            "UKR",
+            "LTU"
           ],
-          "status": "statement",
+          "status": "overview",
           "priority": "P3",
-          "exposure": "opportunity",
-          "title": "EnduroSat and Orbital Matter announce an in-space manufacturing mission for 2028",
-          "summary": "EnduroSat and Orbital Matter have announced an in-space manufacturing mission. The year given is twenty twenty-eight. Payload carried the announcement on the fourth of November. That account comes from Payload. No agency or government page on the mission is in the record.",
-          "why": "It is a dated commercial plan from a central European company. No funding or launch arrangement has been stated.",
+          "exposure": "context",
+          "title": "Ukraine's satellite communications stay tied to Starshield",
+          "summary": "A mid-2027 Starshield contract hope has been stated, with no government statement on the October close approaches. Lithuanian press frames Ukraine's satellite position as a race against time. No date is set.",
+          "why": "Ukraine's dependence on one provider is the live question. No official date exists to test it.",
           "sources": [
             {
-              "outlet": "Payload",
-              "url": "https://payloadspace.com/orbital-matter-endurosat-announce-an-in-space-manufacturing-mission-in-2028/",
-              "language": "en",
-              "type": "press"
+              "outlet": "TV3 Lietuva",
+              "url": "https://www.tv3.lt/naujiena/naujienos/rusijai-kritiskai-svarbus-starlink-analogas-palydovai-zombiai-ir-ukrainos-lenktynes-su-laiku-n1553523",
+              "language": "lt",
+              "type": "national-language"
             }
           ],
-          "bar": "Headline-level; BGR inferred from EnduroSat."
+          "bar": "Standing item; Breaking Defense not in packet."
         }
       ]
     },
@@ -135,24 +150,30 @@
           "date": "2026-11-06",
           "iso3": [
             "NOR",
-            "SWE",
-            "FIN"
+            "CAN",
+            "SWE"
           ],
-          "status": "overview",
+          "status": "agreement",
           "priority": "P3",
-          "exposure": "context",
-          "title": "Nordic space has no new event this week, and the next shared date is Rome on the fifteenth of December",
-          "summary": "No new Nordic space event has arrived this week. The standing situation is unchanged. The next shared date is the European Space Agency ministerial meeting in Rome on the fifteenth of December. The EU Space Act committee vote on the tenth of November also applies to Nordic EU members. No Nordic government statement is in the record.",
-          "why": "Nordic positions will surface at the Rome meeting. Nothing before then changes the picture.",
+          "exposure": "opportunity",
+          "title": "Norway's space directorate and Canada's space agency sign an Arctic agreement",
+          "summary": "The agreement allows closer space cooperation in the Arctic. Sweden holds its national space day on the eighteenth of February, 2027.",
+          "why": "Arctic coverage is the shared interest. The Swedish date is the next fixed one in the region.",
           "sources": [
             {
-              "outlet": "Le Monde",
-              "url": "https://www.lemonde.fr/economie/article/2026/11/03/face-a-la-domination-de-spacex-l-europe-contrainte-de-se-batir-un-acces-autonome-a-l-espace_6805523_3234.html",
-              "language": "fr",
-              "type": "national-language"
+              "outlet": "Norwegian Space Directorate",
+              "url": "https://www.romsenter.no/aktuelt/ny-avtale-med-canada-aapner-for-tettere-romsamarbeid-i-arktis",
+              "language": "no",
+              "type": "government-or-embassy"
+            },
+            {
+              "outlet": "Swedish National Space Agency",
+              "url": "https://www.rymdstyrelsen.se/nyheter/2026/rymddagen-2027-blir-den-18-februari/",
+              "language": "sv",
+              "type": "government-or-embassy"
             }
           ],
-          "bar": "Standing item; no Nordic source in packet."
+          "bar": "Norway page undated."
         }
       ]
     },
@@ -161,16 +182,38 @@
       "name": "Western and Southern Europe",
       "items": [
         {
+          "date": "2026-11-06",
+          "iso3": [
+            "ESP",
+            "GBR"
+          ],
+          "status": "event",
+          "priority": "P2",
+          "exposure": "competitive threat",
+          "title": "ITU accepts Open Cosmos extension but halves its broadband constellation",
+          "summary": "The International Telecommunication Union accepted the extension and cut the planned constellation size by half.",
+          "why": "A smaller filing limits the operator's planned capacity. It is a rare regulator cut.",
+          "sources": [
+            {
+              "outlet": "Infoespacial",
+              "url": "https://www.infoespacial.com/texto-diario/mostrar/6079652/uit-acepta-prorroga-open-cosmos-pero-reduce-mitad-tamano-constelacion-banda-ancha",
+              "language": "es",
+              "type": "national-language"
+            }
+          ],
+          "bar": "Headline only."
+        },
+        {
           "date": "2026-11-04",
           "iso3": [
             "FRA"
           ],
           "status": "event",
-          "priority": "P2",
-          "exposure": "opportunity",
-          "title": "ArianeGroup reports a second successful SyLEx sounding rocket launch, and Arianespace sets Ariane 6 for the twenty-third of November at the earliest",
-          "summary": "ArianeGroup announced on the fourth of November the second successful launch of the SyLEx sounding rocket. Arianespace has set the tenth Ariane 6 flight for the twenty-third of November at the earliest. It will carry thirty-six Amazon Leo satellites. Both accounts come from company pages. No government statement is in the record.",
-          "why": "The Ariane 6 date is the next European launch milestone on the calendar. A slip would show in the company's own notices first.",
+          "priority": "P3",
+          "exposure": "context",
+          "title": "ArianeGroup reports second SyLEx launch; Ariane 6 Amazon Leo flight set for 23 November at earliest",
+          "summary": "ArianeGroup reported a second successful SyLEx sounding rocket launch on the fourth of November. Arianespace plans 36 Amazon Leo satellites on the tenth Ariane 6 flight from the twenty-third of November at the earliest.",
+          "why": "The Ariane 6 date is the next European launch marker. SyLEx supports the French M51 missile line.",
           "sources": [
             {
               "outlet": "ArianeGroup",
@@ -185,7 +228,7 @@
               "type": "press"
             }
           ],
-          "bar": "Company pages only; launch date dated 14 October."
+          "bar": "Company page counts as company."
         }
       ]
     },
@@ -194,26 +237,25 @@
       "name": "Eurasia and Central Asia",
       "items": [
         {
-          "date": "2026-11-02",
+          "date": "2026-11-06",
           "iso3": [
-            "RUS",
-            "CHN"
+            "ARM"
           ],
-          "status": "statement",
+          "status": "overview",
           "priority": "P3",
           "exposure": "context",
-          "title": "Meduza reports a researcher's finding that Russian space startups may be passing off Chinese satellite imagery as their own",
-          "summary": "Meduza reported on the second of November a researcher's finding about Russian space startups. The finding is that they may be passing off Chinese satellite imagery as their own. That account comes from Meduza and the researcher it cites. No Russian agency or company response is in the record. No Chinese response is in the record.",
-          "why": "If borne out, it would show reliance on Chinese data in Russia's commercial imaging. The claim remains unverified.",
+          "title": "Armenia honours Axiom Space co-founder Kam Ghaffarian",
+          "summary": "Ghaffarian has been awarded the State Prize in IT and is visiting Armenia. No dated space event is on file for the region.",
+          "why": "It is a link between Armenia and a commercial station builder. Nothing dated follows.",
           "sources": [
             {
-              "outlet": "Meduza",
-              "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMFMwS2xzY01IZ05OQ2Q0b2RTSDBHN2lremd2ZFZmWmh6SjIyd1h6Y2o1QUU1UENLZmxjRW1IR0xKZDNXQnI2Yy1oa0FWYVBNUU5IZmhTNUJYT01ESGY2ZkdWdi1Wa2lUQ00zeEEyU0ZCZE1vc0h6cWxmSHVWd1RhMkR2Y3NSVllDSGdiaDV5N0swMW9jLUtaOXZJdExpUHFYZ2cweXVmcFZrbXIzbzhvM1RqU3hYZFd0SktnNUt4ZjVfcXBiXy13aS1PZ2otSDZZWk000gHYAUFVX3lxTFA5b1lyVWNOblp6UnU5R25aUmVFc21adEd3SFFMbjkzYmtXMXJiZlY2MEQ0X0doQjhLYTdyNWw2ODdHajlKSWpvSmgtcU00anVrTGJfSWJXZGFER3B4djBTb3g0TmxNZmY2eDRlZFB0OGNjanFQa2xwbmd0VExwcC1VUERLeXJGRHA4cjV5Tlg4VlRHYU0tenlHTjJfMXdPWWZTd0h5a3RrRGR6eEFSTVAwQTNUZ21zdy04SVREOEg2cWMxeHB6Qmk0SDZBZ1R4bVc4d0dac21EeQ?oc=5",
+              "outlet": "ARKA-Telecom",
+              "url": "https://arkatelecom.am/en/news/telecom/-global-high-tech-award-laureate-kam-ghaffarian-begins-official-visit-to-armenia-with-press-conferen/",
               "language": "en",
               "type": "press"
             }
           ],
-          "bar": "Researcher claim via Meduza; unverified."
+          "bar": "Undated page."
         }
       ]
     },
@@ -230,9 +272,9 @@
           "status": "statement",
           "priority": "P2",
           "exposure": "policy risk",
-          "title": "A United States intelligence report describes Iran as an emerging space power, Anadolu reports",
-          "summary": "A United States intelligence report describes Iran as an emerging space power. Anadolu Agency reported this on the fifth of November. The account of the report's contents comes from Anadolu. No United States government page on the report is in the record. No Iranian response is in the record.",
-          "why": "The assessment places Iran's space activity within United States security analysis. Its basis has not been published in the record.",
+          "title": "US intelligence report describes Iran as an emerging space power",
+          "summary": "A US intelligence report describes Iran as an emerging space power. The report's contents beyond that description are not in the material held.",
+          "why": "It frames Iran's program as a US security concern. The detail will matter more than the label.",
           "sources": [
             {
               "outlet": "Anadolu Agency",
@@ -241,7 +283,34 @@
               "type": "press"
             }
           ],
-          "bar": "Single press source; no US page."
+          "bar": "Headline only."
+        },
+        {
+          "date": "2026-11-06",
+          "iso3": [
+            "TUR"
+          ],
+          "status": "overview",
+          "priority": "P3",
+          "exposure": "context",
+          "title": "Türkiye sets 2027 and 2028 satellite launches; budget proposal stands",
+          "summary": "A joint satellite of Turkic states is due in 2027 and a new micro-satellite in 2028. The 2027 space and aviation budget proposal is TL 24.59 billion, with no split published.",
+          "why": "Two launch years are now on the calendar. The budget split decides what funds them.",
+          "sources": [
+            {
+              "outlet": "Haber.Aero",
+              "url": "https://haber.aero/aero-gundem/turk-devletlerinin-ortak-uydusu-2027de-uzaya-gonderilecek/",
+              "language": "tr",
+              "type": "national-language"
+            },
+            {
+              "outlet": "Haber.Aero",
+              "url": "https://haber.aero/aero-gundem/turkiyenin-yeni-mikro-uydusu-2028de-firlatilacak/",
+              "language": "tr",
+              "type": "national-language"
+            }
+          ],
+          "bar": "Budget figure from thread."
         }
       ]
     },
@@ -250,25 +319,54 @@
       "name": "Asia Pacific",
       "items": [
         {
-          "date": "2026-11-03",
+          "date": "2026-11-05",
           "iso3": [
-            "CHN"
+            "IDN",
+            "USA"
           ],
-          "status": "statement",
-          "priority": "P3",
-          "exposure": "competitive threat",
-          "title": "China plans a crewed Moon landing before 2030, Der Spiegel reports",
-          "summary": "Der Spiegel reported on the third of November that China plans a crewed Moon landing before twenty thirty. That account comes from Der Spiegel. No Chinese government page on the report is in the record. NASA officials continue to state a landing in twenty twenty-eight. The two timelines overlap.",
-          "why": "The overlap keeps the lunar timetable contested between Washington and Beijing. The Chinese side has not set out a date in the record.",
+          "status": "event",
+          "priority": "P2",
+          "exposure": "context",
+          "title": "Australian Broadcasting Corporation says NASA's Swift fell over Indonesia",
+          "summary": "The broadcaster says Swift fell over Indonesia on the fifth of November. Spanish trade press places the break-up over Sumatra. No NASA page confirms it.",
+          "why": "Swift's mission is over on press accounts. The NASA statement is still missing.",
           "sources": [
             {
-              "outlet": "Der Spiegel",
-              "url": "https://www.spiegel.de/wissenschaft/weltall/raumfahrt-china-plant-bemannte-mondlandung-vor-2030-a-96ec221a-a77c-4a35-adbe-ce90d7b475f9#ref=rss",
-              "language": "de",
+              "outlet": "ABC News Australia",
+              "url": "https://www.abc.net.au/news/2026-11-05/nasa-telescope-plummets-to-earth-after-decades-long-mission/107348488",
+              "language": "en",
+              "type": "press"
+            },
+            {
+              "outlet": "Infoespacial",
+              "url": "https://www.infoespacial.com/texto-diario/mostrar/6079558/telescopio-swift-nasa-desintegra-sobre-sumatra-22-anos-mision",
+              "language": "es",
               "type": "national-language"
             }
           ],
-          "bar": "Headline-level; no Chinese source."
+          "bar": "Attribution matters; no NASA page."
+        },
+        {
+          "date": "2026-11-05",
+          "iso3": [
+            "KOR",
+            "SGP"
+          ],
+          "status": "contract",
+          "priority": "P3",
+          "exposure": "opportunity",
+          "title": "KT SAT to lead South Korean maritime connectivity project with ST Engineering iDirect",
+          "summary": "KT SAT will lead a maritime connectivity project in South Korea with ST Engineering iDirect.",
+          "why": "It adds a Korean operator to maritime service. Terms are not in the material held.",
+          "sources": [
+            {
+              "outlet": "Via Satellite",
+              "url": "https://www.satellitetoday.com/government-military/2026/11/05/kt-sat-to-lead-south-korea-maritime-connectivity-project-with-st-engineering-idirect/",
+              "language": "en",
+              "type": "press"
+            }
+          ],
+          "bar": "Headline only."
         }
       ]
     },
@@ -281,21 +379,48 @@
           "iso3": [
             "USA"
           ],
-          "status": "contract",
-          "priority": "P3",
-          "exposure": "context",
-          "title": "Redwire wins a $20 million DARPA contract for a second very low Earth orbit demonstration",
-          "summary": "Redwire has won a twenty million dollar contract from DARPA. It covers a second demonstration in very low Earth orbit. Payload reported it on the fifth of November. NASA's commercial station proposals remain due on the eighth of December. Artemis dates are unchanged, with a landing still stated for twenty twenty-eight.",
-          "why": "The award extends government interest in very low orbit. The Artemis and station dates remain the fixed points.",
+          "status": "statement",
+          "priority": "P2",
+          "exposure": "competitive threat",
+          "title": "Financial Times says Blue Origin's New Glenn returns in January 2027",
+          "summary": "The Financial Times, carried by Reuters and Bloomberg, says New Glenn returns in January 2027. Blue Origin has not confirmed. The FAA comment deadline of the thirtieth of October passed with no decision on file.",
+          "why": "A slip would push back Blue Origin's cadence plans. Only the company or the FAA can settle it.",
           "sources": [
             {
-              "outlet": "Payload",
-              "url": "https://payloadspace.com/redwire-wins-20m-darpa-contract-for-second-vleo-demo/",
+              "outlet": "Financial Times via Reuters",
+              "url": "https://www.satellitetoday.com/government-military/2026/11/04/former-dod-official-warns-that-golden-dome-may-not-outlive-trump-presidency/",
               "language": "en",
               "type": "press"
             }
           ],
-          "bar": "Payload only; Artemis dates carried from thread."
+          "bar": "CHECK: packet holds no FT/Reuters URL; link is placeholder. Fix or drop before publication."
+        },
+        {
+          "date": "2026-11-05",
+          "iso3": [
+            "USA"
+          ],
+          "status": "overview",
+          "priority": "P3",
+          "exposure": "policy risk",
+          "title": "US midterm result returns Democrats to Congress; trade press weighs NASA and Golden Dome",
+          "summary": "Infoespacial asks what the Democratic return to Congress means for NASA and Golden Dome. A former defence official warned Golden Dome may not outlive the Trump presidency.",
+          "why": "Budget control shapes both programs. No vote date is on file.",
+          "sources": [
+            {
+              "outlet": "Infoespacial",
+              "url": "https://www.infoespacial.com/texto-diario/mostrar/6079421/consecuencias-tiene-nasa-golden-dome-regreso-democrata-congreso",
+              "language": "es",
+              "type": "national-language"
+            },
+            {
+              "outlet": "Via Satellite",
+              "url": "https://www.satellitetoday.com/government-military/2026/11/04/former-dod-official-warns-that-golden-dome-may-not-outlive-trump-presidency/",
+              "language": "en",
+              "type": "press"
+            }
+          ],
+          "bar": "Opinion and analysis, not a decision."
         }
       ]
     }
@@ -303,52 +428,10 @@
   "priorities": [
     {
       "rank": "P1",
-      "title": "Blue Origin moves New Glenn's return to flight into January 2027",
-      "status": "statement",
-      "exposure": "competitive threat",
-      "implication": "A later return keeps heavy-lift capacity scarce, with the FAA decision on fifty launches a year still outstanding.",
-      "iso3": [
-        "USA"
-      ],
-      "next": {
-        "date": "2027-01-01",
-        "event": "New Glenn return to flight, month stated, no day"
-      }
-    },
-    {
-      "rank": "P2",
-      "title": "EU Space Act committee vote and the ESA Rome meeting",
-      "status": "overview",
-      "exposure": "policy risk",
-      "implication": "The vote on the tenth of November and Rome on the fifteenth of December are where European decisions can be taken.",
-      "iso3": [
-        "ITA"
-      ],
-      "next": {
-        "date": "2026-11-10",
-        "event": "EU Space Act committee vote"
-      }
-    },
-    {
-      "rank": "P2",
-      "title": "Ariane 6 flight with 36 Amazon Leo satellites",
-      "status": "event",
+      "title": "NASA Ka-band relay contracts",
+      "status": "contract",
       "exposure": "opportunity",
-      "implication": "The twenty-third of November date is the next European launch milestone.",
-      "iso3": [
-        "FRA"
-      ],
-      "next": {
-        "date": "2026-11-23",
-        "event": "Ariane 6 tenth flight, at the earliest"
-      }
-    },
-    {
-      "rank": "P3",
-      "title": "NASA commercial station proposals and the 2028 landing",
-      "status": "overview",
-      "exposure": "context",
-      "implication": "Dates are unchanged, and proposals due on the eighth of December are the next Artemis-adjacent event.",
+      "implication": "Three commercial operators now hold NASA relay work.",
       "iso3": [
         "USA"
       ],
@@ -356,21 +439,61 @@
         "date": "2026-12-08",
         "event": "NASA commercial space-station proposals due"
       }
+    },
+    {
+      "rank": "P2",
+      "title": "ESA outpost studies and the road to Rome",
+      "status": "event",
+      "exposure": "context",
+      "implication": "The studies are awarded but no plan or new money is adopted.",
+      "iso3": [
+        "EUR"
+      ],
+      "next": {
+        "date": "2026-11-10",
+        "event": "ESA committee vote"
+      }
+    },
+    {
+      "rank": "P2",
+      "title": "Blue Origin New Glenn return",
+      "status": "statement",
+      "exposure": "competitive threat",
+      "implication": "A January 2027 return is reported and not confirmed.",
+      "iso3": [
+        "USA"
+      ],
+      "next": {
+        "date": "2027-01-01",
+        "event": "Reported New Glenn return month, unconfirmed"
+      }
+    },
+    {
+      "rank": "P3",
+      "title": "US report on Iran's space program",
+      "status": "statement",
+      "exposure": "policy risk",
+      "implication": "The label emerging space power is set but the detail is not.",
+      "iso3": [
+        "IRN",
+        "USA"
+      ],
+      "next": null
     }
   ],
   "watchlist": [
     {
       "date": "2026-11-10",
-      "event": "EU Space Act committee vote",
-      "where": "Brussels",
+      "event": "ESA committee vote",
+      "where": "Europe",
       "iso3": [
-        "ITA"
+        "EUR"
       ]
     },
     {
       "date": "2026-11-23",
-      "event": "Ariane 6 tenth flight with 36 Amazon Leo satellites, at the earliest",
-      "where": "Europe's Spaceport",
+      "event": "Ariane 6 flight with 36 Amazon Leo satellites, earliest date",
+      "where": "Europe",
       "iso3": [
         "FRA"
       ]
@@ -385,149 +508,215 @@
     },
     {
       "date": "2026-12-15",
-      "event": "ESA intermediate ministerial meeting",
-      "where": "Rome",
+      "event": "ESA Council in Rome",
+      "where": "Italy",
       "iso3": [
-        "ITA"
+        "ITA",
+        "EUR"
       ]
     }
   ],
   "milestones": [
     {
       "date": "2026-12-15",
-      "event": "ESA intermediate ministerial meeting in Rome",
+      "event": "ESA Council in Rome",
       "iso3": [
-        "ITA"
+        "ITA",
+        "EUR"
       ],
       "status": "scheduled",
-      "why": "Where the Council's path for low Earth orbit, the Moon and Mars may meet funding."
-    },
-    {
-      "date": "2026-12-08",
-      "event": "NASA commercial space-station proposals due",
-      "iso3": [
-        "USA"
-      ],
-      "status": "scheduled",
-      "why": "Sets the field for the station successor to the ISS."
+      "why": "The plan for low Earth orbit, the Moon and Mars is due for decision."
     },
     {
       "date": "2027-01-01",
-      "event": "New Glenn return to flight, January stated by the Financial Times, no day",
+      "event": "New Glenn return reported for January",
       "iso3": [
         "USA"
       ],
-      "status": "reported",
-      "why": "Tests the reported slip against the company's own schedule."
+      "status": "unconfirmed",
+      "why": "It tests the reported slip."
     },
     {
-      "date": "2027-12-31",
-      "event": "Artemis III low Earth orbit test, 2027 stated, no day",
+      "date": "2027-02-18",
+      "event": "Swedish national space day",
       "iso3": [
-        "USA"
+        "SWE"
       ],
-      "status": "stated",
-      "why": "Precedes the landing NASA states for 2028."
+      "status": "scheduled",
+      "why": "The next fixed Nordic date."
     }
   ],
   "competitive_watch": [],
   "countries": [
     {
-      "iso3": "ITA",
+      "date": "2026-11-04",
+      "iso3": [
+        "USA"
+      ],
+      "status": "contract",
+      "priority": "P1",
+      "exposure": "opportunity",
+      "title": "NASA awards Ka-band relay contracts to Viasat, SES and Astranis",
+      "summary": "Three commercial operators won relay work.",
+      "why": "Commercial operators sit inside NASA's relay supply. Terms will show the scale.",
+      "sources": [
+        {
+          "outlet": "Via Satellite",
+          "url": "https://www.satellitetoday.com/government-military/2026/11/04/viasat-ses-and-astranis-win-nasa-ka-band-relay-contracts/",
+          "language": "en",
+          "type": "press"
+        }
+      ],
+      "bar": "Headline only.",
       "items": []
     },
     {
-      "iso3": "BGR",
+      "date": "2026-11-05",
+      "iso3": [
+        "IRN"
+      ],
+      "status": "statement",
+      "priority": "P2",
+      "exposure": "policy risk",
+      "title": "US intelligence report describes Iran as an emerging space power",
+      "summary": "The report calls Iran an emerging space power.",
+      "why": "It frames Iran as a US security concern. Detail will matter.",
+      "sources": [
+        {
+          "outlet": "Anadolu Agency",
+          "url": "https://www.aa.com.tr/en/world/us-intelligence-report-describes-iran-as-emerging-space-power/4113073",
+          "language": "en",
+          "type": "press"
+        }
+      ],
+      "bar": "Headline only.",
       "items": []
     },
     {
-      "iso3": "NOR",
+      "date": "2026-11-06",
+      "iso3": [
+        "TUR"
+      ],
+      "status": "overview",
+      "priority": "P3",
+      "exposure": "context",
+      "title": "Türkiye sets 2027 and 2028 satellite launches",
+      "summary": "A Turkic joint satellite in 2027 and a micro-satellite in 2028.",
+      "why": "Two launch years are on the calendar. The budget split decides funding.",
+      "sources": [
+        {
+          "outlet": "Haber.Aero",
+          "url": "https://haber.aero/aero-gundem/turkiyenin-yeni-mikro-uydusu-2028de-firlatilacak/",
+          "language": "tr",
+          "type": "national-language"
+        }
+      ],
+      "bar": "Undated.",
       "items": []
     },
     {
-      "iso3": "FRA",
+      "date": "2026-11-05",
+      "iso3": [
+        "KOR"
+      ],
+      "status": "contract",
+      "priority": "P3",
+      "exposure": "opportunity",
+      "title": "KT SAT to lead South Korean maritime connectivity project",
+      "summary": "KT SAT leads with ST Engineering iDirect.",
+      "why": "It adds a Korean operator to maritime service. Terms are not held.",
+      "sources": [
+        {
+          "outlet": "Via Satellite",
+          "url": "https://www.satellitetoday.com/government-military/2026/11/05/kt-sat-to-lead-south-korea-maritime-connectivity-project-with-st-engineering-idirect/",
+          "language": "en",
+          "type": "press"
+        }
+      ],
+      "bar": "Headline only.",
       "items": []
     },
     {
-      "iso3": "RUS",
-      "items": []
-    },
-    {
-      "iso3": "IRN",
-      "items": []
-    },
-    {
-      "iso3": "CHN",
-      "items": []
-    },
-    {
-      "iso3": "USA",
+      "date": "2026-11-06",
+      "iso3": [
+        "NOR"
+      ],
+      "status": "agreement",
+      "priority": "P3",
+      "exposure": "opportunity",
+      "title": "Norway and Canada sign Arctic space agreement",
+      "summary": "The directorate and the Canadian Space Agency signed a new agreement.",
+      "why": "Arctic cooperation gets a formal basis. No date follows.",
+      "sources": [
+        {
+          "outlet": "Norwegian Space Directorate",
+          "url": "https://www.romsenter.no/aktuelt/ny-avtale-med-canada-aapner-for-tettere-romsamarbeid-i-arktis",
+          "language": "no",
+          "type": "government-or-embassy"
+        }
+      ],
+      "bar": "Undated.",
       "items": []
     }
   ],
-  "audio_script": "Good morning. It is Friday, the sixth of November, and this is the Sovereign Space ATLAS briefing. Blue Origin has pushed the return of its New Glenn rocket into January. Astronauts have installed the final roll-out solar array on the International Space Station. And a United States intelligence report calls Iran an emerging space power.\n\nThe top story is Blue Origin's New Glenn rocket. The Financial Times reported on the fifth of November that the rocket's return to flight has moved into January twenty twenty-seven. Reuters and Bloomberg carried the report. That account comes from the Financial Times. The record holds no date from Blue Origin itself. On the same day the company announced a third stage called GS3 and a new booster engine called Northstar. Ars Technica reported the company's claim that the engine performs better at a quarter of the cost. Separately, the comment period on Blue Origin's request to fly up to fifty New Glenn launches a year from Florida closed on the thirtieth of October. No Federal Aviation Administration decision is on file.\n\nIn Europe, the next fixed date is the tenth of November, when a committee votes on the EU Space Act. The European Space Agency's ministers then meet in Rome on the fifteenth of December. The Council has published no new decision this week. No budget figure for Rome and no director appointment confirmed on an agency page has appeared either. Le Monde wrote on the third of November that Europe is being forced to build its own access to space in the face of SpaceX's dominance. That view is Le Monde's own.\n\nIn Central and Eastern Europe, EnduroSat and Orbital Matter have announced an in-space manufacturing mission for twenty twenty-eight. Payload carried the announcement on the fourth of November. That account comes from Payload.\n\nIn the Nordic countries, no new event has arrived this week. The standing situation is unchanged. The next shared date is the Rome ministerial meeting on the fifteenth of December.\n\nIn France, ArianeGroup announced on the fourth of November the second successful launch of the SyLEx sounding rocket. Arianespace has set the tenth Ariane 6 flight for the twenty-third of November at the earliest. It will carry thirty-six Amazon Leo satellites. Both accounts come from company pages.\n\nIn Russia, Meduza reported on the second of November a researcher's finding about Russian space startups. The finding is that they may be passing off Chinese satellite imagery as their own. That account comes from Meduza and the researcher it cites. No Russian response is in the record.\n\nIn the Middle East, a United States intelligence report describes Iran as an emerging space power. Anadolu Agency reported this on the fifth of November. The account of the report's contents comes from Anadolu.\n\nIn Asia, Der Spiegel reported on the third of November that China plans a crewed Moon landing before twenty thirty. That account comes from Der Spiegel. NASA officials continue to state a landing in twenty twenty-eight.\n\nIn the United States, astronauts on the International Space Station have installed the final iROSA solar panel. NASASpaceflight reported it on the sixth of November. The panels augment the power systems of the ageing station. CesiumAstro has raised seven hundred and thirty million dollars at a valuation above four and a half billion, Payload reported. Redwire has won a twenty million dollar DARPA contract for a second demonstration in very low Earth orbit. NASA's proposals for commercial space stations remain due on the eighth of December.\n\nLooking ahead, the EU Space Act committee votes on the tenth of November. Ariane 6 flies no earlier than the twenty-third of November. NASA's station proposals are due on the eighth of December, and the European Space Agency's ministers meet in Rome on the fifteenth of December. Each of these dates comes from the record, and any change would appear first in company or agency notices. Nothing else in the record changes the picture today. That is the briefing for Friday, the sixth of November.",
+  "audio_script": "Good morning. It is Friday, the sixth of November, and this is the Sovereign Space ATLAS briefing. NASA has awarded Ka-band relay contracts to Viasat, SES and Astranis. A US intelligence report has described Iran as an emerging space power. And NASA's Swift observatory has come down over Indonesia. NASA has awarded Ka-band relay contracts to Viasat, SES and Astranis. The award was announced on the fourth of November. All three are commercial satellite operators, so commercial relay capacity now sits inside NASA's communications supply. Contract values and terms have not been published in the material we hold. The next NASA date is the eighth of December, when commercial space-station proposals are due. In Europe, ESA announced on the third of November studies of a possible European-led orbital outpost in low Earth orbit. No new Council decision has followed. A committee vote is due on the tenth of November, and the Council meets in Rome on the fifteenth of December. In Central and Eastern Europe, Ukraine's satellite communications remain tied to Starshield. A mid-2027 contract hope has been stated. There is no government statement on the October close approaches, and no date is set. In Norway, the space directorate and the Canadian Space Agency have signed a new agreement on closer cooperation in the Arctic. Norway also signed the declaration on the European Union's ISOS in-orbit servicing program on the tenth of June. In Sweden, the national space day will be held on the eighteenth of February, 2027. In Spain, the International Telecommunication Union has accepted an extension for Open Cosmos, but has halved the size of its planned broadband constellation. In France, ArianeGroup reported a second successful SyLEx sounding rocket launch on the fourth of November. Arianespace plans to launch 36 Amazon Leo satellites on the tenth Ariane 6 flight on the twenty-third of November at the earliest. In Armenia, Axiom Space co-founder Kam Ghaffarian has been awarded the State Prize in IT and is visiting the country. No dated space event is on file for the region. In Iran, a US intelligence report, covered on the fifth of November, describes the country as an emerging space power. In Türkiye, a joint satellite of the Turkic states is due in 2027, and a new micro-satellite in 2028. The 2027 space and aviation budget proposal stands at TL 24.59 billion, with no split published. In Indonesia, the Australian Broadcasting Corporation says Swift fell over the country on the fifth of November. Spanish trade press places the break-up over Sumatra. No NASA page confirms it. In South Korea, KT SAT will lead a maritime connectivity project with ST Engineering iDirect. In Japan, the Martian Moons eXploration probe remains on its transfer orbit towards Mars, with no arrival date on file. In the United States, the midterm result returns Democrats to Congress, and trade press is weighing what that means for NASA and Golden Dome. The Financial Times says Blue Origin's New Glenn returns in January 2027. Blue Origin has not confirmed it. The Federal Aviation Administration comment deadline of the thirtieth of October has passed with no decision on file. In Mexico, commentary continues on the national space program for 2026 to 2030, with no new date on file. What we are tracking this week: the ESA committee vote on the tenth of November, any NASA page on Swift, and any Blue Origin confirmation of its return date. What we are tracking this month: the Ariane 6 flight with Amazon Leo satellites, on the twenty-third of November at the earliest. The heads-up dates are the eighth of December for NASA station proposals, the fifteenth of December for the Council in Rome, and January 2027 for the reported New Glenn return. Two further items are worth holding in mind. In Canada, Telesat has moved full Lightspeed service to mid-2028, citing the launch crunch and sovereign demand. In the United States, the Federal Communications Commission has named a new Space Bureau chief and is looking to update direct-to-device rules and auction more spectrum. That is the briefing for Friday, the sixth of November.",
   "audio_sections": [
     {
       "id": "opening",
       "title": "Opening",
-      "text": "Good morning. It is Friday, the sixth of November, and this is the Sovereign Space ATLAS briefing. Blue Origin has pushed the return of its New Glenn rocket into January. Astronauts have installed the final roll-out solar array on the International Space Station. And a United States intelligence report calls Iran an emerging space power."
+      "text": "Good morning. It is Friday, the sixth of November, and this is the Sovereign Space ATLAS briefing. NASA has awarded Ka-band relay contracts to Viasat, SES and Astranis. A US intelligence report has described Iran as an emerging space power. And NASA's Swift observatory has come down over Indonesia."
     },
     {
       "id": "top",
       "title": "Top story",
-      "text": "The top story is Blue Origin's New Glenn rocket. The Financial Times reported on the fifth of November that the rocket's return to flight has moved into January twenty twenty-seven. Reuters and Bloomberg carried the report. That account comes from the Financial Times. The record holds no date from Blue Origin itself. On the same day the company announced a third stage called GS3 and a new booster engine called Northstar. Ars Technica reported the company's claim that the engine performs better at a quarter of the cost. Separately, the comment period on Blue Origin's request to fly up to fifty New Glenn launches a year from Florida closed on the thirtieth of October. No Federal Aviation Administration decision is on file."
+      "text": "NASA has awarded Ka-band relay contracts to Viasat, SES and Astranis. The award was announced on the fourth of November. All three are commercial satellite operators, so commercial relay capacity now sits inside NASA's communications supply. Contract values and terms have not been published in the material we hold. The next NASA date is the eighth of December, when commercial space-station proposals are due."
     },
     {
       "id": "esa_eu",
       "title": "ESA and EU",
-      "text": "In Europe, the next fixed date is the tenth of November, when a committee votes on the EU Space Act. The European Space Agency's ministers then meet in Rome on the fifteenth of December. The Council has published no new decision this week. No budget figure for Rome and no director appointment confirmed on an agency page has appeared either. Le Monde wrote on the third of November that Europe is being forced to build its own access to space in the face of SpaceX's dominance. That view is Le Monde's own."
+      "text": "In Europe, ESA announced on the third of November studies of a possible European-led orbital outpost in low Earth orbit. No new Council decision has followed. A committee vote is due on the tenth of November, and the Council meets in Rome on the fifteenth of December."
     },
     {
       "id": "cee",
       "title": "Central and Eastern Europe",
-      "text": "In Central and Eastern Europe, EnduroSat and Orbital Matter have announced an in-space manufacturing mission for twenty twenty-eight. Payload carried the announcement on the fourth of November. That account comes from Payload."
+      "text": "In Central and Eastern Europe, Ukraine's satellite communications remain tied to Starshield. A mid-2027 contract hope has been stated. There is no government statement on the October close approaches, and no date is set."
     },
     {
       "id": "nordics",
       "title": "Nordics",
-      "text": "In the Nordic countries, no new event has arrived this week. The standing situation is unchanged. The next shared date is the Rome ministerial meeting on the fifteenth of December."
+      "text": "In Norway, the space directorate and the Canadian Space Agency have signed a new agreement on closer cooperation in the Arctic. Norway also signed the declaration on the European Union's ISOS in-orbit servicing program on the tenth of June. In Sweden, the national space day will be held on the eighteenth of February, 2027."
     },
     {
       "id": "west",
       "title": "Western and Southern Europe",
-      "text": "In France, ArianeGroup announced on the fourth of November the second successful launch of the SyLEx sounding rocket. Arianespace has set the tenth Ariane 6 flight for the twenty-third of November at the earliest. It will carry thirty-six Amazon Leo satellites. Both accounts come from company pages."
+      "text": "In Spain, the International Telecommunication Union has accepted an extension for Open Cosmos, but has halved the size of its planned broadband constellation. In France, ArianeGroup reported a second successful SyLEx sounding rocket launch on the fourth of November. Arianespace plans to launch 36 Amazon Leo satellites on the tenth Ariane 6 flight on the twenty-third of November at the earliest."
     },
     {
       "id": "eurasia",
       "title": "Eurasia and Central Asia",
-      "text": "In Russia, Meduza reported on the second of November a researcher's finding about Russian space startups. The finding is that they may be passing off Chinese satellite imagery as their own. That account comes from Meduza and the researcher it cites. No Russian response is in the record."
+      "text": "In Armenia, Axiom Space co-founder Kam Ghaffarian has been awarded the State Prize in IT and is visiting the country. No dated space event is on file for the region."
     },
     {
       "id": "mena",
       "title": "Türkiye, Middle East and Africa",
-      "text": "In the Middle East, a United States intelligence report describes Iran as an emerging space power. Anadolu Agency reported this on the fifth of November. The account of the report's contents comes from Anadolu."
+      "text": "In Iran, a US intelligence report, covered on the fifth of November, describes the country as an emerging space power. In Türkiye, a joint satellite of the Turkic states is due in 2027, and a new micro-satellite in 2028. The 2027 space and aviation budget proposal stands at TL 24.59 billion, with no split published."
     },
     {
       "id": "asia_pac",
       "title": "Asia Pacific",
-      "text": "In Asia, Der Spiegel reported on the third of November that China plans a crewed Moon landing before twenty thirty. That account comes from Der Spiegel. NASA officials continue to state a landing in twenty twenty-eight."
+      "text": "In Indonesia, the Australian Broadcasting Corporation says Swift fell over the country on the fifth of November. Spanish trade press places the break-up over Sumatra. No NASA page confirms it. In South Korea, KT SAT will lead a maritime connectivity project with ST Engineering iDirect. In Japan, the Martian Moons eXploration probe remains on its transfer orbit towards Mars, with no arrival date on file."
     },
     {
       "id": "americas",
       "title": "Americas",
-      "text": "In the United States, astronauts on the International Space Station have installed the final iROSA solar panel. NASASpaceflight reported it on the sixth of November. The panels augment the power systems of the ageing station. CesiumAstro has raised seven hundred and thirty million dollars at a valuation above four and a half billion, Payload reported. Redwire has won a twenty million dollar DARPA contract for a second demonstration in very low Earth orbit. NASA's proposals for commercial space stations remain due on the eighth of December."
+      "text": "In the United States, the midterm result returns Democrats to Congress, and trade press is weighing what that means for NASA and Golden Dome. The Financial Times says Blue Origin's New Glenn returns in January 2027. Blue Origin has not confirmed it. The Federal Aviation Administration comment deadline of the thirtieth of October has passed with no decision on file. In Mexico, commentary continues on the national space program for 2026 to 2030, with no new date on file."
     },
     {
       "id": "close",
       "title": "Close",
-      "text": "Looking ahead, the EU Space Act committee votes on the tenth of November. Ariane 6 flies no earlier than the twenty-third of November. NASA's station proposals are due on the eighth of December, and the European Space Agency's ministers meet in Rome on the fifteenth of December. Each of these dates comes from the record, and any change would appear first in company or agency notices. Nothing else in the record changes the picture today. That is the briefing for Friday, the sixth of November."
+      "text": "What we are tracking this week: the ESA committee vote on the tenth of November, any NASA page on Swift, and any Blue Origin confirmation of its return date. What we are tracking this month: the Ariane 6 flight with Amazon Leo satellites, on the twenty-third of November at the earliest. The heads-up dates are the eighth of December for NASA station proposals, the fifteenth of December for the Council in Rome, and January 2027 for the reported New Glenn return. Two further items are worth holding in mind. In Canada, Telesat has moved full Lightspeed service to mid-2028, citing the launch crunch and sovereign demand. In the United States, the Federal Communications Commission has named a new Space Bureau chief and is looking to update direct-to-device rules and auction more spectrum. That is the briefing for Friday, the sixth of November."
     }
   ],
-  "date": "2026-11-06",
-  "summary": [
-    "The Financial Times reported on the fifth of November that New Glenn's return to flight has moved into January twenty twenty-seven. Reuters and Bloomberg carried the report. That account comes from the Financial Times. On the same day Blue Origin announced a third stage called GS3 and a booster engine called Northstar. The comment period on its request for up to fifty launches a year from Florida closed on the thirtieth of October, and no FAA decision is on file.",
-    "NASASpaceflight reported on the sixth of November that astronauts installed the final iROSA solar panel. The panels augment the power systems of the ageing station. This follows the spacewalks for new solar arrays that began on the twenty-ninth of October. The report is the only account of the installation in the record. No NASA page on it is in the record.",
-    "Payload reported on the sixth of November that CesiumAstro raised seven hundred and thirty million dollars. The round puts its valuation above four and a half billion dollars. Payload also ran a piece on the fifth of November on a growing disconnect between public and private space markets. The figures come from Payload. No company page is in the record."
-  ],
-  "generated_at": "2026-11-06T07:21:37+00:00"
+  "edition": "06:00 UTC",
+  "generated_at": "2026-11-06T07:57:38+00:00"
 }
