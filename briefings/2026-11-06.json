@@ -1,0 +1,533 @@
+{
+  "edition": "06:00 UTC",
+  "headline": "Blue Origin moves New Glenn's return to flight into January 2027, as the EU Space Act vote and the ESA Rome meeting approach",
+  "global": [
+    {
+      "date": "2026-11-05",
+      "iso3": [
+        "USA"
+      ],
+      "status": "statement",
+      "priority": "P1",
+      "exposure": "competitive threat",
+      "title": "Blue Origin moves New Glenn's return to flight into January 2027, and unveils a third stage and a new booster engine",
+      "summary": "The Financial Times reported on the fifth of November that New Glenn's return to flight has moved into January twenty twenty-seven. Reuters and Bloomberg carried the report. That account comes from the Financial Times. On the same day Blue Origin announced a third stage called GS3 and a booster engine called Northstar. The comment period on its request for up to fifty launches a year from Florida closed on the thirtieth of October, and no FAA decision is on file.",
+      "why": "A later return to flight keeps the heavy-lift field thinner for longer. The new stage and engine point to a larger vehicle, but no dates for them have been given.",
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOb2s1TW9rYXE2a0xvY29OclU0Si1PX3lLUXQwTmN1ZG90aV9rdGo2NXowX0ZzTDVhOF9tNWtUa1N0bU9iZmpocEVGRzBOMzFkeUhwX1hEZlNlUFlkdDI5M1c1M2ZzY2FGQnlrTlBfcVI2c1kxV211V1BFSmpnT2hHek4zWm5mald4NTlvNUhqTUk0S1dPOUtSNFVCdHNwOEs0TmMxRjBBdm4xSWl0TS1n?oc=5",
+          "language": "en",
+          "type": "press"
+        },
+        {
+          "outlet": "NASASpaceflight",
+          "url": "https://www.nasaspaceflight.com/2026/11/blue-origin-new-glenn-gs3-northstar-engine/",
+          "language": "en",
+          "type": "press"
+        }
+      ],
+      "bar": "Delay is FT via Reuters and Bloomberg; no company date in packet."
+    },
+    {
+      "date": "2026-11-06",
+      "iso3": [
+        "USA"
+      ],
+      "status": "event",
+      "priority": "P2",
+      "exposure": "context",
+      "title": "Astronauts install the final iROSA solar panel on the International Space Station, adding to its ageing power systems",
+      "summary": "NASASpaceflight reported on the sixth of November that astronauts installed the final iROSA solar panel. The panels augment the power systems of the ageing station. This follows the spacewalks for new solar arrays that began on the twenty-ninth of October. The report is the only account of the installation in the record. No NASA page on it is in the record.",
+      "why": "The installation completes the array work that was on the calendar. It bears on how long the station's power holds as commercial successors are prepared.",
+      "sources": [
+        {
+          "outlet": "NASASpaceflight",
+          "url": "https://www.nasaspaceflight.com/2026/11/final-irosa-install-iss/",
+          "language": "en",
+          "type": "press"
+        }
+      ],
+      "bar": "Single press source; no NASA page."
+    },
+    {
+      "date": "2026-11-06",
+      "iso3": [
+        "USA"
+      ],
+      "status": "contract",
+      "priority": "P3",
+      "exposure": "context",
+      "title": "CesiumAstro raises $730 million, reaching a valuation above $4.5 billion",
+      "summary": "Payload reported on the sixth of November that CesiumAstro raised seven hundred and thirty million dollars. The round puts its valuation above four and a half billion dollars. Payload also ran a piece on the fifth of November on a growing disconnect between public and private space markets. The figures come from Payload. No company page is in the record.",
+      "why": "A raise of this size signals private capital still flowing to space hardware. It adds to a funding gap with European firms.",
+      "sources": [
+        {
+          "outlet": "Payload",
+          "url": "https://payloadspace.com/cesiumastro-raises-730m-reaches-valuation-above-4-5b/",
+          "language": "en",
+          "type": "press"
+        }
+      ],
+      "bar": "Headline-level; Payload only."
+    }
+  ],
+  "regions": [
+    {
+      "id": "esa_eu",
+      "name": "ESA and EU",
+      "items": [
+        {
+          "date": "2026-11-06",
+          "iso3": [
+            "ITA"
+          ],
+          "status": "overview",
+          "priority": "P2",
+          "exposure": "policy risk",
+          "title": "EU committee votes on the Space Act on the tenth of November, and ESA ministers meet in Rome on the fifteenth of December",
+          "summary": "A committee vote on the EU Space Act is set for the tenth of November. The European Space Agency's ministers meet in Rome on the fifteenth of December. No Council decision, no budget figure for Rome and no confirmed director appointment has been published this week. Le Monde wrote on the third of November that Europe is being forced to build its own access to space in the face of SpaceX's dominance. That view is Le Monde's own.",
+          "why": "The vote and the Rome meeting are the next points where European positions can become decisions. Until then the funding question stays open.",
+          "sources": [
+            {
+              "outlet": "Le Monde",
+              "url": "https://www.lemonde.fr/economie/article/2026/11/03/face-a-la-domination-de-spacex-l-europe-contrainte-de-se-batir-un-acces-autonome-a-l-espace_6805523_3234.html",
+              "language": "fr",
+              "type": "national-language"
+            }
+          ],
+          "bar": "Dates carried from thread; Le Monde is commentary."
+        }
+      ]
+    },
+    {
+      "id": "cee",
+      "name": "Central and Eastern Europe",
+      "items": [
+        {
+          "date": "2026-11-04",
+          "iso3": [
+            "BGR"
+          ],
+          "status": "statement",
+          "priority": "P3",
+          "exposure": "opportunity",
+          "title": "EnduroSat and Orbital Matter announce an in-space manufacturing mission for 2028",
+          "summary": "EnduroSat and Orbital Matter have announced an in-space manufacturing mission. The year given is twenty twenty-eight. Payload carried the announcement on the fourth of November. That account comes from Payload. No agency or government page on the mission is in the record.",
+          "why": "It is a dated commercial plan from a central European company. No funding or launch arrangement has been stated.",
+          "sources": [
+            {
+              "outlet": "Payload",
+              "url": "https://payloadspace.com/orbital-matter-endurosat-announce-an-in-space-manufacturing-mission-in-2028/",
+              "language": "en",
+              "type": "press"
+            }
+          ],
+          "bar": "Headline-level; BGR inferred from EnduroSat."
+        }
+      ]
+    },
+    {
+      "id": "nordics",
+      "name": "Nordics",
+      "items": [
+        {
+          "date": "2026-11-06",
+          "iso3": [
+            "NOR",
+            "SWE",
+            "FIN"
+          ],
+          "status": "overview",
+          "priority": "P3",
+          "exposure": "context",
+          "title": "Nordic space has no new event this week, and the next shared date is Rome on the fifteenth of December",
+          "summary": "No new Nordic space event has arrived this week. The standing situation is unchanged. The next shared date is the European Space Agency ministerial meeting in Rome on the fifteenth of December. The EU Space Act committee vote on the tenth of November also applies to Nordic EU members. No Nordic government statement is in the record.",
+          "why": "Nordic positions will surface at the Rome meeting. Nothing before then changes the picture.",
+          "sources": [
+            {
+              "outlet": "Le Monde",
+              "url": "https://www.lemonde.fr/economie/article/2026/11/03/face-a-la-domination-de-spacex-l-europe-contrainte-de-se-batir-un-acces-autonome-a-l-espace_6805523_3234.html",
+              "language": "fr",
+              "type": "national-language"
+            }
+          ],
+          "bar": "Standing item; no Nordic source in packet."
+        }
+      ]
+    },
+    {
+      "id": "west",
+      "name": "Western and Southern Europe",
+      "items": [
+        {
+          "date": "2026-11-04",
+          "iso3": [
+            "FRA"
+          ],
+          "status": "event",
+          "priority": "P2",
+          "exposure": "opportunity",
+          "title": "ArianeGroup reports a second successful SyLEx sounding rocket launch, and Arianespace sets Ariane 6 for the twenty-third of November at the earliest",
+          "summary": "ArianeGroup announced on the fourth of November the second successful launch of the SyLEx sounding rocket. Arianespace has set the tenth Ariane 6 flight for the twenty-third of November at the earliest. It will carry thirty-six Amazon Leo satellites. Both accounts come from company pages. No government statement is in the record.",
+          "why": "The Ariane 6 date is the next European launch milestone on the calendar. A slip would show in the company's own notices first.",
+          "sources": [
+            {
+              "outlet": "ArianeGroup",
+              "url": "https://www.ariane.group/en/news/second-successful-launch-of-the-sylex-sounding-rocket/",
+              "language": "en",
+              "type": "press"
+            },
+            {
+              "outlet": "ArianeGroup",
+              "url": "https://www.ariane.group/en/news/arianespace-to-launch-36-amazon-leo-satellites-on-november-23-at-the-earliest-for-10th-ariane-6-flight/",
+              "language": "en",
+              "type": "press"
+            }
+          ],
+          "bar": "Company pages only; launch date dated 14 October."
+        }
+      ]
+    },
+    {
+      "id": "eurasia",
+      "name": "Eurasia and Central Asia",
+      "items": [
+        {
+          "date": "2026-11-02",
+          "iso3": [
+            "RUS",
+            "CHN"
+          ],
+          "status": "statement",
+          "priority": "P3",
+          "exposure": "context",
+          "title": "Meduza reports a researcher's finding that Russian space startups may be passing off Chinese satellite imagery as their own",
+          "summary": "Meduza reported on the second of November a researcher's finding about Russian space startups. The finding is that they may be passing off Chinese satellite imagery as their own. That account comes from Meduza and the researcher it cites. No Russian agency or company response is in the record. No Chinese response is in the record.",
+          "why": "If borne out, it would show reliance on Chinese data in Russia's commercial imaging. The claim remains unverified.",
+          "sources": [
+            {
+              "outlet": "Meduza",
+              "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMFMwS2xzY01IZ05OQ2Q0b2RTSDBHN2lremd2ZFZmWmh6SjIyd1h6Y2o1QUU1UENLZmxjRW1IR0xKZDNXQnI2Yy1oa0FWYVBNUU5IZmhTNUJYT01ESGY2ZkdWdi1Wa2lUQ00zeEEyU0ZCZE1vc0h6cWxmSHVWd1RhMkR2Y3NSVllDSGdiaDV5N0swMW9jLUtaOXZJdExpUHFYZ2cweXVmcFZrbXIzbzhvM1RqU3hYZFd0SktnNUt4ZjVfcXBiXy13aS1PZ2otSDZZWk000gHYAUFVX3lxTFA5b1lyVWNOblp6UnU5R25aUmVFc21adEd3SFFMbjkzYmtXMXJiZlY2MEQ0X0doQjhLYTdyNWw2ODdHajlKSWpvSmgtcU00anVrTGJfSWJXZGFER3B4djBTb3g0TmxNZmY2eDRlZFB0OGNjanFQa2xwbmd0VExwcC1VUERLeXJGRHA4cjV5Tlg4VlRHYU0tenlHTjJfMXdPWWZTd0h5a3RrRGR6eEFSTVAwQTNUZ21zdy04SVREOEg2cWMxeHB6Qmk0SDZBZ1R4bVc4d0dac21EeQ?oc=5",
+              "language": "en",
+              "type": "press"
+            }
+          ],
+          "bar": "Researcher claim via Meduza; unverified."
+        }
+      ]
+    },
+    {
+      "id": "mena",
+      "name": "Türkiye, Middle East and Africa",
+      "items": [
+        {
+          "date": "2026-11-05",
+          "iso3": [
+            "IRN",
+            "USA"
+          ],
+          "status": "statement",
+          "priority": "P2",
+          "exposure": "policy risk",
+          "title": "A United States intelligence report describes Iran as an emerging space power, Anadolu reports",
+          "summary": "A United States intelligence report describes Iran as an emerging space power. Anadolu Agency reported this on the fifth of November. The account of the report's contents comes from Anadolu. No United States government page on the report is in the record. No Iranian response is in the record.",
+          "why": "The assessment places Iran's space activity within United States security analysis. Its basis has not been published in the record.",
+          "sources": [
+            {
+              "outlet": "Anadolu Agency",
+              "url": "https://www.aa.com.tr/en/world/us-intelligence-report-describes-iran-as-emerging-space-power/4113073",
+              "language": "en",
+              "type": "press"
+            }
+          ],
+          "bar": "Single press source; no US page."
+        }
+      ]
+    },
+    {
+      "id": "asia_pac",
+      "name": "Asia Pacific",
+      "items": [
+        {
+          "date": "2026-11-03",
+          "iso3": [
+            "CHN"
+          ],
+          "status": "statement",
+          "priority": "P3",
+          "exposure": "competitive threat",
+          "title": "China plans a crewed Moon landing before 2030, Der Spiegel reports",
+          "summary": "Der Spiegel reported on the third of November that China plans a crewed Moon landing before twenty thirty. That account comes from Der Spiegel. No Chinese government page on the report is in the record. NASA officials continue to state a landing in twenty twenty-eight. The two timelines overlap.",
+          "why": "The overlap keeps the lunar timetable contested between Washington and Beijing. The Chinese side has not set out a date in the record.",
+          "sources": [
+            {
+              "outlet": "Der Spiegel",
+              "url": "https://www.spiegel.de/wissenschaft/weltall/raumfahrt-china-plant-bemannte-mondlandung-vor-2030-a-96ec221a-a77c-4a35-adbe-ce90d7b475f9#ref=rss",
+              "language": "de",
+              "type": "national-language"
+            }
+          ],
+          "bar": "Headline-level; no Chinese source."
+        }
+      ]
+    },
+    {
+      "id": "americas",
+      "name": "Americas",
+      "items": [
+        {
+          "date": "2026-11-05",
+          "iso3": [
+            "USA"
+          ],
+          "status": "contract",
+          "priority": "P3",
+          "exposure": "context",
+          "title": "Redwire wins a $20 million DARPA contract for a second very low Earth orbit demonstration",
+          "summary": "Redwire has won a twenty million dollar contract from DARPA. It covers a second demonstration in very low Earth orbit. Payload reported it on the fifth of November. NASA's commercial station proposals remain due on the eighth of December. Artemis dates are unchanged, with a landing still stated for twenty twenty-eight.",
+          "why": "The award extends government interest in very low orbit. The Artemis and station dates remain the fixed points.",
+          "sources": [
+            {
+              "outlet": "Payload",
+              "url": "https://payloadspace.com/redwire-wins-20m-darpa-contract-for-second-vleo-demo/",
+              "language": "en",
+              "type": "press"
+            }
+          ],
+          "bar": "Payload only; Artemis dates carried from thread."
+        }
+      ]
+    }
+  ],
+  "priorities": [
+    {
+      "rank": "P1",
+      "title": "Blue Origin moves New Glenn's return to flight into January 2027",
+      "status": "statement",
+      "exposure": "competitive threat",
+      "implication": "A later return keeps heavy-lift capacity scarce, with the FAA decision on fifty launches a year still outstanding.",
+      "iso3": [
+        "USA"
+      ],
+      "next": {
+        "date": "2027-01-01",
+        "event": "New Glenn return to flight, month stated, no day"
+      }
+    },
+    {
+      "rank": "P2",
+      "title": "EU Space Act committee vote and the ESA Rome meeting",
+      "status": "overview",
+      "exposure": "policy risk",
+      "implication": "The vote on the tenth of November and Rome on the fifteenth of December are where European decisions can be taken.",
+      "iso3": [
+        "ITA"
+      ],
+      "next": {
+        "date": "2026-11-10",
+        "event": "EU Space Act committee vote"
+      }
+    },
+    {
+      "rank": "P2",
+      "title": "Ariane 6 flight with 36 Amazon Leo satellites",
+      "status": "event",
+      "exposure": "opportunity",
+      "implication": "The twenty-third of November date is the next European launch milestone.",
+      "iso3": [
+        "FRA"
+      ],
+      "next": {
+        "date": "2026-11-23",
+        "event": "Ariane 6 tenth flight, at the earliest"
+      }
+    },
+    {
+      "rank": "P3",
+      "title": "NASA commercial station proposals and the 2028 landing",
+      "status": "overview",
+      "exposure": "context",
+      "implication": "Dates are unchanged, and proposals due on the eighth of December are the next Artemis-adjacent event.",
+      "iso3": [
+        "USA"
+      ],
+      "next": {
+        "date": "2026-12-08",
+        "event": "NASA commercial space-station proposals due"
+      }
+    }
+  ],
+  "watchlist": [
+    {
+      "date": "2026-11-10",
+      "event": "EU Space Act committee vote",
+      "where": "Brussels",
+      "iso3": [
+        "ITA"
+      ]
+    },
+    {
+      "date": "2026-11-23",
+      "event": "Ariane 6 tenth flight with 36 Amazon Leo satellites, at the earliest",
+      "where": "Europe's Spaceport",
+      "iso3": [
+        "FRA"
+      ]
+    },
+    {
+      "date": "2026-12-08",
+      "event": "NASA commercial space-station proposals due",
+      "where": "United States",
+      "iso3": [
+        "USA"
+      ]
+    },
+    {
+      "date": "2026-12-15",
+      "event": "ESA intermediate ministerial meeting",
+      "where": "Rome",
+      "iso3": [
+        "ITA"
+      ]
+    }
+  ],
+  "milestones": [
+    {
+      "date": "2026-12-15",
+      "event": "ESA intermediate ministerial meeting in Rome",
+      "iso3": [
+        "ITA"
+      ],
+      "status": "scheduled",
+      "why": "Where the Council's path for low Earth orbit, the Moon and Mars may meet funding."
+    },
+    {
+      "date": "2026-12-08",
+      "event": "NASA commercial space-station proposals due",
+      "iso3": [
+        "USA"
+      ],
+      "status": "scheduled",
+      "why": "Sets the field for the station successor to the ISS."
+    },
+    {
+      "date": "2027-01-01",
+      "event": "New Glenn return to flight, January stated by the Financial Times, no day",
+      "iso3": [
+        "USA"
+      ],
+      "status": "reported",
+      "why": "Tests the reported slip against the company's own schedule."
+    },
+    {
+      "date": "2027-12-31",
+      "event": "Artemis III low Earth orbit test, 2027 stated, no day",
+      "iso3": [
+        "USA"
+      ],
+      "status": "stated",
+      "why": "Precedes the landing NASA states for 2028."
+    }
+  ],
+  "competitive_watch": [],
+  "countries": [
+    {
+      "iso3": "ITA",
+      "items": []
+    },
+    {
+      "iso3": "BGR",
+      "items": []
+    },
+    {
+      "iso3": "NOR",
+      "items": []
+    },
+    {
+      "iso3": "FRA",
+      "items": []
+    },
+    {
+      "iso3": "RUS",
+      "items": []
+    },
+    {
+      "iso3": "IRN",
+      "items": []
+    },
+    {
+      "iso3": "CHN",
+      "items": []
+    },
+    {
+      "iso3": "USA",
+      "items": []
+    }
+  ],
+  "audio_script": "Good morning. It is Friday, the sixth of November, and this is the Sovereign Space ATLAS briefing. Blue Origin has pushed the return of its New Glenn rocket into January. Astronauts have installed the final roll-out solar array on the International Space Station. And a United States intelligence report calls Iran an emerging space power.\n\nThe top story is Blue Origin's New Glenn rocket. The Financial Times reported on the fifth of November that the rocket's return to flight has moved into January twenty twenty-seven. Reuters and Bloomberg carried the report. That account comes from the Financial Times. The record holds no date from Blue Origin itself. On the same day the company announced a third stage called GS3 and a new booster engine called Northstar. Ars Technica reported the company's claim that the engine performs better at a quarter of the cost. Separately, the comment period on Blue Origin's request to fly up to fifty New Glenn launches a year from Florida closed on the thirtieth of October. No Federal Aviation Administration decision is on file.\n\nIn Europe, the next fixed date is the tenth of November, when a committee votes on the EU Space Act. The European Space Agency's ministers then meet in Rome on the fifteenth of December. The Council has published no new decision this week. No budget figure for Rome and no director appointment confirmed on an agency page has appeared either. Le Monde wrote on the third of November that Europe is being forced to build its own access to space in the face of SpaceX's dominance. That view is Le Monde's own.\n\nIn Central and Eastern Europe, EnduroSat and Orbital Matter have announced an in-space manufacturing mission for twenty twenty-eight. Payload carried the announcement on the fourth of November. That account comes from Payload.\n\nIn the Nordic countries, no new event has arrived this week. The standing situation is unchanged. The next shared date is the Rome ministerial meeting on the fifteenth of December.\n\nIn France, ArianeGroup announced on the fourth of November the second successful launch of the SyLEx sounding rocket. Arianespace has set the tenth Ariane 6 flight for the twenty-third of November at the earliest. It will carry thirty-six Amazon Leo satellites. Both accounts come from company pages.\n\nIn Russia, Meduza reported on the second of November a researcher's finding about Russian space startups. The finding is that they may be passing off Chinese satellite imagery as their own. That account comes from Meduza and the researcher it cites. No Russian response is in the record.\n\nIn the Middle East, a United States intelligence report describes Iran as an emerging space power. Anadolu Agency reported this on the fifth of November. The account of the report's contents comes from Anadolu.\n\nIn Asia, Der Spiegel reported on the third of November that China plans a crewed Moon landing before twenty thirty. That account comes from Der Spiegel. NASA officials continue to state a landing in twenty twenty-eight.\n\nIn the United States, astronauts on the International Space Station have installed the final iROSA solar panel. NASASpaceflight reported it on the sixth of November. The panels augment the power systems of the ageing station. CesiumAstro has raised seven hundred and thirty million dollars at a valuation above four and a half billion, Payload reported. Redwire has won a twenty million dollar DARPA contract for a second demonstration in very low Earth orbit. NASA's proposals for commercial space stations remain due on the eighth of December.\n\nLooking ahead, the EU Space Act committee votes on the tenth of November. Ariane 6 flies no earlier than the twenty-third of November. NASA's station proposals are due on the eighth of December, and the European Space Agency's ministers meet in Rome on the fifteenth of December. Each of these dates comes from the record, and any change would appear first in company or agency notices. Nothing else in the record changes the picture today. That is the briefing for Friday, the sixth of November.",
+  "audio_sections": [
+    {
+      "id": "opening",
+      "title": "Opening",
+      "text": "Good morning. It is Friday, the sixth of November, and this is the Sovereign Space ATLAS briefing. Blue Origin has pushed the return of its New Glenn rocket into January. Astronauts have installed the final roll-out solar array on the International Space Station. And a United States intelligence report calls Iran an emerging space power."
+    },
+    {
+      "id": "top",
+      "title": "Top story",
+      "text": "The top story is Blue Origin's New Glenn rocket. The Financial Times reported on the fifth of November that the rocket's return to flight has moved into January twenty twenty-seven. Reuters and Bloomberg carried the report. That account comes from the Financial Times. The record holds no date from Blue Origin itself. On the same day the company announced a third stage called GS3 and a new booster engine called Northstar. Ars Technica reported the company's claim that the engine performs better at a quarter of the cost. Separately, the comment period on Blue Origin's request to fly up to fifty New Glenn launches a year from Florida closed on the thirtieth of October. No Federal Aviation Administration decision is on file."
+    },
+    {
+      "id": "esa_eu",
+      "title": "ESA and EU",
+      "text": "In Europe, the next fixed date is the tenth of November, when a committee votes on the EU Space Act. The European Space Agency's ministers then meet in Rome on the fifteenth of December. The Council has published no new decision this week. No budget figure for Rome and no director appointment confirmed on an agency page has appeared either. Le Monde wrote on the third of November that Europe is being forced to build its own access to space in the face of SpaceX's dominance. That view is Le Monde's own."
+    },
+    {
+      "id": "cee",
+      "title": "Central and Eastern Europe",
+      "text": "In Central and Eastern Europe, EnduroSat and Orbital Matter have announced an in-space manufacturing mission for twenty twenty-eight. Payload carried the announcement on the fourth of November. That account comes from Payload."
+    },
+    {
+      "id": "nordics",
+      "title": "Nordics",
+      "text": "In the Nordic countries, no new event has arrived this week. The standing situation is unchanged. The next shared date is the Rome ministerial meeting on the fifteenth of December."
+    },
+    {
+      "id": "west",
+      "title": "Western and Southern Europe",
+      "text": "In France, ArianeGroup announced on the fourth of November the second successful launch of the SyLEx sounding rocket. Arianespace has set the tenth Ariane 6 flight for the twenty-third of November at the earliest. It will carry thirty-six Amazon Leo satellites. Both accounts come from company pages."
+    },
+    {
+      "id": "eurasia",
+      "title": "Eurasia and Central Asia",
+      "text": "In Russia, Meduza reported on the second of November a researcher's finding about Russian space startups. The finding is that they may be passing off Chinese satellite imagery as their own. That account comes from Meduza and the researcher it cites. No Russian response is in the record."
+    },
+    {
+      "id": "mena",
+      "title": "Türkiye, Middle East and Africa",
+      "text": "In the Middle East, a United States intelligence report describes Iran as an emerging space power. Anadolu Agency reported this on the fifth of November. The account of the report's contents comes from Anadolu."
+    },
+    {
+      "id": "asia_pac",
+      "title": "Asia Pacific",
+      "text": "In Asia, Der Spiegel reported on the third of November that China plans a crewed Moon landing before twenty thirty. That account comes from Der Spiegel. NASA officials continue to state a landing in twenty twenty-eight."
+    },
+    {
+      "id": "americas",
+      "title": "Americas",
+      "text": "In the United States, astronauts on the International Space Station have installed the final iROSA solar panel. NASASpaceflight reported it on the sixth of November. The panels augment the power systems of the ageing station. CesiumAstro has raised seven hundred and thirty million dollars at a valuation above four and a half billion, Payload reported. Redwire has won a twenty million dollar DARPA contract for a second demonstration in very low Earth orbit. NASA's proposals for commercial space stations remain due on the eighth of December."
+    },
+    {
+      "id": "close",
+      "title": "Close",
+      "text": "Looking ahead, the EU Space Act committee votes on the tenth of November. Ariane 6 flies no earlier than the twenty-third of November. NASA's station proposals are due on the eighth of December, and the European Space Agency's ministers meet in Rome on the fifteenth of December. Each of these dates comes from the record, and any change would appear first in company or agency notices. Nothing else in the record changes the picture today. That is the briefing for Friday, the sixth of November."
+    }
+  ],
+  "date": "2026-11-06",
+  "summary": [
+    "The Financial Times reported on the fifth of November that New Glenn's return to flight has moved into January twenty twenty-seven. Reuters and Bloomberg carried the report. That account comes from the Financial Times. On the same day Blue Origin announced a third stage called GS3 and a booster engine called Northstar. The comment period on its request for up to fifty launches a year from Florida closed on the thirtieth of October, and no FAA decision is on file.",
+    "NASASpaceflight reported on the sixth of November that astronauts installed the final iROSA solar panel. The panels augment the power systems of the ageing station. This follows the spacewalks for new solar arrays that began on the twenty-ninth of October. The report is the only account of the installation in the record. No NASA page on it is in the record.",
+    "Payload reported on the sixth of November that CesiumAstro raised seven hundred and thirty million dollars. The round puts its valuation above four and a half billion dollars. Payload also ran a piece on the fifth of November on a growing disconnect between public and private space markets. The figures come from Payload. No company page is in the record."
+  ],
+  "generated_at": "2026-11-06T07:21:37+00:00"
+}

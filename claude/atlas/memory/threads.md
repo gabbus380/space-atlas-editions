@@ -172,3 +172,12 @@ Episodes:
 - ESA, EU, Rome: OHB company claims only; next 10 November committee vote, then 15 December Rome.
 - Matera laser ranging: no change; station complete, no routine-operations date.
 - Starshield and Ukraine: mid-2027 hope reported by Breaking Defense, single source.
+
+
+## 2026-11-06
+- Blue Origin: January 2027 return per FT via Reuters and Bloomberg; GS3 and Northstar announced 5 November; FAA deadline of 30 October passed, no decision on file.
+- ESA, EU, Rome: next 10 November committee vote, then 15 December Rome; no new Council decision.
+- Artemis: dates unchanged; final iROSA install reported 6 November by NASASpaceflight; 8 December proposals due.
+- Swift: closed pending a NASA page.
+- Starshield and Ukraine: mid-2027 hope via Breaking Defense, unchanged.
+- Matera laser ranging: no change.
