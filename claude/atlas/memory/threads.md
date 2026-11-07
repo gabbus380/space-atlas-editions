@@ -191,3 +191,13 @@ Episodes:
 - Starshield and Ukraine: mid-2027 hope unchanged; no new source.
 - Matera laser ranging: no change.
 - New: NASA Ka-band relay contracts of 4 November; Iran intelligence report of 5 November; Open Cosmos ITU cut.
+
+
+## 2026-11-07
+- Pakistan on China's station: new thread, Al Jazeera only, no crew, no date.
+- ESA, EU, Rome: Prometheus hot-fire of 6 November; vote 10 November; Rome 15 December.
+- Blue Origin: January 2027 return per FT, unconfirmed; FAA deadline of 30 October passed, no decision.
+- Artemis: dates unchanged; 8 December proposals due.
+- Swift: closed pending NASA page.
+- Starshield and Ukraine: mid-2027 hope, unchanged.
+- Matera laser ranging: no change.
