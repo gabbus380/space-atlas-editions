@@ -201,3 +201,14 @@ Episodes:
 - Swift: closed pending NASA page.
 - Starshield and Ukraine: mid-2027 hope, unchanged.
 - Matera laser ranging: no change.
+
+
+## 2026-11-08
+- ESA, EU, Rome: studies of 3 November; vote 10 November; Rome 15 December; no Council decision.
+- Ariane 6/Prometheus: hot-fire 6 November; flight NET 23 November.
+- Artemis: dates unchanged; 8 December proposals due; no fresh source.
+- Blue Origin: January return unconfirmed; FAA 30 October deadline passed, no decision.
+- Swift: press-only; closed pending NASA page.
+- Japan MMX: transfer orbit, no arrival date.
+- Matera laser ranging: no change.
+- Telesat Lightspeed: new thread, mid-2028.

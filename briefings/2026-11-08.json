@@ -1,0 +1,550 @@
+{
+  "date": "2026-11-08",
+  "headline": "ArianeGroup completes Prometheus hot-fire test as Europe's committee vote nears",
+  "summary": [
+    "ArianeGroup said on the sixth of November that its Prometheus reusable engine reached a new milestone in a hot-fire test in Germany.",
+    "Arianespace has set the next Ariane 6 flight, with 36 Amazon Leo satellites, for the twenty-third of November at the earliest.",
+    "The committee vote on a European-led orbital outpost is on the tenth of November, with Rome on the fifteenth of December.",
+    "Telesat has pushed full Lightspeed service in Canada to mid-2028, and KT SAT will lead a South Korean maritime connectivity project.",
+    "NASA's Swift observatory has been reported down over Indonesia, but NASA has published no page."
+  ],
+  "bottom_line": "The road to Rome stands at the committee vote, with no new Council decision on file. The next date that matters is the tenth of November.",
+  "global": [
+    {
+      "date": "2026-11-08",
+      "iso3": [
+        "USA"
+      ],
+      "status": "overview",
+      "priority": "P2",
+      "exposure": "context",
+      "title": "NASA holds the eighth of December date for commercial station proposals",
+      "summary": "Artemis dates are unchanged. Commercial station proposals remain due on the eighth of December.",
+      "why": "The station proposals are the next dated NASA decision point. No new NASA date, crew change or lander milestone is on file.",
+      "sources": [],
+      "bar": "Standing item; no fresh source in this reading."
+    },
+    {
+      "date": "2026-11-08",
+      "iso3": [
+        "USA"
+      ],
+      "status": "overview",
+      "priority": "P3",
+      "exposure": "context",
+      "title": "Blue Origin has not confirmed a January return for New Glenn",
+      "summary": "A January 2027 return was reported earlier in the week and the company has not confirmed it. The FAA comment deadline of the thirtieth of October passed with no decision on file.",
+      "why": "A company confirmation or an FAA decision would move this pathway. Neither is on file.",
+      "sources": [],
+      "bar": "Standing item; no fresh source in this reading."
+    },
+    {
+      "date": "2026-11-04",
+      "iso3": [
+        "USA"
+      ],
+      "status": "contract",
+      "priority": "P2",
+      "exposure": "opportunity",
+      "title": "NASA awards Ka-band relay contracts to Viasat, SES and Astranis",
+      "summary": "NASA has chosen three commercial operators for Ka-band relay contracts. The awards were announced on the fourth of November.",
+      "why": "Commercial relay providers are taking on a role in NASA communications. The packet gives no contract values.",
+      "sources": [
+        {
+          "outlet": "Via Satellite",
+          "url": "https://www.satellitetoday.com/government-military/2026/11/04/viasat-ses-and-astranis-win-nasa-ka-band-relay-contracts/",
+          "language": "en",
+          "type": "press"
+        }
+      ],
+      "bar": "Single trade source; no values."
+    }
+  ],
+  "regions": [
+    {
+      "id": "esa_eu",
+      "name": "ESA and EU",
+      "items": [
+        {
+          "date": "2026-11-03",
+          "iso3": [
+            "FRA",
+            "DEU"
+          ],
+          "status": "event",
+          "priority": "P1",
+          "exposure": "context",
+          "title": "ESA awards studies of a European-led orbital outpost",
+          "summary": "ESA announced studies of a potential European-led orbital outpost on the third of November. The committee vote follows on the tenth of November, then Rome on the fifteenth of December.",
+          "why": "The studies feed the Rome decision. No new Council decision is on file.",
+          "sources": [
+            {
+              "outlet": "ESA",
+              "url": "https://www.esa.int/articles/about-us/directorates/human-and-robotic-exploration/low-earth-orbit/esa-investigates-potential-future-european-led-orbital-outpost",
+              "language": "en",
+              "type": "government-or-embassy"
+            }
+          ],
+          "bar": "Standing with next date."
+        },
+        {
+          "date": "2026-11-06",
+          "iso3": [
+            "FRA",
+            "DEU"
+          ],
+          "status": "event",
+          "priority": "P2",
+          "exposure": "context",
+          "title": "ArianeGroup completes Prometheus hot-fire test on DLR's P5 bench",
+          "summary": "ArianeGroup said Prometheus reached a new development milestone on the sixth of November. Arianespace has the tenth Ariane 6 flight, with 36 Amazon Leo satellites, no earlier than the twenty-third of November.",
+          "why": "Reusable engine development continues towards European launcher reuse. The Ariane 6 date is the next marker.",
+          "sources": [
+            {
+              "outlet": "ArianeGroup",
+              "url": "https://www.ariane.group/en/news/prometheus-reusable-rocket-engine-reaches-new-development-milestone-with-hot-fire-test/",
+              "language": "en",
+              "type": "press"
+            },
+            {
+              "outlet": "ArianeGroup",
+              "url": "https://www.ariane.group/en/news/arianespace-to-launch-36-amazon-leo-satellites-on-november-23-at-the-earliest-for-10th-ariane-6-flight/",
+              "language": "en",
+              "type": "press"
+            }
+          ],
+          "bar": "Company pages; same company, one source."
+        }
+      ]
+    },
+    {
+      "id": "cee",
+      "name": "Central and Eastern Europe",
+      "items": [
+        {
+          "date": "2026-10-07",
+          "iso3": [
+            "ROU"
+          ],
+          "status": "contract",
+          "priority": "P3",
+          "exposure": "context",
+          "title": "Romania orders 12 Airbus H225M helicopters",
+          "summary": "Airbus said on the seventh of October that Romania ordered 12 H225M multirole military helicopters. No new Romanian space decision is on file.",
+          "why": "This is the latest dated defence procurement from the region in the packet. No date is set for a space decision.",
+          "sources": [
+            {
+              "outlet": "Airbus",
+              "url": "https://www.airbus.com/en/newsroom/press-releases/2026-10-romania-orders-12-airbus-h225m-multirole-military-helicopters",
+              "language": "en",
+              "type": "press"
+            }
+          ],
+          "bar": "Aviation, not space; low weight."
+        }
+      ]
+    },
+    {
+      "id": "nordics",
+      "name": "Nordics",
+      "items": [
+        {
+          "date": "2026-11-02",
+          "iso3": [
+            "SWE"
+          ],
+          "status": "event",
+          "priority": "P3",
+          "exposure": "context",
+          "title": "Swedish National Space Agency sets Space Day for the eighteenth of February",
+          "summary": "The agency announced on the second of November that the next Space Day is on the eighteenth of February, 2027.",
+          "why": "It is the next fixed Swedish space event in the packet. Nothing else is scheduled.",
+          "sources": [
+            {
+              "outlet": "Rymdstyrelsen",
+              "url": "https://www.rymdstyrelsen.se/nyheter/2026/rymddagen-2027-blir-den-18-februari/",
+              "language": "sv",
+              "type": "government-or-embassy"
+            }
+          ],
+          "bar": "Date item."
+        }
+      ]
+    },
+    {
+      "id": "west",
+      "name": "Western and Southern Europe",
+      "items": [
+        {
+          "date": "2026-11-04",
+          "iso3": [
+            "FRA"
+          ],
+          "status": "event",
+          "priority": "P3",
+          "exposure": "context",
+          "title": "ArianeGroup reports second successful SyLEx sounding rocket launch",
+          "summary": "ArianeGroup said on the fourth of November that the second SyLEx launch succeeded. The M51 missile program is the related French defence work.",
+          "why": "It is a French test result with defence links. No next date is given.",
+          "sources": [
+            {
+              "outlet": "ArianeGroup",
+              "url": "https://www.ariane.group/en/news/second-successful-launch-of-the-sylex-sounding-rocket/",
+              "language": "en",
+              "type": "press"
+            }
+          ],
+          "bar": "Company page."
+        },
+        {
+          "date": "2026-11-06",
+          "iso3": [
+            "ESP"
+          ],
+          "status": "event",
+          "priority": "P3",
+          "exposure": "competitive threat",
+          "title": "ITU accepts Open Cosmos extension but halves its constellation",
+          "summary": "The ITU accepted the Open Cosmos extension and cut the size of its broadband constellation by half.",
+          "why": "A European broadband plan has shrunk at the filing stage. No next date is on file.",
+          "sources": [
+            {
+              "outlet": "Infoespacial",
+              "url": "https://www.infoespacial.com/texto-diario/mostrar/6079652/uit-acepta-prorroga-open-cosmos-pero-reduce-mitad-tamano-constelacion-banda-ancha",
+              "language": "es",
+              "type": "national-language"
+            }
+          ],
+          "bar": "Single trade source; filed earlier as new on the sixth."
+        }
+      ]
+    },
+    {
+      "id": "eurasia",
+      "name": "Eurasia and Central Asia",
+      "items": [
+        {
+          "date": "2026-11-08",
+          "iso3": [
+            "ARM",
+            "AZE",
+            "KAZ",
+            "UZB"
+          ],
+          "status": "overview",
+          "priority": "P3",
+          "exposure": "context",
+          "title": "Armenia's Armath opens an engineering makerspace in Iraq",
+          "summary": "An Armath Engineering Makerspace has opened in Iraq. Azerbaijan, Kazakhstan and Uzbekistan have no new space decision on file.",
+          "why": "Activity in the region is limited to this. No date is set.",
+          "sources": [
+            {
+              "outlet": "ARKA-Telecom",
+              "url": "https://arkatelecom.am/en/news/telecom/new-armath-engineering-makerspace-officially-opened-in-iraq/",
+              "language": "en",
+              "type": "press"
+            }
+          ],
+          "bar": "Thin; standing."
+        }
+      ]
+    },
+    {
+      "id": "mena",
+      "name": "Türkiye, Middle East and Africa",
+      "items": [
+        {
+          "date": "2026-11-08",
+          "iso3": [
+            "TUR"
+          ],
+          "status": "overview",
+          "priority": "P3",
+          "exposure": "context",
+          "title": "Türkiye schedules a microsatellite for 2028 and a Turkic states satellite for 2027",
+          "summary": "Turkish trade press carries a 2028 launch for a new microsatellite and 2027 for a joint satellite of Turkic states. The 2027 budget proposal of TL 24.59 billion stands with no split published.",
+          "why": "These are launch years, not dates. No decision date is on file.",
+          "sources": [
+            {
+              "outlet": "Haber.Aero",
+              "url": "https://haber.aero/aero-gundem/turkiyenin-yeni-mikro-uydusu-2028de-firlatilacak/",
+              "language": "tr",
+              "type": "national-language"
+            },
+            {
+              "outlet": "Haber.Aero",
+              "url": "https://haber.aero/aero-gundem/turk-devletlerinin-ortak-uydusu-2027de-uzaya-gonderilecek/",
+              "language": "tr",
+              "type": "national-language"
+            }
+          ],
+          "bar": "Headlines only."
+        }
+      ]
+    },
+    {
+      "id": "asia_pac",
+      "name": "Asia Pacific",
+      "items": [
+        {
+          "date": "2026-11-05",
+          "iso3": [
+            "IDN"
+          ],
+          "status": "event",
+          "priority": "P2",
+          "exposure": "context",
+          "title": "Press places NASA's Swift re-entry over western Indonesia",
+          "summary": "Press accounts place Swift's fall over Indonesia, Sumatra in one account, on the fourth or fifth of November. NASA has published no page.",
+          "why": "The fall is described by several outlets but not by NASA. The thread stays closed pending a NASA page.",
+          "sources": [
+            {
+              "outlet": "ABC News (Australia)",
+              "url": "https://www.abc.net.au/news/2026-11-05/nasa-telescope-plummets-to-earth-after-decades-long-mission/107348488",
+              "language": "en",
+              "type": "press"
+            },
+            {
+              "outlet": "Infoespacial",
+              "url": "https://www.infoespacial.com/texto-diario/mostrar/6079558/telescopio-swift-nasa-desintegra-sobre-sumatra-22-anos-mision",
+              "language": "es",
+              "type": "national-language"
+            }
+          ],
+          "bar": "No NASA confirmation."
+        },
+        {
+          "date": "2026-11-05",
+          "iso3": [
+            "KOR"
+          ],
+          "status": "agreement",
+          "priority": "P3",
+          "exposure": "opportunity",
+          "title": "KT SAT to lead South Korean maritime connectivity project with ST Engineering iDirect",
+          "summary": "KT SAT will lead the project with ST Engineering iDirect. It was announced on the fifth of November.",
+          "why": "A South Korean operator is taking the lead on maritime links. No values or dates are on file.",
+          "sources": [
+            {
+              "outlet": "Via Satellite",
+              "url": "https://www.satellitetoday.com/government-military/2026/11/05/kt-sat-to-lead-south-korea-maritime-connectivity-project-with-st-engineering-idirect/",
+              "language": "en",
+              "type": "press"
+            }
+          ],
+          "bar": "Single trade source."
+        }
+      ]
+    },
+    {
+      "id": "americas",
+      "name": "Americas",
+      "items": [
+        {
+          "date": "2026-10-29",
+          "iso3": [
+            "CAN"
+          ],
+          "status": "statement",
+          "priority": "P2",
+          "exposure": "competitive threat",
+          "title": "Telesat delays full Lightspeed service to mid-2028",
+          "summary": "Telesat has delayed full Lightspeed service entry to mid-2028. Its chief executive addressed the launch crunch and sovereign demand.",
+          "why": "A Canadian constellation has slipped. No new date is on file.",
+          "sources": [
+            {
+              "outlet": "Via Satellite",
+              "url": "http://www.satellitetoday.com/finance/2026/10/29/telesat-delays-lightspeed-service-entry-to-mid-2028-goldberg-addresses-launch-crunch-and-sovereign-demand/",
+              "language": "en",
+              "type": "press"
+            }
+          ],
+          "bar": "Headline only."
+        }
+      ]
+    }
+  ],
+  "priorities": [
+    {
+      "rank": "P1",
+      "title": "ESA, the EU and the road to Rome",
+      "status": "Studies awarded on the third of November; committee vote pending",
+      "exposure": "context",
+      "implication": "The committee vote on the tenth of November comes before Rome on the fifteenth of December.",
+      "iso3": [
+        "FRA",
+        "DEU"
+      ],
+      "next": {
+        "date": "2026-11-10",
+        "event": "ESA committee vote"
+      }
+    },
+    {
+      "rank": "P2",
+      "title": "Ariane 6 and Prometheus",
+      "status": "Hot-fire done on the sixth of November; flight set no earlier than the twenty-third of November",
+      "exposure": "context",
+      "implication": "The next Ariane 6 flight carries 36 Amazon Leo satellites.",
+      "iso3": [
+        "FRA",
+        "DEU"
+      ],
+      "next": {
+        "date": "2026-11-23",
+        "event": "Ariane 6 flight with 36 Amazon Leo satellites, earliest date"
+      }
+    },
+    {
+      "rank": "P3",
+      "title": "Artemis and the 2028 landing",
+      "status": "Dates unchanged",
+      "exposure": "context",
+      "implication": "Commercial station proposals remain due on the eighth of December.",
+      "iso3": [
+        "USA"
+      ],
+      "next": {
+        "date": "2026-12-08",
+        "event": "NASA commercial space-station proposals due"
+      }
+    },
+    {
+      "rank": "P3",
+      "title": "Blue Origin and New Glenn's cadence",
+      "status": "January return reported, unconfirmed; no FAA decision on file",
+      "exposure": "policy risk",
+      "implication": "A company confirmation or an FAA decision would move this pathway.",
+      "iso3": [
+        "USA"
+      ],
+      "next": null
+    }
+  ],
+  "watchlist": [
+    {
+      "date": "2026-11-10",
+      "event": "ESA committee vote on the orbital outpost",
+      "where": "Europe",
+      "iso3": [
+        "FRA",
+        "DEU"
+      ]
+    },
+    {
+      "date": "2026-11-23",
+      "event": "Earliest date for the tenth Ariane 6 flight with 36 Amazon Leo satellites",
+      "where": "Europe",
+      "iso3": [
+        "FRA"
+      ]
+    },
+    {
+      "date": "2026-12-08",
+      "event": "NASA commercial space-station proposals due",
+      "where": "United States",
+      "iso3": [
+        "USA"
+      ]
+    },
+    {
+      "date": "2026-12-15",
+      "event": "Rome meeting on European space",
+      "where": "Italy",
+      "iso3": [
+        "ITA"
+      ]
+    }
+  ],
+  "milestones": [
+    {
+      "date": "2026-12-08",
+      "event": "NASA commercial space-station proposals due",
+      "iso3": [
+        "USA"
+      ],
+      "status": "scheduled",
+      "why": "The next dated step in the NASA station pathway."
+    },
+    {
+      "date": "2026-12-15",
+      "event": "Rome meeting",
+      "iso3": [
+        "ITA"
+      ],
+      "status": "scheduled",
+      "why": "The decision point after the committee vote."
+    },
+    {
+      "date": "2027-02-18",
+      "event": "Swedish Space Day",
+      "iso3": [
+        "SWE"
+      ],
+      "status": "scheduled",
+      "why": "Next fixed Swedish space event."
+    }
+  ],
+  "competitive_watch": [],
+  "countries": [],
+  "audio_script": "Good morning. It is Sunday, the eighth of November, and this is the Sovereign Space ATLAS briefing. Europe's Prometheus reusable engine has completed a hot-fire test in Germany. NASA's Swift observatory has been reported down over Indonesia. And South Korea's KT SAT has been named to lead a maritime connectivity project.\n\nEurope's reusable launcher work has a new test result and a dated flight. On the sixth of November, ArianeGroup said its Prometheus reusable rocket engine reached a new development milestone in a hot-fire test on the German Aerospace Center's P5 test bench. Arianespace has set the tenth Ariane 6 flight, carrying 36 Amazon Leo satellites, for the twenty-third of November at the earliest. That is the next date that matters for the launcher pathway. It falls before the Rome meeting on the fifteenth of December.\n\nIn Europe, the road to Rome continues. ESA announced on the third of November studies of a potential European-led orbital outpost in low Earth orbit. The studies feed the Rome decision. The committee vote is on the tenth of November. Rome follows on the fifteenth of December. No new Council decision is on file.\n\nIn Romania, Airbus said on the seventh of October that the country ordered 12 H225M multirole military helicopters. That is the latest dated order from the region. No Romanian space decision is on file, and no date is set. This is aviation, not space, so it carries low weight.\n\nIn Sweden, the national space agency announced on the second of November that its next Space Day is on the eighteenth of February, twenty twenty-seven. It is the next fixed Swedish space event.\n\nIn France, ArianeGroup said on the fourth of November that the second SyLEx sounding rocket launch succeeded. The M51 missile program is the related French defence work. In Spain, the International Telecommunication Union has accepted an extension for Open Cosmos but cut its broadband constellation by half. No next date is on file for either.\n\nIn Armenia, an Armath Engineering Makerspace has opened in Iraq. Azerbaijan, Kazakhstan and Uzbekistan have no new space decision on file. No date is set.\n\nIn Türkiye, a new microsatellite is slated for launch in 2028, and a joint satellite of Turkic states for 2027. The proposal of 24.59 billion lira for space and aviation in 2027 stands, with no split published. No decision date is on file.\n\nIn Indonesia, press accounts place the re-entry of NASA's Swift observatory over the west of the country on the fourth or fifth of November. One account names Sumatra. NASA has published no page, so the thread stays closed until it does. In South Korea, KT SAT will lead a maritime connectivity project with ST Engineering iDirect, announced on the fifth of November. In Japan, the MMX probe remains on its transfer orbit towards Mars, with no arrival date on file.\n\nIn Canada, Telesat has delayed full Lightspeed service to mid-2028. In the United States, NASA announced on the fourth of November Ka-band relay contracts for Viasat, SES and Astranis. Artemis dates are unchanged, and commercial station proposals are due on the eighth of December. Blue Origin's January return for New Glenn is reported and unconfirmed. The deadline for FAA comments passed on the thirtieth of October with no decision on file.\n\nWhat we are tracking this week is the ESA committee vote on the tenth of November. This month, it is the Ariane 6 flight with 36 Amazon Leo satellites, no earlier than the twenty-third of November. The heads-up dates are the eighth of December for NASA station proposals, the fifteenth of December for Rome, and the eighteenth of February for Swedish Space Day. We are also watching for a NASA page on Swift, and for Blue Origin or the FAA to settle the New Glenn cadence. Several of these items are standing items without a fresh source in this reading, so we treat them as context rather than news. Dates are given as reported, and we will flag any change as soon as a primary source appears. That is the briefing for Sunday, the eighth of November.",
+  "audio_sections": [
+    {
+      "id": "opening",
+      "title": "Opening",
+      "text": "Good morning. It is Sunday, the eighth of November, and this is the Sovereign Space ATLAS briefing. Europe's Prometheus reusable engine has completed a hot-fire test in Germany. NASA's Swift observatory has been reported down over Indonesia. And South Korea's KT SAT has been named to lead a maritime connectivity project."
+    },
+    {
+      "id": "top",
+      "title": "Top story",
+      "text": "Europe's reusable launcher work has a new test result and a dated flight. On the sixth of November, ArianeGroup said its Prometheus reusable rocket engine reached a new development milestone in a hot-fire test on the German Aerospace Center's P5 test bench. Arianespace has set the tenth Ariane 6 flight, carrying 36 Amazon Leo satellites, for the twenty-third of November at the earliest. That is the next date that matters for the launcher pathway. It falls before the Rome meeting on the fifteenth of December."
+    },
+    {
+      "id": "esa_eu",
+      "title": "ESA and EU",
+      "text": "In Europe, the road to Rome continues. ESA announced on the third of November studies of a potential European-led orbital outpost in low Earth orbit. The studies feed the Rome decision. The committee vote is on the tenth of November. Rome follows on the fifteenth of December. No new Council decision is on file."
+    },
+    {
+      "id": "cee",
+      "title": "Central and Eastern Europe",
+      "text": "In Romania, Airbus said on the seventh of October that the country ordered 12 H225M multirole military helicopters. That is the latest dated order from the region. No Romanian space decision is on file, and no date is set. This is aviation, not space, so it carries low weight."
+    },
+    {
+      "id": "nordics",
+      "title": "Nordics",
+      "text": "In Sweden, the national space agency announced on the second of November that its next Space Day is on the eighteenth of February, twenty twenty-seven. It is the next fixed Swedish space event."
+    },
+    {
+      "id": "west",
+      "title": "Western and Southern Europe",
+      "text": "In France, ArianeGroup said on the fourth of November that the second SyLEx sounding rocket launch succeeded. The M51 missile program is the related French defence work. In Spain, the International Telecommunication Union has accepted an extension for Open Cosmos but cut its broadband constellation by half. No next date is on file for either."
+    },
+    {
+      "id": "eurasia",
+      "title": "Eurasia and Central Asia",
+      "text": "In Armenia, an Armath Engineering Makerspace has opened in Iraq. Azerbaijan, Kazakhstan and Uzbekistan have no new space decision on file. No date is set."
+    },
+    {
+      "id": "mena",
+      "title": "Türkiye, Middle East and Africa",
+      "text": "In Türkiye, a new microsatellite is slated for launch in 2028, and a joint satellite of Turkic states for 2027. The proposal of 24.59 billion lira for space and aviation in 2027 stands, with no split published. No decision date is on file."
+    },
+    {
+      "id": "asia_pac",
+      "title": "Asia Pacific",
+      "text": "In Indonesia, press accounts place the re-entry of NASA's Swift observatory over the west of the country on the fourth or fifth of November. One account names Sumatra. NASA has published no page, so the thread stays closed until it does. In South Korea, KT SAT will lead a maritime connectivity project with ST Engineering iDirect, announced on the fifth of November. In Japan, the MMX probe remains on its transfer orbit towards Mars, with no arrival date on file."
+    },
+    {
+      "id": "americas",
+      "title": "Americas",
+      "text": "In Canada, Telesat has delayed full Lightspeed service to mid-2028. In the United States, NASA announced on the fourth of November Ka-band relay contracts for Viasat, SES and Astranis. Artemis dates are unchanged, and commercial station proposals are due on the eighth of December. Blue Origin's January return for New Glenn is reported and unconfirmed. The deadline for FAA comments passed on the thirtieth of October with no decision on file."
+    },
+    {
+      "id": "close",
+      "title": "Close",
+      "text": "What we are tracking this week is the ESA committee vote on the tenth of November. This month, it is the Ariane 6 flight with 36 Amazon Leo satellites, no earlier than the twenty-third of November. The heads-up dates are the eighth of December for NASA station proposals, the fifteenth of December for Rome, and the eighteenth of February for Swedish Space Day. We are also watching for a NASA page on Swift, and for Blue Origin or the FAA to settle the New Glenn cadence. Several of these items are standing items without a fresh source in this reading, so we treat them as context rather than news. Dates are given as reported, and we will flag any change as soon as a primary source appears. That is the briefing for Sunday, the eighth of November."
+    }
+  ],
+  "edition": "06:00 UTC",
+  "generated_at": "2026-11-08T10:51:51+00:00"
+}
