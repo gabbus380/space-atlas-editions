@@ -1,0 +1,774 @@
+{
+  "date": "2026-11-09",
+  "global": [
+    {
+      "date": "2026-11-06",
+      "iso3": [
+        "AUS"
+      ],
+      "status": "statement",
+      "priority": "P2",
+      "exposure": "context",
+      "title": "Australian Space Agency head Enrico Palermo confirms change of leadership",
+      "summary": "Enrico Palermo, head of the Australian Space Agency, has confirmed a change of leadership. The announcement was published on the sixth of November. No successor is named in the material held. No handover date is given. The agency is Australia's civil space regulator and coordinator.",
+      "why": "A change at the top of a national agency can alter its priorities and partnerships. The next fact needed is who takes over and when.",
+      "sources": [
+        {
+          "outlet": "Space Connect",
+          "url": "https://www.spaceconnectonline.com.au/industry/7359-preparing-the-way-forward-space-agency-head-enrico-palermo-confirms-change-of-leadership",
+          "language": "en",
+          "type": "press"
+        }
+      ],
+      "bar": "Headline only; successor and date unknown. Do not infer cause."
+    },
+    {
+      "date": "2026-11-05",
+      "iso3": [
+        "USA",
+        "AUS"
+      ],
+      "status": "contract",
+      "priority": "P3",
+      "exposure": "opportunity",
+      "title": "LeoLabs secures US$150 million conditional loan commitment from US DOW",
+      "summary": "LeoLabs has secured a conditional loan commitment of 150 million United States dollars. The lender is the United States Department of War. The announcement was dated the fifth of November. The loan is conditional, and the terms are not in the headline. LeoLabs runs space tracking services.",
+      "why": "Government financing of commercial space tracking supports the American surveillance pathway. Conditions and drawdown dates are the next facts to find.",
+      "sources": [
+        {
+          "outlet": "Space Connect",
+          "url": "https://www.spaceconnectonline.com.au/industry/7356-leolabs-secures-us-150m-conditional-loan-commitment-from-us-dow",
+          "language": "en",
+          "type": "press"
+        }
+      ],
+      "bar": "Headline only; DOW read as Department of War."
+    },
+    {
+      "date": "2026-11-04",
+      "iso3": [
+        "USA"
+      ],
+      "status": "overview",
+      "priority": "P3",
+      "exposure": "policy risk",
+      "title": "United States report says commercial satellites are now military targets",
+      "summary": "A United States report, covered on the fourth of November, says commercial satellites are now military targets. It describes a new era of space warfare. The report's authoring body is not named in the headline. No measures are listed there. Operators of commercial constellations are the ones affected.",
+      "why": "It frames commercial operators as legitimate targets in a conflict. That raises insurance, resilience and government-contract questions.",
+      "sources": [
+        {
+          "outlet": "Space Connect",
+          "url": "https://www.spaceconnectonline.com.au/global/7354-commercial-satellites-now-military-targets-in-new-era-of-space-warfare-says-us-report",
+          "language": "en",
+          "type": "press"
+        }
+      ],
+      "bar": "Headline only; identify the report before relying on it."
+    }
+  ],
+  "regions": [
+    {
+      "id": "esa_eu",
+      "name": "ESA and EU",
+      "items": [
+        {
+          "date": "2026-11-10",
+          "iso3": [
+            "FRA",
+            "DEU"
+          ],
+          "status": "event",
+          "priority": "P1",
+          "exposure": "opportunity",
+          "title": "ESA committee votes on the tenth of November ahead of Rome",
+          "summary": "A European Space Agency committee vote is due on the tenth of November. The Rome meeting follows on the fifteenth of December. European-led outpost studies were awarded on the third of November. ArianeGroup reported a Prometheus hot-fire on DLR's P5 bench on the sixth of November. The tenth Ariane 6 flight, with thirty-six Amazon Leo satellites, is set for the twenty-third of November at the earliest.",
+          "why": "The vote and Rome set European funding for the next cycle. The Ariane 6 date tests launch cadence.",
+          "sources": [
+            {
+              "outlet": "ArianeGroup",
+              "url": "https://www.ariane.group/en/news/prometheus-reusable-rocket-engine-reaches-new-development-milestone-with-hot-fire-test/",
+              "language": "en",
+              "type": "press"
+            },
+            {
+              "outlet": "ArianeGroup",
+              "url": "https://www.ariane.group/en/news/arianespace-to-launch-36-amazon-leo-satellites-on-november-23-at-the-earliest-for-10th-ariane-6-flight/",
+              "language": "en",
+              "type": "press"
+            }
+          ],
+          "bar": "Vote subject comes from thread notes, not packet."
+        }
+      ]
+    },
+    {
+      "id": "cee",
+      "name": "Central and Eastern Europe",
+      "items": [
+        {
+          "date": "2026-11-09",
+          "iso3": [
+            "LTU"
+          ],
+          "status": "overview",
+          "priority": "P3",
+          "exposure": "context",
+          "title": "Lithuanian broadcaster covers Russia's Starlink analogue and Ukraine's race against time",
+          "summary": "TV3 Lietuva has run a piece on a Russian analogue to Starlink. It refers to zombie satellites. It also describes Ukraine racing against time. No Polish agreement with India's space agency is on file. The next regional date is Rome on the fifteenth of December.",
+          "why": "It shows Baltic attention to Russian satellite communications. No government statement backs it yet.",
+          "sources": [
+            {
+              "outlet": "TV3 Lietuva",
+              "url": "https://www.tv3.lt/naujiena/naujienos/rusijai-kritiskai-svarbus-starlink-analogas-palydovai-zombiai-ir-ukrainos-lenktynes-su-laiku-n1553523",
+              "language": "lt",
+              "type": "national-language"
+            }
+          ],
+          "bar": "Headline only; body not read."
+        }
+      ]
+    },
+    {
+      "id": "nordics",
+      "name": "Nordics",
+      "items": [
+        {
+          "date": "2026-11-09",
+          "iso3": [
+            "NOR"
+          ],
+          "status": "overview",
+          "priority": "P3",
+          "exposure": "context",
+          "title": "ESA Norway publishes on navigating disruption at Jammertest",
+          "summary": "ESA's Norway page published on the ninth of November on navigating through disruption at Jammertest. The Norwegian Space Agency has described a record number of jammers at Andøya. The aim is to find ways to stop interference with timing and navigation. Sweden's space agency will hold Space Day on the eighteenth of February, twenty twenty-seven. No other Nordic date is set.",
+          "why": "Jamming of navigation signals is a live concern for northern operators. Sweden's date is the next fixed point.",
+          "sources": [
+            {
+              "outlet": "ESA Norway",
+              "url": "https://www.esa.int/nb/articles/about-us/who-we-are/member-states/norway/navigering-gjennom-forstyrrelser-ved-jammertest",
+              "language": "no",
+              "type": "government-or-embassy"
+            },
+            {
+              "outlet": "Direktoratet for romvirksomhet",
+              "url": "https://www.romsenter.no/aktuelt/rekordmange-jammer-paa-andoeya",
+              "language": "no",
+              "type": "government-or-embassy"
+            },
+            {
+              "outlet": "Rymdstyrelsen",
+              "url": "https://www.rymdstyrelsen.se/nyheter/2026/rymddagen-2027-blir-den-18-februari/",
+              "language": "sv",
+              "type": "government-or-embassy"
+            }
+          ],
+          "bar": "Andøya page undated; timing of the event not confirmed."
+        }
+      ]
+    },
+    {
+      "id": "west",
+      "name": "Western and Southern Europe",
+      "items": [
+        {
+          "date": "2026-11-09",
+          "iso3": [
+            "ESP"
+          ],
+          "status": "overview",
+          "priority": "P3",
+          "exposure": "opportunity",
+          "title": "PLD Space tests Miura 5 at INTA while Telespazio Ibérica plans two-hour emergency maps",
+          "summary": "PLD Space has put Miura 5 through electromagnetic compatibility tests at INTA. Telespazio Ibérica will develop a satellite service that makes emergency maps in under two hours. OHB's 554 million euro Sentinel-3 next generation contract remains a company claim. The International Telecommunication Union accepted Open Cosmos's extension but halved its broadband constellation. The next regional date is Rome on the fifteenth of December.",
+          "why": "Spanish industry is moving on launch and emergency mapping. The constellation cut limits one European broadband plan.",
+          "sources": [
+            {
+              "outlet": "Infoespacial",
+              "url": "https://www.infoespacial.com/texto-diario/mostrar/6082875/pld-space-somete-miura-5-ensayos-compatibilidad-electromagnetica-inta",
+              "language": "es",
+              "type": "national-language"
+            },
+            {
+              "outlet": "Infoespacial",
+              "url": "https://www.infoespacial.com/texto-diario/mostrar/6079823/telespazio-iberica-desarrollara-servicio-satelite-capaz-generar-mapas-emergencia-menos-horas",
+              "language": "es",
+              "type": "national-language"
+            }
+          ],
+          "bar": "Open Cosmos and OHB already filed; repeated for context only."
+        }
+      ]
+    },
+    {
+      "id": "eurasia",
+      "name": "Eurasia and Central Asia",
+      "items": [
+        {
+          "date": "2026-11-09",
+          "iso3": [
+            "AZE"
+          ],
+          "status": "overview",
+          "priority": "P3",
+          "exposure": "context",
+          "title": "Azercosmos news page unavailable",
+          "summary": "The Azercosmos news page could not be loaded today. Its latest announcements therefore cannot be read. Azerbaijan's transport ministry lists its page on the Astronautical Congress. No new Azerbaijani or Armenian space filing arrived. No date is set.",
+          "why": "Without the operator's page, Azerbaijan's position rests on earlier filings. The next date is not yet known.",
+          "sources": [
+            {
+              "outlet": "Azercosmos",
+              "url": "https://azercosmos.az/en/media-center/news",
+              "language": "en",
+              "type": "government-or-embassy"
+            }
+          ],
+          "bar": "Page error; no content."
+        }
+      ]
+    },
+    {
+      "id": "mena",
+      "name": "Türkiye, Middle East and Africa",
+      "items": [
+        {
+          "date": "2026-11-09",
+          "iso3": [
+            "TUR"
+          ],
+          "status": "overview",
+          "priority": "P3",
+          "exposure": "opportunity",
+          "title": "Türkiye's new microsatellite and a Turkic states satellite get launch years",
+          "summary": "A new Turkish microsatellite is to launch in 2028. A joint satellite of Turkic states is to launch in 2027. Both come from Haber.Aero headlines. The 2027 space and aviation budget proposal stands at 24.59 billion lira, with no split published. A United States report on Iran's space power appeared on the fifth of November.",
+          "why": "It gives Türkiye two dated launch targets. The budget split decides whether they are funded.",
+          "sources": [
+            {
+              "outlet": "Haber.Aero",
+              "url": "https://haber.aero/aero-gundem/turkiyenin-yeni-mikro-uydusu-2028de-firlatilacak/",
+              "language": "tr",
+              "type": "national-language"
+            },
+            {
+              "outlet": "Haber.Aero",
+              "url": "https://haber.aero/aero-gundem/turk-devletlerinin-ortak-uydusu-2027de-uzaya-gonderilecek/",
+              "language": "tr",
+              "type": "national-language"
+            }
+          ],
+          "bar": "Headlines only; agency confirmation not seen."
+        }
+      ]
+    },
+    {
+      "id": "asia_pac",
+      "name": "Asia Pacific",
+      "items": [
+        {
+          "date": "2026-11-09",
+          "iso3": [
+            "AUS"
+          ],
+          "status": "event",
+          "priority": "P3",
+          "exposure": "opportunity",
+          "title": "Southern Launch announces safe return of Varda Space W-8 capsule",
+          "summary": "Southern Launch has announced the safe return of the Varda Space W-8 capsule. The recovery took place in Australia. The announcement is undated in the material held. No further detail is given in the headline. Southern Launch is an Australian launch and range operator.",
+          "why": "It shows Australia handling a commercial capsule return. The next fact needed is the next Varda recovery.",
+          "sources": [
+            {
+              "outlet": "Space Connect",
+              "url": "https://www.spaceconnectonline.com.au/satellites/7358-southern-launch-announces-safe-return-of-varda-space-w-8-capsule",
+              "language": "en",
+              "type": "press"
+            }
+          ],
+          "bar": "Date and site not in the headline."
+        },
+        {
+          "date": "2026-11-09",
+          "iso3": [
+            "PAK"
+          ],
+          "status": "statement",
+          "priority": "P3",
+          "exposure": "context",
+          "title": "SUPARCO lists Pakistan's second indigenous EO-2 satellite as flown",
+          "summary": "SUPARCO says Pakistan's second indigenous EO-2 has flown. It joins the national Earth observation fleet as its sixth satellite. The launch date is not given in the headline. Al Jazeera's earlier report on Pakistan and China's station has no crew and no date. Swift fell over western Indonesia on the fifth of November according to press, with no NASA page.",
+          "why": "It extends Pakistan's own Earth observation capacity. The date and launcher still need to be found.",
+          "sources": [
+            {
+              "outlet": "SUPARCO",
+              "url": "https://suparco.gov.pk/news-updates.html",
+              "language": "en",
+              "type": "government-or-embassy"
+            },
+            {
+              "outlet": "ABC News Australia",
+              "url": "https://www.abc.net.au/news/2026-11-05/nasa-telescope-plummets-to-earth-after-decades-long-mission/107348488",
+              "language": "en",
+              "type": "press"
+            }
+          ],
+          "bar": "Launch date missing; Swift mention is context."
+        }
+      ]
+    },
+    {
+      "id": "americas",
+      "name": "Americas",
+      "items": [
+        {
+          "date": "2026-11-09",
+          "iso3": [
+            "VEN"
+          ],
+          "status": "statement",
+          "priority": "P3",
+          "exposure": "context",
+          "title": "Venezuela applies satellite and military technology after recent earthquakes",
+          "summary": "teleSUR says Venezuela is applying satellite and military technology after recent earthquakes. The report concerns risk from the tremors. No agency or date is named in the headline. In the United States, Blue Origin's January return is unconfirmed and the FAA deadline of the thirtieth of October passed without a decision. Artemis dates are unchanged, with proposals due on the eighth of December.",
+          "why": "It shows satellite tools used for disaster response in South America. The state broadcaster is the only source.",
+          "sources": [
+            {
+              "outlet": "teleSUR",
+              "url": "https://www.telesurtv.net/venezuela-tecnologia-satelital-militar-sismos/",
+              "language": "es",
+              "type": "national-language"
+            }
+          ],
+          "bar": "State outlet; single source."
+        }
+      ]
+    }
+  ],
+  "priorities": [
+    {
+      "rank": "P2",
+      "title": "ESA committee vote and Rome",
+      "status": "event",
+      "exposure": "opportunity",
+      "implication": "The vote tomorrow sets up Rome on the fifteenth of December.",
+      "iso3": [
+        "FRA",
+        "DEU"
+      ],
+      "next": {
+        "date": "2026-11-10",
+        "event": "ESA committee vote"
+      }
+    },
+    {
+      "rank": "P2",
+      "title": "Australian Space Agency leadership change",
+      "status": "statement",
+      "exposure": "context",
+      "implication": "The agency head has confirmed a change of leadership but no successor is named.",
+      "iso3": [
+        "AUS"
+      ],
+      "next": null
+    },
+    {
+      "rank": "P2",
+      "title": "Artemis and the 2028 landing",
+      "status": "overview",
+      "exposure": "policy risk",
+      "implication": "Dates are unchanged and proposals are due on the eighth of December.",
+      "iso3": [
+        "USA"
+      ],
+      "next": {
+        "date": "2026-12-08",
+        "event": "Artemis proposals due"
+      }
+    },
+    {
+      "rank": "P2",
+      "title": "Blue Origin and New Glenn cadence",
+      "status": "overview",
+      "exposure": "competitive threat",
+      "implication": "A January return is reported but unconfirmed, and no FAA decision is on file.",
+      "iso3": [
+        "USA"
+      ],
+      "next": null
+    }
+  ],
+  "watchlist": [
+    {
+      "date": "2026-11-10",
+      "event": "ESA committee vote",
+      "where": "Europe",
+      "iso3": [
+        "FRA",
+        "DEU"
+      ]
+    },
+    {
+      "date": "2026-11-23",
+      "event": "Ariane 6 flight with 36 Amazon Leo satellites, earliest date",
+      "where": "Europe",
+      "iso3": [
+        "FRA"
+      ]
+    },
+    {
+      "date": "2026-12-08",
+      "event": "Artemis proposals due",
+      "where": "United States",
+      "iso3": [
+        "USA"
+      ]
+    },
+    {
+      "date": "2026-12-15",
+      "event": "Rome meeting",
+      "where": "Rome",
+      "iso3": [
+        "ITA"
+      ]
+    }
+  ],
+  "milestones": [
+    {
+      "date": "2026-12-15",
+      "event": "Rome meeting",
+      "iso3": [
+        "ITA"
+      ],
+      "status": "scheduled",
+      "why": "It follows the committee vote."
+    },
+    {
+      "date": "2027-01-31",
+      "event": "Blue Origin New Glenn return, reported for January",
+      "iso3": [
+        "USA"
+      ],
+      "status": "unconfirmed",
+      "why": "Company has not confirmed; exact day unknown."
+    },
+    {
+      "date": "2027-02-18",
+      "event": "Sweden's Space Day",
+      "iso3": [
+        "SWE"
+      ],
+      "status": "scheduled",
+      "why": "Rymdstyrelsen has set the date."
+    }
+  ],
+  "competitive_watch": [],
+  "countries": [
+    {
+      "iso3": "AUS",
+      "items": [
+        {
+          "date": "2026-11-06",
+          "title": "Australian Space Agency head Enrico Palermo confirms change of leadership",
+          "status": "statement",
+          "priority": "P2",
+          "exposure": "context",
+          "summary": "Enrico Palermo, head of the Australian Space Agency, has confirmed a change of leadership. The announcement was published on the sixth of November. No successor is named. No handover date is given. The agency is Australia's civil space regulator and coordinator.",
+          "why": "A change at the top can alter priorities and partnerships. The next fact needed is who takes over and when.",
+          "sources": [
+            {
+              "outlet": "Space Connect",
+              "url": "https://www.spaceconnectonline.com.au/industry/7359-preparing-the-way-forward-space-agency-head-enrico-palermo-confirms-change-of-leadership",
+              "language": "en",
+              "type": "press"
+            }
+          ],
+          "bar": "Headline only.",
+          "iso3": []
+        }
+      ]
+    },
+    {
+      "iso3": "USA",
+      "items": [
+        {
+          "date": "2026-11-05",
+          "title": "LeoLabs secures US$150 million conditional loan commitment from US DOW",
+          "status": "contract",
+          "priority": "P3",
+          "exposure": "opportunity",
+          "summary": "LeoLabs has secured a conditional loan commitment of 150 million United States dollars. The lender is the United States Department of War. The announcement was dated the fifth of November. The terms are not in the headline. LeoLabs runs space tracking services.",
+          "why": "Government financing of commercial tracking supports the American surveillance pathway. Conditions are the next facts to find.",
+          "sources": [
+            {
+              "outlet": "Space Connect",
+              "url": "https://www.spaceconnectonline.com.au/industry/7356-leolabs-secures-us-150m-conditional-loan-commitment-from-us-dow",
+              "language": "en",
+              "type": "press"
+            }
+          ],
+          "bar": "Headline only.",
+          "iso3": []
+        }
+      ]
+    },
+    {
+      "iso3": "FRA",
+      "items": [
+        {
+          "date": "2026-11-10",
+          "title": "ESA committee votes on the tenth of November ahead of Rome",
+          "status": "event",
+          "priority": "P1",
+          "exposure": "opportunity",
+          "summary": "A European Space Agency committee vote is due on the tenth of November. The Rome meeting follows on the fifteenth of December. European-led outpost studies were awarded on the third of November. ArianeGroup reported a Prometheus hot-fire on the sixth of November. The tenth Ariane 6 flight is set for the twenty-third of November at the earliest.",
+          "why": "The vote and Rome set European funding for the next cycle. The Ariane 6 date tests launch cadence.",
+          "sources": [
+            {
+              "outlet": "ArianeGroup",
+              "url": "https://www.ariane.group/en/news/prometheus-reusable-rocket-engine-reaches-new-development-milestone-with-hot-fire-test/",
+              "language": "en",
+              "type": "press"
+            }
+          ],
+          "bar": "Vote subject from thread notes.",
+          "iso3": []
+        }
+      ]
+    },
+    {
+      "iso3": "LTU",
+      "items": [
+        {
+          "date": "2026-11-09",
+          "title": "Lithuanian broadcaster covers Russia's Starlink analogue",
+          "status": "overview",
+          "priority": "P3",
+          "exposure": "context",
+          "summary": "TV3 Lietuva has run a piece on a Russian analogue to Starlink. It refers to zombie satellites. It also describes Ukraine racing against time. No Polish agreement with India's space agency is on file. The next regional date is the fifteenth of December.",
+          "why": "It shows Baltic attention to Russian satellite communications. No government statement backs it.",
+          "sources": [
+            {
+              "outlet": "TV3 Lietuva",
+              "url": "https://www.tv3.lt/naujiena/naujienos/rusijai-kritiskai-svarbus-starlink-analogas-palydovai-zombiai-ir-ukrainos-lenktynes-su-laiku-n1553523",
+              "language": "lt",
+              "type": "national-language"
+            }
+          ],
+          "bar": "Headline only.",
+          "iso3": []
+        }
+      ]
+    },
+    {
+      "iso3": "NOR",
+      "items": [
+        {
+          "date": "2026-11-09",
+          "title": "ESA Norway publishes on navigating disruption at Jammertest",
+          "status": "overview",
+          "priority": "P3",
+          "exposure": "context",
+          "summary": "ESA's Norway page published on the ninth of November on navigating disruption at Jammertest. The Norwegian Space Agency has described a record number of jammers at Andøya. The aim is to stop interference with timing and navigation. Sweden's Space Day is on the eighteenth of February, twenty twenty-seven. No other Nordic date is set.",
+          "why": "Jamming is a live concern for northern operators. Sweden's date is the next fixed point.",
+          "sources": [
+            {
+              "outlet": "ESA Norway",
+              "url": "https://www.esa.int/nb/articles/about-us/who-we-are/member-states/norway/navigering-gjennom-forstyrrelser-ved-jammertest",
+              "language": "no",
+              "type": "government-or-embassy"
+            }
+          ],
+          "bar": "Andøya page undated.",
+          "iso3": []
+        }
+      ]
+    },
+    {
+      "iso3": "ESP",
+      "items": [
+        {
+          "date": "2026-11-09",
+          "title": "PLD Space tests Miura 5 at INTA",
+          "status": "overview",
+          "priority": "P3",
+          "exposure": "opportunity",
+          "summary": "PLD Space has put Miura 5 through electromagnetic compatibility tests at INTA. Telespazio Ibérica will develop a service that makes emergency maps in under two hours. OHB's 554 million euro contract remains a company claim. The International Telecommunication Union halved Open Cosmos's constellation. The next date is the fifteenth of December.",
+          "why": "Spanish industry is moving on launch and emergency mapping. The constellation cut limits one broadband plan.",
+          "sources": [
+            {
+              "outlet": "Infoespacial",
+              "url": "https://www.infoespacial.com/texto-diario/mostrar/6082875/pld-space-somete-miura-5-ensayos-compatibilidad-electromagnetica-inta",
+              "language": "es",
+              "type": "national-language"
+            }
+          ],
+          "bar": "Context repeats earlier filings.",
+          "iso3": []
+        }
+      ]
+    },
+    {
+      "iso3": "AZE",
+      "items": [
+        {
+          "date": "2026-11-09",
+          "title": "Azercosmos news page unavailable",
+          "status": "overview",
+          "priority": "P3",
+          "exposure": "context",
+          "summary": "The Azercosmos news page could not be loaded today. Its latest announcements cannot be read. Azerbaijan's transport ministry lists its page on the Astronautical Congress. No new space filing arrived from Azerbaijan or Armenia. No date is set.",
+          "why": "Without the operator's page, Azerbaijan's position rests on earlier filings. The next date is not known.",
+          "sources": [
+            {
+              "outlet": "Azercosmos",
+              "url": "https://azercosmos.az/en/media-center/news",
+              "language": "en",
+              "type": "government-or-embassy"
+            }
+          ],
+          "bar": "Page error.",
+          "iso3": []
+        }
+      ]
+    },
+    {
+      "iso3": "TUR",
+      "items": [
+        {
+          "date": "2026-11-09",
+          "title": "Türkiye's new microsatellite and a Turkic states satellite get launch years",
+          "status": "overview",
+          "priority": "P3",
+          "exposure": "opportunity",
+          "summary": "A new Turkish microsatellite is to launch in 2028. A joint satellite of Turkic states is to launch in 2027. Both come from Haber.Aero headlines. The 2027 budget proposal stands at 24.59 billion lira, with no split published. A United States report on Iran's space power appeared on the fifth of November.",
+          "why": "It gives Türkiye two dated launch targets. The budget split decides funding.",
+          "sources": [
+            {
+              "outlet": "Haber.Aero",
+              "url": "https://haber.aero/aero-gundem/turkiyenin-yeni-mikro-uydusu-2028de-firlatilacak/",
+              "language": "tr",
+              "type": "national-language"
+            }
+          ],
+          "bar": "Headlines only.",
+          "iso3": []
+        }
+      ]
+    },
+    {
+      "iso3": "PAK",
+      "items": [
+        {
+          "date": "2026-11-09",
+          "title": "SUPARCO lists Pakistan's second indigenous EO-2 satellite as flown",
+          "status": "statement",
+          "priority": "P3",
+          "exposure": "context",
+          "summary": "SUPARCO says Pakistan's second indigenous EO-2 has flown. It joins the national fleet as its sixth satellite. The launch date is not given. Al Jazeera's earlier report on Pakistan and China's station has no crew and no date. The Swift fall over Indonesia is press-only.",
+          "why": "It extends Pakistan's Earth observation capacity. Date and launcher are still to be found.",
+          "sources": [
+            {
+              "outlet": "SUPARCO",
+              "url": "https://suparco.gov.pk/news-updates.html",
+              "language": "en",
+              "type": "government-or-embassy"
+            }
+          ],
+          "bar": "Launch date missing.",
+          "iso3": []
+        }
+      ]
+    },
+    {
+      "iso3": "VEN",
+      "items": [
+        {
+          "date": "2026-11-09",
+          "title": "Venezuela applies satellite and military technology after recent earthquakes",
+          "status": "statement",
+          "priority": "P3",
+          "exposure": "context",
+          "summary": "teleSUR says Venezuela is applying satellite and military technology after recent earthquakes. The report concerns risk from the tremors. No agency or date is named. Blue Origin's January return is unconfirmed. Artemis proposals are due on the eighth of December.",
+          "why": "It shows satellite tools used for disaster response in South America. The state broadcaster is the only source.",
+          "sources": [
+            {
+              "outlet": "teleSUR",
+              "url": "https://www.telesurtv.net/venezuela-tecnologia-satelital-militar-sismos/",
+              "language": "es",
+              "type": "national-language"
+            }
+          ],
+          "bar": "State outlet; single source.",
+          "iso3": []
+        }
+      ]
+    }
+  ],
+  "bottom_line": "The main pathway is the road to Rome, where a European Space Agency committee votes tomorrow. The next date that matters is the tenth of November, then Rome on the fifteenth of December.",
+  "summary": [
+    "Australia's space agency head has confirmed a change of leadership.",
+    "Pakistan's space agency lists its second indigenous Earth observation satellite as flown.",
+    "A European Space Agency committee votes on the tenth of November, ahead of Rome on the fifteenth of December.",
+    "Blue Origin's January return and the Artemis dates are unchanged.",
+    "The tenth Ariane 6 flight is set for the twenty-third of November at the earliest."
+  ],
+  "audio_script": "Good morning. It is Monday, the ninth of November, and this is the Sovereign Space ATLAS briefing. Australia's space agency head has confirmed a change of leadership. Pakistan says its second indigenous Earth observation satellite has flown. And a European Space Agency committee vote is due tomorrow.\n\nThe top story is in Australia. Enrico Palermo, head of the Australian Space Agency, has confirmed a change of leadership. The announcement was published on the sixth of November. No successor and no handover date have been named. The next fact we need is who takes over, and when.\n\nIn Europe, the next date is tomorrow, the tenth of November, when the European Space Agency committee votes. Rome follows on the fifteenth of December. Studies of the European-led outpost were awarded on the third of November. On the sixth of November, ArianeGroup reported a hot-fire of the Prometheus reusable engine on DLR's P5 test bench. The tenth Ariane 6 flight, carrying thirty-six Amazon Leo satellites, is set for the twenty-third of November at the earliest.\n\nIn Central and Eastern Europe, there is no new agreement to report. Lithuanian television has run a piece on Russia's Starlink analogue and its so-called zombie satellites. No Polish agreement with India's space agency is on file. The next date for the region is Rome, on the fifteenth of December.\n\nIn Norway, the European Space Agency's Norway page published on the ninth of November on navigating disruption at Jammertest. The Norwegian Space Agency has described a record number of jammers at Andøya, trying to find ways to stop interference with timing and navigation. In Sweden, Space Day will be held on the eighteenth of February, twenty twenty-seven.\n\nIn Spain, PLD Space has put its Miura 5 rocket through electromagnetic compatibility tests at INTA. Telespazio Ibérica will develop a satellite service able to produce emergency maps in under two hours. The International Telecommunication Union has accepted Open Cosmos's extension, but halved its broadband constellation. OHB's contract of 554 million euros for Sentinel-3 next generation remains a company claim. The next date is Rome, on the fifteenth of December.\n\nIn Azerbaijan, the Azercosmos news page could not be loaded today, so its latest announcements cannot be read. No date is set.\n\nIn Türkiye, a new microsatellite is to launch in 2028, and a joint satellite of Turkic states in 2027, according to Haber.Aero. The 2027 budget proposal for space and aviation stands at 24.59 billion lira, with no split published. A United States report on Iran's space power appeared on the fifth of November.\n\nIn Australia, Southern Launch has announced the safe return of the Varda Space W-8 capsule. In Pakistan, the space agency SUPARCO lists its second indigenous Earth observation satellite, EO-2, as flown, the sixth in its fleet. In South Korea, KT SAT will lead a maritime connectivity project with ST Engineering iDirect. Swift fell over western Indonesia on the fifth of November according to press. NASA has not published a page, so that thread stays closed.\n\nIn the United States, LeoLabs has a conditional loan commitment of 150 million dollars from the Department of War, announced on the fifth of November. A United States report says commercial satellites are now military targets. Blue Origin's return of New Glenn is reported for January, and the company has not confirmed it. The FAA comment deadline of the thirtieth of October has passed with no decision. Artemis dates are unchanged, with proposals due on the eighth of December. In Canada, Telesat has delayed full Lightspeed service to mid-2028. In Venezuela, teleSUR says satellite and military technology is being applied after recent earthquakes.\n\nWhat we are tracking this week is the European Space Agency committee vote tomorrow, the tenth of November, and any named successor at the Australian Space Agency. We are also waiting for a NASA page on Swift and an FAA decision on Blue Origin. What we are tracking this month is the Ariane 6 flight with Amazon Leo satellites, no earlier than the twenty-third of November, and Blue Origin's reported January return. Heads-up dates are the eighth of December for Artemis proposals, the fifteenth of December for Rome, and the eighteenth of February for Sweden's Space Day. That is the briefing for Monday, the ninth of November.",
+  "audio_sections": [
+    {
+      "id": "opening",
+      "title": "Opening",
+      "text": "Good morning. It is Monday, the ninth of November, and this is the Sovereign Space ATLAS briefing. Australia's space agency head has confirmed a change of leadership. Pakistan says its second indigenous Earth observation satellite has flown. And a European Space Agency committee vote is due tomorrow."
+    },
+    {
+      "id": "top",
+      "title": "Top story",
+      "text": "The top story is in Australia. Enrico Palermo, head of the Australian Space Agency, has confirmed a change of leadership. The announcement was published on the sixth of November. No successor and no handover date have been named. The next fact we need is who takes over, and when."
+    },
+    {
+      "id": "esa_eu",
+      "title": "ESA and EU",
+      "text": "In Europe, the next date is tomorrow, the tenth of November, when the European Space Agency committee votes. Rome follows on the fifteenth of December. Studies of the European-led outpost were awarded on the third of November. On the sixth of November, ArianeGroup reported a hot-fire of the Prometheus reusable engine on DLR's P5 test bench. The tenth Ariane 6 flight, carrying thirty-six Amazon Leo satellites, is set for the twenty-third of November at the earliest."
+    },
+    {
+      "id": "cee",
+      "title": "Central and Eastern Europe",
+      "text": "In Central and Eastern Europe, there is no new agreement to report. Lithuanian television has run a piece on Russia's Starlink analogue and its so-called zombie satellites. No Polish agreement with India's space agency is on file. The next date for the region is Rome, on the fifteenth of December."
+    },
+    {
+      "id": "nordics",
+      "title": "Nordics",
+      "text": "In Norway, the European Space Agency's Norway page published on the ninth of November on navigating disruption at Jammertest. The Norwegian Space Agency has described a record number of jammers at Andøya, trying to find ways to stop interference with timing and navigation. In Sweden, Space Day will be held on the eighteenth of February, twenty twenty-seven."
+    },
+    {
+      "id": "west",
+      "title": "Western and Southern Europe",
+      "text": "In Spain, PLD Space has put its Miura 5 rocket through electromagnetic compatibility tests at INTA. Telespazio Ibérica will develop a satellite service able to produce emergency maps in under two hours. The International Telecommunication Union has accepted Open Cosmos's extension, but halved its broadband constellation. OHB's contract of 554 million euros for Sentinel-3 next generation remains a company claim. The next date is Rome, on the fifteenth of December."
+    },
+    {
+      "id": "eurasia",
+      "title": "Eurasia and Central Asia",
+      "text": "In Azerbaijan, the Azercosmos news page could not be loaded today, so its latest announcements cannot be read. No date is set."
+    },
+    {
+      "id": "mena",
+      "title": "Türkiye, Middle East and Africa",
+      "text": "In Türkiye, a new microsatellite is to launch in 2028, and a joint satellite of Turkic states in 2027, according to Haber.Aero. The 2027 budget proposal for space and aviation stands at 24.59 billion lira, with no split published. A United States report on Iran's space power appeared on the fifth of November."
+    },
+    {
+      "id": "asia_pac",
+      "title": "Asia Pacific",
+      "text": "In Australia, Southern Launch has announced the safe return of the Varda Space W-8 capsule. In Pakistan, the space agency SUPARCO lists its second indigenous Earth observation satellite, EO-2, as flown, the sixth in its fleet. In South Korea, KT SAT will lead a maritime connectivity project with ST Engineering iDirect. Swift fell over western Indonesia on the fifth of November according to press. NASA has not published a page, so that thread stays closed."
+    },
+    {
+      "id": "americas",
+      "title": "Americas",
+      "text": "In the United States, LeoLabs has a conditional loan commitment of 150 million dollars from the Department of War, announced on the fifth of November. A United States report says commercial satellites are now military targets. Blue Origin's return of New Glenn is reported for January, and the company has not confirmed it. The FAA comment deadline of the thirtieth of October has passed with no decision. Artemis dates are unchanged, with proposals due on the eighth of December. In Canada, Telesat has delayed full Lightspeed service to mid-2028. In Venezuela, teleSUR says satellite and military technology is being applied after recent earthquakes."
+    },
+    {
+      "id": "close",
+      "title": "Close",
+      "text": "What we are tracking this week is the European Space Agency committee vote tomorrow, the tenth of November, and any named successor at the Australian Space Agency. We are also waiting for a NASA page on Swift and an FAA decision on Blue Origin. What we are tracking this month is the Ariane 6 flight with Amazon Leo satellites, no earlier than the twenty-third of November, and Blue Origin's reported January return. Heads-up dates are the eighth of December for Artemis proposals, the fifteenth of December for Rome, and the eighteenth of February for Sweden's Space Day. That is the briefing for Monday, the ninth of November."
+    }
+  ],
+  "edition": "06:00 UTC",
+  "headline": "Australian Space Agency head confirms leadership change as ESA committee vote nears ahead of Rome",
+  "generated_at": "2026-11-09T12:14:37+00:00"
+}

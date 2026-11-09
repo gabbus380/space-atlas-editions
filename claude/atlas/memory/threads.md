@@ -212,3 +212,12 @@ Episodes:
 - Japan MMX: transfer orbit, no arrival date.
 - Matera laser ranging: no change.
 - Telesat Lightspeed: new thread, mid-2028.
+
+
+## 2026-11-09
+- ESA, EU, Rome: vote 10 November, Rome 15 December; Prometheus hot-fire 6 November; Ariane 6 flight 23 November at the earliest.
+- Blue Origin: January return unconfirmed; FAA deadline of 30 October passed, no decision.
+- Artemis: dates unchanged; 8 December proposals due.
+- Swift: press only; closed pending a NASA page.
+- Telesat Lightspeed: mid-2028, unchanged.
+- New: Australian Space Agency leadership change; Pakistan EO-2; LeoLabs loan.
