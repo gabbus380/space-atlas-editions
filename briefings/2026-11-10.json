@@ -1,0 +1,603 @@
+{
+  "date": "2026-11-10",
+  "headline": "European committee votes today on the road to Rome",
+  "summary": [
+    "A European committee vote on the road to Rome falls today, the tenth of November.",
+    "European-led outpost studies were awarded on the third of November, and ArianeGroup fired its Prometheus engine on the sixth.",
+    "Ariane 6 is due to fly 36 Amazon Leo satellites on the twenty-third of November at the earliest.",
+    "In Australia, the Space Agency head has confirmed a change of leadership, and Pakistan's sixth Earth observation satellite is in orbit.",
+    "The next date that matters is the Rome meeting on the fifteenth of December."
+  ],
+  "bottom_line": "The European road to Rome reaches its committee vote today, with no outcome published yet and no new Council decision. The next date that matters is the fifteenth of December in Rome.",
+  "global": [
+    {
+      "date": "2026-11-10",
+      "iso3": [
+        "FRA",
+        "DEU",
+        "ITA"
+      ],
+      "status": "event",
+      "priority": "P1",
+      "exposure": "context",
+      "title": "European committee votes on the road to Rome",
+      "summary": "A European committee vote falls on the tenth of November. It follows European-led outpost studies awarded on the third of November. The Rome meeting follows on the fifteenth of December. No outcome of the vote has been published. No new Council decision is on file.",
+      "why": "The vote is the last scheduled step before Rome. The result sets the starting position for the fifteenth of December.",
+      "sources": [
+        {
+          "outlet": "Infoespacial",
+          "url": "https://www.infoespacial.com/texto-diario/mostrar/6081742/ohb-asegura-contrato-554-millones-euros-satelite-sentinel-3-nueva-generacion",
+          "language": "es",
+          "type": "press"
+        }
+      ],
+      "bar": "Vote date from thread notes; no result in the reading. Do not state an outcome."
+    },
+    {
+      "date": "2026-11-09",
+      "iso3": [
+        "CHN"
+      ],
+      "status": "event",
+      "priority": "P2",
+      "exposure": "competitive threat",
+      "title": "China's Ceres-2 and Kinetica-2 complete second flights",
+      "summary": "China's commercial rockets Ceres-2 and Kinetica-2 have each completed a second flight. Ceres-2 flew on its second attempt, according to a Turkish space outlet. A Spanish trade outlet describes both second flights as successful. No payload details appear in the headlines. No next flight date is given.",
+      "why": "Two repeat flights show Chinese commercial launch moving beyond debut missions. Launch supply is a factor in several constellation schedules being tracked.",
+      "sources": [
+        {
+          "outlet": "Infoespacial",
+          "url": "https://www.infoespacial.com/texto-diario/mostrar/6084301/china-consolida-sector-comercial-cohetes-ceres-2-kinetica-2-completan-exito-segundos-vuelos",
+          "language": "es",
+          "type": "press"
+        },
+        {
+          "outlet": "Haber.Aero",
+          "url": "https://haber.aero/uzay/cinin-ceres-2-roketi-ikinci-denemede-firlatildi/",
+          "language": "tr",
+          "type": "press"
+        }
+      ],
+      "bar": "Headline-level only; no dates for flights."
+    },
+    {
+      "date": "2026-11-10",
+      "iso3": [
+        "USA"
+      ],
+      "status": "overview",
+      "priority": "P3",
+      "exposure": "policy risk",
+      "title": "NASA Artemis dates hold as Congress changes hands",
+      "summary": "Artemis dates are unchanged. Proposals for the 2028 landing effort are due on the eighth of December. A Spanish trade outlet asks what the Democratic return to Congress means for NASA and Golden Dome. No NASA update has been published this week. The next date is the eighth of December.",
+      "why": "The midterm result adds political context to the 2028 landing timetable. Dates have not moved.",
+      "sources": [
+        {
+          "outlet": "Infoespacial",
+          "url": "https://www.infoespacial.com/texto-diario/mostrar/6079421/consecuencias-tiene-nasa-golden-dome-regreso-democrata-congreso",
+          "language": "es",
+          "type": "press"
+        }
+      ],
+      "bar": "Standing item; no new fact."
+    }
+  ],
+  "regions": [
+    {
+      "id": "esa_eu",
+      "name": "ESA and EU",
+      "items": [
+        {
+          "date": "2026-11-06",
+          "iso3": [
+            "FRA",
+            "DEU"
+          ],
+          "status": "event",
+          "priority": "P2",
+          "exposure": "context",
+          "title": "ArianeGroup fires Prometheus engine on DLR test bench",
+          "summary": "ArianeGroup ran a hot-fire of the reusable Prometheus engine on DLR's P5 test bench on the sixth of November. The company calls it a new development milestone. Arianespace plans to launch 36 Amazon Leo satellites on the tenth Ariane 6 flight. That flight is set for the twenty-third of November at the earliest. OHB's EUR 554 million Sentinel-3 next-generation figure remains a company claim.",
+          "why": "Prometheus is the engine behind European reusability plans. The Ariane 6 flight date is the next hard marker.",
+          "sources": [
+            {
+              "outlet": "ArianeGroup",
+              "url": "https://www.ariane.group/en/news/prometheus-reusable-rocket-engine-reaches-new-development-milestone-with-hot-fire-test/",
+              "language": "en",
+              "type": "press"
+            },
+            {
+              "outlet": "ArianeGroup",
+              "url": "https://www.ariane.group/en/news/arianespace-to-launch-36-amazon-leo-satellites-on-november-23-at-the-earliest-for-10th-ariane-6-flight/",
+              "language": "en",
+              "type": "press"
+            }
+          ],
+          "bar": "Company pages; flight is NET."
+        }
+      ]
+    },
+    {
+      "id": "cee",
+      "name": "Central and Eastern Europe",
+      "items": [
+        {
+          "date": "2026-10-07",
+          "iso3": [
+            "ROU"
+          ],
+          "status": "contract",
+          "priority": "P3",
+          "exposure": "context",
+          "title": "Romania orders twelve Airbus H225M helicopters",
+          "summary": "Airbus announced on the seventh of October that Romania has ordered twelve H225M multirole military helicopters. The order is aviation, not space. The Romanian Space Agency's strategy page carries no new decision. No Romanian space date is set. Poland's partnerships are unchanged, with no POLSA-ISRO agreement on file.",
+          "why": "Romania's recent defence spending is going to aircraft. Space strategy has no dated step yet.",
+          "sources": [
+            {
+              "outlet": "Airbus",
+              "url": "https://www.airbus.com/en/newsroom/press-releases/2026-10-romania-orders-12-airbus-h225m-multirole-military-helicopters",
+              "language": "en",
+              "type": "press"
+            },
+            {
+              "outlet": "Romanian Space Agency",
+              "url": "https://rosa.ro/ro/strategie-spatiala",
+              "language": "ro",
+              "type": "government-or-embassy"
+            }
+          ],
+          "bar": "Aviation, flagged as such; low space relevance."
+        }
+      ]
+    },
+    {
+      "id": "nordics",
+      "name": "Nordics",
+      "items": [
+        {
+          "date": "2026-11-02",
+          "iso3": [
+            "SWE",
+            "NOR"
+          ],
+          "status": "event",
+          "priority": "P3",
+          "exposure": "context",
+          "title": "Swedish National Space Agency sets Space Day for eighteenth of February",
+          "summary": "The Swedish National Space Agency announced on the second of November that its next Space Day is on the eighteenth of February, 2027. Norway's space directorate has signed a new agreement with the Canadian Space Agency on Arctic cooperation. The Norwegian page carries no date for the signing. No Nordic launch or contract date is on file. The next Nordic date is the eighteenth of February.",
+          "why": "Both items are cooperation and scheduling, not procurement. They mark where Nordic agencies are working.",
+          "sources": [
+            {
+              "outlet": "Swedish National Space Agency",
+              "url": "https://www.rymdstyrelsen.se/nyheter/2026/rymddagen-2027-blir-den-18-februari/",
+              "language": "sv",
+              "type": "national-language"
+            },
+            {
+              "outlet": "Norwegian Space Directorate",
+              "url": "https://www.romsenter.no/aktuelt/ny-avtale-med-canada-aapner-for-tettere-romsamarbeid-i-arktis",
+              "language": "no",
+              "type": "government-or-embassy"
+            }
+          ],
+          "bar": "Norway undated."
+        }
+      ]
+    },
+    {
+      "id": "west",
+      "name": "Western and Southern Europe",
+      "items": [
+        {
+          "date": "2026-11-10",
+          "iso3": [
+            "ESP",
+            "ITA"
+          ],
+          "status": "overview",
+          "priority": "P3",
+          "exposure": "opportunity",
+          "title": "Telespazio Ibérica to build emergency-mapping satellite service",
+          "summary": "Telespazio Ibérica will develop a satellite service able to produce emergency maps in under two hours. A Spanish trade outlet carries the item without a date. In Italy, the Matera laser ranging station is complete. It has no date for routine operations. Neither item has a dated next step.",
+          "why": "Fast emergency mapping is a civil use case for Spanish industry. Matera's start of routine operations is the Italian marker.",
+          "sources": [
+            {
+              "outlet": "Infoespacial",
+              "url": "https://www.infoespacial.com/texto-diario/mostrar/6079823/telespazio-iberica-desarrollara-servicio-satelite-capaz-generar-mapas-emergencia-menos-horas",
+              "language": "es",
+              "type": "press"
+            }
+          ],
+          "bar": "Undated; Matera standing."
+        }
+      ]
+    },
+    {
+      "id": "eurasia",
+      "name": "Eurasia and Central Asia",
+      "items": [
+        {
+          "date": "2026-11-10",
+          "iso3": [
+            "RUS",
+            "UKR"
+          ],
+          "status": "overview",
+          "priority": "P3",
+          "exposure": "context",
+          "title": "Russia silent on satellite approaches; Starshield hope stands",
+          "summary": "A Russian military satellite's close approaches to commercial imaging satellites have drawn no government statement. Starshield's stated hope for a Ukrainian satcom contract remains mid-2027. That rests on a single report. The Azercosmos news page returned no content. No date is set for any of these.",
+          "why": "Both pathways wait on official statements. Neither has a calendar date.",
+          "sources": [
+            {
+              "outlet": "Azercosmos",
+              "url": "https://azercosmos.az/en/media-center/news",
+              "language": "en",
+              "type": "government-or-embassy"
+            }
+          ],
+          "bar": "Standing; no next date."
+        }
+      ]
+    },
+    {
+      "id": "mena",
+      "name": "Türkiye, Middle East and Africa",
+      "items": [
+        {
+          "date": "2026-11-10",
+          "iso3": [
+            "TUR",
+            "IRN"
+          ],
+          "status": "overview",
+          "priority": "P3",
+          "exposure": "context",
+          "title": "Türkiye outlines satellites for 2027 and 2028",
+          "summary": "A Turkish space outlet says Türkiye's new microsatellite will launch in 2028. It also says a joint satellite of the Turkic states will go up in 2027. The 2027 space and aviation budget proposal stands at TL 24.59 billion, with no split published. A United States report on Iran's space power appeared on the fifth of November. Nothing dated has come from Africa.",
+          "why": "The satellite years are the only dates Türkiye has put forward. The budget split will show where the money goes.",
+          "sources": [
+            {
+              "outlet": "Haber.Aero",
+              "url": "https://haber.aero/aero-gundem/turkiyenin-yeni-mikro-uydusu-2028de-firlatilacak/",
+              "language": "tr",
+              "type": "national-language"
+            },
+            {
+              "outlet": "Haber.Aero",
+              "url": "https://haber.aero/aero-gundem/turk-devletlerinin-ortak-uydusu-2027de-uzaya-gonderilecek/",
+              "language": "tr",
+              "type": "national-language"
+            }
+          ],
+          "bar": "Headline-level; years only."
+        }
+      ]
+    },
+    {
+      "id": "asia_pac",
+      "name": "Asia Pacific",
+      "items": [
+        {
+          "date": "2026-11-06",
+          "iso3": [
+            "AUS",
+            "PAK",
+            "JPN",
+            "KOR"
+          ],
+          "status": "event",
+          "priority": "P2",
+          "exposure": "context",
+          "title": "Australian Space Agency head confirms leadership change",
+          "summary": "Space Agency head Enrico Palermo confirmed a change of leadership on the sixth of November. Southern Launch announced the safe return of Varda Space's W-8 capsule the same day. Pakistan's second indigenous EO-2 satellite is flying, the sixth in its national Earth observation fleet. In South Korea, KT SAT will lead a maritime connectivity project with ST Engineering iDirect. Japan's MMX probe remains on its transfer orbit to Mars, with no arrival date.",
+          "why": "Australia's agency now has a leadership transition under way. Pakistan and Japan each hold standing programs with no new dates.",
+          "sources": [
+            {
+              "outlet": "Space Connect",
+              "url": "https://www.spaceconnectonline.com.au/industry/7359-preparing-the-way-forward-space-agency-head-enrico-palermo-confirms-change-of-leadership",
+              "language": "en",
+              "type": "press"
+            },
+            {
+              "outlet": "SUPARCO",
+              "url": "https://suparco.gov.pk/news-updates.html",
+              "language": "en",
+              "type": "government-or-embassy"
+            }
+          ],
+          "bar": "Successor not named in the reading."
+        }
+      ]
+    },
+    {
+      "id": "americas",
+      "name": "Americas",
+      "items": [
+        {
+          "date": "2026-11-10",
+          "iso3": [
+            "USA",
+            "CAN"
+          ],
+          "status": "overview",
+          "priority": "P2",
+          "exposure": "competitive threat",
+          "title": "Blue Origin's New Glenn return not confirmed; Telesat holds mid-2028",
+          "summary": "A January 2027 return for New Glenn has been reported but the company has not confirmed it. The FAA comment deadline of the thirtieth of October passed with no decision on file. Blue Origin had asked for up to 50 launches a year from Florida against a limit of 12. In Canada, Telesat has set Lightspeed full service for mid-2028. The next marker is an FAA decision, which has no date.",
+          "why": "New Glenn's cadence depends on the FAA decision and a confirmed flight. Telesat's delay is tied to launch availability.",
+          "sources": [
+            {
+              "outlet": "Via Satellite",
+              "url": "http://www.satellitetoday.com/finance/2026/10/29/telesat-delays-lightspeed-service-entry-to-mid-2028-goldberg-addresses-launch-crunch-and-sovereign-demand/?itm_source=parsely-api",
+              "language": "en",
+              "type": "press"
+            }
+          ],
+          "bar": "Blue Origin January return from earlier editions; no new source."
+        }
+      ]
+    }
+  ],
+  "priorities": [
+    {
+      "rank": "P2",
+      "title": "European road to Rome",
+      "status": "Committee vote today; no outcome published",
+      "exposure": "context",
+      "implication": "The vote is the last scheduled step before Rome.",
+      "iso3": [
+        "FRA",
+        "DEU",
+        "ITA"
+      ],
+      "next": {
+        "date": "2026-12-15",
+        "event": "Rome meeting"
+      }
+    },
+    {
+      "rank": "P2",
+      "title": "Blue Origin New Glenn cadence",
+      "status": "January return reported, unconfirmed; FAA deadline passed",
+      "exposure": "competitive threat",
+      "implication": "A launch cadence of up to 50 a year depends on an FAA decision that has no date.",
+      "iso3": [
+        "USA"
+      ],
+      "next": null
+    },
+    {
+      "rank": "P2",
+      "title": "Ariane 6 and Prometheus",
+      "status": "Hot-fire done; flight set at the earliest",
+      "exposure": "opportunity",
+      "implication": "The tenth Ariane 6 flight is the next test of European launch supply.",
+      "iso3": [
+        "FRA",
+        "DEU"
+      ],
+      "next": {
+        "date": "2026-11-23",
+        "event": "Ariane 6 flight with 36 Amazon Leo satellites, at the earliest"
+      }
+    },
+    {
+      "rank": "P2",
+      "title": "Artemis and the 2028 landing",
+      "status": "Dates unchanged",
+      "exposure": "policy risk",
+      "implication": "Proposals due in December are the next fixed step.",
+      "iso3": [
+        "USA"
+      ],
+      "next": {
+        "date": "2026-12-08",
+        "event": "Proposals due"
+      }
+    }
+  ],
+  "watchlist": [
+    {
+      "date": "2026-11-10",
+      "event": "European committee vote on the road to Rome",
+      "where": "Europe",
+      "iso3": [
+        "FRA",
+        "DEU",
+        "ITA"
+      ]
+    },
+    {
+      "date": "2026-11-23",
+      "event": "Ariane 6 flight with 36 Amazon Leo satellites, at the earliest",
+      "where": "Kourou",
+      "iso3": [
+        "FRA"
+      ]
+    },
+    {
+      "date": "2026-12-08",
+      "event": "Artemis proposals due",
+      "where": "United States",
+      "iso3": [
+        "USA"
+      ]
+    },
+    {
+      "date": "2026-12-15",
+      "event": "Rome meeting",
+      "where": "Rome",
+      "iso3": [
+        "ITA"
+      ]
+    }
+  ],
+  "milestones": [
+    {
+      "date": "2026-12-15",
+      "event": "Rome meeting",
+      "iso3": [
+        "ITA"
+      ],
+      "status": "scheduled",
+      "why": "Closes the European road to Rome."
+    },
+    {
+      "date": "2027-01-01",
+      "event": "New Glenn return, reported for January",
+      "iso3": [
+        "USA"
+      ],
+      "status": "unconfirmed by company",
+      "why": "Sets the start of the launch cadence."
+    },
+    {
+      "date": "2027-02-18",
+      "event": "Swedish Space Day",
+      "iso3": [
+        "SWE"
+      ],
+      "status": "scheduled",
+      "why": "Next Swedish agency public event."
+    }
+  ],
+  "competitive_watch": [],
+  "countries": [
+    {
+      "iso3": "ROU",
+      "item": {
+        "date": "2026-10-07",
+        "iso3": [
+          "ROU"
+        ],
+        "status": "contract",
+        "priority": "P3",
+        "exposure": "context",
+        "title": "Romania orders twelve Airbus H225M helicopters",
+        "summary": "Airbus announced on the seventh of October that Romania has ordered twelve H225M multirole military helicopters. The order is aviation, not space. The Romanian Space Agency's strategy page carries no new decision. No Romanian space date is set. Poland's partnerships are unchanged.",
+        "why": "Romania's recent defence spending is going to aircraft. Space strategy has no dated step yet.",
+        "sources": [
+          {
+            "outlet": "Airbus",
+            "url": "https://www.airbus.com/en/newsroom/press-releases/2026-10-romania-orders-12-airbus-h225m-multirole-military-helicopters",
+            "language": "en",
+            "type": "press"
+          }
+        ],
+        "bar": "Aviation."
+      },
+      "items": []
+    },
+    {
+      "iso3": "SWE",
+      "item": {
+        "date": "2026-11-02",
+        "iso3": [
+          "SWE"
+        ],
+        "status": "event",
+        "priority": "P3",
+        "exposure": "context",
+        "title": "Swedish National Space Agency sets Space Day for eighteenth of February",
+        "summary": "The agency announced on the second of November that Space Day is on the eighteenth of February, 2027. No Swedish launch or contract date is on file. The agency lists active calls for technology development. Its research committee pages are unchanged. The next date is the eighteenth of February.",
+        "why": "The date is a scheduling fact. It marks the next public agency event.",
+        "sources": [
+          {
+            "outlet": "Swedish National Space Agency",
+            "url": "https://www.rymdstyrelsen.se/nyheter/2026/rymddagen-2027-blir-den-18-februari/",
+            "language": "sv",
+            "type": "national-language"
+          }
+        ],
+        "bar": "Scheduling only."
+      },
+      "items": []
+    },
+    {
+      "iso3": "AUS",
+      "item": {
+        "date": "2026-11-06",
+        "iso3": [
+          "AUS"
+        ],
+        "status": "event",
+        "priority": "P2",
+        "exposure": "context",
+        "title": "Australian Space Agency head confirms leadership change",
+        "summary": "Enrico Palermo confirmed a change of leadership on the sixth of November. Southern Launch announced the safe return of Varda Space's W-8 capsule the same day. Space Machines and SunDrive Solar announced a spacecraft solar panel partnership. Spiral Blue is developing satellite lasers for bushfire maps. No successor is named in the material.",
+        "why": "The agency is in transition. Industry announcements continue.",
+        "sources": [
+          {
+            "outlet": "Space Connect",
+            "url": "https://www.spaceconnectonline.com.au/industry/7359-preparing-the-way-forward-space-agency-head-enrico-palermo-confirms-change-of-leadership",
+            "language": "en",
+            "type": "press"
+          }
+        ],
+        "bar": "Successor unnamed."
+      },
+      "items": []
+    }
+  ],
+  "audio_script": "Good morning. It is Tuesday, the tenth of November, and this is the Sovereign Space ATLAS briefing. A European committee vote on the road to Rome falls today. Pakistan has put its sixth national Earth observation satellite into orbit. And China's Ceres-2 and Kinetica-2 rockets have each completed a second flight.\n\nThe vote on Europe's road to Rome falls today, the tenth of November. A committee is due to decide ahead of the Rome meeting on the fifteenth of December. European-led outpost studies were awarded on the third of November. ArianeGroup's Prometheus engine hot-fire followed on the sixth. No outcome of the vote has been published. No new Council decision is on file. The next date is the fifteenth of December in Rome.\n\nIn Europe, ArianeGroup ran a hot-fire of the reusable Prometheus engine on the DLR test bench on the sixth of November. The company calls it a new development milestone. Arianespace plans to launch 36 Amazon Leo satellites on the tenth Ariane 6 flight on the twenty-third of November at the earliest. OHB's figure of 554 million euros for the next-generation Sentinel-3 satellite is a company claim.\n\nIn Romania, Airbus announced on the seventh of October an order for twelve H225M military helicopters. That is aviation, not space. The Romanian Space Agency's strategy page carries no new decision, and no Romanian space date is set. Poland's partnerships are unchanged, with no agreement between its space agency and India's on file.\n\nIn Sweden, the space agency announced on the second of November that its next Space Day is the eighteenth of February, 2027. In Norway, the space directorate has signed a new agreement with the Canadian Space Agency on Arctic cooperation. No Nordic launch or contract date is on file.\n\nIn Spain, Telespazio Ibérica will develop a satellite service able to produce emergency maps in under two hours. In Italy, the Matera laser ranging station is complete. It has no date for routine operations.\n\nIn Russia, the close approaches of a military satellite to commercial imaging satellites have drawn no government statement. For Ukraine's satellite communications, Starshield's hoped-for contract remains mid-2027, on a single report. The Azercosmos news page returned no content. No date is set for any of these.\n\nIn Türkiye, a Turkish space outlet says a new microsatellite will launch in 2028. It also says a joint satellite of the Turkic states will go up in 2027. The 2027 space and aviation budget proposal stands at 24.59 billion lira, with no split published. In the Gulf region, a United States report on Iran's space power appeared on the fifth of November. Nothing dated has come from Africa this week.\n\nIn Australia, Space Agency head Enrico Palermo confirmed a change of leadership on the sixth of November. Southern Launch announced the safe return of Varda Space's W-8 capsule the same day. Space Machines and SunDrive Solar announced a partnership on spacecraft solar panels. In Pakistan, the second indigenous EO-2 satellite is flying as the sixth in the national fleet. In South Korea, KT SAT will lead a maritime connectivity project with ST Engineering iDirect. In Japan, the MMX probe remains on its transfer orbit to Mars, with no arrival date.\n\nIn the United States, a January 2027 return for Blue Origin's New Glenn has been reported but not confirmed by the company. The FAA comment deadline of the thirtieth of October passed with no decision on file. Blue Origin has asked for up to 50 launches a year from Florida, against a limit of 12. NASA's Artemis dates are unchanged, with proposals due on the eighth of December. In Canada, Telesat has set full Lightspeed service for mid-2028.\n\nWhat we are tracking this week is the outcome of today's European committee vote, and any word from Blue Origin or the FAA on New Glenn. What we are tracking this month is the Ariane 6 flight with 36 Amazon Leo satellites, set for the twenty-third of November at the earliest. The heads-up dates are the twenty-third of November, the eighth of December for Artemis proposals, the fifteenth of December in Rome, and the eighteenth of February for Sweden's Space Day. That is the briefing for Tuesday, the tenth of November.",
+  "audio_sections": [
+    {
+      "id": "opening",
+      "title": "Opening",
+      "text": "Good morning. It is Tuesday, the tenth of November, and this is the Sovereign Space ATLAS briefing. A European committee vote on the road to Rome falls today. Pakistan has put its sixth national Earth observation satellite into orbit. And China's Ceres-2 and Kinetica-2 rockets have each completed a second flight."
+    },
+    {
+      "id": "top",
+      "title": "Top story",
+      "text": "The vote on Europe's road to Rome falls today, the tenth of November. A committee is due to decide ahead of the Rome meeting on the fifteenth of December. European-led outpost studies were awarded on the third of November. ArianeGroup's Prometheus engine hot-fire followed on the sixth. No outcome of the vote has been published. No new Council decision is on file. The next date is the fifteenth of December in Rome."
+    },
+    {
+      "id": "esa_eu",
+      "title": "ESA and EU",
+      "text": "In Europe, ArianeGroup ran a hot-fire of the reusable Prometheus engine on the DLR test bench on the sixth of November. The company calls it a new development milestone. Arianespace plans to launch 36 Amazon Leo satellites on the tenth Ariane 6 flight on the twenty-third of November at the earliest. OHB's figure of 554 million euros for the next-generation Sentinel-3 satellite is a company claim."
+    },
+    {
+      "id": "cee",
+      "title": "Central and Eastern Europe",
+      "text": "In Romania, Airbus announced on the seventh of October an order for twelve H225M military helicopters. That is aviation, not space. The Romanian Space Agency's strategy page carries no new decision, and no Romanian space date is set. Poland's partnerships are unchanged, with no agreement between its space agency and India's on file."
+    },
+    {
+      "id": "nordics",
+      "title": "Nordics",
+      "text": "In Sweden, the space agency announced on the second of November that its next Space Day is the eighteenth of February, 2027. In Norway, the space directorate has signed a new agreement with the Canadian Space Agency on Arctic cooperation. No Nordic launch or contract date is on file."
+    },
+    {
+      "id": "west",
+      "title": "Western and Southern Europe",
+      "text": "In Spain, Telespazio Ibérica will develop a satellite service able to produce emergency maps in under two hours. In Italy, the Matera laser ranging station is complete. It has no date for routine operations."
+    },
+    {
+      "id": "eurasia",
+      "title": "Eurasia and Central Asia",
+      "text": "In Russia, the close approaches of a military satellite to commercial imaging satellites have drawn no government statement. For Ukraine's satellite communications, Starshield's hoped-for contract remains mid-2027, on a single report. The Azercosmos news page returned no content. No date is set for any of these."
+    },
+    {
+      "id": "mena",
+      "title": "Türkiye, Middle East and Africa",
+      "text": "In Türkiye, a Turkish space outlet says a new microsatellite will launch in 2028. It also says a joint satellite of the Turkic states will go up in 2027. The 2027 space and aviation budget proposal stands at 24.59 billion lira, with no split published. In the Gulf region, a United States report on Iran's space power appeared on the fifth of November. Nothing dated has come from Africa this week."
+    },
+    {
+      "id": "asia_pac",
+      "title": "Asia Pacific",
+      "text": "In Australia, Space Agency head Enrico Palermo confirmed a change of leadership on the sixth of November. Southern Launch announced the safe return of Varda Space's W-8 capsule the same day. Space Machines and SunDrive Solar announced a partnership on spacecraft solar panels. In Pakistan, the second indigenous EO-2 satellite is flying as the sixth in the national fleet. In South Korea, KT SAT will lead a maritime connectivity project with ST Engineering iDirect. In Japan, the MMX probe remains on its transfer orbit to Mars, with no arrival date."
+    },
+    {
+      "id": "americas",
+      "title": "Americas",
+      "text": "In the United States, a January 2027 return for Blue Origin's New Glenn has been reported but not confirmed by the company. The FAA comment deadline of the thirtieth of October passed with no decision on file. Blue Origin has asked for up to 50 launches a year from Florida, against a limit of 12. NASA's Artemis dates are unchanged, with proposals due on the eighth of December. In Canada, Telesat has set full Lightspeed service for mid-2028."
+    },
+    {
+      "id": "close",
+      "title": "Close",
+      "text": "What we are tracking this week is the outcome of today's European committee vote, and any word from Blue Origin or the FAA on New Glenn. What we are tracking this month is the Ariane 6 flight with 36 Amazon Leo satellites, set for the twenty-third of November at the earliest. The heads-up dates are the twenty-third of November, the eighth of December for Artemis proposals, the fifteenth of December in Rome, and the eighteenth of February for Sweden's Space Day. That is the briefing for Tuesday, the tenth of November."
+    }
+  ],
+  "edition": "06:00 UTC",
+  "generated_at": "2026-11-10T11:52:09+00:00"
+}

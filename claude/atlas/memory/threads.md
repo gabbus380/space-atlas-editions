@@ -221,3 +221,13 @@ Episodes:
 - Swift: press only; closed pending a NASA page.
 - Telesat Lightspeed: mid-2028, unchanged.
 - New: Australian Space Agency leadership change; Pakistan EO-2; LeoLabs loan.
+
+
+## 2026-11-10
+- Blue Origin: January return unconfirmed; FAA deadline of thirtieth October passed, no decision.
+- ESA, EU, Rome: vote tenth November, no outcome in the reading; Rome fifteenth December.
+- Artemis: dates unchanged; eighth December proposals due.
+- Ariane 6: flight twenty-third November at the earliest.
+- Swift: closed pending NASA page.
+- Telesat Lightspeed: mid-2028 unchanged.
+- Matera: no change.
