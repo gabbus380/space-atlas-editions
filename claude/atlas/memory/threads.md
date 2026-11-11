@@ -231,3 +231,14 @@ Episodes:
 - Swift: closed pending NASA page.
 - Telesat Lightspeed: mid-2028 unchanged.
 - Matera: no change.
+
+
+## 2026-11-11
+- Blue Origin: January return unconfirmed; FAA deadline of thirtieth October passed, no decision.
+- ESA, EU, Rome: vote of tenth November, no outcome in packet; Rome fifteenth December.
+- Ariane 6: VA271 flight twenty-third November at the earliest; Prometheus hot-fire sixth November.
+- Artemis: dates unchanged; eighth December proposals due.
+- Swift: press only; closed pending NASA page.
+- Telesat Lightspeed: mid-2028 unchanged.
+- Starshield and Ukraine: mid-2027 hope unchanged.
+- New: SpainSat NG third satellite; Pakistan EO-2; Golden Dome and Congress; Ka-band relay awards.

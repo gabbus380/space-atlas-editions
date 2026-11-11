@@ -1,0 +1,880 @@
+{
+  "date": "2026-11-11",
+  "headline": "Spain's defence ministry funds a third SpainSat NG satellite",
+  "summary": [
+    "Spain's defence ministry is funding a third SpainSat NG satellite to replace the damaged NG II.",
+    "Pakistan has flown its second indigenous Earth observation satellite, the sixth in its national fleet.",
+    "A new Democratic Congress is expected to cut back Golden Dome.",
+    "The European Space Agency committee vote of the tenth of November has no published outcome, and Rome follows on the fifteenth of December.",
+    "Ariane 6 is set to fly 36 Amazon Leo satellites on the twenty-third of November at the earliest."
+  ],
+  "bottom_line": "Spain has funded a replacement for its damaged SpainSat NG II, but no contract or launch date is in the sources. The next dates that matter are the twenty-third of November for Ariane 6 and the fifteenth of December in Rome.",
+  "global": [
+    {
+      "date": "2026-11-09",
+      "iso3": [
+        "USA"
+      ],
+      "status": "overview",
+      "priority": "P2",
+      "exposure": "policy risk",
+      "title": "Democratic Congress expected to cut back Golden Dome",
+      "summary": "A new Democratic Congress is expected to strip back the Golden Dome missile defence plan. A former Defense Department official has warned that it may not outlive the Trump presidency. The National Reconnaissance Office has described a new cyber office with a 250 million dollar budget. No appropriation text is in the sources. The first budget action is the date to watch.",
+      "why": "Golden Dome shapes United States demand for sensors and launch. A change in Congress moves that demand.",
+      "sources": [
+        {
+          "outlet": "Ars Technica",
+          "url": "https://arstechnica.com/space/2026/11/new-democratic-congress-will-likely-strip-the-gilding-from-trumps-golden-dome/",
+          "language": "en",
+          "type": "press"
+        },
+        {
+          "outlet": "Via Satellite",
+          "url": "https://www.satellitetoday.com/government-military/2026/11/04/former-dod-official-warns-that-golden-dome-may-not-outlive-trump-presidency/",
+          "language": "en",
+          "type": "press"
+        }
+      ],
+      "bar": "Forecast, not a vote. Hold at P2 until text appears."
+    },
+    {
+      "date": "2026-11-09",
+      "iso3": [
+        "USA"
+      ],
+      "status": "overview",
+      "priority": "P3",
+      "exposure": "context",
+      "title": "Pentagon weighs a military satellite fleet around the Moon",
+      "summary": "The Pentagon is considering a fleet of military satellites around the Moon. The interest is described as notional. No programme office, budget or date is given. The idea would add a defence customer to cislunar activity. It sits alongside the Artemis timetable, where proposals are due on the eighth of December.",
+      "why": "A defence interest in lunar orbit would widen the market beyond NASA. It is an idea only and carries no funding.",
+      "sources": [
+        {
+          "outlet": "Ars Technica",
+          "url": "https://arstechnica.com/space/2026/11/us-military-notionally-interested-in-satellite-constellation-around-moon/",
+          "language": "en",
+          "type": "press"
+        }
+      ],
+      "bar": "Single source, notional. Do not upgrade."
+    },
+    {
+      "date": "2026-11-04",
+      "iso3": [
+        "USA"
+      ],
+      "status": "contract",
+      "priority": "P2",
+      "exposure": "opportunity",
+      "title": "NASA awards Ka-band relay contracts to Viasat, SES and Astranis",
+      "summary": "NASA has awarded Ka-band relay contracts to Viasat, SES and Astranis. The awards were reported on the fourth of November. The sources give no value or term. Commercial relay is replacing part of what government-owned systems provide. The firms' own statements are the next sources to read.",
+      "why": "Commercial relay is becoming part of NASA's communications. Three companies now hold positions in it.",
+      "sources": [
+        {
+          "outlet": "Via Satellite",
+          "url": "https://www.satellitetoday.com/government-military/2026/11/04/viasat-ses-and-astranis-win-nasa-ka-band-relay-contracts/",
+          "language": "en",
+          "type": "press"
+        }
+      ],
+      "bar": "Headline only; values not in packet."
+    },
+    {
+      "date": "2026-11-05",
+      "iso3": [
+        "USA",
+        "IDN"
+      ],
+      "status": "overview",
+      "priority": "P3",
+      "exposure": "context",
+      "title": "Press reports NASA's Swift observatory has fallen to Earth",
+      "summary": "Spanish and Turkish outlets say the Swift observatory has fallen to Earth after 22 years. Earlier press named the fifth of November over western Indonesia. NASA has not published a page. The rescue attempt had failed, according to El País. The thread stays closed until NASA publishes.",
+      "why": "The loss ends a long-running astrophysics mission. Until NASA confirms, the date and place rest on press.",
+      "sources": [
+        {
+          "outlet": "Haber.Aero",
+          "url": "https://haber.aero/aero-gundem/nasanin-22-yillik-gozlemevi-dunyaya-dustu/",
+          "language": "tr",
+          "type": "national-language"
+        },
+        {
+          "outlet": "ABC",
+          "url": "https://www.abc.es/ciencia/fin-telescopio-swift-nasa-anos-siguiendo-rastro-20261104235646-nt.html",
+          "language": "es",
+          "type": "national-language"
+        }
+      ],
+      "bar": "Press only; no NASA page."
+    }
+  ],
+  "regions": [
+    {
+      "id": "esa_eu",
+      "name": "ESA and EU",
+      "items": [
+        {
+          "date": "2026-11-10",
+          "iso3": [
+            "FRA",
+            "DEU"
+          ],
+          "status": "overview",
+          "priority": "P1",
+          "exposure": "policy risk",
+          "title": "ESA committee voted on the tenth of November; outcome not published",
+          "summary": "The European Space Agency committee vote was due on the tenth of November. No outcome is in the sources. The next date is the fifteenth of December in Rome. Outpost studies were awarded on the third of November. The agency has also opened a tender for Anubis, a planetary defence mission using ion beams.",
+          "why": "The vote sets the ground for Rome. Its outcome has not been published.",
+          "sources": [
+            {
+              "outlet": "Infoespacial",
+              "url": "https://www.infoespacial.com/texto-diario/mostrar/6085751/esa-abre-licitacion-anubis-mision-defensa-planetaria-desviar-asteroides-haces-iones",
+              "language": "es",
+              "type": "national-language"
+            }
+          ],
+          "bar": "Vote result absent; do not infer."
+        },
+        {
+          "date": "2026-11-06",
+          "iso3": [
+            "FRA",
+            "DEU"
+          ],
+          "status": "event",
+          "priority": "P2",
+          "exposure": "opportunity",
+          "title": "ArianeGroup hot-fires Prometheus on DLR's P5 bench; Ariane 6 to fly on the twenty-third of November",
+          "summary": "ArianeGroup says the reusable Prometheus engine reached a new milestone in a hot-fire test on the sixth of November. The test ran on DLR's P5 bench. Arianespace plans to launch 36 Amazon Leo satellites on the tenth Ariane 6 flight. The date is the twenty-third of November at the earliest. The company page is the only source.",
+          "why": "Reusable engine work and the Ariane 6 cadence both bear on European launch autonomy. Both dates come from the companies.",
+          "sources": [
+            {
+              "outlet": "ArianeGroup",
+              "url": "https://www.ariane.group/en/news/prometheus-reusable-rocket-engine-reaches-new-development-milestone-with-hot-fire-test/",
+              "language": "en",
+              "type": "press"
+            },
+            {
+              "outlet": "ArianeGroup",
+              "url": "https://www.ariane.group/en/news/arianespace-to-launch-36-amazon-leo-satellites-on-november-23-at-the-earliest-for-10th-ariane-6-flight/",
+              "language": "en",
+              "type": "press"
+            }
+          ],
+          "bar": "Company-only; same entity counted once."
+        }
+      ]
+    },
+    {
+      "id": "cee",
+      "name": "Central and Eastern Europe",
+      "items": [
+        {
+          "date": "2026-11-11",
+          "iso3": [
+            "UKR",
+            "LTU"
+          ],
+          "status": "overview",
+          "priority": "P3",
+          "exposure": "context",
+          "title": "Ukrainian satellite communications unchanged; Starshield hope stays at mid-2027",
+          "summary": "Ukrainian satellite communications stand where they did. Starshield's hope of a contract in mid-2027 is unchanged. No government has commented on the close approaches by the Russian military satellite. Lithuanian press carries a piece on Russia's Starlink analogue and Ukraine's race against time. No date is set.",
+          "why": "The situation has not moved since the last briefing. No government has spoken on it.",
+          "sources": [
+            {
+              "outlet": "TV3 Lietuva",
+              "url": "https://www.tv3.lt/naujiena/naujienos/rusijai-kritiskai-svarbus-starlink-analogas-palydovai-zombiai-ir-ukrainos-lenktynes-su-laiku-n1553523",
+              "language": "lt",
+              "type": "national-language"
+            }
+          ],
+          "bar": "Standing item; headline only for the Lithuanian piece."
+        }
+      ]
+    },
+    {
+      "id": "nordics",
+      "name": "Nordics",
+      "items": [
+        {
+          "date": "2026-11-11",
+          "iso3": [
+            "NOR",
+            "CAN",
+            "SWE"
+          ],
+          "status": "agreement",
+          "priority": "P3",
+          "exposure": "opportunity",
+          "title": "Norway's space directorate signs new Arctic space agreement with Canada",
+          "summary": "The Norwegian space directorate and the Canadian Space Agency have signed a new space agreement. It opens closer cooperation in the Arctic. The signing date is not on the page. Sweden's space agency will hold its next Space Day on the eighteenth of February, twenty twenty-seven. That is the next fixed date in the Nordics.",
+          "why": "The agreement ties two Arctic states more closely together. Sweden's event is the next dated marker.",
+          "sources": [
+            {
+              "outlet": "Norwegian Space Directorate",
+              "url": "https://www.romsenter.no/aktuelt/ny-avtale-med-canada-aapner-for-tettere-romsamarbeid-i-arktis",
+              "language": "no",
+              "type": "government-or-embassy"
+            },
+            {
+              "outlet": "Rymdstyrelsen",
+              "url": "https://www.rymdstyrelsen.se/nyheter/2026/rymddagen-2027-blir-den-18-februari/",
+              "language": "sv",
+              "type": "government-or-embassy"
+            }
+          ],
+          "bar": "Signing date missing; filed on page presence."
+        }
+      ]
+    },
+    {
+      "id": "west",
+      "name": "Western and Southern Europe",
+      "items": [
+        {
+          "date": "2026-11-11",
+          "iso3": [
+            "ESP"
+          ],
+          "status": "contract",
+          "priority": "P1",
+          "exposure": "opportunity",
+          "title": "Spain's defence ministry funds a third SpainSat NG satellite",
+          "summary": "Spain's defence ministry is funding a third SpainSat NG satellite with 580 million. It replaces SpainSat NG II, which was damaged. The headline gives no currency, contractor or launch date. A contract and a schedule are the next things to look for. The Spanish Space Agency has also taken over the Spanish registry of space objects.",
+          "why": "Spain is replacing lost military satellite capacity. The funding is stated but the schedule is not.",
+          "sources": [
+            {
+              "outlet": "Infoespacial",
+              "url": "https://www.infoespacial.com/texto-diario/mostrar/6086964/defensa-financia-580-millones-tercer-satelite-spainsat-ng-sustituir-danado-ng-ii",
+              "language": "es",
+              "type": "national-language"
+            },
+            {
+              "outlet": "Infoespacial",
+              "url": "https://www.infoespacial.com/texto-diario/mostrar/6086722/agencia-espacial-espanola-asume-gestion-registro-espanol-objetos-espaciales",
+              "language": "es",
+              "type": "national-language"
+            }
+          ],
+          "bar": "Headline-level; currency not stated, so figure left bare."
+        },
+        {
+          "date": "2026-11-14",
+          "iso3": [
+            "ESP"
+          ],
+          "status": "event",
+          "priority": "P3",
+          "exposure": "context",
+          "title": "Seville hosts NASA Space Apps Challenge on the fourteenth and fifteenth of November",
+          "summary": "Seville will host the NASA Space Apps Challenge on the fourteenth and fifteenth of November. It is described as the largest hackathon of its kind in the world. The event is open to participants. It is an outreach date, not a programme decision. No results will exist before the fifteenth.",
+          "why": "It is a dated event in Spain's space calendar. It carries no policy weight.",
+          "sources": [
+            {
+              "outlet": "Infoespacial",
+              "url": "https://www.infoespacial.com/texto-diario/mostrar/6085726/sevilla-acogera-14-15-noviembre-mayor-hackathon-steam-mundo-nasa-space-apps-challenge",
+              "language": "es",
+              "type": "national-language"
+            }
+          ],
+          "bar": "Low value; keep short."
+        }
+      ]
+    },
+    {
+      "id": "eurasia",
+      "name": "Eurasia and Central Asia",
+      "items": [
+        {
+          "date": "2026-11-11",
+          "iso3": [
+            "ARM",
+            "IRQ"
+          ],
+          "status": "event",
+          "priority": "P3",
+          "exposure": "context",
+          "title": "Armenia's Armath opens an engineering makerspace in Iraq",
+          "summary": "A new Armath engineering makerspace has been officially opened in Iraq. The announcement came from the Armenian company ARKA-Telecom. It is an education link, not a space contract. Azerbaijan's and Kazakhstan's space agencies posted nothing new. No date is set.",
+          "why": "It shows Armenian technology education reaching the Middle East. It has no direct space content.",
+          "sources": [
+            {
+              "outlet": "ARKA-Telecom",
+              "url": "https://arkatelecom.am/en/news/telecom/new-armath-engineering-makerspace-officially-opened-in-iraq/",
+              "language": "en",
+              "type": "press"
+            }
+          ],
+          "bar": "Marginal relevance; Azerbaijan page returned not found."
+        }
+      ]
+    },
+    {
+      "id": "mena",
+      "name": "Türkiye, Middle East and Africa",
+      "items": [
+        {
+          "date": "2026-11-11",
+          "iso3": [
+            "TUR"
+          ],
+          "status": "overview",
+          "priority": "P2",
+          "exposure": "opportunity",
+          "title": "Türkiye schedules a new microsatellite for 2028 and a Turkic states satellite for 2027",
+          "summary": "A new Turkish microsatellite is to launch in 2028. A joint satellite of the Turkic states is to be sent up in 2027. The space and aviation budget stands at the proposed 24.59 billion lira for 2027. No split has been published. No exact launch date is given for either satellite.",
+          "why": "Two Turkish satellite timelines now carry years. Neither has a launch date or a contractor in the sources.",
+          "sources": [
+            {
+              "outlet": "Haber.Aero",
+              "url": "https://haber.aero/aero-gundem/turkiyenin-yeni-mikro-uydusu-2028de-firlatilacak/",
+              "language": "tr",
+              "type": "national-language"
+            },
+            {
+              "outlet": "Haber.Aero",
+              "url": "https://haber.aero/aero-gundem/turk-devletlerinin-ortak-uydusu-2027de-uzaya-gonderilecek/",
+              "language": "tr",
+              "type": "national-language"
+            }
+          ],
+          "bar": "Headline-level years only."
+        },
+        {
+          "date": "2026-11-05",
+          "iso3": [
+            "IRN",
+            "USA"
+          ],
+          "status": "statement",
+          "priority": "P2",
+          "exposure": "policy risk",
+          "title": "United States report draws attention to Iran's space power",
+          "summary": "A United States report of the fifth of November draws attention to Iran's space power. The sources give only the headline. The report's author and findings are not in the packet. Iran has not responded in the sources. The next step is the text of the report.",
+          "why": "It signals United States attention to Iranian space capability. The content is unread.",
+          "sources": [
+            {
+              "outlet": "Haber.Aero",
+              "url": "https://haber.aero/aero-gundem/abdden-iranin-uzay-gucune-dikkat-ceken-rapor/",
+              "language": "tr",
+              "type": "national-language"
+            }
+          ],
+          "bar": "Headline only; no primary text."
+        }
+      ]
+    },
+    {
+      "id": "asia_pac",
+      "name": "Asia Pacific",
+      "items": [
+        {
+          "date": "2026-11-11",
+          "iso3": [
+            "PAK"
+          ],
+          "status": "event",
+          "priority": "P2",
+          "exposure": "context",
+          "title": "SUPARCO flies Pakistan's second indigenous Earth observation satellite",
+          "summary": "Pakistan's space agency says its second indigenous satellite, EO-2, has flown. It is the sixth satellite in the national Earth observation fleet. The agency page gives the news without a date in the packet. Pakistan also hosted a space and early warning conference in Islamabad from the twenty-seventh to the thirty-first of October. No launch provider is named in the sources.",
+          "why": "Pakistan's own Earth observation fleet is growing. The launch details are missing.",
+          "sources": [
+            {
+              "outlet": "SUPARCO",
+              "url": "https://suparco.gov.pk/news-updates.html",
+              "language": "en",
+              "type": "government-or-embassy"
+            }
+          ],
+          "bar": "Date and launcher absent."
+        },
+        {
+          "date": "2026-11-10",
+          "iso3": [
+            "AUS",
+            "KOR"
+          ],
+          "status": "agreement",
+          "priority": "P3",
+          "exposure": "opportunity",
+          "title": "ElevationSpace signs with Southern Launch for capsule return at Koonibba",
+          "summary": "ElevationSpace has signed with Southern Launch for capsule return at the Koonibba Test Range. Space Machines and SunDrive Solar will partner on spacecraft solar panels, announced on the tenth of November. In South Korea, KT SAT will lead a maritime connectivity project with ST Engineering iDirect. Japan's Mars moons probe stays on its transfer orbit with no arrival date. These are company-level agreements.",
+          "why": "Australia is adding return and manufacturing capability. South Korea adds a maritime link.",
+          "sources": [
+            {
+              "outlet": "Space Connect",
+              "url": "https://www.spaceconnectonline.com.au/industry/7364-elevationspace-signs-with-southern-launch-for-capsule-return-at-koonibba-test-range",
+              "language": "en",
+              "type": "press"
+            },
+            {
+              "outlet": "Via Satellite",
+              "url": "https://www.satellitetoday.com/government-military/2026/11/05/kt-sat-to-lead-south-korea-maritime-connectivity-project-with-st-engineering-idirect/",
+              "language": "en",
+              "type": "press"
+            }
+          ],
+          "bar": "Headline-level; terms not in packet."
+        }
+      ]
+    },
+    {
+      "id": "americas",
+      "name": "Americas",
+      "items": [
+        {
+          "date": "2026-11-11",
+          "iso3": [
+            "VEN"
+          ],
+          "status": "overview",
+          "priority": "P3",
+          "exposure": "context",
+          "title": "Venezuela applies satellite and military technology after recent earthquakes",
+          "summary": "Venezuela is applying satellite and military technology to risks after recent earthquakes. The report comes from state-aligned teleSUR. The sources give no detail on which satellites. Venezuela's space agency ABAE offers remote sensing services. No date is set.",
+          "why": "It shows satellite data used in a disaster setting. The detail is thin and comes from one outlet.",
+          "sources": [
+            {
+              "outlet": "teleSUR",
+              "url": "https://www.telesurtv.net/venezuela-tecnologia-satelital-militar-sismos/",
+              "language": "es",
+              "type": "national-language"
+            }
+          ],
+          "bar": "Single state-aligned source."
+        },
+        {
+          "date": "2026-11-10",
+          "iso3": [
+            "MEX",
+            "USA"
+          ],
+          "status": "event",
+          "priority": "P3",
+          "exposure": "context",
+          "title": "Mexico's Mexicana maintenance bids close on the twenty-third of November",
+          "summary": "Bids for the Mexicana maintenance business close on the twenty-third of November. That is an aviation date, not a space one. Mexico's four-satellite plan of 540 million pesos was reported in March. Blue Origin's reported January return of New Glenn is still unconfirmed by the company. The Federal Aviation Administration deadline of the thirtieth of October passed with no decision on file.",
+          "why": "The bid date is firm. The Blue Origin return remains a report, not a company statement.",
+          "sources": [
+            {
+              "outlet": "A21",
+              "url": "https://a21.com.mx/destacado-principal/2026/11/10/concluye-el-23-de-noviembre-recepcion-de-ofertas-por-mexicana-mro/",
+              "language": "es",
+              "type": "national-language"
+            }
+          ],
+          "bar": "Aviation item; Blue Origin line is carried from threads."
+        }
+      ]
+    }
+  ],
+  "priorities": [
+    {
+      "rank": "P2",
+      "title": "SpainSat NG replacement funded",
+      "status": "P1",
+      "exposure": "opportunity",
+      "implication": "Spain has funded a third satellite but no contract or schedule is yet visible.",
+      "iso3": [
+        "ESP"
+      ],
+      "next": null
+    },
+    {
+      "rank": "P2",
+      "title": "ESA committee vote and Rome",
+      "status": "P2",
+      "exposure": "policy risk",
+      "implication": "The tenth of November vote has no published outcome, so Rome carries the decision.",
+      "iso3": [
+        "FRA",
+        "DEU"
+      ],
+      "next": {
+        "date": "2026-12-15",
+        "event": "Rome ministerial"
+      }
+    },
+    {
+      "rank": "P2",
+      "title": "Ariane 6 flight with Amazon Leo satellites",
+      "status": "P2",
+      "exposure": "opportunity",
+      "implication": "The tenth Ariane 6 flight is set for no earlier than the twenty-third of November.",
+      "iso3": [
+        "FRA"
+      ],
+      "next": {
+        "date": "2026-11-23",
+        "event": "Ariane 6 flight with 36 Amazon Leo satellites, at the earliest"
+      }
+    },
+    {
+      "rank": "P2",
+      "title": "Artemis proposals",
+      "status": "P3",
+      "exposure": "context",
+      "implication": "Dates are unchanged and proposals are due in December.",
+      "iso3": [
+        "USA"
+      ],
+      "next": {
+        "date": "2026-12-08",
+        "event": "Artemis proposals due"
+      }
+    }
+  ],
+  "watchlist": [
+    {
+      "date": "2026-11-14",
+      "event": "NASA Space Apps Challenge in Seville, to the fifteenth",
+      "where": "Seville, Spain",
+      "iso3": [
+        "ESP"
+      ]
+    },
+    {
+      "date": "2026-11-23",
+      "event": "Ariane 6 flight with 36 Amazon Leo satellites, at the earliest",
+      "where": "Kourou",
+      "iso3": [
+        "FRA"
+      ]
+    },
+    {
+      "date": "2026-11-23",
+      "event": "Bids close for Mexicana maintenance",
+      "where": "Mexico",
+      "iso3": [
+        "MEX"
+      ]
+    },
+    {
+      "date": "2026-12-08",
+      "event": "Artemis proposals due",
+      "where": "United States",
+      "iso3": [
+        "USA"
+      ]
+    },
+    {
+      "date": "2026-12-15",
+      "event": "Rome ministerial",
+      "where": "Rome",
+      "iso3": [
+        "ITA"
+      ]
+    }
+  ],
+  "milestones": [
+    {
+      "date": "2026-12-15",
+      "event": "Rome ministerial on ESA and EU direction",
+      "iso3": [
+        "ITA"
+      ],
+      "status": "scheduled",
+      "why": "It follows the tenth of November committee vote."
+    },
+    {
+      "date": "2026-12-08",
+      "event": "Artemis proposals due",
+      "iso3": [
+        "USA"
+      ],
+      "status": "scheduled",
+      "why": "It tests the stated dates for the 2028 landing."
+    },
+    {
+      "date": "2027-02-18",
+      "event": "Rymddagen, Sweden's Space Day",
+      "iso3": [
+        "SWE"
+      ],
+      "status": "scheduled",
+      "why": "It is the next fixed Nordic date."
+    }
+  ],
+  "competitive_watch": [],
+  "countries": [
+    {
+      "iso3": "ESP",
+      "name": "Spain",
+      "items": [
+        {
+          "date": "2026-11-11",
+          "iso3": [
+            "ESP"
+          ],
+          "status": "contract",
+          "priority": "P1",
+          "exposure": "opportunity",
+          "title": "Spain's defence ministry funds a third SpainSat NG satellite",
+          "summary": "Spain's defence ministry is funding a third SpainSat NG satellite with 580 million. It replaces SpainSat NG II, which was damaged. The headline gives no currency, contractor or launch date. A contract and a schedule are the next things to look for. The Spanish Space Agency has also taken over the Spanish registry of space objects.",
+          "why": "Spain is replacing lost military satellite capacity. The funding is stated but the schedule is not.",
+          "sources": [
+            {
+              "outlet": "Infoespacial",
+              "url": "https://www.infoespacial.com/texto-diario/mostrar/6086964/defensa-financia-580-millones-tercer-satelite-spainsat-ng-sustituir-danado-ng-ii",
+              "language": "es",
+              "type": "national-language"
+            }
+          ],
+          "bar": "Headline-level; currency not stated."
+        }
+      ]
+    },
+    {
+      "iso3": "PAK",
+      "name": "Pakistan",
+      "items": [
+        {
+          "date": "2026-11-11",
+          "iso3": [
+            "PAK"
+          ],
+          "status": "event",
+          "priority": "P2",
+          "exposure": "context",
+          "title": "SUPARCO flies Pakistan's second indigenous Earth observation satellite",
+          "summary": "Pakistan's space agency says its second indigenous satellite, EO-2, has flown. It is the sixth satellite in the national Earth observation fleet. The agency page gives the news without a date in the packet. Pakistan also hosted a space and early warning conference in Islamabad from the twenty-seventh to the thirty-first of October. No launch provider is named in the sources.",
+          "why": "Pakistan's own Earth observation fleet is growing. The launch details are missing.",
+          "sources": [
+            {
+              "outlet": "SUPARCO",
+              "url": "https://suparco.gov.pk/news-updates.html",
+              "language": "en",
+              "type": "government-or-embassy"
+            }
+          ],
+          "bar": "Date and launcher absent."
+        }
+      ]
+    },
+    {
+      "iso3": "TUR",
+      "name": "Türkiye",
+      "items": [
+        {
+          "date": "2026-11-11",
+          "iso3": [
+            "TUR"
+          ],
+          "status": "overview",
+          "priority": "P2",
+          "exposure": "opportunity",
+          "title": "Türkiye schedules a new microsatellite for 2028 and a Turkic states satellite for 2027",
+          "summary": "A new Turkish microsatellite is to launch in 2028. A joint satellite of the Turkic states is to be sent up in 2027. The space and aviation budget stands at the proposed 24.59 billion lira for 2027. No split has been published. No exact launch date is given for either satellite.",
+          "why": "Two Turkish satellite timelines now carry years. Neither has a launch date or a contractor in the sources.",
+          "sources": [
+            {
+              "outlet": "Haber.Aero",
+              "url": "https://haber.aero/aero-gundem/turkiyenin-yeni-mikro-uydusu-2028de-firlatilacak/",
+              "language": "tr",
+              "type": "national-language"
+            }
+          ],
+          "bar": "Headline-level years only."
+        }
+      ]
+    },
+    {
+      "iso3": "AUS",
+      "name": "Australia",
+      "items": [
+        {
+          "date": "2026-11-10",
+          "iso3": [
+            "AUS"
+          ],
+          "status": "agreement",
+          "priority": "P3",
+          "exposure": "opportunity",
+          "title": "ElevationSpace signs with Southern Launch for capsule return at Koonibba",
+          "summary": "ElevationSpace has signed with Southern Launch for capsule return at the Koonibba Test Range. Space Machines and SunDrive Solar will partner on spacecraft solar panels, announced on the tenth of November. These are company-level agreements. No terms are in the sources. No date for the first return is given.",
+          "why": "Australia is adding return and manufacturing capability. The terms are not published.",
+          "sources": [
+            {
+              "outlet": "Space Connect",
+              "url": "https://www.spaceconnectonline.com.au/industry/7364-elevationspace-signs-with-southern-launch-for-capsule-return-at-koonibba-test-range",
+              "language": "en",
+              "type": "press"
+            }
+          ],
+          "bar": "Headline-level."
+        }
+      ]
+    },
+    {
+      "iso3": "NOR",
+      "name": "Norway",
+      "items": [
+        {
+          "date": "2026-11-11",
+          "iso3": [
+            "NOR",
+            "CAN"
+          ],
+          "status": "agreement",
+          "priority": "P3",
+          "exposure": "opportunity",
+          "title": "Norway's space directorate signs new Arctic space agreement with Canada",
+          "summary": "The Norwegian space directorate and the Canadian Space Agency have signed a new space agreement. It opens closer cooperation in the Arctic. The signing date is not on the page. Sweden's Space Day is set for the eighteenth of February, twenty twenty-seven. That is the next fixed date in the Nordics.",
+          "why": "The agreement ties two Arctic states more closely together. Sweden's event is the next dated marker.",
+          "sources": [
+            {
+              "outlet": "Norwegian Space Directorate",
+              "url": "https://www.romsenter.no/aktuelt/ny-avtale-med-canada-aapner-for-tettere-romsamarbeid-i-arktis",
+              "language": "no",
+              "type": "government-or-embassy"
+            }
+          ],
+          "bar": "Signing date missing."
+        }
+      ]
+    },
+    {
+      "iso3": "VEN",
+      "name": "Venezuela",
+      "items": [
+        {
+          "date": "2026-11-11",
+          "iso3": [
+            "VEN"
+          ],
+          "status": "overview",
+          "priority": "P3",
+          "exposure": "context",
+          "title": "Venezuela applies satellite and military technology after recent earthquakes",
+          "summary": "Venezuela is applying satellite and military technology to risks after recent earthquakes. The report comes from state-aligned teleSUR. The sources give no detail on which satellites. Venezuela's space agency ABAE offers remote sensing services. No date is set.",
+          "why": "It shows satellite data used in a disaster setting. The detail is thin and comes from one outlet.",
+          "sources": [
+            {
+              "outlet": "teleSUR",
+              "url": "https://www.telesurtv.net/venezuela-tecnologia-satelital-militar-sismos/",
+              "language": "es",
+              "type": "national-language"
+            }
+          ],
+          "bar": "Single state-aligned source."
+        }
+      ]
+    },
+    {
+      "iso3": "MEX",
+      "name": "Mexico",
+      "items": [
+        {
+          "date": "2026-11-10",
+          "iso3": [
+            "MEX"
+          ],
+          "status": "event",
+          "priority": "P3",
+          "exposure": "context",
+          "title": "Mexico's Mexicana maintenance bids close on the twenty-third of November",
+          "summary": "Bids for the Mexicana maintenance business close on the twenty-third of November. That is an aviation date, not a space one. Mexico's four-satellite plan of 540 million pesos was reported in March. No new space decision is in the sources. The bid date is the next marker.",
+          "why": "The bid date is firm. Mexico's space plan has not moved.",
+          "sources": [
+            {
+              "outlet": "A21",
+              "url": "https://a21.com.mx/destacado-principal/2026/11/10/concluye-el-23-de-noviembre-recepcion-de-ofertas-por-mexicana-mro/",
+              "language": "es",
+              "type": "national-language"
+            }
+          ],
+          "bar": "Aviation item."
+        }
+      ]
+    },
+    {
+      "iso3": "USA",
+      "name": "United States",
+      "items": [
+        {
+          "date": "2026-11-04",
+          "iso3": [
+            "USA"
+          ],
+          "status": "contract",
+          "priority": "P2",
+          "exposure": "opportunity",
+          "title": "NASA awards Ka-band relay contracts to Viasat, SES and Astranis",
+          "summary": "NASA has awarded Ka-band relay contracts to Viasat, SES and Astranis. The awards were reported on the fourth of November. The sources give no value or term. Commercial relay is replacing part of what government-owned systems provide. The firms' own statements are the next sources to read.",
+          "why": "Commercial relay is becoming part of NASA's communications. Three companies now hold positions in it.",
+          "sources": [
+            {
+              "outlet": "Via Satellite",
+              "url": "https://www.satellitetoday.com/government-military/2026/11/04/viasat-ses-and-astranis-win-nasa-ka-band-relay-contracts/",
+              "language": "en",
+              "type": "press"
+            }
+          ],
+          "bar": "Headline only."
+        }
+      ]
+    }
+  ],
+  "audio_script": "Good morning. It is Wednesday, the eleventh of November, and this is the Sovereign Space ATLAS briefing. Spain's defence ministry has funded a third SpainSat NG satellite. Pakistan has flown its second indigenous Earth observation satellite. And a new Democratic Congress is expected to cut back Golden Dome.\n\nSpain has put money behind replacing a damaged satellite. Its defence ministry is funding a third SpainSat NG satellite, at 580 million, to take the place of SpainSat NG II, which was damaged. The headline gives no currency, contractor or launch date. The Spanish Space Agency has also taken over management of the Spanish registry of space objects. We are watching for a contract and a schedule.\n\nIn Europe, the European Space Agency committee voted on the tenth of November, and no outcome has been published. The next date is the fifteenth of December in Rome. ArianeGroup says the Prometheus reusable engine completed a hot-fire test on the sixth of November at DLR's P5 test bench. Arianespace plans to launch 36 Amazon Leo satellites on the tenth Ariane 6 flight on the twenty-third of November at the earliest. The agency has also opened a tender for Anubis, a planetary defence mission that would deflect asteroids with ion beams.\n\nIn Central and Eastern Europe, Ukrainian satellite communications stand where they did. Starshield's hope of a contract in mid-twenty twenty-seven is unchanged, and no government has commented on the close approaches by the Russian military satellite. No date is set.\n\nIn Norway, the space directorate and the Canadian Space Agency have signed a new space agreement that opens closer cooperation in the Arctic. In Sweden, the space agency will hold its next Space Day on the eighteenth of February, twenty twenty-seven.\n\nIn Spain, the Spanish Space Agency has taken over the registry of Spanish space objects. Seville hosts the NASA Space Apps Challenge on the fourteenth and fifteenth of November. The Swift telescope thread stays closed: Spanish and Turkish press describe its fall to Earth, and NASA has not published a page.\n\nIn Armenia, an Armath engineering makerspace has opened in Iraq. The space agencies of Azerbaijan and Kazakhstan have posted nothing new. No date is set.\n\nIn Türkiye, a new microsatellite is to launch in twenty twenty-eight, and a joint satellite of the Turkic states is to be sent up in twenty twenty-seven. The space and aviation budget stands at the proposed 24.59 billion lira for twenty twenty-seven, with no split published. In the Gulf, a United States report has drawn attention to Iran's space power. The text of that report is the next thing to read.\n\nIn Pakistan, the space agency SUPARCO says EO-2 has flown, the sixth satellite in the national Earth observation fleet. In Australia, ElevationSpace has signed with Southern Launch for capsule return at the Koonibba Test Range, and Space Machines and SunDrive Solar will partner on spacecraft solar panels. In South Korea, KT SAT will lead a maritime connectivity project with ST Engineering iDirect. In Japan, the Mars moons probe remains on its transfer orbit, with no arrival date.\n\nIn the United States, a new Democratic Congress is expected to strip back Golden Dome, and the Pentagon is weighing a fleet of military satellites around the Moon. NASA has awarded Ka-band relay contracts to Viasat, SES and Astranis. In Venezuela, authorities are applying satellite and military technology to the risks after recent earthquakes. In Mexico, bids for the Mexicana maintenance business close on the twenty-third of November. Blue Origin's reported January return of New Glenn is still unconfirmed by the company.\n\nWhat we are tracking this week: the outcome of the tenth of November European Space Agency vote, the Space Apps event in Seville on the fourteenth and fifteenth, and any company word on Blue Origin's January return. What we are tracking this month: the Ariane 6 flight on the twenty-third of November at the earliest, the Mexicana bid close on the same day, and any NASA page on Swift. Heads-up dates: the eighth of December for Artemis proposals, the fifteenth of December in Rome, and the eighteenth of February for Sweden's Space Day. That is the briefing for Wednesday, the eleventh of November.",
+  "audio_sections": [
+    {
+      "id": "opening",
+      "title": "Opening",
+      "text": "Good morning. It is Wednesday, the eleventh of November, and this is the Sovereign Space ATLAS briefing. Spain's defence ministry has funded a third SpainSat NG satellite. Pakistan has flown its second indigenous Earth observation satellite. And a new Democratic Congress is expected to cut back Golden Dome."
+    },
+    {
+      "id": "top",
+      "title": "Top story",
+      "text": "Spain has put money behind replacing a damaged satellite. Its defence ministry is funding a third SpainSat NG satellite, at 580 million, to take the place of SpainSat NG II, which was damaged. The headline gives no currency, contractor or launch date. The Spanish Space Agency has also taken over management of the Spanish registry of space objects. We are watching for a contract and a schedule."
+    },
+    {
+      "id": "esa_eu",
+      "title": "ESA and EU",
+      "text": "In Europe, the European Space Agency committee voted on the tenth of November, and no outcome has been published. The next date is the fifteenth of December in Rome. ArianeGroup says the Prometheus reusable engine completed a hot-fire test on the sixth of November at DLR's P5 test bench. Arianespace plans to launch 36 Amazon Leo satellites on the tenth Ariane 6 flight on the twenty-third of November at the earliest. The agency has also opened a tender for Anubis, a planetary defence mission that would deflect asteroids with ion beams."
+    },
+    {
+      "id": "cee",
+      "title": "Central and Eastern Europe",
+      "text": "In Central and Eastern Europe, Ukrainian satellite communications stand where they did. Starshield's hope of a contract in mid-twenty twenty-seven is unchanged, and no government has commented on the close approaches by the Russian military satellite. No date is set."
+    },
+    {
+      "id": "nordics",
+      "title": "Nordics",
+      "text": "In Norway, the space directorate and the Canadian Space Agency have signed a new space agreement that opens closer cooperation in the Arctic. In Sweden, the space agency will hold its next Space Day on the eighteenth of February, twenty twenty-seven."
+    },
+    {
+      "id": "west",
+      "title": "Western and Southern Europe",
+      "text": "In Spain, the Spanish Space Agency has taken over the registry of Spanish space objects. Seville hosts the NASA Space Apps Challenge on the fourteenth and fifteenth of November. The Swift telescope thread stays closed: Spanish and Turkish press describe its fall to Earth, and NASA has not published a page."
+    },
+    {
+      "id": "eurasia",
+      "title": "Eurasia and Central Asia",
+      "text": "In Armenia, an Armath engineering makerspace has opened in Iraq. The space agencies of Azerbaijan and Kazakhstan have posted nothing new. No date is set."
+    },
+    {
+      "id": "mena",
+      "title": "Türkiye, Middle East and Africa",
+      "text": "In Türkiye, a new microsatellite is to launch in twenty twenty-eight, and a joint satellite of the Turkic states is to be sent up in twenty twenty-seven. The space and aviation budget stands at the proposed 24.59 billion lira for twenty twenty-seven, with no split published. In the Gulf, a United States report has drawn attention to Iran's space power. The text of that report is the next thing to read."
+    },
+    {
+      "id": "asia_pac",
+      "title": "Asia Pacific",
+      "text": "In Pakistan, the space agency SUPARCO says EO-2 has flown, the sixth satellite in the national Earth observation fleet. In Australia, ElevationSpace has signed with Southern Launch for capsule return at the Koonibba Test Range, and Space Machines and SunDrive Solar will partner on spacecraft solar panels. In South Korea, KT SAT will lead a maritime connectivity project with ST Engineering iDirect. In Japan, the Mars moons probe remains on its transfer orbit, with no arrival date."
+    },
+    {
+      "id": "americas",
+      "title": "Americas",
+      "text": "In the United States, a new Democratic Congress is expected to strip back Golden Dome, and the Pentagon is weighing a fleet of military satellites around the Moon. NASA has awarded Ka-band relay contracts to Viasat, SES and Astranis. In Venezuela, authorities are applying satellite and military technology to the risks after recent earthquakes. In Mexico, bids for the Mexicana maintenance business close on the twenty-third of November. Blue Origin's reported January return of New Glenn is still unconfirmed by the company."
+    },
+    {
+      "id": "close",
+      "title": "Close",
+      "text": "What we are tracking this week: the outcome of the tenth of November European Space Agency vote, the Space Apps event in Seville on the fourteenth and fifteenth, and any company word on Blue Origin's January return. What we are tracking this month: the Ariane 6 flight on the twenty-third of November at the earliest, the Mexicana bid close on the same day, and any NASA page on Swift. Heads-up dates: the eighth of December for Artemis proposals, the fifteenth of December in Rome, and the eighteenth of February for Sweden's Space Day. That is the briefing for Wednesday, the eleventh of November."
+    }
+  ],
+  "edition": "06:00 UTC",
+  "generated_at": "2026-11-11T11:32:12+00:00"
+}
