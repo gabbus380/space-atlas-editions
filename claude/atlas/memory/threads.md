@@ -242,3 +242,14 @@ Episodes:
 - Telesat Lightspeed: mid-2028 unchanged.
 - Starshield and Ukraine: mid-2027 hope unchanged.
 - New: SpainSat NG third satellite; Pakistan EO-2; Golden Dome and Congress; Ka-band relay awards.
+
+
+## 2026-11-12
+- Starshield and Ukraine: Zelenskyy says speed restrictions recorded for several days, 12 November via Anadolu; mid-2027 hope unchanged.
+- ESA, EU, Rome: 10 November vote has no outcome in packet; Rome 15 December; Ariane 6 VA271 NET 23 November.
+- Artemis: dates unchanged; NASA moon base awards 9 November; 8 December proposals due.
+- Blue Origin: January return unconfirmed; FAA 30 October deadline passed, no decision on file.
+- Swift: closed pending NASA page.
+- Matera laser ranging: no change.
+- Telesat Lightspeed: mid-2028, unchanged.
+- Türkiye budget: 24.59 billion lira proposal for 2027, three-year 92 billion figure via trade press, no split.
