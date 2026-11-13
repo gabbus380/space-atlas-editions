@@ -1,0 +1,851 @@
+{
+  "date": "2026-11-13",
+  "headline": "ESA completes training of its astronaut reserve",
+  "summary": [
+    "ESA's astronaut reserve has completed its training, according to an ESA article of the thirteenth of November.",
+    "Pakistan's SUPARCO says its second indigenous Earth observation satellite, EO-2, has flown, the sixth in its national fleet.",
+    "Gilmour's Eris TestFlight1 was named Engineers Australia's Project of the Year on the thirteenth of November.",
+    "The committee vote of the tenth of November on ESA and EU funding has no published outcome, and the Rome meeting follows on the fifteenth of December.",
+    "Ariane 6 flight VA271 is set for the twenty-third of November at the earliest."
+  ],
+  "bottom_line": "The ESA and EU funding track still awaits the outcome of the tenth of November vote. The next date that matters is the Rome meeting on the fifteenth of December.",
+  "global": [
+    {
+      "date": "2026-11-09",
+      "iso3": [
+        "USA"
+      ],
+      "status": "contract",
+      "priority": "P2",
+      "exposure": "context",
+      "title": "NASA announces moon base development awards",
+      "summary": "Via Satellite reports NASA made major contract awards for moon base development on the ninth of November. Artemis dates are unchanged.",
+      "why": "The awards add contracts to the Artemis pathway without moving its dates. Proposals are still due on the eighth of December.",
+      "sources": [
+        {
+          "outlet": "Via Satellite",
+          "url": "https://www.satellitetoday.com/government-military/2026/11/09/nasa-makes-major-contract-awards-for-moon-base-development/",
+          "language": "en",
+          "type": "press"
+        }
+      ],
+      "bar": "Headline only; awardees and values not in packet."
+    },
+    {
+      "date": "2026-11-13",
+      "iso3": [
+        "USA"
+      ],
+      "status": "overview",
+      "priority": "P3",
+      "exposure": "competitive threat",
+      "title": "Blue Origin has not confirmed a January return for New Glenn",
+      "summary": "The company has not confirmed the January return. The thirtieth of October FAA comment deadline passed with no decision on file.",
+      "why": "The cadence of a competing heavy launcher remains unconfirmed. No new date has arrived.",
+      "sources": [
+        {
+          "outlet": "Via Satellite",
+          "url": "https://www.satellitetoday.com/government-military/2026/11/09/nasa-makes-major-contract-awards-for-moon-base-development/",
+          "language": "en",
+          "type": "press"
+        }
+      ],
+      "bar": "Standing thread; no packet source on Blue Origin today. Source field is a placeholder, replace or drop."
+    },
+    {
+      "date": "2026-11-13",
+      "iso3": [
+        "PAK",
+        "CHN"
+      ],
+      "status": "overview",
+      "priority": "P3",
+      "exposure": "context",
+      "title": "Pakistan is to fly the first foreign astronaut to China's station",
+      "summary": "A Spanish-language report says a Pakistani astronaut will be the first foreigner on China's space station. No crew or date is given.",
+      "why": "It would extend China's station to a foreign crew member. Without a date it stays a standing item.",
+      "sources": [
+        {
+          "outlet": "Infoespacial",
+          "url": "https://www.infoespacial.com/texto-diario/mostrar/6086932/astronauta-paquistani-hara-historia-primer-extranjero-estacion-espacial-china",
+          "language": "es",
+          "type": "press"
+        }
+      ],
+      "bar": "Single source, no date."
+    }
+  ],
+  "regions": [
+    {
+      "id": "esa_eu",
+      "name": "ESA and EU",
+      "items": [
+        {
+          "date": "2026-11-13",
+          "iso3": [
+            "EUR"
+          ],
+          "status": "event",
+          "priority": "P1",
+          "exposure": "context",
+          "title": "ESA completes training of its astronaut reserve",
+          "summary": "ESA published the announcement on the thirteenth of November. No flight assignment is named.",
+          "why": "The reserve is a standing pool for ESA's human spaceflight. Any assignment would be a separate decision.",
+          "sources": [
+            {
+              "outlet": "ESA human spaceflight",
+              "url": "https://www.esa.int/articles/about-us/directorates/human-and-robotic-exploration/astronauts/esa-astronaut-reserve-celebrates-completion-of-training",
+              "language": "en",
+              "type": "government-or-embassy"
+            }
+          ],
+          "bar": "Headline only."
+        },
+        {
+          "date": "2026-12-15",
+          "iso3": [
+            "EUR",
+            "FRA"
+          ],
+          "status": "overview",
+          "priority": "P2",
+          "exposure": "context",
+          "title": "ESA and Arianespace hold to Rome meeting and VA271 dates",
+          "summary": "The tenth of November vote has no outcome in the reading. VA271 carries thirty-six Amazon Leo satellites on the twenty-third of November at the earliest.",
+          "why": "The funding track turns on Rome on the fifteenth of December. VA271 is the next launch date for Ariane 6.",
+          "sources": [
+            {
+              "outlet": "ArianeGroup",
+              "url": "https://www.ariane.group/en/news/arianespace-to-launch-36-amazon-leo-satellites-on-november-23-at-the-earliest-for-10th-ariane-6-flight/",
+              "language": "en",
+              "type": "press"
+            }
+          ],
+          "bar": "Vote outcome absent; company page only."
+        }
+      ]
+    },
+    {
+      "id": "cee",
+      "name": "Central and Eastern Europe",
+      "items": [
+        {
+          "date": "2026-11-13",
+          "iso3": [
+            "UKR",
+            "LTU"
+          ],
+          "status": "overview",
+          "priority": "P2",
+          "exposure": "policy risk",
+          "title": "Turkish trade press says Musk ordered Starlink slowed in Ukraine",
+          "summary": "No SpaceX statement is in the reading. Via Satellite's podcast of the ninth of November discusses what the restrictions mean for European space sovereignty.",
+          "why": "Ukraine's reliance on one private network is again in question. Lithuania's TV3 also covers a Russian Starlink analogue.",
+          "sources": [
+            {
+              "outlet": "Haber.Aero",
+              "url": "https://haber.aero/aero-gundem/musk-ukraynada-starlinki-yavaslatma-emri-verdi/",
+              "language": "tr",
+              "type": "press"
+            },
+            {
+              "outlet": "Via Satellite",
+              "url": "http://www.satellitetoday.com/podcast/2026/11/09/what-starlink-restrictions-in-ukraine-reveal-about-europes-space-sovereignty-and-the-path-forward/?itm_source=parsely-api",
+              "language": "en",
+              "type": "press"
+            },
+            {
+              "outlet": "TV3 Lietuva",
+              "url": "https://www.tv3.lt/naujiena/naujienos/rusijai-kritiskai-svarbus-starlink-analogas-palydovai-zombiai-ir-ukrainos-lenktynes-su-laiku-n1553523",
+              "language": "lt",
+              "type": "national-language"
+            }
+          ],
+          "bar": "Headline-level, undated, single claim."
+        }
+      ]
+    },
+    {
+      "id": "nordics",
+      "name": "Nordics",
+      "items": [
+        {
+          "date": "2027-02-18",
+          "iso3": [
+            "SWE",
+            "NOR"
+          ],
+          "status": "overview",
+          "priority": "P3",
+          "exposure": "context",
+          "title": "Swedish space agency sets Space Day for the eighteenth of February",
+          "summary": "Rymdstyrelsen announced the date on the second of November. Norway's space directorate is running a new national survey of its space sector.",
+          "why": "Sweden has a dated event ahead. Norway's survey has no completion date.",
+          "sources": [
+            {
+              "outlet": "Rymdstyrelsen",
+              "url": "https://www.rymdstyrelsen.se/nyheter/2026/rymddagen-2027-blir-den-18-februari/",
+              "language": "sv",
+              "type": "national-language"
+            },
+            {
+              "outlet": "Romsenter",
+              "url": "https://www.romsenter.no/aktuelt/ny-kartlegging-av-norsk-romsektor",
+              "language": "no",
+              "type": "national-language"
+            }
+          ],
+          "bar": "Standing."
+        }
+      ]
+    },
+    {
+      "id": "west",
+      "name": "Western and Southern Europe",
+      "items": [
+        {
+          "date": "2026-11-14",
+          "iso3": [
+            "ESP"
+          ],
+          "status": "event",
+          "priority": "P3",
+          "exposure": "context",
+          "title": "Seville hosts NASA Space Apps Challenge on the fourteenth and fifteenth",
+          "summary": "The event is described as the world's largest STEAM hackathon. Spain's 580 million for a third SpainSat NG satellite stands without a launch date.",
+          "why": "The hackathon is a dated event inside the week. SpainSat NG replaces the damaged NG II.",
+          "sources": [
+            {
+              "outlet": "Infoespacial",
+              "url": "https://www.infoespacial.com/texto-diario/mostrar/6085726/sevilla-acogera-14-15-noviembre-mayor-hackathon-steam-mundo-nasa-space-apps-challenge",
+              "language": "es",
+              "type": "press"
+            },
+            {
+              "outlet": "Infoespacial",
+              "url": "https://www.infoespacial.com/texto-diario/mostrar/6086964/defensa-financia-580-millones-tercer-satelite-spainsat-ng-sustituir-danado-ng-ii",
+              "language": "es",
+              "type": "press"
+            }
+          ],
+          "bar": "Currency of 580 million not stated in headline."
+        }
+      ]
+    },
+    {
+      "id": "eurasia",
+      "name": "Eurasia and Central Asia",
+      "items": [
+        {
+          "date": "2026-11-13",
+          "iso3": [
+            "KAZ",
+            "UZB",
+            "AZE"
+          ],
+          "status": "overview",
+          "priority": "P3",
+          "exposure": "context",
+          "title": "Turkish trade press says Turkic states' joint satellite will launch in 2027",
+          "summary": "No launch date is given. Azerbaijan's space agency news page could not be loaded.",
+          "why": "The joint satellite is a 2027 item without a date. No Azerbaijani update is available.",
+          "sources": [
+            {
+              "outlet": "Haber.Aero",
+              "url": "https://haber.aero/aero-gundem/turk-devletlerinin-ortak-uydusu-2027de-uzaya-gonderilecek/",
+              "language": "tr",
+              "type": "press"
+            },
+            {
+              "outlet": "Azercosmos",
+              "url": "https://azercosmos.az/en/media-center/news",
+              "language": "en",
+              "type": "government-or-embassy"
+            }
+          ],
+          "bar": "Headline-level. No next date available."
+        }
+      ]
+    },
+    {
+      "id": "mena",
+      "name": "Türkiye, Middle East and Africa",
+      "items": [
+        {
+          "date": "2026-11-13",
+          "iso3": [
+            "TUR"
+          ],
+          "status": "overview",
+          "priority": "P2",
+          "exposure": "opportunity",
+          "title": "Türkiye trade press reports 92 billion lira for space and aviation over three years",
+          "summary": "No split of the sum is given. A new Turkish micro satellite is to launch in 2028.",
+          "why": "The figure sets the scale of Turkish space spending. The split between space and aviation is missing.",
+          "sources": [
+            {
+              "outlet": "Haber.Aero",
+              "url": "https://haber.aero/aero-gundem/uzay-ve-havaciliga-3-yilda-92-milyar-liralik-kaynak/",
+              "language": "tr",
+              "type": "national-language"
+            },
+            {
+              "outlet": "Haber.Aero",
+              "url": "https://haber.aero/aero-gundem/turkiyenin-yeni-mikro-uydusu-2028de-firlatilacak/",
+              "language": "tr",
+              "type": "national-language"
+            }
+          ],
+          "bar": "Trade press, single outlet."
+        },
+        {
+          "date": "2026-10-30",
+          "iso3": [
+            "DZA"
+          ],
+          "status": "statement",
+          "priority": "P3",
+          "exposure": "context",
+          "title": "Algeria's space agency reports attending ICG-20 in Goa",
+          "summary": "The meeting ran from the twenty-fifth to the thirtieth of October.",
+          "why": "It shows Algerian participation in navigation-satellite coordination. No further date is set.",
+          "sources": [
+            {
+              "outlet": "ASAL",
+              "url": "https://asal.dz/?p=13593",
+              "language": "fr",
+              "type": "government-or-embassy"
+            }
+          ],
+          "bar": "Past event, standing."
+        }
+      ]
+    },
+    {
+      "id": "asia_pac",
+      "name": "Asia Pacific",
+      "items": [
+        {
+          "date": "2026-11-13",
+          "iso3": [
+            "PAK"
+          ],
+          "status": "event",
+          "priority": "P2",
+          "exposure": "context",
+          "title": "SUPARCO says Pakistan's EO-2 satellite has flown",
+          "summary": "EO-2 is Pakistan's second indigenous Earth observation satellite and the sixth in the national fleet.",
+          "why": "Pakistan's national Earth observation fleet grows. No launch provider or date is in the reading.",
+          "sources": [
+            {
+              "outlet": "SUPARCO",
+              "url": "https://suparco.gov.pk/news-updates.html",
+              "language": "en",
+              "type": "government-or-embassy"
+            }
+          ],
+          "bar": "Agency page, no date."
+        },
+        {
+          "date": "2026-11-13",
+          "iso3": [
+            "AUS",
+            "JPN"
+          ],
+          "status": "event",
+          "priority": "P3",
+          "exposure": "opportunity",
+          "title": "Gilmour's Eris TestFlight1 named Engineers Australia Project of the Year",
+          "summary": "Kratos and Seagate Space signed an offshore launch platform agreement on the twelfth of November. Synspective announced first imagery from its twelfth satellite.",
+          "why": "Australian launch work gains recognition and a platform agreement. Japan's Synspective adds to its constellation.",
+          "sources": [
+            {
+              "outlet": "Space Connect",
+              "url": "https://www.spaceconnectonline.com.au/industry/7371-gilmours-eris-testflight1-named-engineers-australia-project-of-the-year-2026",
+              "language": "en",
+              "type": "press"
+            },
+            {
+              "outlet": "Space Connect",
+              "url": "https://www.spaceconnectonline.com.au/launch/7367-kratos-seagate-space-sign-agreement-to-use-offshore-launch-platform",
+              "language": "en",
+              "type": "press"
+            },
+            {
+              "outlet": "Space Connect",
+              "url": "https://www.spaceconnectonline.com.au/satellites/7370-synspective-announces-first-imagery-obtained-from-twelfth-satellite",
+              "language": "en",
+              "type": "press"
+            }
+          ],
+          "bar": "Headline-level."
+        }
+      ]
+    },
+    {
+      "id": "americas",
+      "name": "Americas",
+      "items": [
+        {
+          "date": "2026-11-13",
+          "iso3": [
+            "USA"
+          ],
+          "status": "statement",
+          "priority": "P3",
+          "exposure": "competitive threat",
+          "title": "York Space Systems announces intent to acquire Outlook Industries",
+          "summary": "The announcement came on the thirteenth of November. No price or closing date is in the reading.",
+          "why": "It is a consolidation move among US satellite makers. Terms are not yet known.",
+          "sources": [
+            {
+              "outlet": "Space Connect",
+              "url": "https://www.spaceconnectonline.com.au/industry/7368-us-york-space-systems-announces-intent-to-acquire-outlook-industries",
+              "language": "en",
+              "type": "press"
+            }
+          ],
+          "bar": "Company announcement via trade press."
+        },
+        {
+          "date": "2026-11-23",
+          "iso3": [
+            "MEX"
+          ],
+          "status": "overview",
+          "priority": "P3",
+          "exposure": "opportunity",
+          "title": "Mexico closes bids for Mexicana maintenance business on the twenty-third of November",
+          "summary": "A21 reports the bid window ends on the twenty-third of November.",
+          "why": "It is a dated Mexican aviation-industry decision. It sits beside Mexico's 2026 to 2030 space program debate.",
+          "sources": [
+            {
+              "outlet": "A21",
+              "url": "https://a21.com.mx/destacado-principal/2026/11/10/concluye-el-23-de-noviembre-recepcion-de-ofertas-por-mexicana-mro/",
+              "language": "es",
+              "type": "national-language"
+            }
+          ],
+          "bar": "Aviation, not space; marginal."
+        }
+      ]
+    }
+  ],
+  "priorities": [
+    {
+      "rank": "P2",
+      "title": "ESA and EU funding track",
+      "status": "Vote of the tenth of November has no published outcome",
+      "exposure": "policy risk",
+      "implication": "The Rome meeting decides the next stage of European funding.",
+      "iso3": [
+        "EUR"
+      ],
+      "next": {
+        "date": "2026-12-15",
+        "event": "Rome meeting"
+      }
+    },
+    {
+      "rank": "P2",
+      "title": "Artemis and the 2028 landing",
+      "status": "Dates unchanged; moon base awards of the ninth of November",
+      "exposure": "context",
+      "implication": "Contracts are advancing while the schedule holds.",
+      "iso3": [
+        "USA"
+      ],
+      "next": {
+        "date": "2026-12-08",
+        "event": "Artemis proposals due"
+      }
+    },
+    {
+      "rank": "P2",
+      "title": "Ariane 6 flight VA271",
+      "status": "Twenty-third of November at the earliest",
+      "exposure": "opportunity",
+      "implication": "It is Europe's next test of launch cadence.",
+      "iso3": [
+        "FRA"
+      ],
+      "next": {
+        "date": "2026-11-23",
+        "event": "VA271 launch, earliest"
+      }
+    },
+    {
+      "rank": "P2",
+      "title": "Starlink restrictions in Ukraine",
+      "status": "Press claims, no SpaceX statement",
+      "exposure": "policy risk",
+      "implication": "Dependence on one private network stays in question.",
+      "iso3": [
+        "UKR"
+      ],
+      "next": null
+    }
+  ],
+  "watchlist": [
+    {
+      "date": "2026-11-14",
+      "event": "NASA Space Apps Challenge, Seville, first day",
+      "where": "Seville, Spain",
+      "iso3": [
+        "ESP"
+      ]
+    },
+    {
+      "date": "2026-11-23",
+      "event": "Ariane 6 VA271 launch, earliest date",
+      "where": "Kourou",
+      "iso3": [
+        "FRA"
+      ]
+    },
+    {
+      "date": "2026-11-23",
+      "event": "Bids close for Mexicana maintenance business",
+      "where": "Mexico",
+      "iso3": [
+        "MEX"
+      ]
+    },
+    {
+      "date": "2026-12-08",
+      "event": "Artemis proposals due",
+      "where": "United States",
+      "iso3": [
+        "USA"
+      ]
+    },
+    {
+      "date": "2026-12-15",
+      "event": "ESA Rome meeting",
+      "where": "Rome, Italy",
+      "iso3": [
+        "ITA"
+      ]
+    }
+  ],
+  "milestones": [
+    {
+      "date": "2026-12-15",
+      "event": "ESA Rome meeting",
+      "iso3": [
+        "ITA"
+      ],
+      "status": "scheduled",
+      "why": "Decides the next stage of European funding."
+    },
+    {
+      "date": "2027-02-18",
+      "event": "Swedish Space Day",
+      "iso3": [
+        "SWE"
+      ],
+      "status": "scheduled",
+      "why": "Sweden's annual space event."
+    }
+  ],
+  "competitive_watch": [],
+  "countries": [
+    {
+      "iso3": "EUR",
+      "items": [
+        {
+          "date": "2026-11-13",
+          "iso3": [
+            "EUR"
+          ],
+          "status": "event",
+          "priority": "P1",
+          "exposure": "context",
+          "title": "ESA completes training of its astronaut reserve",
+          "summary": "ESA published the announcement on the thirteenth of November. No flight assignment is named.",
+          "why": "The reserve is a standing pool for ESA's human spaceflight. Any assignment would be a separate decision.",
+          "sources": [
+            {
+              "outlet": "ESA human spaceflight",
+              "url": "https://www.esa.int/articles/about-us/directorates/human-and-robotic-exploration/astronauts/esa-astronaut-reserve-celebrates-completion-of-training",
+              "language": "en",
+              "type": "government-or-embassy"
+            }
+          ],
+          "bar": "Headline only."
+        }
+      ]
+    },
+    {
+      "iso3": "UKR",
+      "items": [
+        {
+          "date": "2026-11-13",
+          "iso3": [
+            "UKR",
+            "LTU"
+          ],
+          "status": "overview",
+          "priority": "P2",
+          "exposure": "policy risk",
+          "title": "Turkish trade press says Musk ordered Starlink slowed in Ukraine",
+          "summary": "No SpaceX statement is in the reading.",
+          "why": "Ukraine's reliance on one private network is again in question. Lithuania's TV3 also covers a Russian Starlink analogue.",
+          "sources": [
+            {
+              "outlet": "Haber.Aero",
+              "url": "https://haber.aero/aero-gundem/musk-ukraynada-starlinki-yavaslatma-emri-verdi/",
+              "language": "tr",
+              "type": "press"
+            }
+          ],
+          "bar": "Headline-level."
+        }
+      ]
+    },
+    {
+      "iso3": "SWE",
+      "items": [
+        {
+          "date": "2027-02-18",
+          "iso3": [
+            "SWE",
+            "NOR"
+          ],
+          "status": "overview",
+          "priority": "P3",
+          "exposure": "context",
+          "title": "Swedish space agency sets Space Day for the eighteenth of February",
+          "summary": "Rymdstyrelsen announced the date on the second of November.",
+          "why": "Sweden has a dated event ahead. Norway's survey has no completion date.",
+          "sources": [
+            {
+              "outlet": "Rymdstyrelsen",
+              "url": "https://www.rymdstyrelsen.se/nyheter/2026/rymddagen-2027-blir-den-18-februari/",
+              "language": "sv",
+              "type": "national-language"
+            }
+          ],
+          "bar": "Standing."
+        }
+      ]
+    },
+    {
+      "iso3": "ESP",
+      "items": [
+        {
+          "date": "2026-11-14",
+          "iso3": [
+            "ESP"
+          ],
+          "status": "event",
+          "priority": "P3",
+          "exposure": "context",
+          "title": "Seville hosts NASA Space Apps Challenge on the fourteenth and fifteenth",
+          "summary": "The event is described as the world's largest STEAM hackathon.",
+          "why": "The hackathon is a dated event inside the week. SpainSat NG replaces the damaged NG II.",
+          "sources": [
+            {
+              "outlet": "Infoespacial",
+              "url": "https://www.infoespacial.com/texto-diario/mostrar/6085726/sevilla-acogera-14-15-noviembre-mayor-hackathon-steam-mundo-nasa-space-apps-challenge",
+              "language": "es",
+              "type": "press"
+            }
+          ],
+          "bar": "Headline only."
+        }
+      ]
+    },
+    {
+      "iso3": "TUR",
+      "items": [
+        {
+          "date": "2026-11-13",
+          "iso3": [
+            "TUR"
+          ],
+          "status": "overview",
+          "priority": "P2",
+          "exposure": "opportunity",
+          "title": "Türkiye trade press reports 92 billion lira for space and aviation over three years",
+          "summary": "No split of the sum is given.",
+          "why": "The figure sets the scale of Turkish space spending. The split between space and aviation is missing.",
+          "sources": [
+            {
+              "outlet": "Haber.Aero",
+              "url": "https://haber.aero/aero-gundem/uzay-ve-havaciliga-3-yilda-92-milyar-liralik-kaynak/",
+              "language": "tr",
+              "type": "national-language"
+            }
+          ],
+          "bar": "Single outlet."
+        }
+      ]
+    },
+    {
+      "iso3": "PAK",
+      "items": [
+        {
+          "date": "2026-11-13",
+          "iso3": [
+            "PAK"
+          ],
+          "status": "event",
+          "priority": "P2",
+          "exposure": "context",
+          "title": "SUPARCO says Pakistan's EO-2 satellite has flown",
+          "summary": "EO-2 is the sixth satellite in the national fleet.",
+          "why": "Pakistan's national Earth observation fleet grows. No launch provider or date is in the reading.",
+          "sources": [
+            {
+              "outlet": "SUPARCO",
+              "url": "https://suparco.gov.pk/news-updates.html",
+              "language": "en",
+              "type": "government-or-embassy"
+            }
+          ],
+          "bar": "Agency page."
+        }
+      ]
+    },
+    {
+      "iso3": "AUS",
+      "items": [
+        {
+          "date": "2026-11-13",
+          "iso3": [
+            "AUS",
+            "JPN"
+          ],
+          "status": "event",
+          "priority": "P3",
+          "exposure": "opportunity",
+          "title": "Gilmour's Eris TestFlight1 named Engineers Australia Project of the Year",
+          "summary": "Kratos and Seagate Space signed an offshore launch platform agreement on the twelfth of November.",
+          "why": "Australian launch work gains recognition and a platform agreement. Japan's Synspective adds to its constellation.",
+          "sources": [
+            {
+              "outlet": "Space Connect",
+              "url": "https://www.spaceconnectonline.com.au/industry/7371-gilmours-eris-testflight1-named-engineers-australia-project-of-the-year-2026",
+              "language": "en",
+              "type": "press"
+            }
+          ],
+          "bar": "Headline-level."
+        }
+      ]
+    },
+    {
+      "iso3": "USA",
+      "items": [
+        {
+          "date": "2026-11-13",
+          "iso3": [
+            "USA"
+          ],
+          "status": "statement",
+          "priority": "P3",
+          "exposure": "competitive threat",
+          "title": "York Space Systems announces intent to acquire Outlook Industries",
+          "summary": "No price or closing date is in the reading.",
+          "why": "It is a consolidation move among US satellite makers. Terms are not yet known.",
+          "sources": [
+            {
+              "outlet": "Space Connect",
+              "url": "https://www.spaceconnectonline.com.au/industry/7368-us-york-space-systems-announces-intent-to-acquire-outlook-industries",
+              "language": "en",
+              "type": "press"
+            }
+          ],
+          "bar": "Company announcement."
+        }
+      ]
+    },
+    {
+      "iso3": "MEX",
+      "items": [
+        {
+          "date": "2026-11-23",
+          "iso3": [
+            "MEX"
+          ],
+          "status": "overview",
+          "priority": "P3",
+          "exposure": "opportunity",
+          "title": "Mexico closes bids for Mexicana maintenance business on the twenty-third of November",
+          "summary": "A21 reports the bid window ends on the twenty-third of November.",
+          "why": "It is a dated Mexican aviation-industry decision. It sits beside Mexico's 2026 to 2030 space program debate.",
+          "sources": [
+            {
+              "outlet": "A21",
+              "url": "https://a21.com.mx/destacado-principal/2026/11/10/concluye-el-23-de-noviembre-recepcion-de-ofertas-por-mexicana-mro/",
+              "language": "es",
+              "type": "national-language"
+            }
+          ],
+          "bar": "Aviation."
+        }
+      ]
+    }
+  ],
+  "audio_script": "Good morning. It is Friday, the thirteenth of November, and this is the Sovereign Space ATLAS briefing. ESA's astronaut reserve has completed its training. Pakistan's second indigenous Earth observation satellite has flown. And Gilmour's Eris rocket test flight has been named an Australian project of the year. ESA's astronaut reserve has completed its training. ESA published the announcement on the thirteenth of November. The article's headline names no flight assignment, and none appears in the reading. ESA also marked the departure of the Fluid Science Laboratory on the twelfth of November, after eighteen years in orbit. The next ESA date is the fifteenth of December in Rome. In Europe, the committee vote of the tenth of November has no published outcome in the reading. The Rome meeting on the fifteenth of December is the next decision point. Arianespace plans the tenth Ariane 6 flight, VA271, with thirty-six Amazon Leo satellites, on the twenty-third of November at the earliest. ArianeGroup's Prometheus reusable engine completed a hot-fire test on the sixth of November at the DLR test bench. In Ukraine, Turkish trade press headlines say Musk ordered Starlink slowed. No SpaceX statement is in the reading. Via Satellite's podcast of the ninth of November discusses what the Starlink restrictions mean for European space sovereignty. In Lithuania, TV3 examines a Russian Starlink analogue and Ukraine's race against time. No date is attached to either. In Sweden, the national space agency has set its next Space Day for the eighteenth of February next year. In Norway, the space directorate is carrying out a new national survey of the Norwegian space sector. No completion date is given for the survey. In Spain, Seville hosts the NASA Space Apps Challenge on the fourteenth and fifteenth of November. It is described as the world's largest STEAM hackathon. Spain's defence ministry funding of 580 million for a third SpainSat NG satellite, to replace the damaged NG II, stands without a launch date. In Central Asia, Turkish trade press says a joint satellite of the Turkic states will be sent to orbit in 2027. No launch date is given. Azerbaijan's space agency news page could not be loaded, so there is no Azerbaijani update. No dated event is set for the region. In Türkiye, trade press reports 92 billion lira for space and aviation over three years. It also reports a new Turkish micro satellite to launch in 2028. No split of the sum is given. In Algeria, the space agency reports its participation in the twentieth meeting of the International Committee on Global Navigation Satellite Systems, held in Goa, India, from the twenty-fifth to the thirtieth of October. No further date is set for either. In Pakistan, SUPARCO says its second indigenous Earth observation satellite, EO-2, has flown, the sixth in the national fleet. A Spanish-language report says a Pakistani astronaut will be the first foreigner on China's space station. No crew or date is given. In Australia, Gilmour's Eris TestFlight1 was named Engineers Australia's Project of the Year on the thirteenth of November. Kratos and Seagate Space signed an agreement on the twelfth of November to use an offshore launch platform. In Japan, Synspective has announced first imagery from its twelfth satellite. In the United States, York Space Systems announced on the thirteenth of November its intent to acquire Outlook Industries. NASA announced moon base development awards on the ninth of November, and the dates for Artemis are unchanged, with proposals due on the eighth of December. Blue Origin has not confirmed a January return for New Glenn, and the thirtieth of October deadline for FAA comment passed with no decision on file. In Mexico, bids for the Mexicana aircraft maintenance business close on the twenty-third of November. What we are tracking this week is the outcome of the tenth of November committee vote, and the Seville hackathon on the fourteenth and fifteenth. What we are tracking this month is Ariane 6 flight VA271 on the twenty-third of November at the earliest, and the Mexicana bids closing the same day. The heads-up dates are the eighth of December for Artemis proposals, the fifteenth of December for the Rome meeting, and the eighteenth of February for Sweden's Space Day. That is the briefing for Friday, the thirteenth of November.",
+  "audio_sections": [
+    {
+      "id": "opening",
+      "title": "Opening",
+      "text": "Good morning. It is Friday, the thirteenth of November, and this is the Sovereign Space ATLAS briefing. ESA's astronaut reserve has completed its training. Pakistan's second indigenous Earth observation satellite has flown. And Gilmour's Eris rocket test flight has been named an Australian project of the year."
+    },
+    {
+      "id": "top",
+      "title": "Top story",
+      "text": "ESA's astronaut reserve has completed its training. ESA published the announcement on the thirteenth of November. The article's headline names no flight assignment, and none appears in the reading. ESA also marked the departure of the Fluid Science Laboratory on the twelfth of November, after eighteen years in orbit. The next ESA date is the fifteenth of December in Rome."
+    },
+    {
+      "id": "esa_eu",
+      "title": "ESA and EU",
+      "text": "In Europe, the committee vote of the tenth of November has no published outcome in the reading. The Rome meeting on the fifteenth of December is the next decision point. Arianespace plans the tenth Ariane 6 flight, VA271, with thirty-six Amazon Leo satellites, on the twenty-third of November at the earliest. ArianeGroup's Prometheus reusable engine completed a hot-fire test on the sixth of November at the DLR test bench."
+    },
+    {
+      "id": "cee",
+      "title": "Central and Eastern Europe",
+      "text": "In Ukraine, Turkish trade press headlines say Musk ordered Starlink slowed. No SpaceX statement is in the reading. Via Satellite's podcast of the ninth of November discusses what the Starlink restrictions mean for European space sovereignty. In Lithuania, TV3 examines a Russian Starlink analogue and Ukraine's race against time. No date is attached to either."
+    },
+    {
+      "id": "nordics",
+      "title": "Nordics",
+      "text": "In Sweden, the national space agency has set its next Space Day for the eighteenth of February next year. In Norway, the space directorate is carrying out a new national survey of the Norwegian space sector. No completion date is given for the survey."
+    },
+    {
+      "id": "west",
+      "title": "Western and Southern Europe",
+      "text": "In Spain, Seville hosts the NASA Space Apps Challenge on the fourteenth and fifteenth of November. It is described as the world's largest STEAM hackathon. Spain's defence ministry funding of 580 million for a third SpainSat NG satellite, to replace the damaged NG II, stands without a launch date."
+    },
+    {
+      "id": "eurasia",
+      "title": "Eurasia and Central Asia",
+      "text": "In Central Asia, Turkish trade press says a joint satellite of the Turkic states will be sent to orbit in 2027. No launch date is given. Azerbaijan's space agency news page could not be loaded, so there is no Azerbaijani update. No dated event is set for the region."
+    },
+    {
+      "id": "mena",
+      "title": "Türkiye, Middle East and Africa",
+      "text": "In Türkiye, trade press reports 92 billion lira for space and aviation over three years. It also reports a new Turkish micro satellite to launch in 2028. No split of the sum is given. In Algeria, the space agency reports its participation in the twentieth meeting of the International Committee on Global Navigation Satellite Systems, held in Goa, India, from the twenty-fifth to the thirtieth of October. No further date is set for either."
+    },
+    {
+      "id": "asia_pac",
+      "title": "Asia Pacific",
+      "text": "In Pakistan, SUPARCO says its second indigenous Earth observation satellite, EO-2, has flown, the sixth in the national fleet. A Spanish-language report says a Pakistani astronaut will be the first foreigner on China's space station. No crew or date is given. In Australia, Gilmour's Eris TestFlight1 was named Engineers Australia's Project of the Year on the thirteenth of November. Kratos and Seagate Space signed an agreement on the twelfth of November to use an offshore launch platform. In Japan, Synspective has announced first imagery from its twelfth satellite."
+    },
+    {
+      "id": "americas",
+      "title": "Americas",
+      "text": "In the United States, York Space Systems announced on the thirteenth of November its intent to acquire Outlook Industries. NASA announced moon base development awards on the ninth of November, and the dates for Artemis are unchanged, with proposals due on the eighth of December. Blue Origin has not confirmed a January return for New Glenn, and the thirtieth of October deadline for FAA comment passed with no decision on file. In Mexico, bids for the Mexicana aircraft maintenance business close on the twenty-third of November."
+    },
+    {
+      "id": "close",
+      "title": "Close",
+      "text": "What we are tracking this week is the outcome of the tenth of November committee vote, and the Seville hackathon on the fourteenth and fifteenth. What we are tracking this month is Ariane 6 flight VA271 on the twenty-third of November at the earliest, and the Mexicana bids closing the same day. The heads-up dates are the eighth of December for Artemis proposals, the fifteenth of December for the Rome meeting, and the eighteenth of February for Sweden's Space Day. That is the briefing for Friday, the thirteenth of November."
+    }
+  ],
+  "edition": "06:00 UTC",
+  "generated_at": "2026-11-13T11:39:23+00:00"
+}

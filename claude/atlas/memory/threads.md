@@ -253,3 +253,16 @@ Episodes:
 - Matera laser ranging: no change.
 - Telesat Lightspeed: mid-2028, unchanged.
 - Türkiye budget: 24.59 billion lira proposal for 2027, three-year 92 billion figure via trade press, no split.
+
+
+## 2026-11-13
+- ESA, EU, Rome: vote of tenth November has no outcome in packet; Rome fifteenth December; VA271 NET twenty-third November.
+- ESA astronaut reserve: training completed, ESA article of thirteenth November, new top story.
+- Artemis: dates unchanged; moon base awards ninth November; proposals due eighth December.
+- Blue Origin: January return unconfirmed; FAA thirtieth October deadline passed, no decision on file; no packet source today.
+- Starlink Ukraine: Turkish trade press headline only; no SpaceX statement.
+- Swift: closed pending NASA page.
+- Matera laser ranging: no change, not filed.
+- Telesat Lightspeed: mid-2028 unchanged, not filed.
+- Pakistan EO-2 and China station astronaut: SUPARCO page for EO-2; astronaut single source, no date.
+- Türkiye: 92 billion lira over three years via trade press, no split.
