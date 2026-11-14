@@ -266,3 +266,14 @@ Episodes:
 - Telesat Lightspeed: mid-2028 unchanged, not filed.
 - Pakistan EO-2 and China station astronaut: SUPARCO page for EO-2; astronaut single source, no date.
 - Türkiye: 92 billion lira over three years via trade press, no split.
+
+
+## 2026-11-14
+- Starship: new top story, setback in double-catch test, no cause or date.
+- ESA, EU, Rome: vote of tenth November no outcome; Rome fifteenth December; VA271 NET twenty-third November.
+- Artemis: moon base awards ninth November; proposals due eighth December.
+- Blue Origin: January return unconfirmed; FAA deadline passed, no decision; no source today.
+- Starlink Ukraine: Zelenskyy twelfth November; no SpaceX statement.
+- Swift: closed pending NASA page.
+- Telesat Lightspeed and Matera: unchanged, not filed.
+- Pakistan EO-2 and astronaut: no date, not filed.
