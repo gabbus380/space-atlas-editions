@@ -1,0 +1,565 @@
+{
+  "date": "2026-11-15",
+  "headline": "SpaceX catches Starship upper stage after about twenty-two hours in orbit",
+  "summary": [
+    "SpaceX has caught the upper stage of Starship after about twenty-two hours orbiting the Earth, reported as a first.",
+    "The cause of the earlier setback in the double-catch test and the date of the next flight are not given.",
+    "ESA says its astronaut reserve has completed training, and the Rome meeting is set for the fifteenth of December.",
+    "Australia's Gilmour Space was named Engineers Australia Project of the Year on the thirteenth of November.",
+    "Ariane 6 flight VA271 is set for the twenty-third of November at the earliest."
+  ],
+  "bottom_line": "The Starship catch is the one pathway that moved, and the cause of the earlier setback and the next flight date are still not given. The next date that matters is the twenty-third of November for Ariane 6 flight VA271.",
+  "global": [
+    {
+      "date": "2026-11-14",
+      "iso3": [
+        "USA"
+      ],
+      "status": "event",
+      "priority": "P1",
+      "exposure": "competitive threat",
+      "title": "SpaceX catches Starship upper stage after about twenty-two hours in orbit",
+      "summary": "SpaceX caught the upper stage of Starship after about twenty-two hours in orbit. Coverage dated the fourteenth of November describes it as the first recovery of its kind. Turkish trade press numbers it the fifteenth Starship test. A preview the day before said SpaceX had dropped plans to recover the first stage. No cause for the earlier setback and no next flight date are given.",
+      "why": "A caught and reusable upper stage would change launch costs for every competitor. The earlier setback is still unexplained.",
+      "sources": [
+        {
+          "outlet": "ABC",
+          "url": "https://www.abc.es/ciencia/spacex-historia-conseguir-atrapar-nave-starship-tras-20261114223955-nt.html",
+          "language": "es",
+          "type": "national-language"
+        },
+        {
+          "outlet": "ANSA",
+          "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/14/spacex-recupera-per-la-prima-volta-nella-storia-un-veicolo-spaziale_878fb39f-8bdd-4518-ad05-0e8675365ac5.html",
+          "language": "it",
+          "type": "national-language"
+        },
+        {
+          "outlet": "Infoespacial",
+          "url": "https://www.infoespacial.com/texto-diario/mostrar/6092044/spacex-captura-primera-vez-etapa-superior-starship-marca-hito-reutilizacion-espacial",
+          "language": "es",
+          "type": "national-language"
+        }
+      ],
+      "bar": "No SpaceX page in the packet; check for one."
+    },
+    {
+      "date": "2026-11-15",
+      "iso3": [
+        "USA"
+      ],
+      "status": "overview",
+      "priority": "P3",
+      "exposure": "context",
+      "title": "Blue Origin return to flight stays unconfirmed",
+      "summary": "A January 2027 return has been reported but not confirmed. The Federal Aviation Administration deadline of the thirtieth of October has passed. No decision is on file. No new source appeared today. The January date remains the one to watch.",
+      "why": "A grounded New Glenn limits heavy-lift choice. Confirmation would need an FAA decision.",
+      "sources": [
+        {
+          "outlet": "Via Satellite",
+          "url": "https://www.satellitetoday.com/government-military/2026/11/09/nasa-makes-major-contract-awards-for-moon-base-development/",
+          "language": "en",
+          "type": "press"
+        }
+      ],
+      "bar": "Carried forward; no fresh source. Consider dropping the item."
+    },
+    {
+      "date": "2026-11-09",
+      "iso3": [
+        "USA"
+      ],
+      "status": "contract",
+      "priority": "P2",
+      "exposure": "opportunity",
+      "title": "NASA awards moon base development contracts",
+      "summary": "NASA made major contract awards for moon base development on the ninth of November. Dates for Artemis are unchanged. Proposals are due on the eighth of December. No new NASA update appeared today. The proposal deadline is the next date.",
+      "why": "The awards set who builds the surface architecture. Proposals on the eighth of December open the next round.",
+      "sources": [
+        {
+          "outlet": "Via Satellite",
+          "url": "https://www.satellitetoday.com/government-military/2026/11/09/nasa-makes-major-contract-awards-for-moon-base-development/",
+          "language": "en",
+          "type": "press"
+        }
+      ],
+      "bar": "Standing item; award details not in packet."
+    }
+  ],
+  "regions": [
+    {
+      "id": "esa_eu",
+      "name": "ESA and EU",
+      "items": [
+        {
+          "date": "2026-11-12",
+          "iso3": [
+            "ITA",
+            "FRA"
+          ],
+          "status": "statement",
+          "priority": "P2",
+          "exposure": "context",
+          "title": "ESA reports astronaut reserve has completed training",
+          "summary": "ESA published on the twelfth of November that its astronaut reserve has completed training. The committee vote of the tenth of November has no published outcome. The Rome meeting follows on the fifteenth of December. Arianespace flight VA271 will carry thirty-six Amazon Leo satellites. It is set for the twenty-third of November at the earliest.",
+          "why": "The reserve widens the pool for European flights. The vote outcome shapes what Rome can decide.",
+          "sources": [
+            {
+              "outlet": "ESA",
+              "url": "https://www.esa.int/articles/about-us/directorates/human-and-robotic-exploration/astronauts/esa-astronaut-reserve-celebrates-completion-of-training",
+              "language": "en",
+              "type": "government-or-embassy"
+            },
+            {
+              "outlet": "ArianeGroup",
+              "url": "https://www.ariane.group/en/news/arianespace-to-launch-36-amazon-leo-satellites-on-november-23-at-the-earliest-for-10th-ariane-6-flight/",
+              "language": "en",
+              "type": "press"
+            }
+          ],
+          "bar": "Vote outcome still missing."
+        }
+      ]
+    },
+    {
+      "id": "cee",
+      "name": "Central and Eastern Europe",
+      "items": [
+        {
+          "date": "2026-11-12",
+          "iso3": [
+            "UKR"
+          ],
+          "status": "statement",
+          "priority": "P2",
+          "exposure": "policy risk",
+          "title": "Zelenskyy says Starlink speed restrictions recorded for several days",
+          "summary": "President Zelenskyy said on the twelfth of November that Starlink speed restrictions had been recorded for several days. SpaceX has made no statement. A hope of Starshield service by mid-2027 rests on a single source. No dated event is on file. The next move is a SpaceX statement.",
+          "why": "Ukraine's connectivity depends on a single commercial provider. Restrictions raise the question of alternatives.",
+          "sources": [
+            {
+              "outlet": "TV3 Lietuva",
+              "url": "https://www.tv3.lt/naujiena/naujienos/rusijai-kritiskai-svarbus-starlink-analogas-palydovai-zombiai-ir-ukrainos-lenktynes-su-laiku-n1553523",
+              "language": "lt",
+              "type": "national-language"
+            }
+          ],
+          "bar": "Zelenskyy remark via earlier filing; TV3 is context only."
+        }
+      ]
+    },
+    {
+      "id": "nordics",
+      "name": "Nordics",
+      "items": [
+        {
+          "date": "2026-11-02",
+          "iso3": [
+            "SWE",
+            "NOR"
+          ],
+          "status": "overview",
+          "priority": "P3",
+          "exposure": "context",
+          "title": "Sweden sets Space Day and Norway signs Arctic agreement with Canada",
+          "summary": "Sweden's space agency has set its next Space Day for the eighteenth of February, 2027. Norway's space directorate has signed a new agreement with the Canadian Space Agency. It covers closer cooperation in the Arctic. Norway is also running a new national survey of its space sector. No other dated event is on file.",
+          "why": "The Arctic agreement links Norway to a second partner beyond ESA. The survey will size the domestic sector.",
+          "sources": [
+            {
+              "outlet": "Rymdstyrelsen",
+              "url": "https://www.rymdstyrelsen.se/nyheter/2026/rymddagen-2027-blir-den-18-februari/",
+              "language": "sv",
+              "type": "government-or-embassy"
+            },
+            {
+              "outlet": "Romsenter",
+              "url": "https://www.romsenter.no/aktuelt/ny-avtale-med-canada-aapner-for-tettere-romsamarbeid-i-arktis",
+              "language": "no",
+              "type": "government-or-embassy"
+            }
+          ],
+          "bar": "Agreement date not given on page."
+        }
+      ]
+    },
+    {
+      "id": "west",
+      "name": "Western and Southern Europe",
+      "items": [
+        {
+          "date": "2026-11-15",
+          "iso3": [
+            "DEU",
+            "ESP"
+          ],
+          "status": "overview",
+          "priority": "P3",
+          "exposure": "opportunity",
+          "title": "Isar Aerospace opens window for third Spectrum flight",
+          "summary": "Isar Aerospace has opened the window for the third flight of its Spectrum rocket. No date is given in the headline. In Spain, Defence is funding the third SpainSat NG satellite at five hundred eighty million euros. It replaces the damaged second one. No launch date is on file.",
+          "why": "Spectrum is a test of a second German-built European launcher. SpainSat NG shows Spain paying to restore secure capacity.",
+          "sources": [
+            {
+              "outlet": "Infoespacial",
+              "url": "https://www.infoespacial.com/texto-diario/mostrar/6087189/isar-aerospace-abre-ventana-tercer-vuelo-cohete-spectrum",
+              "language": "es",
+              "type": "national-language"
+            },
+            {
+              "outlet": "Infoespacial",
+              "url": "https://www.infoespacial.com/texto-diario/mostrar/6086964/defensa-financia-580-millones-tercer-satelite-spainsat-ng-sustituir-danado-ng-ii",
+              "language": "es",
+              "type": "national-language"
+            }
+          ],
+          "bar": "Window dates not in the headline."
+        }
+      ]
+    },
+    {
+      "id": "eurasia",
+      "name": "Eurasia and Central Asia",
+      "items": [
+        {
+          "date": "2026-11-15",
+          "iso3": [
+            "TUR",
+            "RUS"
+          ],
+          "status": "overview",
+          "priority": "P3",
+          "exposure": "context",
+          "title": "Turkish trade press says Turkic states' joint satellite will launch in 2027",
+          "summary": "Turkish trade press says a joint satellite of the Turkic states will launch in 2027. No launch date or provider is given. The Roscosmos government page shows no new decision. The Azercosmos news page could not be loaded. No dated event is on file for the region.",
+          "why": "A joint satellite would tie Central Asian and Caucasus states to Türkiye. Details are still missing.",
+          "sources": [
+            {
+              "outlet": "Haber.Aero",
+              "url": "https://haber.aero/aero-gundem/turk-devletlerinin-ortak-uydusu-2027de-uzaya-gonderilecek/",
+              "language": "tr",
+              "type": "national-language"
+            },
+            {
+              "outlet": "Government of the Russian Federation",
+              "url": "http://government.ru/department/363/",
+              "language": "ru",
+              "type": "government-or-embassy"
+            }
+          ],
+          "bar": "Headline only."
+        }
+      ]
+    },
+    {
+      "id": "mena",
+      "name": "Türkiye, Middle East and Africa",
+      "items": [
+        {
+          "date": "2026-11-12",
+          "iso3": [
+            "TUR",
+            "DZA"
+          ],
+          "status": "overview",
+          "priority": "P3",
+          "exposure": "context",
+          "title": "Türkiye plans 2028 microsatellite as budget figure stands",
+          "summary": "Turkish trade press says a new Turkish microsatellite will launch in 2028. It also gives ninety-two billion lira for space and aviation over three years. No split is given. Algeria's space agency published its report on the GNSS committee meeting in Goa, held from the twenty-fifth to the thirtieth of October. No dated event is on file.",
+          "why": "The budget figure is the main Turkish indicator, but it cannot be broken down. Algeria is taking part in navigation coordination.",
+          "sources": [
+            {
+              "outlet": "Haber.Aero",
+              "url": "https://haber.aero/aero-gundem/uzay-ve-havaciliga-3-yilda-92-milyar-liralik-kaynak/",
+              "language": "tr",
+              "type": "national-language"
+            },
+            {
+              "outlet": "ASAL",
+              "url": "https://asal.dz/?p=13593",
+              "language": "fr",
+              "type": "government-or-embassy"
+            }
+          ],
+          "bar": "Budget figure is trade press only."
+        }
+      ]
+    },
+    {
+      "id": "asia_pac",
+      "name": "Asia Pacific",
+      "items": [
+        {
+          "date": "2026-11-13",
+          "iso3": [
+            "AUS",
+            "JPN",
+            "PAK"
+          ],
+          "status": "overview",
+          "priority": "P2",
+          "exposure": "opportunity",
+          "title": "Gilmour Space named Project of the Year as Australia joins Horizon Europe",
+          "summary": "Gilmour Space's Eris TestFlight1 was named Engineers Australia Project of the Year on the thirteenth of November. Research Australia signed a Horizon Europe agreement to open space research funding. Japan's MMX probe is on its transfer orbit with no arrival date given. Pakistan's SUPARCO says EO-2 is the sixth satellite in its earth observation fleet. No dated event is on file.",
+          "why": "Horizon Europe links Australian research to European funding. The MMX arrival date remains unset.",
+          "sources": [
+            {
+              "outlet": "Space Connect",
+              "url": "https://www.spaceconnectonline.com.au/industry/7371-gilmours-eris-testflight1-named-engineers-australia-project-of-the-year-2026",
+              "language": "en",
+              "type": "press"
+            },
+            {
+              "outlet": "Space Connect",
+              "url": "https://www.spaceconnectonline.com.au/r-d/7369-australia-signs-horizon-europe-agreement-to-unlock-space-innovative-research-funding",
+              "language": "en",
+              "type": "press"
+            },
+            {
+              "outlet": "SUPARCO",
+              "url": "https://suparco.gov.pk/news-updates.html",
+              "language": "en",
+              "type": "government-or-embassy"
+            }
+          ],
+          "bar": "Research Australia is a body, not the government."
+        }
+      ]
+    },
+    {
+      "id": "americas",
+      "name": "Americas",
+      "items": [
+        {
+          "date": "2026-11-15",
+          "iso3": [
+            "VEN",
+            "MEX"
+          ],
+          "status": "overview",
+          "priority": "P3",
+          "exposure": "context",
+          "title": "Venezuela applies satellite and military technology after earthquakes",
+          "summary": "State broadcaster teleSUR says Venezuela is applying satellite and military technology against risks after recent earthquakes. No satellite or date is named in the headline. In Mexico, trade commentary is analysing the 2026 to 2030 space program. An earlier plan sets aside five hundred forty million pesos for four satellites. No dated event is on file.",
+          "why": "Venezuela is using space assets for civil protection. Mexico's program is still at the analysis stage.",
+          "sources": [
+            {
+              "outlet": "teleSUR",
+              "url": "https://www.telesurtv.net/venezuela-tecnologia-satelital-militar-sismos/",
+              "language": "es",
+              "type": "national-language"
+            },
+            {
+              "outlet": "A21",
+              "url": "https://a21.com.mx/opinion/cafe-espacial/2026/06/05/analisis-del-programa-espacial-mexicano-2026-2030/",
+              "language": "es",
+              "type": "national-language"
+            }
+          ],
+          "bar": "teleSUR headline only; state broadcaster."
+        }
+      ]
+    }
+  ],
+  "priorities": [
+    {
+      "rank": "P2",
+      "title": "Starship upper-stage catch",
+      "status": "event",
+      "exposure": "competitive threat",
+      "implication": "A reported first catch of the upper stage after a day in orbit changes the reusability benchmark for rival launchers.",
+      "iso3": [
+        "USA"
+      ],
+      "next": null
+    },
+    {
+      "rank": "P2",
+      "title": "ESA and EU Rome",
+      "status": "overview",
+      "exposure": "policy risk",
+      "implication": "The tenth of November committee vote has no published outcome ahead of Rome.",
+      "iso3": [
+        "ITA",
+        "FRA"
+      ],
+      "next": {
+        "date": "2026-12-15",
+        "event": "Rome meeting"
+      }
+    },
+    {
+      "rank": "P2",
+      "title": "Ariane 6 flight VA271",
+      "status": "event",
+      "exposure": "opportunity",
+      "implication": "The flight carries thirty-six Amazon Leo satellites and sets a commercial benchmark for Ariane 6.",
+      "iso3": [
+        "FRA"
+      ],
+      "next": {
+        "date": "2026-11-23",
+        "event": "VA271 launch, no earlier than"
+      }
+    },
+    {
+      "rank": "P2",
+      "title": "Artemis proposals",
+      "status": "overview",
+      "exposure": "opportunity",
+      "implication": "Moon base awards are made and proposals for the next round are due.",
+      "iso3": [
+        "USA"
+      ],
+      "next": {
+        "date": "2026-12-08",
+        "event": "Artemis proposals due"
+      }
+    }
+  ],
+  "watchlist": [
+    {
+      "date": "2026-11-23",
+      "event": "Ariane 6 flight VA271, Amazon Leo, no earlier than",
+      "where": "Kourou",
+      "iso3": [
+        "FRA"
+      ]
+    },
+    {
+      "date": "2026-12-08",
+      "event": "Artemis proposals due",
+      "where": "United States",
+      "iso3": [
+        "USA"
+      ]
+    },
+    {
+      "date": "2026-12-15",
+      "event": "Rome meeting",
+      "where": "Rome",
+      "iso3": [
+        "ITA"
+      ]
+    }
+  ],
+  "milestones": [
+    {
+      "date": "2026-12-08",
+      "event": "Artemis proposals due",
+      "iso3": [
+        "USA"
+      ],
+      "status": "scheduled",
+      "why": "Opens the next round of lunar awards."
+    },
+    {
+      "date": "2026-12-15",
+      "event": "Rome meeting",
+      "iso3": [
+        "ITA"
+      ],
+      "status": "scheduled",
+      "why": "Follows the unresolved committee vote."
+    },
+    {
+      "date": "2027-02-18",
+      "event": "Swedish Space Day",
+      "iso3": [
+        "SWE"
+      ],
+      "status": "scheduled",
+      "why": "Sweden's annual space gathering, set by Rymdstyrelsen."
+    }
+  ],
+  "competitive_watch": [],
+  "countries": [
+    {
+      "iso3": "USA",
+      "items": []
+    },
+    {
+      "iso3": "UKR",
+      "items": []
+    },
+    {
+      "iso3": "SWE",
+      "items": []
+    },
+    {
+      "iso3": "DEU",
+      "items": []
+    },
+    {
+      "iso3": "TUR",
+      "items": []
+    },
+    {
+      "iso3": "AUS",
+      "items": []
+    },
+    {
+      "iso3": "VEN",
+      "items": []
+    }
+  ],
+  "audio_sections": [
+    {
+      "id": "opening",
+      "title": "Opening",
+      "text": "Good morning. It is Sunday, the fifteenth of November, and this is the Sovereign Space ATLAS briefing. SpaceX has caught the upper stage of Starship after about twenty-two hours in orbit. The European Space Agency's astronaut reserve has completed training. And Venezuela is applying satellite technology after recent earthquakes."
+    },
+    {
+      "id": "top",
+      "title": "Top story",
+      "text": "SpaceX has caught the upper stage of its Starship vehicle after about twenty-two hours orbiting the Earth. Coverage dated the fourteenth of November describes it as the first time a spacecraft of this kind has been recovered that way. Turkish trade press numbers it the fifteenth Starship test. A preview the day before said SpaceX had dropped plans to recover the first stage and would stake the flight on catching the ship. The cause of the earlier setback in the double-catch test has not been given. No date has been set for the next flight. No SpaceX account is on file."
+    },
+    {
+      "id": "esa_eu",
+      "title": "ESA and EU",
+      "text": "In Europe, the European Space Agency says its astronaut reserve has completed training. The article is dated the twelfth of November. The committee vote of the tenth of November has no published outcome. The Rome meeting follows on the fifteenth of December. Arianespace flight VA271 will carry thirty-six Amazon Leo satellites. It is set for the twenty-third of November at the earliest."
+    },
+    {
+      "id": "cee",
+      "title": "Central and Eastern Europe",
+      "text": "In Ukraine, President Zelenskyy said on the twelfth of November that Starlink speed restrictions had been recorded for several days. SpaceX has made no statement. A hope of Starshield service by mid-twenty-twenty-seven comes from one source only. No dated event is on file."
+    },
+    {
+      "id": "nordics",
+      "title": "Nordics",
+      "text": "In Sweden, the space agency has set its next Space Day for the eighteenth of February, twenty-twenty-seven. In Norway, the space directorate has signed a new agreement with the Canadian Space Agency on closer cooperation in the Arctic. Norway is also running a new national survey of its space sector."
+    },
+    {
+      "id": "west",
+      "title": "Western and Southern Europe",
+      "text": "In Germany, Isar Aerospace has opened the launch window for the third flight of its Spectrum rocket. No date is given. In Spain, Defence is funding the third SpainSat NG satellite at five hundred eighty million euros, to replace the damaged second one."
+    },
+    {
+      "id": "eurasia",
+      "title": "Eurasia and Central Asia",
+      "text": "In the Turkic states, Turkish trade press says a joint satellite will launch in twenty-twenty-seven. No launch date is given. The Roscosmos government page shows no new decision. No dated event is on file for the region."
+    },
+    {
+      "id": "mena",
+      "title": "Türkiye, Middle East and Africa",
+      "text": "In Türkiye, trade press says a new microsatellite will launch in twenty-twenty-eight. It also puts ninety-two billion lira into space and aviation over three years, with no split given. In Algeria, the space agency has published its report on the navigation satellite committee meeting in Goa, held from the twenty-fifth to the thirtieth of October."
+    },
+    {
+      "id": "asia_pac",
+      "title": "Asia Pacific",
+      "text": "In Australia, Gilmour Space's Eris TestFlight1 was named Engineers Australia Project of the Year on the thirteenth of November. Research Australia has also signed a Horizon Europe agreement to open space research funding. In Japan, the MMX probe is on its transfer orbit towards the moons of Mars, with no arrival date given. In Pakistan, SUPARCO says its second indigenous EO-2 is the sixth satellite in its earth observation fleet."
+    },
+    {
+      "id": "americas",
+      "title": "Americas",
+      "text": "In Venezuela, the state broadcaster teleSUR says satellite and military technology is being used against risks after recent earthquakes. In Mexico, trade commentary is analysing the national space program for twenty-twenty-six to twenty-thirty. An earlier plan set aside five hundred forty million pesos for four satellites."
+    },
+    {
+      "id": "close",
+      "title": "Close",
+      "text": "What we are tracking this week: whether SpaceX gives a date for the next Starship flight, the outcome of the committee vote of the tenth of November, and any SpaceX statement on Starlink in Ukraine. What we are tracking this month: Blue Origin's reported January return, with no Federal Aviation Administration decision on file after the deadline of the thirtieth of October, and Artemis proposals due on the eighth of December. Heads-up dates: the twenty-third of November for Ariane 6 flight VA271 at the earliest, the eighth of December for Artemis proposals, and the fifteenth of December for Rome. That is the briefing for Sunday, the fifteenth of November."
+    }
+  ],
+  "audio_script": "Good morning. It is Sunday, the fifteenth of November, and this is the Sovereign Space ATLAS briefing. SpaceX has caught the upper stage of Starship after about twenty-two hours in orbit. The European Space Agency's astronaut reserve has completed training. And Venezuela is applying satellite technology after recent earthquakes. SpaceX has caught the upper stage of its Starship vehicle after about twenty-two hours orbiting the Earth. Coverage dated the fourteenth of November describes it as the first time a spacecraft of this kind has been recovered that way. Turkish trade press numbers it the fifteenth Starship test. A preview the day before said SpaceX had dropped plans to recover the first stage and would stake the flight on catching the ship. The cause of the earlier setback in the double-catch test has not been given. No date has been set for the next flight. No SpaceX account is on file. In Europe, the European Space Agency says its astronaut reserve has completed training. The article is dated the twelfth of November. The committee vote of the tenth of November has no published outcome. The Rome meeting follows on the fifteenth of December. Arianespace flight VA271 will carry thirty-six Amazon Leo satellites. It is set for the twenty-third of November at the earliest. In Ukraine, President Zelenskyy said on the twelfth of November that Starlink speed restrictions had been recorded for several days. SpaceX has made no statement. A hope of Starshield service by mid-twenty-twenty-seven comes from one source only. No dated event is on file. In Sweden, the space agency has set its next Space Day for the eighteenth of February, twenty-twenty-seven. In Norway, the space directorate has signed a new agreement with the Canadian Space Agency on closer cooperation in the Arctic. Norway is also running a new national survey of its space sector. In Germany, Isar Aerospace has opened the launch window for the third flight of its Spectrum rocket. No date is given. In Spain, Defence is funding the third SpainSat NG satellite at five hundred eighty million euros, to replace the damaged second one. In the Turkic states, Turkish trade press says a joint satellite will launch in twenty-twenty-seven. No launch date is given. The Roscosmos government page shows no new decision. No dated event is on file for the region. In Türkiye, trade press says a new microsatellite will launch in twenty-twenty-eight. It also puts ninety-two billion lira into space and aviation over three years, with no split given. In Algeria, the space agency has published its report on the navigation satellite committee meeting in Goa, held from the twenty-fifth to the thirtieth of October. In Australia, Gilmour Space's Eris TestFlight1 was named Engineers Australia Project of the Year on the thirteenth of November. Research Australia has also signed a Horizon Europe agreement to open space research funding. In Japan, the MMX probe is on its transfer orbit towards the moons of Mars, with no arrival date given. In Pakistan, SUPARCO says its second indigenous EO-2 is the sixth satellite in its earth observation fleet. In Venezuela, the state broadcaster teleSUR says satellite and military technology is being used against risks after recent earthquakes. In Mexico, trade commentary is analysing the national space program for twenty-twenty-six to twenty-thirty. An earlier plan set aside five hundred forty million pesos for four satellites. What we are tracking this week: whether SpaceX gives a date for the next Starship flight, the outcome of the committee vote of the tenth of November, and any SpaceX statement on Starlink in Ukraine. What we are tracking this month: Blue Origin's reported January return, with no Federal Aviation Administration decision on file after the deadline of the thirtieth of October, and Artemis proposals due on the eighth of December. Heads-up dates: the twenty-third of November for Ariane 6 flight VA271 at the earliest, the eighth of December for Artemis proposals, and the fifteenth of December for Rome. That is the briefing for Sunday, the fifteenth of November.",
+  "edition": "06:00 UTC",
+  "generated_at": "2026-11-15T11:35:42+00:00"
+}

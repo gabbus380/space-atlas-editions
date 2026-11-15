@@ -277,3 +277,15 @@ Episodes:
 - Swift: closed pending NASA page.
 - Telesat Lightspeed and Matera: unchanged, not filed.
 - Pakistan EO-2 and astronaut: no date, not filed.
+
+
+## 2026-11-15
+- Starship: upper stage caught after about twenty-two hours per ABC, ANSA, Infoespacial. Cause of earlier setback and next flight date unknown.
+- ESA, EU, Rome: vote of the tenth of November has no outcome; Rome on the fifteenth of December. ESA astronaut reserve training complete, filed.
+- Ariane 6 VA271: no earlier than the twenty-third of November.
+- Blue Origin: January return unconfirmed; FAA deadline passed; no source today.
+- Artemis: dates unchanged; proposals due the eighth of December.
+- Starlink Ukraine: Zelenskyy on the twelfth of November; no SpaceX statement.
+- Swift: closed pending a NASA page.
+- Matera laser ranging and Telesat Lightspeed: unchanged, not filed.
+- Pakistan EO-2: SUPARCO page, folded into the Asia Pacific item.
