@@ -289,3 +289,14 @@ Episodes:
 - Swift: closed pending a NASA page.
 - Matera laser ranging and Telesat Lightspeed: unchanged, not filed.
 - Pakistan EO-2: SUPARCO page, folded into the Asia Pacific item.
+
+
+## 2026-11-17
+- Vulcan Centaur: failed on the fifteenth of November with 40 Amazon satellites; cause and next flight unknown; new top story.
+- ESA, EU, Rome: vote of the tenth of November has no outcome; Rome fifteenth of December; VA271 NET twenty-third of November.
+- Artemis: awards ninth of November; proposals due eighth of December.
+- Blue Origin: January return unconfirmed; FAA deadline passed, no decision; no source today.
+- Starlink Ukraine: Zelenskyy twelfth of November; no SpaceX statement; mid-2027 hope unchanged.
+- Starship: catch filed fifteenth of November; cause of earlier setback and next flight unknown.
+- Swift, Telesat Lightspeed, Matera: unchanged, not filed.
+- New: Voyager 1 light-day; Australia Horizon Europe; Synspective twelfth satellite; Turkic states satellite 2027.
