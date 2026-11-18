@@ -300,3 +300,14 @@ Episodes:
 - Starship: catch filed fifteenth of November; cause of earlier setback and next flight unknown.
 - Swift, Telesat Lightspeed, Matera: unchanged, not filed.
 - New: Voyager 1 light-day; Australia Horizon Europe; Synspective twelfth satellite; Turkic states satellite 2027.
+
+
+## 2026-11-18
+- Ariane 6 VA271: Arianespace window 23 November confirmed 18 November; 36 Amazon Leo satellites per 14 October notice.
+- ESA, EU, Rome: vote 10 November no outcome; MaiaSpace contract unsigned per Infoespacial; Rome 15 December.
+- Artemis: dates unchanged; 8 December proposals due.
+- Blue Origin: January return unconfirmed; FAA deadline passed; no source today.
+- Starlink Ukraine: Zelenskyy 12 November; no SpaceX statement; mid-2027 hope unchanged.
+- Voyager 1: light-day filed 18 November.
+- Vulcan Centaur: failure 15 November, cause unknown, mentioned in top story.
+- Swift, Telesat Lightspeed, Matera: unchanged, not filed.
