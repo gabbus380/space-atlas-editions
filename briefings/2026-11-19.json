@@ -1,0 +1,707 @@
+{
+  "date": "2026-11-19",
+  "headline": "Spain receives first Voyager 1 signal from beyond one light-day",
+  "summary": [
+    "Spain has received a first signal from Voyager 1 since the probe passed one light-day from Earth.",
+    "The European Commission has recommended raising its competition fund fivefold to mobilise the space industry.",
+    "In Australia, Southern Launch has announced a second spacecraft re-entry within twelve days at Koonibba.",
+    "Ariane 6 flight VA271 has a launch window on the twenty-third of November, from 11:09 to 11:38 UTC.",
+    "Russia has declared a missile danger in several Volga regions, with restrictions at Samara airport."
+  ],
+  "bottom_line": "Voyager 1 is back in contact, but the reports give no detail on the station, the signal or the next exchange. The next date that matters is the twenty-third of November, the Ariane 6 VA271 launch window.",
+  "global": [
+    {
+      "date": "2026-11-19",
+      "iso3": [
+        "ESP"
+      ],
+      "status": "event",
+      "priority": "P1",
+      "exposure": "context",
+      "title": "Spain receives first Voyager 1 signal from beyond one light-day",
+      "summary": "Spain has received the first signal from Voyager 1 since the probe passed one light-day from Earth. At that distance a reply takes forty-eight hours.",
+      "why": "It shows the link to the most distant probe still works. Which station made the contact and what the signal carried are not yet public.",
+      "sources": [
+        {
+          "outlet": "El País",
+          "url": "https://elpais.com/ciencia/2026-11-19/mas-alla-de-un-dia-luz-espana-capta-el-primer-saludo-de-la-voyager-1-desde-el-otro-lado-de-la-frontera-interestelar.html",
+          "language": "es",
+          "type": "national-language"
+        },
+        {
+          "outlet": "ABC",
+          "url": "https://www.abc.es/ciencia/voyager-situa-dia-luz-tierra-significa-20261117111611-nt.html",
+          "language": "es",
+          "type": "national-language"
+        },
+        {
+          "outlet": "Swedish National Space Agency",
+          "url": "https://www.rymdstyrelsen.se/upptack-rymden/bloggen/2026/11/voyager-1-nar-en-ljusdygn-fran-jorden/",
+          "language": "sv",
+          "type": "government-or-embassy"
+        }
+      ],
+      "bar": "Headline-level on the El País piece; station and signal content not in the reading. Light-day filed 18 November, this is the follow-up."
+    },
+    {
+      "date": "2026-11-23",
+      "iso3": [
+        "FRA"
+      ],
+      "status": "event",
+      "priority": "P2",
+      "exposure": "opportunity",
+      "title": "Arianespace sets Ariane 6 VA271 window for the twenty-third of November",
+      "summary": "Arianespace gives a launch window on the twenty-third of November from 11:09 to 11:38 UTC. The flight carries 36 Amazon Leo satellites, per the ArianeGroup notice of the fourteenth of October.",
+      "why": "It is the next dated launch in the pathway. It follows the Vulcan failure of the fifteenth of November, which carried 40 Amazon satellites.",
+      "sources": [
+        {
+          "outlet": "Arianespace",
+          "url": "https://www.arianespace.com/news/mission-va271-launch-window-on-november-23-2026/",
+          "language": "en",
+          "type": "press"
+        },
+        {
+          "outlet": "ArianeGroup",
+          "url": "https://www.ariane.group/en/news/arianespace-to-launch-36-amazon-leo-satellites-on-november-23-at-the-earliest-for-10th-ariane-6-flight/",
+          "language": "en",
+          "type": "press"
+        }
+      ],
+      "bar": "Window already confirmed 18 November; filed because the date is four days out."
+    },
+    {
+      "date": "2026-11-19",
+      "iso3": [
+        "USA"
+      ],
+      "status": "overview",
+      "priority": "P3",
+      "exposure": "context",
+      "title": "NASA moon base awards stand, proposals due the eighth of December",
+      "summary": "NASA made major contract awards for moon base development on the ninth of November. Proposals are due on the eighth of December.",
+      "why": "The award round is done and the next round has a date. No schedule change has been announced.",
+      "sources": [
+        {
+          "outlet": "Via Satellite",
+          "url": "https://www.satellitetoday.com/government-military/2026/11/09/nasa-makes-major-contract-awards-for-moon-base-development/",
+          "language": "en",
+          "type": "press"
+        }
+      ],
+      "bar": "Standing item; unchanged since 9 November."
+    }
+  ],
+  "regions": [
+    {
+      "id": "esa_eu",
+      "name": "ESA and EU",
+      "items": [
+        {
+          "date": "2026-11-18",
+          "iso3": [
+            "EUU"
+          ],
+          "status": "statement",
+          "priority": "P2",
+          "exposure": "opportunity",
+          "title": "European Commission recommends raising competition fund fivefold",
+          "summary": "The European Commission has recommended increasing its competition fund fivefold to mobilise the space industry. No figure or date came with the headline.",
+          "why": "A larger fund would widen money for European space firms. The size and timing are not yet stated.",
+          "sources": [
+            {
+              "outlet": "Via Satellite",
+              "url": "https://www.satellitetoday.com/government-military/2026/11/18/european-commission-recommends-increasing-competition-fund-5x-to-mobilize-space-industry/",
+              "language": "en",
+              "type": "press"
+            }
+          ],
+          "bar": "Headline only; no body text. Do not give amounts."
+        },
+        {
+          "date": "2026-11-19",
+          "iso3": [
+            "ITA",
+            "FRA"
+          ],
+          "status": "overview",
+          "priority": "P2",
+          "exposure": "policy risk",
+          "title": "ESA vote of the tenth of November has no published outcome; MaiaSpace contract unsigned",
+          "summary": "The agency has not signed the MaiaSpace contract because of differences over the funding model. The Rome meeting is on the fifteenth of December.",
+          "why": "The launcher funding dispute is still open ahead of Rome. The outcome of the tenth of November vote has not appeared.",
+          "sources": [
+            {
+              "outlet": "Infoespacial",
+              "url": "https://www.infoespacial.com/texto-diario/mostrar/6095678/esa-no-firma-contrato-maiaspace-diferencias-modelo-financiacion",
+              "language": "es",
+              "type": "national-language"
+            }
+          ],
+          "bar": "Single trade source on MaiaSpace; vote outcome still absent."
+        }
+      ]
+    },
+    {
+      "id": "cee",
+      "name": "Central and Eastern Europe",
+      "items": [
+        {
+          "date": "2026-11-12",
+          "iso3": [
+            "UKR"
+          ],
+          "status": "statement",
+          "priority": "P2",
+          "exposure": "policy risk",
+          "title": "Ukraine reports more restrictions on Starshield access",
+          "summary": "Zelenskyy said on the twelfth of November that speed restrictions had been recorded for several days. SpaceX has made no statement, and the mid-2027 hope is unchanged.",
+          "why": "Ukraine's access to the service remains contested. No date has been set for any change.",
+          "sources": [
+            {
+              "outlet": "Via Satellite",
+              "url": "https://www.satellitetoday.com/government-military/2026/11/12/ukraine-reports-more-restrictions-to-starshield-access/",
+              "language": "en",
+              "type": "press"
+            }
+          ],
+          "bar": "Standing item; no SpaceX statement, no new date."
+        }
+      ]
+    },
+    {
+      "id": "nordics",
+      "name": "Nordics",
+      "items": [
+        {
+          "date": "2026-11-02",
+          "iso3": [
+            "SWE"
+          ],
+          "status": "event",
+          "priority": "P3",
+          "exposure": "context",
+          "title": "Swedish National Space Agency sets Rymddagen for the eighteenth of February",
+          "summary": "The agency will hold its next Rymddagen on the eighteenth of February, 2027. It also published a note on Voyager 1 reaching one light-day.",
+          "why": "It gives the Swedish sector a fixed date. It is the only dated Nordic event in the reading.",
+          "sources": [
+            {
+              "outlet": "Swedish National Space Agency",
+              "url": "https://www.rymdstyrelsen.se/nyheter/2026/rymddagen-2027-blir-den-18-februari/",
+              "language": "sv",
+              "type": "government-or-embassy"
+            }
+          ],
+          "bar": "Announcement dated 2 November; filed as the standing Nordic date."
+        }
+      ]
+    },
+    {
+      "id": "west",
+      "name": "Western and Southern Europe",
+      "items": [
+        {
+          "date": "2026-11-19",
+          "iso3": [
+            "ITA",
+            "FIN"
+          ],
+          "status": "contract",
+          "priority": "P2",
+          "exposure": "competitive threat",
+          "title": "Iceye launches 2.05 billion euro takeover offer for Avio",
+          "summary": "Iceye has launched a takeover offer worth 2.05 billion euros for Avio. The stated aim is a European space and defence champion.",
+          "why": "It would join a radar-satellite maker with a launch company. No closing date or response has appeared.",
+          "sources": [
+            {
+              "outlet": "Infoespacial",
+              "url": "https://www.infoespacial.com/texto-diario/mostrar/6095528/iceye-lanza-opa-2050-millones-sobre-avio-crear-campeon-europeo-espacio-defensa",
+              "language": "es",
+              "type": "national-language"
+            }
+          ],
+          "bar": "Undated headline from a single trade source; check date before publication."
+        }
+      ]
+    },
+    {
+      "id": "eurasia",
+      "name": "Eurasia and Central Asia",
+      "items": [
+        {
+          "date": "2026-11-19",
+          "iso3": [
+            "RUS"
+          ],
+          "status": "event",
+          "priority": "P3",
+          "exposure": "context",
+          "title": "Russia declares missile danger in several Volga regions",
+          "summary": "A missile danger was declared on the nineteenth of November in several Volga regions, and restrictions were placed on Samara airport. No link to space activity is stated.",
+          "why": "It is a security event with possible effects on air traffic. Nothing connects it to a space pathway.",
+          "sources": [
+            {
+              "outlet": "Interfax",
+              "url": "https://www.interfax.ru/russia/1130150",
+              "language": "ru",
+              "type": "national-language"
+            },
+            {
+              "outlet": "Interfax",
+              "url": "https://www.interfax.ru/russia/1130139",
+              "language": "ru",
+              "type": "national-language"
+            }
+          ],
+          "bar": "Security context only; keep it short, no inference about space."
+        }
+      ]
+    },
+    {
+      "id": "mena",
+      "name": "Türkiye, Middle East and Africa",
+      "items": [
+        {
+          "date": "2026-11-19",
+          "iso3": [
+            "DZA",
+            "IND"
+          ],
+          "status": "event",
+          "priority": "P3",
+          "exposure": "context",
+          "title": "Algerian Space Agency reports on navigation committee meeting in Goa",
+          "summary": "The agency has published its report on the twentieth meeting of the International Committee on Global Navigation Satellite Systems, held in Goa from the twenty-fifth to the thirtieth of October. Alsat-2B marked ten years in orbit.",
+          "why": "It shows Algeria's role in navigation talks. No decision from the meeting is stated.",
+          "sources": [
+            {
+              "outlet": "Algerian Space Agency",
+              "url": "https://asal.dz/?p=13593",
+              "language": "fr",
+              "type": "government-or-embassy"
+            },
+            {
+              "outlet": "Algerian Space Agency",
+              "url": "https://asal.dz/?p=13542",
+              "language": "fr",
+              "type": "government-or-embassy"
+            }
+          ],
+          "bar": "Page date unknown; meeting dates are from the title."
+        },
+        {
+          "date": "2026-11-19",
+          "iso3": [
+            "TUR"
+          ],
+          "status": "overview",
+          "priority": "P3",
+          "exposure": "context",
+          "title": "Türkiye's new microsatellite set for 2028, Turkic states' satellite for 2027",
+          "summary": "Türkiye's new microsatellite is due to launch in 2028. A joint satellite of the Turkic states is due in 2027, and no launch dates are given.",
+          "why": "Two Turkish-led satellites now carry launch years. No date within the next six months is set.",
+          "sources": [
+            {
+              "outlet": "Haber.Aero",
+              "url": "https://haber.aero/aero-gundem/turkiyenin-yeni-mikro-uydusu-2028de-firlatilacak/",
+              "language": "tr",
+              "type": "national-language"
+            },
+            {
+              "outlet": "Haber.Aero",
+              "url": "https://haber.aero/aero-gundem/turk-devletlerinin-ortak-uydusu-2027de-uzaya-gonderilecek/",
+              "language": "tr",
+              "type": "national-language"
+            }
+          ],
+          "bar": "Headlines only; Turkic satellite already filed 17 November."
+        }
+      ]
+    },
+    {
+      "id": "asia_pac",
+      "name": "Asia Pacific",
+      "items": [
+        {
+          "date": "2026-11-18",
+          "iso3": [
+            "AUS"
+          ],
+          "status": "event",
+          "priority": "P3",
+          "exposure": "opportunity",
+          "title": "Southern Launch announces second spacecraft re-entry in twelve days at Koonibba",
+          "summary": "Southern Launch announced on the eighteenth of November a second spacecraft re-entry within twelve days at Koonibba, in Australia. The headline gives no operator or date for the next one.",
+          "why": "Repeat re-entries show the Australian site is in regular use. The customer and the landing date are not given.",
+          "sources": [
+            {
+              "outlet": "Space Connect",
+              "url": "https://www.spaceconnectonline.com.au/launch/7375-southern-launch-announces-second-spacecraft-re-entry-within-12-days-at-koonibba",
+              "language": "en",
+              "type": "press"
+            }
+          ],
+          "bar": "Headline only; do not name the capsule."
+        }
+      ]
+    },
+    {
+      "id": "americas",
+      "name": "Americas",
+      "items": [
+        {
+          "date": "2026-11-18",
+          "iso3": [
+            "USA"
+          ],
+          "status": "event",
+          "priority": "P2",
+          "exposure": "policy risk",
+          "title": "Senate committee advances FCC nominee despite Democratic boycott",
+          "summary": "A Senate committee advanced the nominee for the Federal Communications Commission on the eighteenth of November. Democrats boycotted the vote.",
+          "why": "The commission regulates satellite licensing. The next step is a full Senate vote, which has no date.",
+          "sources": [
+            {
+              "outlet": "Via Satellite",
+              "url": "https://www.satellitetoday.com/government-military/2026/11/18/senate-committee-advances-fcc-nominee-despite-democratic-boycott/",
+              "language": "en",
+              "type": "press"
+            }
+          ],
+          "bar": "Headline-level; Senate vote date not in the reading."
+        },
+        {
+          "date": "2026-11-19",
+          "iso3": [
+            "MEX"
+          ],
+          "status": "overview",
+          "priority": "P3",
+          "exposure": "context",
+          "title": "Mexico's plan for four satellites on 540 million pesos stands",
+          "summary": "Mexico plans to spend 540 million pesos to launch four satellites for security and climate monitoring. No launch date has been published.",
+          "why": "It is Mexico's main announced space spending. The next date is not set.",
+          "sources": [
+            {
+              "outlet": "Expansión",
+              "url": "https://expansion.mx/empresas/2026/03/03/mexico-lanza-cuatro-satelites-seguridad-clima",
+              "language": "es",
+              "type": "national-language"
+            }
+          ],
+          "bar": "Standing item from March; no new source today."
+        }
+      ]
+    }
+  ],
+  "priorities": [
+    {
+      "rank": "P1",
+      "title": "Voyager 1 contact from beyond one light-day",
+      "status": "event",
+      "exposure": "context",
+      "implication": "Spain has received a first signal, but the station and content are not public.",
+      "iso3": [
+        "ESP"
+      ],
+      "next": null
+    },
+    {
+      "rank": "P2",
+      "title": "Ariane 6 VA271 with Amazon Leo satellites",
+      "status": "event",
+      "exposure": "opportunity",
+      "implication": "The launch window follows the Vulcan failure and tests Europe's heavy launcher with an Amazon load.",
+      "iso3": [
+        "FRA"
+      ],
+      "next": {
+        "date": "2026-11-23",
+        "event": "Ariane 6 VA271 launch window, 11:09 to 11:38 UTC"
+      }
+    },
+    {
+      "rank": "P2",
+      "title": "ESA vote outcome and the Rome meeting",
+      "status": "overview",
+      "exposure": "policy risk",
+      "implication": "The tenth of November vote has no published outcome and the MaiaSpace contract is unsigned.",
+      "iso3": [
+        "ITA",
+        "FRA"
+      ],
+      "next": {
+        "date": "2026-12-15",
+        "event": "Rome meeting"
+      }
+    },
+    {
+      "rank": "P3",
+      "title": "Artemis and the NASA moon base round",
+      "status": "overview",
+      "exposure": "context",
+      "implication": "Awards are made and the next proposals have a due date.",
+      "iso3": [
+        "USA"
+      ],
+      "next": {
+        "date": "2026-12-08",
+        "event": "Artemis proposals due"
+      }
+    }
+  ],
+  "watchlist": [
+    {
+      "date": "2026-11-23",
+      "event": "Ariane 6 VA271 launch window, 11:09 to 11:38 UTC",
+      "where": "Europe's Spaceport, Kourou",
+      "iso3": [
+        "FRA"
+      ]
+    },
+    {
+      "date": "2026-12-08",
+      "event": "Artemis proposals due",
+      "where": "United States",
+      "iso3": [
+        "USA"
+      ]
+    },
+    {
+      "date": "2026-12-15",
+      "event": "Rome meeting",
+      "where": "Rome",
+      "iso3": [
+        "ITA"
+      ]
+    }
+  ],
+  "milestones": [
+    {
+      "date": "2026-12-08",
+      "event": "Artemis proposals due",
+      "iso3": [
+        "USA"
+      ],
+      "status": "scheduled",
+      "why": "Sets the next round of moon base work."
+    },
+    {
+      "date": "2026-12-15",
+      "event": "Rome meeting",
+      "iso3": [
+        "ITA"
+      ],
+      "status": "scheduled",
+      "why": "Launcher funding and the MaiaSpace contract are open."
+    },
+    {
+      "date": "2027-02-18",
+      "event": "Rymddagen, Swedish National Space Agency",
+      "iso3": [
+        "SWE"
+      ],
+      "status": "scheduled",
+      "why": "Fixed date for the Swedish space sector."
+    }
+  ],
+  "competitive_watch": [],
+  "countries": [
+    {
+      "iso3": "ESP",
+      "name": "Spain",
+      "items": [
+        {
+          "date": "2026-11-19",
+          "iso3": [
+            "ESP"
+          ],
+          "status": "event",
+          "priority": "P1",
+          "exposure": "context",
+          "title": "Spain receives first Voyager 1 signal from beyond one light-day",
+          "summary": "Spain has received the first signal from Voyager 1 since the probe passed one light-day from Earth. At that distance a reply takes forty-eight hours.",
+          "why": "It shows the link to the most distant probe still works. Which station made the contact and what the signal carried are not yet public.",
+          "sources": [
+            {
+              "outlet": "El País",
+              "url": "https://elpais.com/ciencia/2026-11-19/mas-alla-de-un-dia-luz-espana-capta-el-primer-saludo-de-la-voyager-1-desde-el-otro-lado-de-la-frontera-interestelar.html",
+              "language": "es",
+              "type": "national-language"
+            }
+          ],
+          "bar": "Headline-level on the El País piece."
+        }
+      ]
+    },
+    {
+      "iso3": "RUS",
+      "name": "Russia",
+      "items": [
+        {
+          "date": "2026-11-19",
+          "iso3": [
+            "RUS"
+          ],
+          "status": "event",
+          "priority": "P3",
+          "exposure": "context",
+          "title": "Russia declares missile danger in several Volga regions",
+          "summary": "A missile danger was declared on the nineteenth of November in several Volga regions, and restrictions were placed on Samara airport. No link to space activity is stated.",
+          "why": "It is a security event with possible effects on air traffic. Nothing connects it to a space pathway.",
+          "sources": [
+            {
+              "outlet": "Interfax",
+              "url": "https://www.interfax.ru/russia/1130150",
+              "language": "ru",
+              "type": "national-language"
+            }
+          ],
+          "bar": "Security context only."
+        }
+      ]
+    },
+    {
+      "iso3": "DZA",
+      "name": "Algeria",
+      "items": [
+        {
+          "date": "2026-11-19",
+          "iso3": [
+            "DZA",
+            "IND"
+          ],
+          "status": "event",
+          "priority": "P3",
+          "exposure": "context",
+          "title": "Algerian Space Agency reports on navigation committee meeting in Goa",
+          "summary": "The agency has published its report on the twentieth meeting of the International Committee on Global Navigation Satellite Systems, held in Goa from the twenty-fifth to the thirtieth of October. Alsat-2B marked ten years in orbit.",
+          "why": "It shows Algeria's role in navigation talks. No decision from the meeting is stated.",
+          "sources": [
+            {
+              "outlet": "Algerian Space Agency",
+              "url": "https://asal.dz/?p=13593",
+              "language": "fr",
+              "type": "government-or-embassy"
+            }
+          ],
+          "bar": "Page date unknown."
+        }
+      ]
+    },
+    {
+      "iso3": "AUS",
+      "name": "Australia",
+      "items": [
+        {
+          "date": "2026-11-18",
+          "iso3": [
+            "AUS"
+          ],
+          "status": "event",
+          "priority": "P3",
+          "exposure": "opportunity",
+          "title": "Southern Launch announces second spacecraft re-entry in twelve days at Koonibba",
+          "summary": "Southern Launch announced on the eighteenth of November a second spacecraft re-entry within twelve days at Koonibba, in Australia. The headline gives no operator or date for the next one.",
+          "why": "Repeat re-entries show the Australian site is in regular use. The customer and the landing date are not given.",
+          "sources": [
+            {
+              "outlet": "Space Connect",
+              "url": "https://www.spaceconnectonline.com.au/launch/7375-southern-launch-announces-second-spacecraft-re-entry-within-12-days-at-koonibba",
+              "language": "en",
+              "type": "press"
+            }
+          ],
+          "bar": "Headline only."
+        }
+      ]
+    },
+    {
+      "iso3": "SWE",
+      "name": "Sweden",
+      "items": [
+        {
+          "date": "2026-11-02",
+          "iso3": [
+            "SWE"
+          ],
+          "status": "event",
+          "priority": "P3",
+          "exposure": "context",
+          "title": "Swedish National Space Agency sets Rymddagen for the eighteenth of February",
+          "summary": "The agency will hold its next Rymddagen on the eighteenth of February, 2027. It also published a note on Voyager 1 reaching one light-day.",
+          "why": "It gives the Swedish sector a fixed date. It is the only dated Nordic event in the reading.",
+          "sources": [
+            {
+              "outlet": "Swedish National Space Agency",
+              "url": "https://www.rymdstyrelsen.se/nyheter/2026/rymddagen-2027-blir-den-18-februari/",
+              "language": "sv",
+              "type": "government-or-embassy"
+            }
+          ],
+          "bar": "Announcement dated 2 November."
+        }
+      ]
+    }
+  ],
+  "audio_script": "Good morning. It is Thursday, the nineteenth of November, and this is the Sovereign Space ATLAS briefing. Spain has received a first signal from Voyager 1 since the probe passed one light-day from Earth. Southern Launch in Australia has announced a second spacecraft re-entry within twelve days. And Russia has declared a missile danger in several Volga regions.\n\nVoyager 1 has been heard from beyond one light-day. Spain received the first greeting, according to El País on the nineteenth of November. At that distance a radio message takes a day to arrive, so a reply takes forty-eight hours, as ABC set out on the seventeenth. Sweden's space agency has also noted the milestone. The reports do not say which station made the contact, what the signal contained, or when the next exchange will take place. That matters because the contact shows the link to the most distant probe still works, yet the practical details that would let anyone judge it are missing. For now this is a headline-level item, and we will carry any further detail as soon as it is published.\n\nIn Europe, the European Commission has recommended raising its competition fund fivefold to mobilise the space industry. No figure or date came with the headline. The European Space Agency vote of the tenth of November still has no published outcome. The agency has not yet signed its contract with MaiaSpace, because of differences over the funding model, according to Infoespacial. The Rome meeting follows on the fifteenth of December, and the launcher funding dispute remains open ahead of it. Ariane 6 flight VA271 has a launch window on the twenty-third of November, from 11:09 to 11:38 UTC, with 36 Amazon Leo satellites. It follows the Vulcan failure of the fifteenth of November, which carried 40 Amazon satellites.\n\nIn Ukraine, Zelenskyy said on the twelfth of November that speed restrictions on Starshield had been recorded for several days. SpaceX has made no statement. The hope of a solution by mid-2027 is unchanged, and no date is set.\n\nIn Sweden, the national space agency will hold its Rymddagen on the eighteenth of February, 2027. The agency has also published a note on Voyager 1 reaching one light-day. It is the only dated Nordic event in our reading.\n\nIn Western Europe, Iceye has launched a takeover offer worth 2.05 billion euros for Avio. The stated aim is a European space and defence champion. It would join a radar-satellite maker with a launch company. No closing date or response has appeared.\n\nIn Russia, a missile danger was declared on the nineteenth of November in several Volga regions, and restrictions were placed on Samara airport, according to Interfax. No link to space activity is stated.\n\nIn Algeria, the space agency has published its report on the twentieth meeting of the International Committee on Global Navigation Satellite Systems, held in Goa, India, from the twenty-fifth to the thirtieth of October. In Türkiye, a new microsatellite is due to launch in 2028, and a joint satellite of the Turkic states in 2027, according to Turkish trade press. Neither has a launch date.\n\nIn Australia, Southern Launch announced on the eighteenth of November a second spacecraft re-entry within twelve days at Koonibba. The headline gives no operator and no date for the next one.\n\nIn the United States, a Senate committee advanced the nominee for the Federal Communications Commission on the eighteenth of November, despite a Democratic boycott. A full Senate vote has no date. The cause of the Vulcan failure of the fifteenth of November, and the date of its next flight, are still unknown. NASA made major contract awards for moon base development on the ninth of November, and proposals are due on the eighth of December. In Mexico, the plan to spend 540 million pesos on four satellites for security and climate monitoring stands, with no launch date.\n\nWhat we are tracking this week is Ariane 6 flight VA271 on the twenty-third of November, any detail on the Voyager 1 contact, and the cause of the Vulcan failure. What we are tracking this month is the outcome of the ESA vote of the tenth of November, the MaiaSpace contract, and Artemis proposals due on the eighth of December. The heads-up dates are the twenty-third of November, the eighth of December, the fifteenth of December for the Rome meeting, and the eighteenth of February for Rymddagen in Sweden. That is the briefing for Thursday, the nineteenth of November.",
+  "audio_sections": [
+    {
+      "id": "opening",
+      "title": "Opening",
+      "text": "Good morning. It is Thursday, the nineteenth of November, and this is the Sovereign Space ATLAS briefing. Spain has received a first signal from Voyager 1 since the probe passed one light-day from Earth. Southern Launch in Australia has announced a second spacecraft re-entry within twelve days. And Russia has declared a missile danger in several Volga regions."
+    },
+    {
+      "id": "top",
+      "title": "Top story",
+      "text": "Voyager 1 has been heard from beyond one light-day. Spain received the first greeting, according to El País on the nineteenth of November. At that distance a radio message takes a day to arrive, so a reply takes forty-eight hours, as ABC set out on the seventeenth. Sweden's space agency has also noted the milestone. The reports do not say which station made the contact, what the signal contained, or when the next exchange will take place. That matters because the contact shows the link to the most distant probe still works, yet the practical details that would let anyone judge it are missing. For now this is a headline-level item, and we will carry any further detail as soon as it is published."
+    },
+    {
+      "id": "esa_eu",
+      "title": "ESA and EU",
+      "text": "In Europe, the European Commission has recommended raising its competition fund fivefold to mobilise the space industry. No figure or date came with the headline. The European Space Agency vote of the tenth of November still has no published outcome. The agency has not yet signed its contract with MaiaSpace, because of differences over the funding model, according to Infoespacial. The Rome meeting follows on the fifteenth of December, and the launcher funding dispute remains open ahead of it. Ariane 6 flight VA271 has a launch window on the twenty-third of November, from 11:09 to 11:38 UTC, with 36 Amazon Leo satellites. It follows the Vulcan failure of the fifteenth of November, which carried 40 Amazon satellites."
+    },
+    {
+      "id": "cee",
+      "title": "Central and Eastern Europe",
+      "text": "In Ukraine, Zelenskyy said on the twelfth of November that speed restrictions on Starshield had been recorded for several days. SpaceX has made no statement. The hope of a solution by mid-2027 is unchanged, and no date is set."
+    },
+    {
+      "id": "nordics",
+      "title": "Nordics",
+      "text": "In Sweden, the national space agency will hold its Rymddagen on the eighteenth of February, 2027. The agency has also published a note on Voyager 1 reaching one light-day. It is the only dated Nordic event in our reading."
+    },
+    {
+      "id": "west",
+      "title": "Western and Southern Europe",
+      "text": "In Western Europe, Iceye has launched a takeover offer worth 2.05 billion euros for Avio. The stated aim is a European space and defence champion. It would join a radar-satellite maker with a launch company. No closing date or response has appeared."
+    },
+    {
+      "id": "eurasia",
+      "title": "Eurasia and Central Asia",
+      "text": "In Russia, a missile danger was declared on the nineteenth of November in several Volga regions, and restrictions were placed on Samara airport, according to Interfax. No link to space activity is stated."
+    },
+    {
+      "id": "mena",
+      "title": "Türkiye, Middle East and Africa",
+      "text": "In Algeria, the space agency has published its report on the twentieth meeting of the International Committee on Global Navigation Satellite Systems, held in Goa, India, from the twenty-fifth to the thirtieth of October. In Türkiye, a new microsatellite is due to launch in 2028, and a joint satellite of the Turkic states in 2027, according to Turkish trade press. Neither has a launch date."
+    },
+    {
+      "id": "asia_pac",
+      "title": "Asia Pacific",
+      "text": "In Australia, Southern Launch announced on the eighteenth of November a second spacecraft re-entry within twelve days at Koonibba. The headline gives no operator and no date for the next one."
+    },
+    {
+      "id": "americas",
+      "title": "Americas",
+      "text": "In the United States, a Senate committee advanced the nominee for the Federal Communications Commission on the eighteenth of November, despite a Democratic boycott. A full Senate vote has no date. The cause of the Vulcan failure of the fifteenth of November, and the date of its next flight, are still unknown. NASA made major contract awards for moon base development on the ninth of November, and proposals are due on the eighth of December. In Mexico, the plan to spend 540 million pesos on four satellites for security and climate monitoring stands, with no launch date."
+    },
+    {
+      "id": "close",
+      "title": "Close",
+      "text": "What we are tracking this week is Ariane 6 flight VA271 on the twenty-third of November, any detail on the Voyager 1 contact, and the cause of the Vulcan failure. What we are tracking this month is the outcome of the ESA vote of the tenth of November, the MaiaSpace contract, and Artemis proposals due on the eighth of December. The heads-up dates are the twenty-third of November, the eighth of December, the fifteenth of December for the Rome meeting, and the eighteenth of February for Rymddagen in Sweden. That is the briefing for Thursday, the nineteenth of November."
+    }
+  ],
+  "edition": "06:00 UTC",
+  "generated_at": "2026-11-19T12:37:18+00:00"
+}

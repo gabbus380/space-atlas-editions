@@ -311,3 +311,16 @@ Episodes:
 - Voyager 1: light-day filed 18 November.
 - Vulcan Centaur: failure 15 November, cause unknown, mentioned in top story.
 - Swift, Telesat Lightspeed, Matera: unchanged, not filed.
+
+
+## 2026-11-19
+- Voyager 1: light-day filed 18 November; Spain first signal 19 November, headline-level, station and content unknown.
+- Ariane 6 VA271: window 23 November 11:09 to 11:38 UTC; 36 Amazon Leo satellites per 14 October notice.
+- ESA, EU, Rome: vote of 10 November no outcome; MaiaSpace contract unsigned; Rome 15 December; Commission competition fund recommendation 18 November.
+- Artemis: awards 9 November; proposals due 8 December.
+- Blue Origin: January return unconfirmed; FAA deadline passed; no source today, not filed.
+- Starshield and Ukraine: Zelenskyy 12 November; no SpaceX statement; mid-2027 hope unchanged.
+- Vulcan Centaur: failure 15 November, cause and next flight unknown.
+- Starship: catch filed 15 November; no new item.
+- Swift: closed pending a NASA page.
+- Telesat Lightspeed, Matera, Japan MMX: unchanged, not filed.
