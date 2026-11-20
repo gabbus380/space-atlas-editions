@@ -1,0 +1,606 @@
+{
+  "headline": "BepiColombo reaches Mercury after eight years",
+  "summary": [
+    "The BepiColombo mission has reached Mercury, eight years after it set out.",
+    "Arianespace has confirmed a launch window on the twenty-third of November for 36 Amazon Leo satellites.",
+    "In Canada, Telesat has partnered with Dominion Dynamics on portable antennas, and in Paraguay, Japan has agreed a donation of 24 million US dollars for satellite technology.",
+    "Vulcan Centaur failed on the fifteenth of November with 40 Amazon satellites aboard, and no cause has been given.",
+    "Artemis proposals are due on the eighth of December and the Rome date follows on the fifteenth of December."
+  ],
+  "bottom_line": "Ariane 6 flight VA271 is the nearest dated event, and its window opens at 11:09 UTC on the twenty-third of November. The Artemis proposals are due on the eighth of December, followed by Rome on the fifteenth of December.",
+  "global": [
+    {
+      "date": "2026-11-18",
+      "iso3": [
+        "EUR"
+      ],
+      "status": "event",
+      "priority": "P1",
+      "exposure": "context",
+      "title": "BepiColombo mission arrives at Mercury after eight years",
+      "summary": "BepiColombo has reached Mercury, with Spanish coverage describing entry into the planet's orbit. No date for the start of science work has been given.",
+      "why": "It closes the long cruise phase of a European deep-space mission. The next step is the start of science operations, which has no date.",
+      "sources": [
+        {
+          "outlet": "ABC (Spain)",
+          "url": "https://www.abc.es/ciencia/mision-bepicolombo-llega-mercurio-enigmatico-planeta-menguante-20261118015751-nt.html",
+          "language": "es",
+          "type": "press"
+        },
+        {
+          "outlet": "Infoespacial",
+          "url": "https://www.infoespacial.com/texto-diario/mostrar/6096736/bepicolombo-entra-sabado-orbita-mercurio-estructura-espanola-hizo-posible",
+          "language": "es",
+          "type": "press"
+        }
+      ],
+      "bar": "Entry date differs between sources; keep wording general. Top story."
+    },
+    {
+      "date": "2026-11-15",
+      "iso3": [
+        "USA"
+      ],
+      "status": "event",
+      "priority": "P2",
+      "exposure": "competitive threat",
+      "title": "ULA Vulcan Centaur suffers failure on first Amazon Leo launch",
+      "summary": "Vulcan Centaur failed on the fifteenth of November carrying 40 Amazon satellites. Cause and next flight date remain unknown.",
+      "why": "The failure leaves Amazon's deployment dependent on other rockets, including Ariane 6. No investigation date has been given.",
+      "sources": [
+        {
+          "outlet": "Via Satellite",
+          "url": "http://www.satellitetoday.com/launch/2026/11/15/ula-set-to-return-vulcan-to-flight-in-first-amazon-leo-launch/?itm_source=parsely-api",
+          "language": "en",
+          "type": "press"
+        },
+        {
+          "outlet": "Haber.Aero",
+          "url": "https://haber.aero/uzay/amazonun-40-uydusunun-tasiyan-roket-basarisiz-oldu/",
+          "language": "tr",
+          "type": "press"
+        }
+      ],
+      "bar": "Standing item; no new cause. Check haber.aero URL spelling against packet before publishing."
+    },
+    {
+      "date": "2026-11-09",
+      "iso3": [
+        "USA"
+      ],
+      "status": "contract",
+      "priority": "P3",
+      "exposure": "opportunity",
+      "title": "NASA makes moon base awards; Artemis proposals due eighth of December",
+      "summary": "NASA made major contract awards for moon base development on the ninth of November. Proposals are due on the eighth of December.",
+      "why": "The awards set which suppliers lead lunar surface work. The proposal deadline is the next date.",
+      "sources": [
+        {
+          "outlet": "Via Satellite",
+          "url": "https://www.satellitetoday.com/government-military/2026/11/09/nasa-makes-major-contract-awards-for-moon-base-development/",
+          "language": "en",
+          "type": "press"
+        }
+      ],
+      "bar": "Artemis dates unchanged."
+    }
+  ],
+  "regions": [
+    {
+      "id": "esa_eu",
+      "name": "ESA and EU",
+      "items": [
+        {
+          "date": "2026-11-18",
+          "iso3": [
+            "EUR"
+          ],
+          "status": "statement",
+          "priority": "P2",
+          "exposure": "opportunity",
+          "title": "European Commission recommends five-fold increase in competition fund",
+          "summary": "The Commission recommended on the eighteenth of November increasing its competition fund five times to mobilise the space industry. ESA has still not signed its MaiaSpace contract over the funding model, and the vote of the tenth of November has no published outcome.",
+          "why": "Funding terms decide which European launchers and companies are backed. Rome on the fifteenth of December is the next date.",
+          "sources": [
+            {
+              "outlet": "Via Satellite",
+              "url": "https://www.satellitetoday.com/government-military/2026/11/18/european-commission-recommends-increasing-competition-fund-5x-to-mobilize-space-industry/",
+              "language": "en",
+              "type": "press"
+            },
+            {
+              "outlet": "Infoespacial",
+              "url": "https://www.infoespacial.com/texto-diario/mostrar/6095678/esa-no-firma-contrato-maiaspace-diferencias-modelo-financiacion",
+              "language": "es",
+              "type": "press"
+            }
+          ],
+          "bar": "Rome event not described in sources."
+        },
+        {
+          "date": "2026-11-18",
+          "iso3": [
+            "FRA"
+          ],
+          "status": "event",
+          "priority": "P2",
+          "exposure": "opportunity",
+          "title": "Arianespace confirms Ariane 6 window for flight VA271 on twenty-third of November",
+          "summary": "The window runs from 11:09 to 11:38 UTC on the twenty-third of November. The flight carries 36 Amazon Leo satellites.",
+          "why": "It is the tenth Ariane 6 flight and the nearest dated event. A slip would move Amazon's deployment.",
+          "sources": [
+            {
+              "outlet": "Arianespace",
+              "url": "https://www.arianespace.com/news/mission-va271-launch-window-on-november-23-2026/",
+              "language": "en",
+              "type": "press"
+            },
+            {
+              "outlet": "ArianeGroup",
+              "url": "https://www.ariane.group/en/news/arianespace-to-launch-36-amazon-leo-satellites-on-november-23-at-the-earliest-for-10th-ariane-6-flight/",
+              "language": "en",
+              "type": "press"
+            }
+          ],
+          "bar": "Company pages count as the company."
+        }
+      ]
+    },
+    {
+      "id": "cee",
+      "name": "Central and Eastern Europe",
+      "items": [
+        {
+          "date": "2026-11-12",
+          "iso3": [
+            "UKR"
+          ],
+          "status": "statement",
+          "priority": "P2",
+          "exposure": "policy risk",
+          "title": "Zelenskyy says Starshield speed restrictions recorded for several days",
+          "summary": "Ukraine's president said on the twelfth of November that speed restrictions were recorded for several days. SpaceX has made no statement, and the hope for a solution by mid-2027 is unchanged.",
+          "why": "Ukraine's front-line connectivity depends on access it does not control. No nearer date is set.",
+          "sources": [
+            {
+              "outlet": "Via Satellite",
+              "url": "https://www.satellitetoday.com/government-military/2026/11/12/ukraine-reports-more-restrictions-to-starshield-access/",
+              "language": "en",
+              "type": "press"
+            }
+          ],
+          "bar": "Standing situation."
+        }
+      ]
+    },
+    {
+      "id": "nordics",
+      "name": "Nordics",
+      "items": [
+        {
+          "date": "2026-11-02",
+          "iso3": [
+            "SWE"
+          ],
+          "status": "overview",
+          "priority": "P3",
+          "exposure": "context",
+          "title": "Swedish National Space Agency sets Rymddagen for eighteenth of February",
+          "summary": "Rymdstyrelsen will hold Rymddagen 2027 on the eighteenth of February. The agency has also noted Voyager 1 reaching a light-day from Earth.",
+          "why": "It is the agency's main annual gathering. No other Nordic decision is dated.",
+          "sources": [
+            {
+              "outlet": "Rymdstyrelsen",
+              "url": "https://www.rymdstyrelsen.se/nyheter/2026/rymddagen-2027-blir-den-18-februari/",
+              "language": "sv",
+              "type": "national-language"
+            }
+          ],
+          "bar": "Standing item."
+        }
+      ]
+    },
+    {
+      "id": "west",
+      "name": "Western and Southern Europe",
+      "items": [
+        {
+          "date": "2026-11-09",
+          "iso3": [
+            "FRA"
+          ],
+          "status": "contract",
+          "priority": "P2",
+          "exposure": "context",
+          "title": "Airbus to deliver IRIS, France's next generation military Earth observation satellites",
+          "summary": "Airbus announced on the ninth of November that it will deliver IRIS. The notice we hold gives no delivery date.",
+          "why": "It sets a French military Earth observation capability in European industry hands. No dated step follows.",
+          "sources": [
+            {
+              "outlet": "Airbus",
+              "url": "https://www.airbus.com/en/newsroom/press-releases/2026-11-airbus-to-deliver-iris-frances-next-generation-military-earth-observation-satellites",
+              "language": "en",
+              "type": "press"
+            }
+          ],
+          "bar": "Headline-level only."
+        }
+      ]
+    },
+    {
+      "id": "eurasia",
+      "name": "Eurasia and Central Asia",
+      "items": [
+        {
+          "date": "2026-11-20",
+          "iso3": [
+            "TUR",
+            "AZE",
+            "KAZ",
+            "UZB"
+          ],
+          "status": "overview",
+          "priority": "P3",
+          "exposure": "context",
+          "title": "Turkic states plan joint satellite launch in 2027",
+          "summary": "A joint satellite of the Turkic states is due to go to orbit in 2027. No more exact date has been given.",
+          "why": "It is a shared regional space program. The date has not narrowed.",
+          "sources": [
+            {
+              "outlet": "Haber.Aero",
+              "url": "https://haber.aero/aero-gundem/turk-devletlerinin-ortak-uydusu-2027de-uzaya-gonderilecek/",
+              "language": "tr",
+              "type": "national-language"
+            }
+          ],
+          "bar": "Undated source; filed as standing."
+        }
+      ]
+    },
+    {
+      "id": "mena",
+      "name": "Türkiye, Middle East and Africa",
+      "items": [
+        {
+          "date": "2026-11-20",
+          "iso3": [
+            "TUR"
+          ],
+          "status": "overview",
+          "priority": "P3",
+          "exposure": "context",
+          "title": "Türkiye plans new micro satellite for 2028",
+          "summary": "Türkiye's new micro satellite is due for launch in 2028. The 2027 budget proposal of 24.59 billion lira still has no published split.",
+          "why": "It adds to Türkiye's national program. No nearer date is set.",
+          "sources": [
+            {
+              "outlet": "Haber.Aero",
+              "url": "https://haber.aero/aero-gundem/turkiyenin-yeni-mikro-uydusu-2028de-firlatilacak/",
+              "language": "tr",
+              "type": "national-language"
+            }
+          ],
+          "bar": "Budget figure from 12 November note, trade press."
+        },
+        {
+          "date": "2026-10-30",
+          "iso3": [
+            "DZA",
+            "IND"
+          ],
+          "status": "event",
+          "priority": "P3",
+          "exposure": "context",
+          "title": "Algerian Space Agency reports on navigation committee meeting in Goa",
+          "summary": "ASAL reported its participation in the twentieth meeting of the International Committee on Global Navigation Satellite Systems in Goa, India, from the twenty-fifth to the thirtieth of October.",
+          "why": "It shows Algerian engagement in navigation policy. No follow-up date is given.",
+          "sources": [
+            {
+              "outlet": "Algerian Space Agency (ASAL)",
+              "url": "https://asal.dz/?p=13593",
+              "language": "fr",
+              "type": "government-or-embassy"
+            }
+          ],
+          "bar": "Post date unknown; used event end date."
+        }
+      ]
+    },
+    {
+      "id": "asia_pac",
+      "name": "Asia Pacific",
+      "items": [
+        {
+          "date": "2026-11-20",
+          "iso3": [
+            "CHN"
+          ],
+          "status": "event",
+          "priority": "P3",
+          "exposure": "competitive threat",
+          "title": "China launches CERES-2 on second attempt and sends new internet satellites",
+          "summary": "A CERES-2 rocket launched on its second attempt, and a new batch of internet satellites has gone up. Neither report carries a date.",
+          "why": "It adds to China's launch and constellation activity. No next date is given.",
+          "sources": [
+            {
+              "outlet": "Haber.Aero",
+              "url": "https://haber.aero/uzay/cinin-ceres-2-roketi-ikinci-denemede-firlatildi/",
+              "language": "tr",
+              "type": "national-language"
+            },
+            {
+              "outlet": "Haber.Aero",
+              "url": "https://haber.aero/uzay/cin-yeni-internet-uydularini-uzaya-gonderdi/",
+              "language": "tr",
+              "type": "national-language"
+            }
+          ],
+          "bar": "Undated headlines; low confidence."
+        }
+      ]
+    },
+    {
+      "id": "americas",
+      "name": "Americas",
+      "items": [
+        {
+          "date": "2026-11-19",
+          "iso3": [
+            "CAN"
+          ],
+          "status": "agreement",
+          "priority": "P2",
+          "exposure": "competitive threat",
+          "title": "Telesat partners with Dominion Dynamics on portable and uncrewed antennas",
+          "summary": "Telesat has partnered with Canada's Dominion Dynamics for portable and uncrewed low Earth orbit antennas. Lightspeed remains set for mid-2028.",
+          "why": "It widens the terminals available for Telesat's constellation. The mid-2028 date is unchanged.",
+          "sources": [
+            {
+              "outlet": "Via Satellite",
+              "url": "https://www.satellitetoday.com/government-military/2026/11/19/telesat-partners-with-canadas-dominion-dynamics-for-portable-and-uncrewed-leo-antennas/",
+              "language": "en",
+              "type": "press"
+            }
+          ],
+          "bar": "Company news via trade press."
+        },
+        {
+          "date": "2026-11-20",
+          "iso3": [
+            "PRY",
+            "JPN"
+          ],
+          "status": "agreement",
+          "priority": "P3",
+          "exposure": "opportunity",
+          "title": "Paraguay and Japan seal USD 24 million donation for satellite technology",
+          "summary": "Paraguay and Japan have agreed a donation of 24 million US dollars to develop satellite technology. No schedule is given.",
+          "why": "It funds Paraguay's space program from outside the region. No dated step follows.",
+          "sources": [
+            {
+              "outlet": "Última Hora",
+              "url": "https://www.ultimahora.com/paraguay-y-japon-sellan-acuerdo-de-donacion-de-usd-24-millones-para-desarrollar-tecnologia-satelital",
+              "language": "es",
+              "type": "national-language"
+            }
+          ],
+          "bar": "Undated source."
+        }
+      ]
+    }
+  ],
+  "priorities": [
+    {
+      "rank": "P1",
+      "title": "BepiColombo reaches Mercury",
+      "status": "event",
+      "exposure": "context",
+      "implication": "The cruise ends and science operations come next, with no date given.",
+      "iso3": [
+        "EUR"
+      ],
+      "next": null
+    },
+    {
+      "rank": "P2",
+      "title": "Ariane 6 flight VA271 with Amazon Leo satellites",
+      "status": "event",
+      "exposure": "opportunity",
+      "implication": "A launch on schedule would give Amazon an alternative after the Vulcan failure.",
+      "iso3": [
+        "FRA"
+      ],
+      "next": {
+        "date": "2026-11-23",
+        "event": "VA271 launch window 11:09 to 11:38 UTC"
+      }
+    },
+    {
+      "rank": "P3",
+      "title": "ESA and EU funding after the tenth of November vote",
+      "status": "statement",
+      "exposure": "policy risk",
+      "implication": "The vote has no published outcome and the MaiaSpace contract is unsigned.",
+      "iso3": [
+        "EUR"
+      ],
+      "next": {
+        "date": "2026-12-15",
+        "event": "Rome"
+      }
+    },
+    {
+      "rank": "P3",
+      "title": "Artemis moon base proposals",
+      "status": "contract",
+      "exposure": "opportunity",
+      "implication": "Awards were made on the ninth of November and further proposals are due.",
+      "iso3": [
+        "USA"
+      ],
+      "next": {
+        "date": "2026-12-08",
+        "event": "Artemis proposals due"
+      }
+    }
+  ],
+  "watchlist": [
+    {
+      "date": "2026-11-23",
+      "event": "Ariane 6 flight VA271 launch window 11:09 to 11:38 UTC",
+      "where": "Kourou",
+      "iso3": [
+        "FRA"
+      ]
+    },
+    {
+      "date": "2026-12-08",
+      "event": "Artemis proposals due",
+      "where": "United States",
+      "iso3": [
+        "USA"
+      ]
+    },
+    {
+      "date": "2026-12-15",
+      "event": "Rome date in the ESA and EU pathway",
+      "where": "Rome",
+      "iso3": [
+        "ITA"
+      ]
+    }
+  ],
+  "milestones": [
+    {
+      "date": "2026-12-15",
+      "event": "Rome",
+      "iso3": [
+        "ITA"
+      ],
+      "status": "pending",
+      "why": "Follows the unresolved vote of the tenth of November."
+    },
+    {
+      "date": "2027-01",
+      "event": "Blue Origin planned January return",
+      "iso3": [
+        "USA"
+      ],
+      "status": "unconfirmed",
+      "why": "FAA deadline passed without a decision."
+    },
+    {
+      "date": "2027-02-18",
+      "event": "Rymddagen 2027",
+      "iso3": [
+        "SWE"
+      ],
+      "status": "scheduled",
+      "why": "Sweden's annual space gathering."
+    }
+  ],
+  "competitive_watch": [],
+  "countries": [
+    {
+      "iso3": "EUR",
+      "items": []
+    },
+    {
+      "iso3": "FRA",
+      "items": []
+    },
+    {
+      "iso3": "USA",
+      "items": []
+    },
+    {
+      "iso3": "UKR",
+      "items": []
+    },
+    {
+      "iso3": "SWE",
+      "items": []
+    },
+    {
+      "iso3": "TUR",
+      "items": []
+    },
+    {
+      "iso3": "DZA",
+      "items": []
+    },
+    {
+      "iso3": "CHN",
+      "items": []
+    },
+    {
+      "iso3": "CAN",
+      "items": []
+    },
+    {
+      "iso3": "PRY",
+      "items": []
+    }
+  ],
+  "audio_script": "Good morning. It is Friday, the twentieth of November, and this is the Sovereign Space ATLAS briefing. BepiColombo has reached Mercury after eight years. Telesat has agreed a partnership with Canada's Dominion Dynamics on portable antennas. And an Ariane 6 launch of Amazon satellites is set for the twenty-third of November.\n\nThe European mission BepiColombo has reached Mercury, eight years after it set out. Spanish coverage describes it as entering the planet's orbit and credits a Spanish-built structure with making the mission possible. No date has been given for the start of science work. BepiColombo is the top story because it closes the long cruise phase of a European deep-space mission. The entry date differs between sources, so we keep the wording general. Two other pathways stay open. Vulcan Centaur failed on the fifteenth of November with 40 Amazon satellites aboard, and no cause or next flight date has been given. For Artemis, proposals are due on the eighth of December.\n\nIn Europe, the Commission has recommended increasing its competition fund five times, to mobilise the space industry. The recommendation was made on the eighteenth of November. The European Space Agency has still not signed its contract with MaiaSpace, because of differences over the funding model. Funding terms decide which European launchers and companies are backed. The vote of the tenth of November has no published outcome, and the next date is Rome on the fifteenth of December. Arianespace has confirmed a window for flight VA271 on the twenty-third of November, from 11:09 to 11:38 UTC. It carries 36 Amazon Leo satellites. A slip in the Ariane 6 flight would move Amazon's deployment.\n\nIn Ukraine, access to Starshield remains the open question. Zelenskyy said on the twelfth of November that speed restrictions had been recorded for several days. SpaceX has made no statement. The hope for a solution by mid-2027 is unchanged, and no nearer date is set.\n\nIn Sweden, the space agency Rymdstyrelsen will hold its next Rymddagen on the eighteenth of February, 2027. The agency announced the date on the second of November. It has also noted Voyager 1 reaching a light-day from Earth.\n\nIn France, Airbus is to deliver IRIS, the country's next generation of military Earth observation satellites. The company announced it on the ninth of November. The notice carries no delivery date.\n\nIn the Turkic states, a joint satellite is due to be sent to orbit in 2027. No more exact date has been given.\n\nIn Türkiye, a new micro satellite is due for launch in 2028. The 2027 budget proposal of 24.59 billion lira still has no published split. In Algeria, the space agency has reported its participation in the twentieth meeting of the International Committee on Global Navigation Satellite Systems, held in Goa, India, from the twenty-fifth to the thirtieth of October.\n\nIn China, a CERES-2 rocket has been launched on its second attempt, and a new batch of internet satellites has gone up. Neither report carries a date, so no next date is set.\n\nIn Canada, Telesat has partnered with Dominion Dynamics on portable and uncrewed low Earth orbit antennas. Its Lightspeed constellation remains set for mid-2028. In Paraguay, Japan has agreed a donation of 24 million US dollars for satellite technology. In the United States, a Senate committee has advanced the nominee for the FCC despite a Democratic boycott. No floor date has been given.\n\nWhat we are tracking this week is Ariane 6 flight VA271 on the twenty-third of November, and any cause given for the Vulcan failure. What we are tracking this month is the Artemis proposals due on the eighth of December and Rome on the fifteenth of December. The heads-up dates are the twenty-third of November, the eighth of December and the fifteenth of December. Blue Origin's January return is unconfirmed, and the FAA decision is still missing. Ariane 6 flight VA271 is the nearest dated event, and its window opens at 11:09 UTC on the twenty-third of November. The Artemis proposals are due on the eighth of December, followed by Rome on the fifteenth of December. That is the briefing for Friday, the twentieth of November.",
+  "audio_sections": [
+    {
+      "id": "opening",
+      "title": "Opening",
+      "text": "Good morning. It is Friday, the twentieth of November, and this is the Sovereign Space ATLAS briefing. BepiColombo has reached Mercury after eight years. Telesat has agreed a partnership with Canada's Dominion Dynamics on portable antennas. And an Ariane 6 launch of Amazon satellites is set for the twenty-third of November."
+    },
+    {
+      "id": "top",
+      "title": "Top story",
+      "text": "The European mission BepiColombo has reached Mercury, eight years after it set out. Spanish coverage describes it as entering the planet's orbit and credits a Spanish-built structure with making the mission possible. No date has been given for the start of science work. BepiColombo is the top story because it closes the long cruise phase of a European deep-space mission. The entry date differs between sources, so we keep the wording general. Two other pathways stay open. Vulcan Centaur failed on the fifteenth of November with 40 Amazon satellites aboard, and no cause or next flight date has been given. For Artemis, proposals are due on the eighth of December."
+    },
+    {
+      "id": "esa_eu",
+      "title": "ESA and EU",
+      "text": "In Europe, the Commission has recommended increasing its competition fund five times, to mobilise the space industry. The recommendation was made on the eighteenth of November. The European Space Agency has still not signed its contract with MaiaSpace, because of differences over the funding model. Funding terms decide which European launchers and companies are backed. The vote of the tenth of November has no published outcome, and the next date is Rome on the fifteenth of December. Arianespace has confirmed a window for flight VA271 on the twenty-third of November, from 11:09 to 11:38 UTC. It carries 36 Amazon Leo satellites. A slip in the Ariane 6 flight would move Amazon's deployment."
+    },
+    {
+      "id": "cee",
+      "title": "Central and Eastern Europe",
+      "text": "In Ukraine, access to Starshield remains the open question. Zelenskyy said on the twelfth of November that speed restrictions had been recorded for several days. SpaceX has made no statement. The hope for a solution by mid-2027 is unchanged, and no nearer date is set."
+    },
+    {
+      "id": "nordics",
+      "title": "Nordics",
+      "text": "In Sweden, the space agency Rymdstyrelsen will hold its next Rymddagen on the eighteenth of February, 2027. The agency announced the date on the second of November. It has also noted Voyager 1 reaching a light-day from Earth."
+    },
+    {
+      "id": "west",
+      "title": "Western and Southern Europe",
+      "text": "In France, Airbus is to deliver IRIS, the country's next generation of military Earth observation satellites. The company announced it on the ninth of November. The notice carries no delivery date."
+    },
+    {
+      "id": "eurasia",
+      "title": "Eurasia and Central Asia",
+      "text": "In the Turkic states, a joint satellite is due to be sent to orbit in 2027. No more exact date has been given."
+    },
+    {
+      "id": "mena",
+      "title": "Türkiye, Middle East and Africa",
+      "text": "In Türkiye, a new micro satellite is due for launch in 2028. The 2027 budget proposal of 24.59 billion lira still has no published split. In Algeria, the space agency has reported its participation in the twentieth meeting of the International Committee on Global Navigation Satellite Systems, held in Goa, India, from the twenty-fifth to the thirtieth of October."
+    },
+    {
+      "id": "asia_pac",
+      "title": "Asia Pacific",
+      "text": "In China, a CERES-2 rocket has been launched on its second attempt, and a new batch of internet satellites has gone up. Neither report carries a date, so no next date is set."
+    },
+    {
+      "id": "americas",
+      "title": "Americas",
+      "text": "In Canada, Telesat has partnered with Dominion Dynamics on portable and uncrewed low Earth orbit antennas. Its Lightspeed constellation remains set for mid-2028. In Paraguay, Japan has agreed a donation of 24 million US dollars for satellite technology. In the United States, a Senate committee has advanced the nominee for the FCC despite a Democratic boycott. No floor date has been given."
+    },
+    {
+      "id": "close",
+      "title": "Close",
+      "text": "What we are tracking this week is Ariane 6 flight VA271 on the twenty-third of November, and any cause given for the Vulcan failure. What we are tracking this month is the Artemis proposals due on the eighth of December and Rome on the fifteenth of December. The heads-up dates are the twenty-third of November, the eighth of December and the fifteenth of December. Blue Origin's January return is unconfirmed, and the FAA decision is still missing. Ariane 6 flight VA271 is the nearest dated event, and its window opens at 11:09 UTC on the twenty-third of November. The Artemis proposals are due on the eighth of December, followed by Rome on the fifteenth of December. That is the briefing for Friday, the twentieth of November."
+    }
+  ],
+  "date": "2026-11-20",
+  "edition": "06:00 UTC",
+  "generated_at": "2026-11-20T12:16:47+00:00"
+}

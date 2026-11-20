@@ -324,3 +324,15 @@ Episodes:
 - Starship: catch filed 15 November; no new item.
 - Swift: closed pending a NASA page.
 - Telesat Lightspeed, Matera, Japan MMX: unchanged, not filed.
+
+
+## 2026-11-20
+- BepiColombo: arrival at Mercury filed 18 November; science start date unknown.
+- Ariane 6 VA271: 23 November 11:09-11:38 UTC, 36 Amazon Leo.
+- ESA, EU, Rome: 10 November vote no outcome; MaiaSpace unsigned; Commission fund 5x recommended 18 November; Rome 15 December.
+- Vulcan Centaur: failed 15 November, cause and next flight unknown.
+- Artemis: awards 9 November; proposals due 8 December.
+- Starshield Ukraine: Zelenskyy 12 November; mid-2027 hope unchanged.
+- Blue Origin: January return unconfirmed; FAA deadline passed, no decision.
+- Telesat Lightspeed: mid-2028 unchanged; Dominion Dynamics partnership 19 November.
+- Swift: closed pending NASA page. Matera: no change, not filed.
