@@ -1,0 +1,656 @@
+{
+  "date": "2026-11-21",
+  "headline": "ESA and OHB System confirm the ClearSpace-1 contract",
+  "summary": [
+    "ESA and OHB System have confirmed the contract for ClearSpace-1, a mission to remove a defunct satellite.",
+    "Southern Launch in Australia has announced a second spacecraft re-entry within twelve days at Koonibba.",
+    "Pakistan's SUPARCO says its second indigenous EO-2 satellite has flown, the sixth in its earth observation fleet.",
+    "Arianespace has held its Ariane 6 window for the twenty-third of November, with 36 Amazon Leo satellites.",
+    "The Rome meeting on the fifteenth of December is the next date for European space funding."
+  ],
+  "bottom_line": "ClearSpace-1 is now a confirmed contract, with its value and launch date still unpublished. The next date that matters is the Ariane 6 flight VA271 on the twenty-third of November.",
+  "global": [
+    {
+      "date": "2026-11-19",
+      "iso3": [
+        "DEU"
+      ],
+      "status": "contract",
+      "priority": "P1",
+      "exposure": "opportunity",
+      "title": "ESA and OHB System confirm contract for ClearSpace-1",
+      "summary": "ESA and OHB System have confirmed the contract for ClearSpace-1. The mission is to remove a defunct satellite from orbit. The confirmation was published on the nineteenth of November. The contract value and launch date are not stated. The next European funding date is the Rome meeting on the fifteenth of December.",
+      "why": "Active debris removal moves from plan to signed commitment. Value and launch date will show how large the market is.",
+      "sources": [
+        {
+          "outlet": "Space Connect",
+          "url": "https://www.spaceconnectonline.com.au/satellites/7377-esa-ohb-system-confirm-contract-for-clearspace-1-to-remove-defunct-satellite",
+          "language": "en",
+          "type": "press"
+        }
+      ],
+      "bar": "Headline-level; no value or launch date in packet."
+    },
+    {
+      "date": "2026-11-15",
+      "iso3": [
+        "USA"
+      ],
+      "status": "event",
+      "priority": "P2",
+      "exposure": "context",
+      "title": "ULA Vulcan suffers anomaly on first Amazon Leo launch",
+      "summary": "A ULA Vulcan rocket suffered an anomaly on the fifteenth of November. It was carrying 40 Amazon satellites. The cause has not been given. The next flight date is unknown. Amazon's Ariane 6 flight on the twenty-third of November is the next launch for the constellation.",
+      "why": "A second launcher now matters more for Amazon's schedule. The cause will decide how long Vulcan stays grounded.",
+      "sources": [
+        {
+          "outlet": "Via Satellite",
+          "url": "http://www.satellitetoday.com/launch/2026/11/15/ula-set-to-return-vulcan-to-flight-in-first-amazon-leo-launch/?itm_source=parsely-api",
+          "language": "en",
+          "type": "press"
+        }
+      ],
+      "bar": "Standing; cause unknown."
+    },
+    {
+      "date": "2026-11-09",
+      "iso3": [
+        "USA"
+      ],
+      "status": "contract",
+      "priority": "P2",
+      "exposure": "opportunity",
+      "title": "NASA makes major contract awards for moon base development",
+      "summary": "NASA made major moon base awards on the ninth of November. Dates for Artemis are unchanged. Proposals for the next round are due on the eighth of December. No new award has been announced since. The eighth of December is the date to watch.",
+      "why": "The awards set the early supplier list. The December deadline opens the next round to new bidders.",
+      "sources": [
+        {
+          "outlet": "Via Satellite",
+          "url": "https://www.satellitetoday.com/government-military/2026/11/09/nasa-makes-major-contract-awards-for-moon-base-development/",
+          "language": "en",
+          "type": "press"
+        }
+      ],
+      "bar": "Standing; date-driven."
+    },
+    {
+      "date": "2026-11-12",
+      "iso3": [
+        "UKR",
+        "USA"
+      ],
+      "status": "statement",
+      "priority": "P2",
+      "exposure": "policy risk",
+      "title": "Zelenskyy says Ukraine faces more Starshield restrictions",
+      "summary": "Ukraine's president said on the twelfth of November that speed restrictions on Starshield had been recorded for several days. SpaceX has made no statement. Ukraine's hope of the restrictions easing by mid-2027 is unchanged. Lithuanian coverage describes the country's satellite position as a race against time. No dated decision is set.",
+      "why": "Ukraine's battlefield connectivity depends on a service it does not control. European alternatives remain years away.",
+      "sources": [
+        {
+          "outlet": "Via Satellite",
+          "url": "https://www.satellitetoday.com/government-military/2026/11/12/ukraine-reports-more-restrictions-to-starshield-access/",
+          "language": "en",
+          "type": "press"
+        }
+      ],
+      "bar": "No SpaceX statement."
+    }
+  ],
+  "regions": [
+    {
+      "id": "esa_eu",
+      "name": "ESA and EU",
+      "items": [
+        {
+          "date": "2026-11-18",
+          "iso3": [
+            "FRA",
+            "EUR"
+          ],
+          "status": "event",
+          "priority": "P2",
+          "exposure": "opportunity",
+          "title": "Arianespace confirms Ariane 6 window for VA271",
+          "summary": "Arianespace confirmed on the eighteenth of November a launch window on the twenty-third of November. The window runs from 11:09 to 11:38 UTC. The flight carries 36 Amazon Leo satellites. The European Commission recommended a fivefold increase in its competition fund on the same day. The ESA contract with MaiaSpace remains unsigned over the financing model.",
+          "why": "VA271 tests Ariane 6 with a major commercial customer. The Rome meeting on the fifteenth of December is the next funding date.",
+          "sources": [
+            {
+              "outlet": "Arianespace",
+              "url": "https://www.arianespace.com/news/mission-va271-launch-window-on-november-23-2026/",
+              "language": "en",
+              "type": "press"
+            },
+            {
+              "outlet": "Via Satellite",
+              "url": "https://www.satellitetoday.com/government-military/2026/11/18/european-commission-recommends-increasing-competition-fund-5x-to-mobilize-space-industry/",
+              "language": "en",
+              "type": "press"
+            }
+          ],
+          "bar": "MaiaSpace per Infoespacial."
+        },
+        {
+          "date": "2026-11-10",
+          "iso3": [
+            "EUR"
+          ],
+          "status": "overview",
+          "priority": "P3",
+          "exposure": "policy risk",
+          "title": "ESA and EU member states await the Rome meeting",
+          "summary": "The vote of the tenth of November has no outcome in our material. The Rome meeting is on the fifteenth of December. The MaiaSpace contract is the open item on launchers. The Commission fund recommendation sits alongside it. Nothing further is dated before Rome.",
+          "why": "Launcher financing is unresolved. Rome is the date that settles it.",
+          "sources": [
+            {
+              "outlet": "Infoespacial",
+              "url": "https://www.infoespacial.com/texto-diario/mostrar/6095678/esa-no-firma-contrato-maiaspace-diferencias-modelo-financiacion",
+              "language": "es",
+              "type": "press"
+            }
+          ],
+          "bar": "Standing."
+        }
+      ]
+    },
+    {
+      "id": "cee",
+      "name": "Central and Eastern Europe",
+      "items": [
+        {
+          "date": "2026-11-21",
+          "iso3": [
+            "ROU"
+          ],
+          "status": "overview",
+          "priority": "P3",
+          "exposure": "context",
+          "title": "Romanian space official urges move from presence to relevance",
+          "summary": "An interview with Ulpia-Elena Botezatu covers space security and European autonomy. It argues Romania must move from presence to relevance. It is commentary, not a decision. No Romanian programme decision is dated. The Rome meeting on the fifteenth of December is the next marker.",
+          "why": "Romania frames its role inside European autonomy. No funding is attached yet.",
+          "sources": [
+            {
+              "outlet": "Atlas News România",
+              "url": "https://www.atlasnews.ro/interviu-ulpia-elena-botezatu-securitate-spatiala-autonomia-europei-romania/",
+              "language": "ro",
+              "type": "national-language"
+            }
+          ],
+          "bar": "Interview only."
+        }
+      ]
+    },
+    {
+      "id": "nordics",
+      "name": "Nordics",
+      "items": [
+        {
+          "date": "2026-11-02",
+          "iso3": [
+            "SWE"
+          ],
+          "status": "overview",
+          "priority": "P3",
+          "exposure": "context",
+          "title": "Swedish space agency sets Space Day for February",
+          "summary": "Rymdstyrelsen will hold its next Space Day on the eighteenth of February, 2027. The date was announced on the second of November. The agency has also published a piece on Voyager 1 reaching one light-day from Earth. No Nordic launch or contract is dated this week. The February event is the next fixed date.",
+          "why": "It is the next fixed gathering for the Swedish sector. No policy decision is attached.",
+          "sources": [
+            {
+              "outlet": "Rymdstyrelsen",
+              "url": "https://www.rymdstyrelsen.se/nyheter/2026/rymddagen-2027-blir-den-18-februari/",
+              "language": "sv",
+              "type": "government-or-embassy"
+            }
+          ],
+          "bar": "Standing."
+        }
+      ]
+    },
+    {
+      "id": "west",
+      "name": "Western and Southern Europe",
+      "items": [
+        {
+          "date": "2026-11-21",
+          "iso3": [
+            "ESP"
+          ],
+          "status": "contract",
+          "priority": "P2",
+          "exposure": "opportunity",
+          "title": "PLD Space signs first commercial launch contract with Mitsubishi Electric",
+          "summary": "PLD Space has signed its first commercial launch contract for Miura 5. The customer is Mitsubishi Electric. The contract date and value are not stated. Separately, Spain picked up a Voyager 1 signal on the nineteenth of November. The station and content are not stated.",
+          "why": "A Japanese customer for a Spanish launcher is a first. Terms are needed to judge it.",
+          "sources": [
+            {
+              "outlet": "Infoespacial",
+              "url": "https://www.infoespacial.com/texto-diario/mostrar/6095886/pld-space-firma-mitsubishi-electric-primer-contrato-comercial-lanzamiento-miura-5",
+              "language": "es",
+              "type": "national-language"
+            },
+            {
+              "outlet": "El País",
+              "url": "https://elpais.com/ciencia/2026-11-19/mas-alla-de-un-dia-luz-espana-capta-el-primer-saludo-de-la-voyager-1-desde-el-otro-lado-de-la-frontera-interestelar.html",
+              "language": "es",
+              "type": "national-language"
+            }
+          ],
+          "bar": "Undated headline; date set to edition."
+        },
+        {
+          "date": "2026-11-21",
+          "iso3": [
+            "PRT"
+          ],
+          "status": "overview",
+          "priority": "P3",
+          "exposure": "competitive threat",
+          "title": "Iceye bids for Avio; Portugal moves towards Azores launch",
+          "summary": "Iceye has launched a takeover bid of 2,050 million for Avio. The bid is framed as a European space and defence champion. Portugal has taken a step towards its first orbital launch from the Azores. The rocket is South Korean. Dates for both are not stated.",
+          "why": "Consolidation among launch and defence firms is under way. Portugal's launch plan depends on a non-European vehicle.",
+          "sources": [
+            {
+              "outlet": "Infoespacial",
+              "url": "https://www.infoespacial.com/texto-diario/mostrar/6095528/iceye-lanza-opa-2050-millones-sobre-avio-crear-campeon-europeo-espacio-defensa",
+              "language": "es",
+              "type": "national-language"
+            },
+            {
+              "outlet": "Infoespacial",
+              "url": "https://www.infoespacial.com/texto-diario/mostrar/6101824/portugal-conquista-espacio-da-paso-hacia-primer-lanzamiento-espacial-orbital-desde-azores-cohete-surcoreano",
+              "language": "es",
+              "type": "national-language"
+            }
+          ],
+          "bar": "Headlines only; currency not given."
+        }
+      ]
+    },
+    {
+      "id": "eurasia",
+      "name": "Eurasia and Central Asia",
+      "items": [
+        {
+          "date": "2026-11-21",
+          "iso3": [
+            "UZB"
+          ],
+          "status": "overview",
+          "priority": "P3",
+          "exposure": "context",
+          "title": "Analysis questions Uzbekistan's 12 billion dollar United States package",
+          "summary": "The Times of Central Asia asks what supports the 12 billion dollar figure for Uzbekistan's United States package. No space component is stated. The figure is unverified in our material. No date is set. Kazakhstan's aerospace committee has nothing new.",
+          "why": "Headline figures from the region need support before use. Space content is not shown.",
+          "sources": [
+            {
+              "outlet": "The Times of Central Asia",
+              "url": "https://timesca.com/uzbekistans-u-s-package-what-supports-the-12-billion-figure/",
+              "language": "en",
+              "type": "press"
+            }
+          ],
+          "bar": "Weak space relevance."
+        }
+      ]
+    },
+    {
+      "id": "mena",
+      "name": "Türkiye, Middle East and Africa",
+      "items": [
+        {
+          "date": "2026-11-21",
+          "iso3": [
+            "DZA"
+          ],
+          "status": "overview",
+          "priority": "P3",
+          "exposure": "context",
+          "title": "Algerian Space Agency reports on navigation committee meeting in Goa",
+          "summary": "ASAL published its report on the twentieth meeting of the International Committee on Global Navigation Satellite Systems. The meeting was in Goa, India, from the twenty-fifth to the thirtieth of October. Four Algerian students have qualified for the global phase of the NASA Space Apps Challenge. No further date is given. The agency also marked ten years of Alsat-2B in orbit.",
+          "why": "Algeria keeps a seat in global navigation talks. Student results show a growing pipeline.",
+          "sources": [
+            {
+              "outlet": "Algerian Space Agency",
+              "url": "https://asal.dz/?p=13593",
+              "language": "fr",
+              "type": "government-or-embassy"
+            },
+            {
+              "outlet": "Algérie 360",
+              "url": "https://www.algerie360.com/nasa-space-apps-challenge-2026-etudiantes-algeriennes-sidi-bel-abbes/?utm_source=a360&utm_medium=accnews",
+              "language": "fr",
+              "type": "national-language"
+            }
+          ],
+          "bar": "Undated pages."
+        },
+        {
+          "date": "2026-11-21",
+          "iso3": [
+            "KWT"
+          ],
+          "status": "agreement",
+          "priority": "P3",
+          "exposure": "context",
+          "title": "Kuwait University signs agreement with KFAS",
+          "summary": "Kuwait University has signed an agreement with the Kuwait Foundation for the Advancement of Sciences. It is to establish and operate a national facility. The full title is cut off in our material. The signing date is not stated. No next date is known.",
+          "why": "It shows state-directed science funding in Kuwait. Scope is unclear.",
+          "sources": [
+            {
+              "outlet": "Kuwait University",
+              "url": "https://vpaa.ku.edu.kw/media-center/news/kfas24",
+              "language": "en",
+              "type": "government-or-embassy"
+            }
+          ],
+          "bar": "Truncated headline; space link unconfirmed."
+        }
+      ]
+    },
+    {
+      "id": "asia_pac",
+      "name": "Asia Pacific",
+      "items": [
+        {
+          "date": "2026-11-18",
+          "iso3": [
+            "AUS"
+          ],
+          "status": "event",
+          "priority": "P2",
+          "exposure": "opportunity",
+          "title": "Southern Launch announces second re-entry at Koonibba",
+          "summary": "Southern Launch announced on the eighteenth of November a second spacecraft re-entry within twelve days. It will take place at Koonibba in South Australia. The spacecraft is not named in the headline. RMIT announced PhD scholarships in honour of astronaut Katherine Bennell-Pegg on the twentieth. No re-entry date is given.",
+          "why": "Australia is building a repeat return service. The re-entry date is the next marker.",
+          "sources": [
+            {
+              "outlet": "Space Connect",
+              "url": "https://www.spaceconnectonline.com.au/launch/7375-southern-launch-announces-second-spacecraft-re-entry-within-12-days-at-koonibba",
+              "language": "en",
+              "type": "press"
+            }
+          ],
+          "bar": "Headline-level."
+        },
+        {
+          "date": "2026-11-13",
+          "iso3": [
+            "PAK"
+          ],
+          "status": "event",
+          "priority": "P3",
+          "exposure": "context",
+          "title": "SUPARCO says second indigenous EO-2 satellite has flown",
+          "summary": "SUPARCO says Pakistan's second indigenous EO-2 has taken flight. It is the sixth satellite in the national earth observation fleet. The launch date is not stated. The agency also lists PakSAT-MM1 as a communications satellite. No further date is given.",
+          "why": "Pakistan's own imaging fleet is growing. The launch details are missing.",
+          "sources": [
+            {
+              "outlet": "SUPARCO",
+              "url": "https://suparco.gov.pk/news-updates.html",
+              "language": "en",
+              "type": "government-or-embassy"
+            }
+          ],
+          "bar": "Agency page; no date."
+        }
+      ]
+    },
+    {
+      "id": "americas",
+      "name": "Americas",
+      "items": [
+        {
+          "date": "2026-11-21",
+          "iso3": [
+            "PRY",
+            "USA"
+          ],
+          "status": "overview",
+          "priority": "P3",
+          "exposure": "context",
+          "title": "Paraguay covers Japan donation and second satellite",
+          "summary": "Última Hora carries an agreement with Japan for a donation of 24 million dollars for satellite technology. It also covers GuaraniSat-2, the country's second satellite. Dates are not stated. In the United States, the Vulcan failure of the fifteenth of November is unexplained. Artemis proposals are due on the eighth of December.",
+          "why": "Paraguay's programme is funded from abroad. The Vulcan cause decides when Amazon launches resume on that rocket.",
+          "sources": [
+            {
+              "outlet": "Última Hora",
+              "url": "https://www.ultimahora.com/paraguay-y-japon-sellan-acuerdo-de-donacion-de-usd-24-millones-para-desarrollar-tecnologia-satelital",
+              "language": "es",
+              "type": "national-language"
+            }
+          ],
+          "bar": "Undated pages."
+        }
+      ]
+    }
+  ],
+  "priorities": [
+    {
+      "rank": "P2",
+      "title": "ClearSpace-1 contract confirmed",
+      "status": "contract",
+      "exposure": "opportunity",
+      "implication": "ESA and OHB System have confirmed the debris removal contract, with value and launch date unpublished.",
+      "iso3": [
+        "DEU"
+      ],
+      "next": {
+        "date": "2026-12-15",
+        "event": "Rome meeting on ESA and EU funding"
+      }
+    },
+    {
+      "rank": "P2",
+      "title": "Ariane 6 VA271 with 36 Amazon Leo satellites",
+      "status": "event",
+      "exposure": "opportunity",
+      "implication": "The window opens at 11:09 UTC on the twenty-third of November.",
+      "iso3": [
+        "FRA"
+      ],
+      "next": {
+        "date": "2026-11-23",
+        "event": "VA271 launch window, 11:09 to 11:38 UTC"
+      }
+    },
+    {
+      "rank": "P2",
+      "title": "Vulcan failure and Amazon schedule",
+      "status": "event",
+      "exposure": "context",
+      "implication": "The cause of the fifteenth of November failure and the next flight remain unknown.",
+      "iso3": [
+        "USA"
+      ],
+      "next": null
+    },
+    {
+      "rank": "P2",
+      "title": "Artemis moon base proposals",
+      "status": "contract",
+      "exposure": "opportunity",
+      "implication": "Proposals for the next round are due on the eighth of December.",
+      "iso3": [
+        "USA"
+      ],
+      "next": {
+        "date": "2026-12-08",
+        "event": "Moon base proposals due"
+      }
+    }
+  ],
+  "watchlist": [
+    {
+      "date": "2026-11-23",
+      "event": "Ariane 6 flight VA271 launch window, 11:09 to 11:38 UTC",
+      "where": "Kourou",
+      "iso3": [
+        "FRA"
+      ]
+    },
+    {
+      "date": "2026-12-08",
+      "event": "NASA moon base proposals due",
+      "where": "United States",
+      "iso3": [
+        "USA"
+      ]
+    },
+    {
+      "date": "2026-12-15",
+      "event": "Rome meeting on ESA and EU funding",
+      "where": "Rome",
+      "iso3": [
+        "ITA"
+      ]
+    }
+  ],
+  "milestones": [
+    {
+      "date": "2026-12-15",
+      "event": "Rome meeting on ESA and EU funding",
+      "iso3": [
+        "ITA"
+      ],
+      "status": "scheduled",
+      "why": "Launcher financing, including MaiaSpace, is unresolved."
+    },
+    {
+      "date": "2027-02-18",
+      "event": "Swedish Space Day",
+      "iso3": [
+        "SWE"
+      ],
+      "status": "scheduled",
+      "why": "Next fixed gathering for the Swedish sector."
+    }
+  ],
+  "competitive_watch": [],
+  "countries": [
+    {
+      "iso3": "DEU",
+      "name": "Germany",
+      "items": []
+    },
+    {
+      "iso3": "FRA",
+      "name": "France",
+      "items": []
+    },
+    {
+      "iso3": "ROU",
+      "name": "Romania",
+      "items": []
+    },
+    {
+      "iso3": "SWE",
+      "name": "Sweden",
+      "items": []
+    },
+    {
+      "iso3": "ESP",
+      "name": "Spain",
+      "items": []
+    },
+    {
+      "iso3": "PRT",
+      "name": "Portugal",
+      "items": []
+    },
+    {
+      "iso3": "UZB",
+      "name": "Uzbekistan",
+      "items": []
+    },
+    {
+      "iso3": "DZA",
+      "name": "Algeria",
+      "items": []
+    },
+    {
+      "iso3": "KWT",
+      "name": "Kuwait",
+      "items": []
+    },
+    {
+      "iso3": "AUS",
+      "name": "Australia",
+      "items": []
+    },
+    {
+      "iso3": "PAK",
+      "name": "Pakistan",
+      "items": []
+    },
+    {
+      "iso3": "PRY",
+      "name": "Paraguay",
+      "items": []
+    },
+    {
+      "iso3": "USA",
+      "name": "United States",
+      "items": []
+    }
+  ],
+  "audio_script": "Good morning. It is Saturday, the twenty-first of November, and this is the Sovereign Space ATLAS briefing. The European Space Agency and OHB System have confirmed the contract for ClearSpace-1, a mission to remove a defunct satellite. Southern Launch in Australia has announced a second spacecraft re-entry within twelve days at Koonibba. And Arianespace has held its Ariane 6 window for Monday, the twenty-third of November. The European Space Agency and OHB System have confirmed the contract for ClearSpace-1, a mission to remove a defunct satellite from orbit. The confirmation was published on the nineteenth of November. The contract value and the launch date have not been published. The step moves active debris removal from a plan to a signed commitment for Europe. Value and launch date will show how large the market is. The next date to watch is the Rome meeting on the fifteenth of December, which is the next European funding date. In Europe, Arianespace has confirmed flight VA271 for Monday, the twenty-third of November, from 11:09 to 11:38 UTC. It carries 36 Amazon Leo satellites. The flight tests Ariane 6 with a major commercial customer. The European Commission recommended on the eighteenth of November a fivefold increase in its competition fund. The contract between the European Space Agency and MaiaSpace remains unsigned over the financing model. Launcher financing is unresolved, and the Rome meeting on the fifteenth of December is the date that settles it. In Romania, an interview with Ulpia-Elena Botezatu on space security argues for a move from presence to relevance. The interview covers space security and European autonomy. No Romanian programme decision is dated, and no funding is attached yet. In Ukraine, speed restrictions on Starshield were raised by President Zelenskyy on the twelfth of November. He said they had been recorded for several days. SpaceX has made no statement, and the hope of easing by mid-2027 is unchanged. Ukraine's battlefield connectivity depends on a service it does not control. In Sweden, the space agency will hold its next Space Day on the eighteenth of February, twenty twenty-seven. The date was announced on the second of November. No Nordic launch or contract is dated this week. In Spain, PLD Space has signed its first commercial launch contract for the Miura 5 rocket, with Mitsubishi Electric. The contract date and value are not stated. A Japanese customer for a Spanish launcher is a first. Spain also picked up a Voyager 1 signal on the nineteenth of November, though the station and content are not stated. In Portugal, a step has been taken towards a first orbital launch from the Azores, using a South Korean rocket. Iceye has launched a takeover bid of 2,050 million for Avio, framed as a European space and defence champion. Dates for both are not stated. In Uzbekistan, analysts are asking what supports the 12 billion dollar figure for a United States package. No space component is stated, and no date is set. In Algeria, the space agency has published its report on the navigation satellite committee meeting in Goa, India, held from the twenty-fifth to the thirtieth of October. Four Algerian students have qualified for the global phase of the NASA Space Apps Challenge. The agency also marked ten years of Alsat-2B in orbit. In Kuwait, Kuwait University has signed an agreement with the Kuwait Foundation for the Advancement of Sciences. It is to establish and operate a national facility. The full title of the project is cut off, and the signing date is not stated. In Australia, Southern Launch announced on the eighteenth of November a second spacecraft re-entry within twelve days at Koonibba, in South Australia. No re-entry date is given. In Pakistan, SUPARCO says its second indigenous EO-2 satellite has flown, the sixth in its earth observation fleet. The launch date is not stated. In Paraguay, a donation agreement with Japan worth 24 million dollars for satellite technology is covered by Última Hora, along with the second satellite, GuaraniSat-2. Dates are not stated. In the United States, the cause of the Vulcan failure of the fifteenth of November, with 40 Amazon satellites, is still unknown. The next flight date is also unknown. Proposals for the NASA moon base are due on the eighth of December, following the awards made on the ninth of November. What we are tracking this week is Ariane 6 flight VA271 on the twenty-third of November. What we are tracking this month is the cause of the Vulcan failure and the value and launch date of ClearSpace-1. The heads-up dates are the eighth of December for moon base proposals, the fifteenth of December for the Rome meeting, and the eighteenth of February for Swedish Space Day. That is the briefing for Saturday, the twenty-first of November.",
+  "audio_sections": [
+    {
+      "id": "opening",
+      "title": "Opening",
+      "text": "Good morning. It is Saturday, the twenty-first of November, and this is the Sovereign Space ATLAS briefing. The European Space Agency and OHB System have confirmed the contract for ClearSpace-1, a mission to remove a defunct satellite. Southern Launch in Australia has announced a second spacecraft re-entry within twelve days at Koonibba. And Arianespace has held its Ariane 6 window for Monday, the twenty-third of November."
+    },
+    {
+      "id": "top",
+      "title": "Top story",
+      "text": "The European Space Agency and OHB System have confirmed the contract for ClearSpace-1, a mission to remove a defunct satellite from orbit. The confirmation was published on the nineteenth of November. The contract value and the launch date have not been published. The step moves active debris removal from a plan to a signed commitment for Europe. Value and launch date will show how large the market is. The next date to watch is the Rome meeting on the fifteenth of December, which is the next European funding date."
+    },
+    {
+      "id": "esa_eu",
+      "title": "ESA and EU",
+      "text": "In Europe, Arianespace has confirmed flight VA271 for Monday, the twenty-third of November, from 11:09 to 11:38 UTC. It carries 36 Amazon Leo satellites. The flight tests Ariane 6 with a major commercial customer. The European Commission recommended on the eighteenth of November a fivefold increase in its competition fund. The contract between the European Space Agency and MaiaSpace remains unsigned over the financing model. Launcher financing is unresolved, and the Rome meeting on the fifteenth of December is the date that settles it."
+    },
+    {
+      "id": "cee",
+      "title": "Central and Eastern Europe",
+      "text": "In Romania, an interview with Ulpia-Elena Botezatu on space security argues for a move from presence to relevance. The interview covers space security and European autonomy. No Romanian programme decision is dated, and no funding is attached yet. In Ukraine, speed restrictions on Starshield were raised by President Zelenskyy on the twelfth of November. He said they had been recorded for several days. SpaceX has made no statement, and the hope of easing by mid-2027 is unchanged. Ukraine's battlefield connectivity depends on a service it does not control."
+    },
+    {
+      "id": "nordics",
+      "title": "Nordics",
+      "text": "In Sweden, the space agency will hold its next Space Day on the eighteenth of February, twenty twenty-seven. The date was announced on the second of November. No Nordic launch or contract is dated this week."
+    },
+    {
+      "id": "west",
+      "title": "Western and Southern Europe",
+      "text": "In Spain, PLD Space has signed its first commercial launch contract for the Miura 5 rocket, with Mitsubishi Electric. The contract date and value are not stated. A Japanese customer for a Spanish launcher is a first. Spain also picked up a Voyager 1 signal on the nineteenth of November, though the station and content are not stated. In Portugal, a step has been taken towards a first orbital launch from the Azores, using a South Korean rocket. Iceye has launched a takeover bid of 2,050 million for Avio, framed as a European space and defence champion. Dates for both are not stated."
+    },
+    {
+      "id": "eurasia",
+      "title": "Eurasia and Central Asia",
+      "text": "In Uzbekistan, analysts are asking what supports the 12 billion dollar figure for a United States package. No space component is stated, and no date is set."
+    },
+    {
+      "id": "mena",
+      "title": "Türkiye, Middle East and Africa",
+      "text": "In Algeria, the space agency has published its report on the navigation satellite committee meeting in Goa, India, held from the twenty-fifth to the thirtieth of October. Four Algerian students have qualified for the global phase of the NASA Space Apps Challenge. The agency also marked ten years of Alsat-2B in orbit. In Kuwait, Kuwait University has signed an agreement with the Kuwait Foundation for the Advancement of Sciences. It is to establish and operate a national facility. The full title of the project is cut off, and the signing date is not stated."
+    },
+    {
+      "id": "asia_pac",
+      "title": "Asia Pacific",
+      "text": "In Australia, Southern Launch announced on the eighteenth of November a second spacecraft re-entry within twelve days at Koonibba, in South Australia. No re-entry date is given. In Pakistan, SUPARCO says its second indigenous EO-2 satellite has flown, the sixth in its earth observation fleet. The launch date is not stated."
+    },
+    {
+      "id": "americas",
+      "title": "Americas",
+      "text": "In Paraguay, a donation agreement with Japan worth 24 million dollars for satellite technology is covered by Última Hora, along with the second satellite, GuaraniSat-2. Dates are not stated. In the United States, the cause of the Vulcan failure of the fifteenth of November, with 40 Amazon satellites, is still unknown. The next flight date is also unknown. Proposals for the NASA moon base are due on the eighth of December, following the awards made on the ninth of November."
+    },
+    {
+      "id": "close",
+      "title": "Close",
+      "text": "What we are tracking this week is Ariane 6 flight VA271 on the twenty-third of November. What we are tracking this month is the cause of the Vulcan failure and the value and launch date of ClearSpace-1. The heads-up dates are the eighth of December for moon base proposals, the fifteenth of December for the Rome meeting, and the eighteenth of February for Swedish Space Day. That is the briefing for Saturday, the twenty-first of November."
+    }
+  ],
+  "edition": "06:00 UTC",
+  "generated_at": "2026-11-21T12:13:19+00:00"
+}

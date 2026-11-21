@@ -336,3 +336,14 @@ Episodes:
 - Blue Origin: January return unconfirmed; FAA deadline passed, no decision.
 - Telesat Lightspeed: mid-2028 unchanged; Dominion Dynamics partnership 19 November.
 - Swift: closed pending NASA page. Matera: no change, not filed.
+
+
+## 2026-11-21
+- ClearSpace-1: contract confirmed 19 November; value and launch date unknown; top story.
+- ESA, EU, Rome: vote of 10 November no outcome; MaiaSpace unsigned; Rome 15 December; VA271 23 November 11:09-11:38 UTC.
+- Vulcan Centaur: failed 15 November; cause and next flight unknown.
+- Artemis: awards 9 November; proposals due 8 December.
+- Starshield Ukraine: Zelenskyy 12 November; no SpaceX statement; mid-2027 hope unchanged.
+- Blue Origin: January return unconfirmed; no source today.
+- Swift, Matera, Telesat Lightspeed: unchanged, not filed.
+- New: PLD Space Mitsubishi Electric Miura 5; Iceye bid for Avio; Portugal Azores launch step; Southern Launch Koonibba; Kuwait University KFAS.
