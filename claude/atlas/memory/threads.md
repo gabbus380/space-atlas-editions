@@ -347,3 +347,16 @@ Episodes:
 - Blue Origin: January return unconfirmed; no source today.
 - Swift, Matera, Telesat Lightspeed: unchanged, not filed.
 - New: PLD Space Mitsubishi Electric Miura 5; Iceye bid for Avio; Portugal Azores launch step; Southern Launch Koonibba; Kuwait University KFAS.
+
+
+## 2026-11-22
+- H3 transition: JAXA release 20 November, Japanese only; schedule and operator unknown; new top story.
+- Ariane 6 VA271: 23 November 11:09-11:38 UTC, 36 Amazon Leo.
+- ESA, EU, Rome: vote of 10 November no outcome; MaiaSpace unsigned; Commission fund 5x recommended 18 November; Rome 15 December.
+- Vulcan Centaur: failed 15 November, cause and next flight unknown.
+- Starship: catch filed 15 November; earlier setback cause and next flight unknown.
+- Artemis: awards 9 November; proposals due 8 December.
+- Starshield Ukraine: Zelenskyy 12 November; no SpaceX statement; mid-2027 hope unchanged.
+- Blue Origin: January return unconfirmed; no source today, not filed.
+- Türkiye: 9 billion lira proposal for 2027, 92 billion lira over three years via trade press, no split.
+- Swift, Telesat Lightspeed, Matera: unchanged, not filed.

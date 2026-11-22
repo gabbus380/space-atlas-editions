@@ -1,0 +1,912 @@
+{
+  "date": "2026-11-22",
+  "headline": "JAXA announces phased transition of H3 launch operations to the private sector",
+  "summary": [
+    "JAXA published a release on the twentieth of November on a phased transition of H3 launch operations to the private sector.",
+    "The release is in Japanese only, and its headline gives no schedule or operator.",
+    "Arianespace has a window tomorrow, the twenty-third of November, from 11:09 to 11:38 UTC for flight VA271 with 36 Amazon Leo satellites.",
+    "The European Space Agency has not signed its MaiaSpace contract, and Rome follows on the fifteenth of December.",
+    "Ukraine reported more restrictions on Starshield access on the twelfth of November, and SpaceX has made no statement."
+  ],
+  "bottom_line": "The H3 transition is the pathway that moved, and its schedule and operators have not been stated. The next date that matters is the twenty-third of November, the VA271 launch window.",
+  "global": [
+    {
+      "date": "2026-11-20",
+      "iso3": [
+        "JPN"
+      ],
+      "status": "statement",
+      "priority": "P1",
+      "exposure": "context",
+      "title": "JAXA announces phased transition of H3 launch operations to the private sector",
+      "summary": "JAXA posted the release at 13:00 Japan time on the twentieth of November. It is titled Phased Transition of H3 Launch Operations to the Private Sector. The release is marked Japanese only. The headline does not give a schedule, an operator or the first affected flight. H3 flight ten launched the Mars moons probe MMX in October, according to a Cabinet Office ministerial statement dated the twentieth of October.",
+      "why": "Moving launch operations to industry would change who runs Japan's main rocket. The terms have not yet been stated.",
+      "sources": [
+        {
+          "outlet": "JAXA press",
+          "url": "https://global.jaxa.jp/press/2026/11/20261120-1_e.html",
+          "language": "en",
+          "type": "government-or-embassy"
+        },
+        {
+          "outlet": "Cabinet Office Space Policy",
+          "url": "https://www8.cao.go.jp/space/pdf/danwa/261020danwa.pdf",
+          "language": "ja",
+          "type": "government-or-embassy"
+        }
+      ],
+      "bar": "Headline only, body Japanese-only. Operator, timeline and first flight unknown."
+    },
+    {
+      "date": "2026-11-23",
+      "iso3": [
+        "FRA"
+      ],
+      "status": "event",
+      "priority": "P1",
+      "exposure": "opportunity",
+      "title": "Arianespace sets Ariane 6 flight VA271 for the twenty-third of November",
+      "summary": "Arianespace confirmed on the eighteenth of November a launch window on the twenty-third of November. The window runs from 11:09 to 11:38 UTC. The flight carries 36 Amazon Leo satellites, according to the notice of the fourteenth of October. It is the tenth Ariane 6 flight. The notice gave the date as no earlier than the twenty-third of November.",
+      "why": "It is the next Ariane 6 launch and a commercial test for Europe's heavy launcher. Vulcan's failure on the fifteenth of November leaves the Amazon Leo deployment more dependent on other rockets.",
+      "sources": [
+        {
+          "outlet": "Arianespace",
+          "url": "https://www.arianespace.com/news/mission-va271-launch-window-on-november-23-2026/",
+          "language": "en",
+          "type": "press"
+        },
+        {
+          "outlet": "ArianeGroup",
+          "url": "https://www.ariane.group/en/news/arianespace-to-launch-36-amazon-leo-satellites-on-november-23-at-the-earliest-for-10th-ariane-6-flight/",
+          "language": "en",
+          "type": "press"
+        }
+      ],
+      "bar": "Window is not a launch result. Check outcome on the twenty-third."
+    },
+    {
+      "date": "2026-11-15",
+      "iso3": [
+        "USA"
+      ],
+      "status": "event",
+      "priority": "P2",
+      "exposure": "context",
+      "title": "SpaceX catches Starship in the air in its fifteenth test",
+      "summary": "Turkish trade press reported that SpaceX caught Starship in the air in the fifteenth test. The catch was filed on the fifteenth of November. The cause of the earlier setback in the double-catch test is not known. No date has been given for the next flight. No SpaceX page is among the sources.",
+      "why": "A catch is a step towards reuse of the upper stage. The cause of the earlier setback remains open.",
+      "sources": [
+        {
+          "outlet": "Haber.Aero",
+          "url": "https://haber.aero/aero-gundem/spacex-15inci-testte-starshipi-havada-yakaladi/",
+          "language": "tr",
+          "type": "national-language"
+        }
+      ],
+      "bar": "Headline-level, single source. Next flight date unknown."
+    }
+  ],
+  "regions": [
+    {
+      "id": "esa_eu",
+      "name": "ESA and EU",
+      "items": [
+        {
+          "date": "2026-11-18",
+          "iso3": [
+            "FRA"
+          ],
+          "status": "statement",
+          "priority": "P2",
+          "exposure": "policy risk",
+          "title": "European Space Agency leaves MaiaSpace contract unsigned over financing model",
+          "summary": "Infoespacial reports that the European Space Agency has not signed its contract with MaiaSpace. The difference is over the financing model. On the eighteenth of November the European Commission recommended raising its competition fund five times. The aim is to mobilise the space industry. The next date is Rome on the fifteenth of December.",
+          "why": "An unsigned contract leaves a European launcher program without a funding model. The Commission fund recommendation points to more money for industry.",
+          "sources": [
+            {
+              "outlet": "Infoespacial",
+              "url": "https://www.infoespacial.com/texto-diario/mostrar/6095678/esa-no-firma-contrato-maiaspace-diferencias-modelo-financiacion",
+              "language": "es",
+              "type": "national-language"
+            },
+            {
+              "outlet": "Via Satellite",
+              "url": "https://www.satellitetoday.com/government-military/2026/11/18/european-commission-recommends-increasing-competition-fund-5x-to-mobilize-space-industry/",
+              "language": "en",
+              "type": "press"
+            }
+          ],
+          "bar": "MaiaSpace claim from one trade outlet. Vote of the tenth of November still has no outcome."
+        }
+      ]
+    },
+    {
+      "id": "cee",
+      "name": "Central and Eastern Europe",
+      "items": [
+        {
+          "date": "2026-11-12",
+          "iso3": [
+            "UKR"
+          ],
+          "status": "statement",
+          "priority": "P2",
+          "exposure": "policy risk",
+          "title": "Ukraine reports more restrictions on Starshield access",
+          "summary": "Ukraine reported more restrictions on Starshield access on the twelfth of November. President Zelenskyy spoke on the same day. SpaceX has made no statement. The hope of restored access by mid-2027 is unchanged. No decision date has been set.",
+          "why": "Ukraine's military communications depend on a service it does not control. A restoration date has not been given.",
+          "sources": [
+            {
+              "outlet": "Via Satellite",
+              "url": "https://www.satellitetoday.com/government-military/2026/11/12/ukraine-reports-more-restrictions-to-starshield-access/",
+              "language": "en",
+              "type": "press"
+            }
+          ],
+          "bar": "No SpaceX statement. Mid-2027 is a hope, not a commitment."
+        }
+      ]
+    },
+    {
+      "id": "nordics",
+      "name": "Nordics",
+      "items": [
+        {
+          "date": "2026-11-02",
+          "iso3": [
+            "SWE"
+          ],
+          "status": "event",
+          "priority": "P3",
+          "exposure": "context",
+          "title": "Swedish National Space Agency sets Space Day for the eighteenth of February",
+          "summary": "The Swedish National Space Agency announced on the second of November that its next Space Day is on the eighteenth of February, 2027. The agency organises the event. No program has been published in the source. The date is outside the six-week window. It is the next fixed Swedish date.",
+          "why": "It is the next scheduled public gathering for the Swedish sector. No agenda is known.",
+          "sources": [
+            {
+              "outlet": "Rymdstyrelsen",
+              "url": "https://www.rymdstyrelsen.se/nyheter/2026/rymddagen-2027-blir-den-18-februari/",
+              "language": "sv",
+              "type": "government-or-embassy"
+            }
+          ],
+          "bar": "Low priority. Date only."
+        }
+      ]
+    },
+    {
+      "id": "west",
+      "name": "Western and Southern Europe",
+      "items": [
+        {
+          "date": "2026-11-19",
+          "iso3": [
+            "ESP"
+          ],
+          "status": "event",
+          "priority": "P2",
+          "exposure": "opportunity",
+          "title": "Spain tests Govsatcom military access through SpainSat NG I",
+          "summary": "Spain has tested access to the Govsatcom military satellite communications service for the first time. The test ran through the SpainSat NG I satellite. On the nineteenth of November El País also reported that Spain received the first signal from Voyager 1 since it passed one light-day from Earth. The headline does not name the station. No next date is given.",
+          "why": "It is a first use of the European Govsatcom service by a national satellite. The test date and results were not stated.",
+          "sources": [
+            {
+              "outlet": "Infoespacial",
+              "url": "https://www.infoespacial.com/texto-diario/mostrar/6103479/espana-prueba-primera-vez-acceso-comunicaciones-militares-satelite-traves-govsatcom-traves-spainsat-ng-i",
+              "language": "es",
+              "type": "national-language"
+            },
+            {
+              "outlet": "El País",
+              "url": "https://elpais.com/ciencia/2026-11-19/mas-alla-de-un-dia-luz-espana-capta-el-primer-saludo-de-la-voyager-1-desde-el-otro-lado-de-la-frontera-interestelar.html",
+              "language": "es",
+              "type": "national-language"
+            }
+          ],
+          "bar": "Headline-level for both. Test date and Voyager station unknown."
+        }
+      ]
+    },
+    {
+      "id": "eurasia",
+      "name": "Eurasia and Central Asia",
+      "items": [
+        {
+          "date": "2026-11-22",
+          "iso3": [
+            "TUR"
+          ],
+          "status": "overview",
+          "priority": "P3",
+          "exposure": "context",
+          "title": "Turkic states plan a joint satellite for 2027",
+          "summary": "Turkish trade press reports that a joint satellite of the Turkic states is to be sent to space in 2027. The headline names no launch provider. It gives no month. No member contributions are stated. No date within six weeks is known.",
+          "why": "It would be a shared asset across several states. Delivery depends on terms not yet published.",
+          "sources": [
+            {
+              "outlet": "Haber.Aero",
+              "url": "https://haber.aero/aero-gundem/turk-devletlerinin-ortak-uydusu-2027de-uzaya-gonderilecek/",
+              "language": "tr",
+              "type": "national-language"
+            }
+          ],
+          "bar": "Headline only. Members and launch date unknown."
+        }
+      ]
+    },
+    {
+      "id": "mena",
+      "name": "Türkiye, Middle East and Africa",
+      "items": [
+        {
+          "date": "2026-11-22",
+          "iso3": [
+            "TUR"
+          ],
+          "status": "overview",
+          "priority": "P3",
+          "exposure": "context",
+          "title": "Türkiye proposes 9 billion lira for space in 2027 and plans a new microsatellite for 2028",
+          "summary": "The proposal for 2027 is 9 billion lira. Trade press puts the three-year figure at 92 billion lira. No split has been given. A new Turkish microsatellite is due to launch in 2028, according to Turkish trade press. No date within six weeks is known.",
+          "why": "The figures set the scale of Turkish space spending. Without a split they cannot be tied to projects.",
+          "sources": [
+            {
+              "outlet": "Haber.Aero",
+              "url": "https://haber.aero/aero-gundem/turkiyenin-yeni-mikro-uydusu-2028de-firlatilacak/",
+              "language": "tr",
+              "type": "national-language"
+            }
+          ],
+          "bar": "Budget figures from trade press via the thread, no split. Microsatellite headline only."
+        },
+        {
+          "date": "2026-10-30",
+          "iso3": [
+            "DZA"
+          ],
+          "status": "event",
+          "priority": "P3",
+          "exposure": "context",
+          "title": "Algerian Space Agency reports on its attendance at ICG-20 in Goa",
+          "summary": "The Algerian Space Agency published a report on its participation in the twentieth meeting of the International Committee on Global Navigation Satellite Systems. The meeting was in Goa, India, from the twenty-fifth to the thirtieth of October. The headline does not give the outcomes. The agency also marked the tenth anniversary of Alsat-2B in orbit. No next date is given.",
+          "why": "It shows Algeria's presence in navigation forums. The positions taken are not stated.",
+          "sources": [
+            {
+              "outlet": "Algerian Space Agency",
+              "url": "https://asal.dz/?p=13593",
+              "language": "fr",
+              "type": "government-or-embassy"
+            }
+          ],
+          "bar": "Headline only. Report content unknown."
+        }
+      ]
+    },
+    {
+      "id": "asia_pac",
+      "name": "Asia Pacific",
+      "items": [
+        {
+          "date": "2026-11-18",
+          "iso3": [
+            "AUS"
+          ],
+          "status": "event",
+          "priority": "P3",
+          "exposure": "opportunity",
+          "title": "Southern Launch announces second spacecraft re-entry within 12 days at Koonibba",
+          "summary": "Southern Launch announced on the eighteenth of November a second spacecraft re-entry within twelve days at Koonibba. Koonibba is in South Australia. The announcement does not name the spacecraft in the headline. No date for the next re-entry is given. The company is speaking for itself.",
+          "why": "Repeated re-entries show the Australian site operating at pace. The customer and date are not stated.",
+          "sources": [
+            {
+              "outlet": "Space Connect",
+              "url": "https://www.spaceconnectonline.com.au/launch/7375-southern-launch-announces-second-spacecraft-re-entry-within-12-days-at-koonibba",
+              "language": "en",
+              "type": "press"
+            }
+          ],
+          "bar": "Headline only. Spacecraft and operator unknown."
+        },
+        {
+          "date": "2026-11-22",
+          "iso3": [
+            "PAK"
+          ],
+          "status": "overview",
+          "priority": "P3",
+          "exposure": "context",
+          "title": "SUPARCO says Pakistan's EO-2 joins the national Earth observation fleet as sixth satellite",
+          "summary": "SUPARCO says Pakistan's second indigenous EO-2 satellite has taken flight. It joins the national Earth observation fleet as the sixth satellite. The page carries no launch date in its headline. SUPARCO also lists PakSAT-MM1 as a high-power communication satellite. No date within six weeks is known.",
+          "why": "It extends Pakistan's own Earth observation capacity. The launch details are not on the page headline.",
+          "sources": [
+            {
+              "outlet": "SUPARCO",
+              "url": "https://suparco.gov.pk/news-updates.html",
+              "language": "en",
+              "type": "government-or-embassy"
+            }
+          ],
+          "bar": "Agency page, headline only."
+        }
+      ]
+    },
+    {
+      "id": "americas",
+      "name": "Americas",
+      "items": [
+        {
+          "date": "2026-11-15",
+          "iso3": [
+            "USA"
+          ],
+          "status": "event",
+          "priority": "P1",
+          "exposure": "competitive threat",
+          "title": "ULA Vulcan suffers anomaly in first Amazon Leo launch",
+          "summary": "Vulcan Centaur failed on the fifteenth of November. It was carrying 40 Amazon satellites. It was Vulcan's first Amazon Leo launch. The cause is not known. The next flight date is not known.",
+          "why": "The failure removes a rocket from Amazon's deployment while Ariane 6 prepares to fly. It also raises the question of timing for United States national security launches.",
+          "sources": [
+            {
+              "outlet": "Via Satellite",
+              "url": "http://www.satellitetoday.com/launch/2026/11/15/ula-set-to-return-vulcan-to-flight-in-first-amazon-leo-launch/?itm_source=parsely-api",
+              "language": "en",
+              "type": "press"
+            },
+            {
+              "outlet": "Haber.Aero",
+              "url": "https://haber.aero/uzay/amazonun-40-uydusunu-tasiyan-roket-basarisiz-oldu/",
+              "language": "tr",
+              "type": "national-language"
+            }
+          ],
+          "bar": "Cause and return to flight unknown."
+        },
+        {
+          "date": "2026-11-09",
+          "iso3": [
+            "USA"
+          ],
+          "status": "contract",
+          "priority": "P2",
+          "exposure": "opportunity",
+          "title": "NASA makes major contract awards for moon base development",
+          "summary": "NASA made major awards for moon base development on the ninth of November. Proposals are due on the eighth of December. Artemis dates are unchanged. The award values are not in the headline. No new Artemis date has been given.",
+          "why": "The awards set early moon base suppliers. The eighth of December deadline opens a further round.",
+          "sources": [
+            {
+              "outlet": "Via Satellite",
+              "url": "https://www.satellitetoday.com/government-military/2026/11/09/nasa-makes-major-contract-awards-for-moon-base-development/",
+              "language": "en",
+              "type": "press"
+            }
+          ],
+          "bar": "Awardees and values not in headline."
+        }
+      ]
+    }
+  ],
+  "priorities": [
+    {
+      "rank": "P2",
+      "title": "Japan H3 transition to private operation",
+      "status": "Release of the twentieth of November, terms not stated",
+      "exposure": "context",
+      "implication": "Industry would take over running Japan's main launcher, on a schedule not yet given.",
+      "iso3": [
+        "JPN"
+      ],
+      "next": null
+    },
+    {
+      "rank": "P2",
+      "title": "Ariane 6 flight VA271",
+      "status": "Window set for the twenty-third of November",
+      "exposure": "opportunity",
+      "implication": "The launch tests Ariane 6's cadence with 36 Amazon Leo satellites.",
+      "iso3": [
+        "FRA"
+      ],
+      "next": {
+        "date": "2026-11-23",
+        "event": "VA271 launch window, 11:09 to 11:38 UTC"
+      }
+    },
+    {
+      "rank": "P2",
+      "title": "European funding and the MaiaSpace contract",
+      "status": "Contract unsigned, Commission fund recommended",
+      "exposure": "policy risk",
+      "implication": "Launcher funding terms are unresolved ahead of Rome.",
+      "iso3": [
+        "FRA"
+      ],
+      "next": {
+        "date": "2026-12-15",
+        "event": "Rome"
+      }
+    },
+    {
+      "rank": "P2",
+      "title": "Vulcan Centaur failure",
+      "status": "Cause and next flight unknown",
+      "exposure": "competitive threat",
+      "implication": "A grounded United States rocket leaves Amazon's deployment dependent on others.",
+      "iso3": [
+        "USA"
+      ],
+      "next": null
+    }
+  ],
+  "watchlist": [
+    {
+      "date": "2026-11-23",
+      "event": "Ariane 6 flight VA271 launch window, 11:09 to 11:38 UTC",
+      "where": "Europe",
+      "iso3": [
+        "FRA"
+      ]
+    },
+    {
+      "date": "2026-12-08",
+      "event": "Proposals due for NASA moon base development",
+      "where": "United States",
+      "iso3": [
+        "USA"
+      ]
+    },
+    {
+      "date": "2026-12-15",
+      "event": "Rome",
+      "where": "Italy",
+      "iso3": [
+        "ITA"
+      ]
+    }
+  ],
+  "milestones": [
+    {
+      "date": "2026-12-08",
+      "event": "NASA moon base proposals due",
+      "iso3": [
+        "USA"
+      ],
+      "status": "scheduled",
+      "why": "Opens the next round after the awards of the ninth of November."
+    },
+    {
+      "date": "2026-12-15",
+      "event": "Rome",
+      "iso3": [
+        "ITA"
+      ],
+      "status": "scheduled",
+      "why": "Next date for the European funding questions."
+    },
+    {
+      "date": "2027-02-18",
+      "event": "Swedish Space Day",
+      "iso3": [
+        "SWE"
+      ],
+      "status": "scheduled",
+      "why": "Next fixed Swedish sector date."
+    }
+  ],
+  "competitive_watch": [],
+  "countries": [
+    {
+      "iso3": "JPN",
+      "name": "Japan",
+      "items": [
+        {
+          "date": "2026-11-20",
+          "iso3": [
+            "JPN"
+          ],
+          "status": "statement",
+          "priority": "P1",
+          "exposure": "context",
+          "title": "JAXA announces phased transition of H3 launch operations to the private sector",
+          "summary": "JAXA posted the release at 13:00 Japan time on the twentieth of November. It is titled Phased Transition of H3 Launch Operations to the Private Sector. The release is marked Japanese only. The headline does not give a schedule, an operator or the first affected flight. H3 flight ten launched the Mars moons probe MMX in October, according to a Cabinet Office ministerial statement dated the twentieth of October.",
+          "why": "Moving launch operations to industry would change who runs Japan's main rocket. The terms have not yet been stated.",
+          "sources": [
+            {
+              "outlet": "JAXA press",
+              "url": "https://global.jaxa.jp/press/2026/11/20261120-1_e.html",
+              "language": "en",
+              "type": "government-or-embassy"
+            }
+          ],
+          "bar": "Headline only, body Japanese-only."
+        }
+      ]
+    },
+    {
+      "iso3": "FRA",
+      "name": "France",
+      "items": [
+        {
+          "date": "2026-11-23",
+          "iso3": [
+            "FRA"
+          ],
+          "status": "event",
+          "priority": "P1",
+          "exposure": "opportunity",
+          "title": "Arianespace sets Ariane 6 flight VA271 for the twenty-third of November",
+          "summary": "Arianespace confirmed on the eighteenth of November a launch window on the twenty-third of November. The window runs from 11:09 to 11:38 UTC. The flight carries 36 Amazon Leo satellites, according to the notice of the fourteenth of October. It is the tenth Ariane 6 flight. The notice gave the date as no earlier than the twenty-third of November.",
+          "why": "It is the next Ariane 6 launch and a commercial test for Europe's heavy launcher. Vulcan's failure leaves the Amazon Leo deployment more dependent on other rockets.",
+          "sources": [
+            {
+              "outlet": "Arianespace",
+              "url": "https://www.arianespace.com/news/mission-va271-launch-window-on-november-23-2026/",
+              "language": "en",
+              "type": "press"
+            }
+          ],
+          "bar": "Window is not a launch result."
+        },
+        {
+          "date": "2026-11-18",
+          "iso3": [
+            "FRA"
+          ],
+          "status": "statement",
+          "priority": "P2",
+          "exposure": "policy risk",
+          "title": "European Space Agency leaves MaiaSpace contract unsigned over financing model",
+          "summary": "Infoespacial reports that the European Space Agency has not signed its contract with MaiaSpace. The difference is over the financing model. On the eighteenth of November the European Commission recommended raising its competition fund five times. The aim is to mobilise the space industry. The next date is Rome on the fifteenth of December.",
+          "why": "An unsigned contract leaves a European launcher program without a funding model. The Commission fund recommendation points to more money for industry.",
+          "sources": [
+            {
+              "outlet": "Infoespacial",
+              "url": "https://www.infoespacial.com/texto-diario/mostrar/6095678/esa-no-firma-contrato-maiaspace-diferencias-modelo-financiacion",
+              "language": "es",
+              "type": "national-language"
+            }
+          ],
+          "bar": "One trade outlet."
+        }
+      ]
+    },
+    {
+      "iso3": "USA",
+      "name": "United States",
+      "items": [
+        {
+          "date": "2026-11-15",
+          "iso3": [
+            "USA"
+          ],
+          "status": "event",
+          "priority": "P1",
+          "exposure": "competitive threat",
+          "title": "ULA Vulcan suffers anomaly in first Amazon Leo launch",
+          "summary": "Vulcan Centaur failed on the fifteenth of November. It was carrying 40 Amazon satellites. It was Vulcan's first Amazon Leo launch. The cause is not known. The next flight date is not known.",
+          "why": "The failure removes a rocket from Amazon's deployment while Ariane 6 prepares to fly. It also raises the question of timing for United States national security launches.",
+          "sources": [
+            {
+              "outlet": "Via Satellite",
+              "url": "http://www.satellitetoday.com/launch/2026/11/15/ula-set-to-return-vulcan-to-flight-in-first-amazon-leo-launch/?itm_source=parsely-api",
+              "language": "en",
+              "type": "press"
+            }
+          ],
+          "bar": "Cause unknown."
+        },
+        {
+          "date": "2026-11-15",
+          "iso3": [
+            "USA"
+          ],
+          "status": "event",
+          "priority": "P2",
+          "exposure": "context",
+          "title": "SpaceX catches Starship in the air in its fifteenth test",
+          "summary": "Turkish trade press reported that SpaceX caught Starship in the air in the fifteenth test. The catch was filed on the fifteenth of November. The cause of the earlier setback in the double-catch test is not known. No date has been given for the next flight. No SpaceX page is among the sources.",
+          "why": "A catch is a step towards reuse of the upper stage. The cause of the earlier setback remains open.",
+          "sources": [
+            {
+              "outlet": "Haber.Aero",
+              "url": "https://haber.aero/aero-gundem/spacex-15inci-testte-starshipi-havada-yakaladi/",
+              "language": "tr",
+              "type": "national-language"
+            }
+          ],
+          "bar": "Single source."
+        },
+        {
+          "date": "2026-11-09",
+          "iso3": [
+            "USA"
+          ],
+          "status": "contract",
+          "priority": "P2",
+          "exposure": "opportunity",
+          "title": "NASA makes major contract awards for moon base development",
+          "summary": "NASA made major awards for moon base development on the ninth of November. Proposals are due on the eighth of December. Artemis dates are unchanged. The award values are not in the headline. No new Artemis date has been given.",
+          "why": "The awards set early moon base suppliers. The eighth of December deadline opens a further round.",
+          "sources": [
+            {
+              "outlet": "Via Satellite",
+              "url": "https://www.satellitetoday.com/government-military/2026/11/09/nasa-makes-major-contract-awards-for-moon-base-development/",
+              "language": "en",
+              "type": "press"
+            }
+          ],
+          "bar": "Values not in headline."
+        }
+      ]
+    },
+    {
+      "iso3": "UKR",
+      "name": "Ukraine",
+      "items": [
+        {
+          "date": "2026-11-12",
+          "iso3": [
+            "UKR"
+          ],
+          "status": "statement",
+          "priority": "P2",
+          "exposure": "policy risk",
+          "title": "Ukraine reports more restrictions on Starshield access",
+          "summary": "Ukraine reported more restrictions on Starshield access on the twelfth of November. President Zelenskyy spoke on the same day. SpaceX has made no statement. The hope of restored access by mid-2027 is unchanged. No decision date has been set.",
+          "why": "Ukraine's military communications depend on a service it does not control. A restoration date has not been given.",
+          "sources": [
+            {
+              "outlet": "Via Satellite",
+              "url": "https://www.satellitetoday.com/government-military/2026/11/12/ukraine-reports-more-restrictions-to-starshield-access/",
+              "language": "en",
+              "type": "press"
+            }
+          ],
+          "bar": "No SpaceX statement."
+        }
+      ]
+    },
+    {
+      "iso3": "SWE",
+      "name": "Sweden",
+      "items": [
+        {
+          "date": "2026-11-02",
+          "iso3": [
+            "SWE"
+          ],
+          "status": "event",
+          "priority": "P3",
+          "exposure": "context",
+          "title": "Swedish National Space Agency sets Space Day for the eighteenth of February",
+          "summary": "The Swedish National Space Agency announced on the second of November that its next Space Day is on the eighteenth of February, 2027. The agency organises the event. No program has been published in the source. The date is outside the six-week window. It is the next fixed Swedish date.",
+          "why": "It is the next scheduled public gathering for the Swedish sector. No agenda is known.",
+          "sources": [
+            {
+              "outlet": "Rymdstyrelsen",
+              "url": "https://www.rymdstyrelsen.se/nyheter/2026/rymddagen-2027-blir-den-18-februari/",
+              "language": "sv",
+              "type": "government-or-embassy"
+            }
+          ],
+          "bar": "Date only."
+        }
+      ]
+    },
+    {
+      "iso3": "ESP",
+      "name": "Spain",
+      "items": [
+        {
+          "date": "2026-11-19",
+          "iso3": [
+            "ESP"
+          ],
+          "status": "event",
+          "priority": "P2",
+          "exposure": "opportunity",
+          "title": "Spain tests Govsatcom military access through SpainSat NG I",
+          "summary": "Spain has tested access to the Govsatcom military satellite communications service for the first time. The test ran through the SpainSat NG I satellite. On the nineteenth of November El País also reported that Spain received the first signal from Voyager 1 since it passed one light-day from Earth. The headline does not name the station. No next date is given.",
+          "why": "It is a first use of the European Govsatcom service by a national satellite. The test date and results were not stated.",
+          "sources": [
+            {
+              "outlet": "Infoespacial",
+              "url": "https://www.infoespacial.com/texto-diario/mostrar/6103479/espana-prueba-primera-vez-acceso-comunicaciones-militares-satelite-traves-govsatcom-traves-spainsat-ng-i",
+              "language": "es",
+              "type": "national-language"
+            }
+          ],
+          "bar": "Headline-level."
+        }
+      ]
+    },
+    {
+      "iso3": "TUR",
+      "name": "Türkiye",
+      "items": [
+        {
+          "date": "2026-11-22",
+          "iso3": [
+            "TUR"
+          ],
+          "status": "overview",
+          "priority": "P3",
+          "exposure": "context",
+          "title": "Türkiye proposes 9 billion lira for space in 2027 and plans a new microsatellite for 2028",
+          "summary": "The proposal for 2027 is 9 billion lira. Trade press puts the three-year figure at 92 billion lira. No split has been given. A new Turkish microsatellite is due to launch in 2028, according to Turkish trade press. No date within six weeks is known.",
+          "why": "The figures set the scale of Turkish space spending. Without a split they cannot be tied to projects.",
+          "sources": [
+            {
+              "outlet": "Haber.Aero",
+              "url": "https://haber.aero/aero-gundem/turkiyenin-yeni-mikro-uydusu-2028de-firlatilacak/",
+              "language": "tr",
+              "type": "national-language"
+            }
+          ],
+          "bar": "Trade press, no split."
+        },
+        {
+          "date": "2026-11-22",
+          "iso3": [
+            "TUR"
+          ],
+          "status": "overview",
+          "priority": "P3",
+          "exposure": "context",
+          "title": "Turkic states plan a joint satellite for 2027",
+          "summary": "Turkish trade press reports that a joint satellite of the Turkic states is to be sent to space in 2027. The headline names no launch provider. It gives no month. No member contributions are stated. No date within six weeks is known.",
+          "why": "It would be a shared asset across several states. Delivery depends on terms not yet published.",
+          "sources": [
+            {
+              "outlet": "Haber.Aero",
+              "url": "https://haber.aero/aero-gundem/turk-devletlerinin-ortak-uydusu-2027de-uzaya-gonderilecek/",
+              "language": "tr",
+              "type": "national-language"
+            }
+          ],
+          "bar": "Headline only."
+        }
+      ]
+    },
+    {
+      "iso3": "DZA",
+      "name": "Algeria",
+      "items": [
+        {
+          "date": "2026-10-30",
+          "iso3": [
+            "DZA"
+          ],
+          "status": "event",
+          "priority": "P3",
+          "exposure": "context",
+          "title": "Algerian Space Agency reports on its attendance at ICG-20 in Goa",
+          "summary": "The Algerian Space Agency published a report on its participation in the twentieth meeting of the International Committee on Global Navigation Satellite Systems. The meeting was in Goa, India, from the twenty-fifth to the thirtieth of October. The headline does not give the outcomes. The agency also marked the tenth anniversary of Alsat-2B in orbit. No next date is given.",
+          "why": "It shows Algeria's presence in navigation forums. The positions taken are not stated.",
+          "sources": [
+            {
+              "outlet": "Algerian Space Agency",
+              "url": "https://asal.dz/?p=13593",
+              "language": "fr",
+              "type": "government-or-embassy"
+            }
+          ],
+          "bar": "Headline only."
+        }
+      ]
+    },
+    {
+      "iso3": "AUS",
+      "name": "Australia",
+      "items": [
+        {
+          "date": "2026-11-18",
+          "iso3": [
+            "AUS"
+          ],
+          "status": "event",
+          "priority": "P3",
+          "exposure": "opportunity",
+          "title": "Southern Launch announces second spacecraft re-entry within 12 days at Koonibba",
+          "summary": "Southern Launch announced on the eighteenth of November a second spacecraft re-entry within twelve days at Koonibba. Koonibba is in South Australia. The announcement does not name the spacecraft in the headline. No date for the next re-entry is given. The company is speaking for itself.",
+          "why": "Repeated re-entries show the Australian site operating at pace. The customer and date are not stated.",
+          "sources": [
+            {
+              "outlet": "Space Connect",
+              "url": "https://www.spaceconnectonline.com.au/launch/7375-southern-launch-announces-second-spacecraft-re-entry-within-12-days-at-koonibba",
+              "language": "en",
+              "type": "press"
+            }
+          ],
+          "bar": "Headline only."
+        }
+      ]
+    },
+    {
+      "iso3": "PAK",
+      "name": "Pakistan",
+      "items": [
+        {
+          "date": "2026-11-22",
+          "iso3": [
+            "PAK"
+          ],
+          "status": "overview",
+          "priority": "P3",
+          "exposure": "context",
+          "title": "SUPARCO says Pakistan's EO-2 joins the national Earth observation fleet as sixth satellite",
+          "summary": "SUPARCO says Pakistan's second indigenous EO-2 satellite has taken flight. It joins the national Earth observation fleet as the sixth satellite. The page carries no launch date in its headline. SUPARCO also lists PakSAT-MM1 as a high-power communication satellite. No date within six weeks is known.",
+          "why": "It extends Pakistan's own Earth observation capacity. The launch details are not on the page headline.",
+          "sources": [
+            {
+              "outlet": "SUPARCO",
+              "url": "https://suparco.gov.pk/news-updates.html",
+              "language": "en",
+              "type": "government-or-embassy"
+            }
+          ],
+          "bar": "Agency page, headline only."
+        }
+      ]
+    }
+  ],
+  "audio_script": "Good morning. It is Sunday, the twenty-second of November, and this is the Sovereign Space ATLAS briefing. Japan's space agency has announced a phased transition of H3 launch operations to the private sector. Europe's Ariane 6 is due to launch thirty-six Amazon satellites tomorrow. And Spain has tested military satellite communications through the European Govsatcom service for the first time.\n\nJAXA published a release on the twentieth of November titled Phased Transition of H3 Launch Operations to the Private Sector. The release is in Japanese only. Its headline gives no schedule, no operator and no first flight affected. H3 is Japan's main rocket. Its tenth flight launched the Mars moons probe MMX in October, and the Cabinet Office minister for space policy issued a statement on the twentieth of October. Separately, Japan's Cabinet Office announced on the first of September a memorandum with the United States Federal Aviation Administration on international commercial space transport. The date we are watching is the publication of the transition schedule. None has been given.\n\nIn Europe, the European Space Agency has not yet signed its contract with MaiaSpace, because of differences over the financing model, according to Infoespacial. On the eighteenth of November the European Commission recommended raising its competition fund five times, to mobilise the space industry. Ariane 6 flight VA271 has its window tomorrow, the twenty-third of November, from 11:09 to 11:38 UTC, with thirty-six Amazon Leo satellites. The next date after that is Rome, on the fifteenth of December.\n\nIn Ukraine, authorities reported more restrictions on Starshield access on the twelfth of November. SpaceX has made no statement. The hope of restored access by mid-twenty twenty-seven is unchanged, and no decision date has been set.\n\nIn Sweden, the national space agency has set its next Space Day for the eighteenth of February, twenty twenty-seven. That is the next fixed Swedish date.\n\nIn Spain, the first test of access to Govsatcom military communications has been run through the SpainSat NG I satellite. On the nineteenth of November, Spain also reported receiving the first signal from Voyager 1 since it passed one light-day from Earth. The station and content were not stated.\n\nAmong the Turkic states, a joint satellite is planned to be sent to space in twenty twenty-seven, according to Turkish trade press. No launch provider or month has been given.\n\nIn Türkiye, the proposal for 2027 is nine billion lira. Trade press puts the three-year figure at ninety-two billion lira, with no split. A new Turkish microsatellite is due to launch in twenty twenty-eight. In Algeria, the space agency has published its report on the twentieth meeting of the international committee on satellite navigation, held in Goa, India, from the twenty-fifth to the thirtieth of October.\n\nIn Australia, Southern Launch announced on the eighteenth of November a second spacecraft re-entry within twelve days at Koonibba. No date for a third has been given. In Pakistan, SUPARCO says its second indigenous Earth observation satellite, EO-2, has flown, the sixth in the national fleet.\n\nIn the United States, Vulcan Centaur failed on the fifteenth of November on its first Amazon Leo launch, carrying forty satellites. The cause and the next flight date are not known. SpaceX caught a Starship in the air in its fifteenth test, according to Turkish trade press, and the next flight date is also unknown. NASA made moon base awards on the ninth of November. Proposals are due on the eighth of December.\n\nWhat we are tracking this week is Ariane 6 flight VA271 tomorrow, the twenty-third of November, in a window from 11:09 to 11:38 UTC, and the schedule for Japan's H3 transition. What we are tracking this month is the cause of the Vulcan failure and its return to flight, the unsigned MaiaSpace contract, and any statement from SpaceX on Starshield access for Ukraine. The heads-up dates are the eighth of December, when proposals for NASA's moon base are due, and the fifteenth of December, for Rome. Further out, Sweden's Space Day is on the eighteenth of February. That is the briefing for Sunday, the twenty-second of November.",
+  "audio_sections": [
+    {
+      "id": "opening",
+      "title": "Opening",
+      "text": "Good morning. It is Sunday, the twenty-second of November, and this is the Sovereign Space ATLAS briefing. Japan's space agency has announced a phased transition of H3 launch operations to the private sector. Europe's Ariane 6 is due to launch thirty-six Amazon satellites tomorrow. And Spain has tested military satellite communications through the European Govsatcom service for the first time."
+    },
+    {
+      "id": "top",
+      "title": "Top story",
+      "text": "JAXA published a release on the twentieth of November titled Phased Transition of H3 Launch Operations to the Private Sector. The release is in Japanese only. Its headline gives no schedule, no operator and no first flight affected. H3 is Japan's main rocket. Its tenth flight launched the Mars moons probe MMX in October, and the Cabinet Office minister for space policy issued a statement on the twentieth of October. Separately, Japan's Cabinet Office announced on the first of September a memorandum with the United States Federal Aviation Administration on international commercial space transport. The date we are watching is the publication of the transition schedule. None has been given."
+    },
+    {
+      "id": "esa_eu",
+      "title": "ESA and EU",
+      "text": "In Europe, the European Space Agency has not yet signed its contract with MaiaSpace, because of differences over the financing model, according to Infoespacial. On the eighteenth of November the European Commission recommended raising its competition fund five times, to mobilise the space industry. Ariane 6 flight VA271 has its window tomorrow, the twenty-third of November, from 11:09 to 11:38 UTC, with thirty-six Amazon Leo satellites. The next date after that is Rome, on the fifteenth of December."
+    },
+    {
+      "id": "cee",
+      "title": "Central and Eastern Europe",
+      "text": "In Ukraine, authorities reported more restrictions on Starshield access on the twelfth of November. SpaceX has made no statement. The hope of restored access by mid-twenty twenty-seven is unchanged, and no decision date has been set."
+    },
+    {
+      "id": "nordics",
+      "title": "Nordics",
+      "text": "In Sweden, the national space agency has set its next Space Day for the eighteenth of February, twenty twenty-seven. That is the next fixed Swedish date."
+    },
+    {
+      "id": "west",
+      "title": "Western and Southern Europe",
+      "text": "In Spain, the first test of access to Govsatcom military communications has been run through the SpainSat NG I satellite. On the nineteenth of November, Spain also reported receiving the first signal from Voyager 1 since it passed one light-day from Earth. The station and content were not stated."
+    },
+    {
+      "id": "eurasia",
+      "title": "Eurasia and Central Asia",
+      "text": "Among the Turkic states, a joint satellite is planned to be sent to space in twenty twenty-seven, according to Turkish trade press. No launch provider or month has been given."
+    },
+    {
+      "id": "mena",
+      "title": "Türkiye, Middle East and Africa",
+      "text": "In Türkiye, the proposal for 2027 is nine billion lira. Trade press puts the three-year figure at ninety-two billion lira, with no split. A new Turkish microsatellite is due to launch in twenty twenty-eight. In Algeria, the space agency has published its report on the twentieth meeting of the international committee on satellite navigation, held in Goa, India, from the twenty-fifth to the thirtieth of October."
+    },
+    {
+      "id": "asia_pac",
+      "title": "Asia Pacific",
+      "text": "In Australia, Southern Launch announced on the eighteenth of November a second spacecraft re-entry within twelve days at Koonibba. No date for a third has been given. In Pakistan, SUPARCO says its second indigenous Earth observation satellite, EO-2, has flown, the sixth in the national fleet."
+    },
+    {
+      "id": "americas",
+      "title": "Americas",
+      "text": "In the United States, Vulcan Centaur failed on the fifteenth of November on its first Amazon Leo launch, carrying forty satellites. The cause and the next flight date are not known. SpaceX caught a Starship in the air in its fifteenth test, according to Turkish trade press, and the next flight date is also unknown. NASA made moon base awards on the ninth of November. Proposals are due on the eighth of December."
+    },
+    {
+      "id": "close",
+      "title": "Close",
+      "text": "What we are tracking this week is Ariane 6 flight VA271 tomorrow, the twenty-third of November, in a window from 11:09 to 11:38 UTC, and the schedule for Japan's H3 transition. What we are tracking this month is the cause of the Vulcan failure and its return to flight, the unsigned MaiaSpace contract, and any statement from SpaceX on Starshield access for Ukraine. The heads-up dates are the eighth of December, when proposals for NASA's moon base are due, and the fifteenth of December, for Rome. Further out, Sweden's Space Day is on the eighteenth of February. That is the briefing for Sunday, the twenty-second of November."
+    }
+  ],
+  "edition": "06:00 UTC",
+  "generated_at": "2026-11-22T12:04:55+00:00"
+}
