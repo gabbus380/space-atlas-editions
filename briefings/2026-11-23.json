@@ -1,0 +1,766 @@
+{
+  "date": "2026-11-23",
+  "headline": "Arianespace opens launch window for Ariane 6 flight VA271 with 36 Amazon Leo satellites",
+  "summary": [
+    "Arianespace's window for flight VA271, the tenth Ariane 6 launch, runs today from 11:09 to 11:38 UTC.",
+    "The payload is 36 Amazon Leo satellites, per the notice of the fourteenth of October.",
+    "JAXA said on the twentieth of November that H3 launch operations will move in phases to the private sector, in a release published in Japanese only.",
+    "Pakistan's SUPARCO lists its second indigenous Earth observation satellite as the sixth in the national fleet.",
+    "The cause of the Vulcan failure of the fifteenth of November is still unknown."
+  ],
+  "bottom_line": "Flight VA271 stands in its launch window today, and the outcome has not yet been published. The next dates that matter are the eighth of December for Artemis proposals and the fifteenth of December for Rome.",
+  "global": [
+    {
+      "date": "2026-11-23",
+      "iso3": [
+        "FRA",
+        "USA"
+      ],
+      "status": "event",
+      "priority": "P1",
+      "exposure": "opportunity",
+      "title": "Arianespace opens launch window for Ariane 6 flight VA271 with 36 Amazon Leo satellites",
+      "summary": "The window for the tenth Ariane 6 flight runs from 11:09 to 11:38 UTC today. Arianespace confirmed it on the eighteenth of November and published launch kits on the twenty-first and twenty-second.",
+      "why": "The flight is Europe's heavy-lift access for a large American constellation customer. Its outcome follows the Vulcan failure with Amazon satellites on the fifteenth of November.",
+      "sources": [
+        {
+          "outlet": "Arianespace",
+          "url": "https://www.arianespace.com/news/mission-va271-launch-window-on-november-23-2026/",
+          "language": "en",
+          "type": "press"
+        },
+        {
+          "outlet": "ArianeGroup",
+          "url": "https://www.ariane.group/en/news/va271-launch-kit-for-the-10th-ariane-6-launch/",
+          "language": "en",
+          "type": "press"
+        }
+      ],
+      "bar": "Outcome not in packet; do not state launch result."
+    },
+    {
+      "date": "2026-11-15",
+      "iso3": [
+        "USA"
+      ],
+      "status": "event",
+      "priority": "P2",
+      "exposure": "competitive threat",
+      "title": "ULA Vulcan suffers anomaly on first Amazon Leo launch",
+      "summary": "Vulcan failed on the fifteenth of November. The cause and the date of the next flight are unknown.",
+      "why": "A second heavy launcher is out of service for Amazon's constellation. That raises the weight on Ariane 6 today.",
+      "sources": [
+        {
+          "outlet": "Via Satellite",
+          "url": "http://www.satellitetoday.com/launch/2026/11/15/ula-set-to-return-vulcan-to-flight-in-first-amazon-leo-launch/?itm_source=parsely-api",
+          "language": "en",
+          "type": "press"
+        }
+      ],
+      "bar": "40 satellites figure from thread notes, not in packet headline."
+    },
+    {
+      "date": "2026-11-09",
+      "iso3": [
+        "USA"
+      ],
+      "status": "contract",
+      "priority": "P2",
+      "exposure": "opportunity",
+      "title": "NASA makes moon base development awards",
+      "summary": "NASA made the awards on the ninth of November. Proposals for the next round are due on the eighth of December.",
+      "why": "The lunar program now has named contractors and a dated next step. Bidders outside the United States watch the eighth of December.",
+      "sources": [
+        {
+          "outlet": "Via Satellite",
+          "url": "https://www.satellitetoday.com/government-military/2026/11/09/nasa-makes-major-contract-awards-for-moon-base-development/",
+          "language": "en",
+          "type": "press"
+        }
+      ],
+      "bar": "Standing; date from thread."
+    }
+  ],
+  "regions": [
+    {
+      "id": "esa_eu",
+      "name": "ESA and EU",
+      "items": [
+        {
+          "date": "2026-11-19",
+          "iso3": [
+            "CHE",
+            "DEU"
+          ],
+          "status": "contract",
+          "priority": "P2",
+          "exposure": "context",
+          "title": "ESA and OHB System confirm ClearSpace-1 contract",
+          "summary": "The contract to remove a defunct satellite was confirmed on the nineteenth of November. Value and launch date are not given.",
+          "why": "Active debris removal moves from plan to contract. The missing value and date leave the schedule open.",
+          "sources": [
+            {
+              "outlet": "Space Connect",
+              "url": "https://www.spaceconnectonline.com.au/satellites/7377-esa-ohb-system-confirm-contract-for-clearspace-1-to-remove-defunct-satellite",
+              "language": "en",
+              "type": "press"
+            }
+          ],
+          "bar": "CHE inferred from ClearSpace; check."
+        },
+        {
+          "date": "2026-12-15",
+          "iso3": [
+            "ITA",
+            "FRA"
+          ],
+          "status": "overview",
+          "priority": "P2",
+          "exposure": "policy risk",
+          "title": "ESA and EU funding vote of the tenth of November still has no outcome",
+          "summary": "MaiaSpace's contract is unsigned. The Commission recommended a five-fold increase in its competition fund on the eighteenth of November. Rome meets on the fifteenth of December.",
+          "why": "Launcher funding stays open until Rome. The competition fund recommendation is not yet a decision.",
+          "sources": [
+            {
+              "outlet": "Via Satellite",
+              "url": "https://www.satellitetoday.com/government-military/2026/11/18/european-commission-recommends-increasing-competition-fund-5x-to-mobilize-space-industry/",
+              "language": "en",
+              "type": "press"
+            }
+          ],
+          "bar": "Rome date from thread; MaiaSpace from earlier filing."
+        }
+      ]
+    },
+    {
+      "id": "cee",
+      "name": "Central and Eastern Europe",
+      "items": [
+        {
+          "date": "2026-11-12",
+          "iso3": [
+            "UKR"
+          ],
+          "status": "statement",
+          "priority": "P2",
+          "exposure": "policy risk",
+          "title": "Ukraine reports more restrictions on Starshield access",
+          "summary": "Zelenskyy spoke on the twelfth of November. SpaceX has made no statement, and the mid-2027 hope for a replacement is unchanged.",
+          "why": "Ukraine's reliance on a foreign provider stays exposed. No date exists for a SpaceX response.",
+          "sources": [
+            {
+              "outlet": "Via Satellite",
+              "url": "https://www.satellitetoday.com/government-military/2026/11/12/ukraine-reports-more-restrictions-to-starshield-access/",
+              "language": "en",
+              "type": "press"
+            }
+          ],
+          "bar": "Standing; unchanged."
+        }
+      ]
+    },
+    {
+      "id": "nordics",
+      "name": "Nordics",
+      "items": [
+        {
+          "date": "2027-02-18",
+          "iso3": [
+            "SWE",
+            "NOR"
+          ],
+          "status": "overview",
+          "priority": "P3",
+          "exposure": "context",
+          "title": "Swedish National Space Agency sets Space Day for the eighteenth of February",
+          "summary": "The agency announced on the second of November that the next Space Day is the eighteenth of February, 2027. Norway's space directorate lists a new agreement with the Canadian Space Agency on Arctic cooperation.",
+          "why": "The Nordic calendar has one fixed date. The Norway-Canada agreement is undated in the packet.",
+          "sources": [
+            {
+              "outlet": "Rymdstyrelsen",
+              "url": "https://www.rymdstyrelsen.se/nyheter/2026/rymddagen-2027-blir-den-18-februari/",
+              "language": "sv",
+              "type": "government-or-embassy"
+            },
+            {
+              "outlet": "Direktoratet for romvirksomhet",
+              "url": "https://www.romsenter.no/aktuelt/ny-avtale-med-canada-aapner-for-tettere-romsamarbeid-i-arktis",
+              "language": "no",
+              "type": "government-or-embassy"
+            }
+          ],
+          "bar": "Norway page undated."
+        }
+      ]
+    },
+    {
+      "id": "west",
+      "name": "Western and Southern Europe",
+      "items": [
+        {
+          "date": "2026-11-23",
+          "iso3": [
+            "ESP",
+            "PRT"
+          ],
+          "status": "event",
+          "priority": "P3",
+          "exposure": "opportunity",
+          "title": "Spain tests Govsatcom military access through SpainSat NG I",
+          "summary": "Spain tested access to Govsatcom military satellite communications for the first time. Portugal took a step towards its first orbital launch from the Azores on a South Korean rocket.",
+          "why": "Both moves widen national access to European space services. Neither has a published next date.",
+          "sources": [
+            {
+              "outlet": "Infoespacial",
+              "url": "https://www.infoespacial.com/texto-diario/mostrar/6103479/espana-prueba-primera-vez-acceso-comunicaciones-militares-satelite-traves-govsatcom-traves-spainsat-ng-i",
+              "language": "es",
+              "type": "press"
+            },
+            {
+              "outlet": "Infoespacial",
+              "url": "https://www.infoespacial.com/texto-diario/mostrar/6101824/portugal-conquista-espacio-da-paso-hacia-primer-lanzamiento-espacial-orbital-desde-azores-cohete-surcoreano",
+              "language": "es",
+              "type": "press"
+            }
+          ],
+          "bar": "Item date is packet date; articles undated."
+        }
+      ]
+    },
+    {
+      "id": "eurasia",
+      "name": "Eurasia and Central Asia",
+      "items": [
+        {
+          "date": "2026-11-23",
+          "iso3": [
+            "ARM",
+            "IRN"
+          ],
+          "status": "agreement",
+          "priority": "P3",
+          "exposure": "context",
+          "title": "Armenia and Iran sign protocol on technological cooperation including space",
+          "summary": "The protocol covers space, logistics and postal services. No implementation date is given.",
+          "why": "It adds a space strand to Armenia's ties with Iran. Terms are not yet public.",
+          "sources": [
+            {
+              "outlet": "ARKA-Telecom",
+              "url": "https://arkatelecom.am/en/news/telecom/from-space-to-logistics-and-postal-services-armenia-and-iran-sign-protocol-on-technological-cooperat/",
+              "language": "en",
+              "type": "press"
+            }
+          ],
+          "bar": "Signing date not in packet."
+        }
+      ]
+    },
+    {
+      "id": "mena",
+      "name": "Türkiye, Middle East and Africa",
+      "items": [
+        {
+          "date": "2026-11-21",
+          "iso3": [
+            "KWT"
+          ],
+          "status": "agreement",
+          "priority": "P3",
+          "exposure": "context",
+          "title": "Kuwait University and KFAS sign agreement",
+          "summary": "The university signed with the Kuwait Foundation for the Advancement of Sciences, on the directives of the Amir. The packet text is cut off before the project is named.",
+          "why": "A Kuwaiti national research project gets a funded operator. Scope is not yet visible.",
+          "sources": [
+            {
+              "outlet": "Kuwait University",
+              "url": "https://vpaa.ku.edu.kw/media-center/news/kfas24",
+              "language": "en",
+              "type": "government-or-embassy"
+            }
+          ],
+          "bar": "Headline truncated; do not name project."
+        },
+        {
+          "date": "2026-11-23",
+          "iso3": [
+            "TUR"
+          ],
+          "status": "overview",
+          "priority": "P3",
+          "exposure": "context",
+          "title": "Türkiye space budget stands at 92 billion lira over three years",
+          "summary": "Trade press puts the figure at 92 billion lira over three years, with 9 billion lira proposed for 2027. No split by program is given.",
+          "why": "The scale is known but the allocation is not. No date for a split has been announced.",
+          "sources": [],
+          "bar": "No URL in today's packet; thread only."
+        }
+      ]
+    },
+    {
+      "id": "asia_pac",
+      "name": "Asia Pacific",
+      "items": [
+        {
+          "date": "2026-11-20",
+          "iso3": [
+            "JPN"
+          ],
+          "status": "statement",
+          "priority": "P2",
+          "exposure": "context",
+          "title": "JAXA announces phased transition of H3 launch operations to the private sector",
+          "summary": "The release of the twentieth of November is in Japanese only. Schedule and operator are not stated.",
+          "why": "Japan's main launcher moves towards commercial operation. Timing is the open question.",
+          "sources": [
+            {
+              "outlet": "JAXA",
+              "url": "https://global.jaxa.jp/press/2026/11/20261120-1_e.html",
+              "language": "en",
+              "type": "government-or-embassy"
+            }
+          ],
+          "bar": "Filed 22 Nov as top; now standing."
+        },
+        {
+          "date": "2026-11-23",
+          "iso3": [
+            "PAK",
+            "AUS"
+          ],
+          "status": "overview",
+          "priority": "P3",
+          "exposure": "context",
+          "title": "SUPARCO lists second indigenous EO-2 as sixth satellite in the national fleet",
+          "summary": "SUPARCO lists EO-2 as joining the Earth observation fleet as its sixth satellite. In Australia, RMIT announced PhD scholarships in honour of astronaut Katherine Bennell-Pegg on the twentieth of November.",
+          "why": "Pakistan's fleet count is now on the agency's own page. The Australian scholarships tie a named astronaut to research funding.",
+          "sources": [
+            {
+              "outlet": "SUPARCO",
+              "url": "https://suparco.gov.pk/news-updates.html",
+              "language": "en",
+              "type": "government-or-embassy"
+            },
+            {
+              "outlet": "Space Connect",
+              "url": "https://www.spaceconnectonline.com.au/r-d/7380-rmit-announces-phd-scholarships-in-honour-of-astronaut-katherine-bennell-pegg",
+              "language": "en",
+              "type": "press"
+            }
+          ],
+          "bar": "EO-2 launch date not in packet."
+        }
+      ]
+    },
+    {
+      "id": "americas",
+      "name": "Americas",
+      "items": [
+        {
+          "date": "2026-11-06",
+          "iso3": [
+            "USA"
+          ],
+          "status": "contract",
+          "priority": "P3",
+          "exposure": "competitive threat",
+          "title": "Viasat receives up to 450 million dollars for SDN-B mission operations center",
+          "summary": "The contract was announced on the sixth of November.",
+          "why": "A commercial operator takes a ground segment role in a United States program. It is a ceiling value, not a payment.",
+          "sources": [
+            {
+              "outlet": "Via Satellite",
+              "url": "https://www.satellitetoday.com/government-military/2026/11/06/viasat-receives-up-to-450-million-contract-for-sdn-b-mission-operations-center/",
+              "language": "en",
+              "type": "press"
+            }
+          ],
+          "bar": "Older than a fortnight; keep short."
+        },
+        {
+          "date": "2026-11-23",
+          "iso3": [
+            "MEX"
+          ],
+          "status": "overview",
+          "priority": "P3",
+          "exposure": "context",
+          "title": "Mexico's space program for 2026 to 2030 remains under analysis",
+          "summary": "Trade commentary is weighing the program. Mexico earlier committed 540 million pesos for four satellites.",
+          "why": "Mexico's plan is set out but its delivery dates are not. No new date is published.",
+          "sources": [
+            {
+              "outlet": "A21",
+              "url": "https://a21.com.mx/opinion/cafe-espacial/2026/06/05/analisis-del-programa-espacial-mexicano-2026-2030/",
+              "language": "es",
+              "type": "press"
+            },
+            {
+              "outlet": "Expansión",
+              "url": "https://expansion.mx/empresas/2026/03/03/mexico-lanza-cuatro-satelites-seguridad-clima",
+              "language": "es",
+              "type": "press"
+            }
+          ],
+          "bar": "Commentary, not an event."
+        }
+      ]
+    }
+  ],
+  "priorities": [
+    {
+      "rank": "P2",
+      "title": "Ariane 6 VA271 with 36 Amazon Leo satellites",
+      "status": "event",
+      "exposure": "opportunity",
+      "implication": "The launch window is today, and the result sets European access to large constellation customers.",
+      "iso3": [
+        "FRA",
+        "USA"
+      ],
+      "next": {
+        "date": "2026-11-23",
+        "event": "VA271 launch window 11:09 to 11:38 UTC"
+      }
+    },
+    {
+      "rank": "P2",
+      "title": "ESA and EU funding after the vote of the tenth of November",
+      "status": "overview",
+      "exposure": "policy risk",
+      "implication": "Launcher funding and MaiaSpace's contract stay open until ministers meet.",
+      "iso3": [
+        "ITA",
+        "FRA"
+      ],
+      "next": {
+        "date": "2026-12-15",
+        "event": "Rome meeting"
+      }
+    },
+    {
+      "rank": "P2",
+      "title": "Artemis moon base awards",
+      "status": "contract",
+      "exposure": "opportunity",
+      "implication": "Awards are made and the next round of proposals closes on a fixed date.",
+      "iso3": [
+        "USA"
+      ],
+      "next": {
+        "date": "2026-12-08",
+        "event": "Artemis proposals due"
+      }
+    },
+    {
+      "rank": "P2",
+      "title": "JAXA H3 transition to the private sector",
+      "status": "statement",
+      "exposure": "context",
+      "implication": "The move is announced but the schedule and operator are not.",
+      "iso3": [
+        "JPN"
+      ],
+      "next": null
+    }
+  ],
+  "watchlist": [
+    {
+      "date": "2026-11-23",
+      "event": "Ariane 6 VA271 launch window, 11:09 to 11:38 UTC",
+      "where": "Kourou",
+      "iso3": [
+        "FRA"
+      ]
+    },
+    {
+      "date": "2026-12-08",
+      "event": "Artemis moon base proposals due",
+      "where": "United States",
+      "iso3": [
+        "USA"
+      ]
+    },
+    {
+      "date": "2026-12-15",
+      "event": "Rome meeting on ESA and EU funding",
+      "where": "Rome",
+      "iso3": [
+        "ITA"
+      ]
+    }
+  ],
+  "milestones": [
+    {
+      "date": "2026-12-15",
+      "event": "Rome meeting",
+      "iso3": [
+        "ITA"
+      ],
+      "status": "scheduled",
+      "why": "Decides whether the launcher funding dispute moves."
+    },
+    {
+      "date": "2027-02-18",
+      "event": "Swedish Space Day",
+      "iso3": [
+        "SWE"
+      ],
+      "status": "scheduled",
+      "why": "Fixed Nordic calendar date."
+    }
+  ],
+  "competitive_watch": [],
+  "countries": [
+    {
+      "date": "2026-11-23",
+      "iso3": [
+        "FRA"
+      ],
+      "status": "event",
+      "priority": "P1",
+      "exposure": "opportunity",
+      "title": "Arianespace opens launch window for Ariane 6 flight VA271",
+      "summary": "Window 11:09 to 11:38 UTC today with 36 Amazon Leo satellites.",
+      "why": "Europe's heavy-lift access is tested for a large customer. The outcome is not yet published.",
+      "sources": [
+        {
+          "outlet": "Arianespace",
+          "url": "https://www.arianespace.com/news/mission-va271-launch-window-on-november-23-2026/",
+          "language": "en",
+          "type": "press"
+        }
+      ],
+      "bar": "Duplicate of global item.",
+      "items": []
+    },
+    {
+      "date": "2026-11-12",
+      "iso3": [
+        "UKR"
+      ],
+      "status": "statement",
+      "priority": "P2",
+      "exposure": "policy risk",
+      "title": "Ukraine reports more restrictions on Starshield access",
+      "summary": "Zelenskyy spoke on the twelfth of November; SpaceX has not responded.",
+      "why": "Reliance on a foreign provider remains exposed. No response date exists.",
+      "sources": [
+        {
+          "outlet": "Via Satellite",
+          "url": "https://www.satellitetoday.com/government-military/2026/11/12/ukraine-reports-more-restrictions-to-starshield-access/",
+          "language": "en",
+          "type": "press"
+        }
+      ],
+      "bar": "Standing.",
+      "items": []
+    },
+    {
+      "date": "2027-02-18",
+      "iso3": [
+        "SWE"
+      ],
+      "status": "overview",
+      "priority": "P3",
+      "exposure": "context",
+      "title": "Swedish National Space Agency sets Space Day",
+      "summary": "Next Space Day is the eighteenth of February, 2027.",
+      "why": "A fixed Nordic date. Nothing is pending before it.",
+      "sources": [
+        {
+          "outlet": "Rymdstyrelsen",
+          "url": "https://www.rymdstyrelsen.se/nyheter/2026/rymddagen-2027-blir-den-18-februari/",
+          "language": "sv",
+          "type": "government-or-embassy"
+        }
+      ],
+      "bar": "Standing.",
+      "items": []
+    },
+    {
+      "date": "2026-11-23",
+      "iso3": [
+        "ESP"
+      ],
+      "status": "event",
+      "priority": "P3",
+      "exposure": "opportunity",
+      "title": "Spain tests Govsatcom through SpainSat NG I",
+      "summary": "First test of military satellite access through Govsatcom.",
+      "why": "National access to European services widens. No next date is given.",
+      "sources": [
+        {
+          "outlet": "Infoespacial",
+          "url": "https://www.infoespacial.com/texto-diario/mostrar/6103479/espana-prueba-primera-vez-acceso-comunicaciones-militares-satelite-traves-govsatcom-traves-spainsat-ng-i",
+          "language": "es",
+          "type": "press"
+        }
+      ],
+      "bar": "Undated article.",
+      "items": []
+    },
+    {
+      "date": "2026-11-23",
+      "iso3": [
+        "ARM"
+      ],
+      "status": "agreement",
+      "priority": "P3",
+      "exposure": "context",
+      "title": "Armenia and Iran sign technological cooperation protocol",
+      "summary": "The protocol includes space, logistics and postal services.",
+      "why": "A space strand is added to bilateral ties. Terms are not public.",
+      "sources": [
+        {
+          "outlet": "ARKA-Telecom",
+          "url": "https://arkatelecom.am/en/news/telecom/from-space-to-logistics-and-postal-services-armenia-and-iran-sign-protocol-on-technological-cooperat/",
+          "language": "en",
+          "type": "press"
+        }
+      ],
+      "bar": "Date not in packet.",
+      "items": []
+    },
+    {
+      "date": "2026-11-23",
+      "iso3": [
+        "TUR"
+      ],
+      "status": "overview",
+      "priority": "P3",
+      "exposure": "context",
+      "title": "Türkiye space budget stands at 92 billion lira over three years",
+      "summary": "9 billion lira is proposed for 2027; no split is given.",
+      "why": "Scale is known, allocation is not. No date for a split exists.",
+      "sources": [],
+      "bar": "No URL today.",
+      "items": []
+    },
+    {
+      "date": "2026-11-20",
+      "iso3": [
+        "JPN"
+      ],
+      "status": "statement",
+      "priority": "P2",
+      "exposure": "context",
+      "title": "JAXA announces phased H3 transition to the private sector",
+      "summary": "Release in Japanese only; schedule and operator not stated.",
+      "why": "Japan's main launcher moves towards commercial operation. Timing is open.",
+      "sources": [
+        {
+          "outlet": "JAXA",
+          "url": "https://global.jaxa.jp/press/2026/11/20261120-1_e.html",
+          "language": "en",
+          "type": "government-or-embassy"
+        }
+      ],
+      "bar": "Standing.",
+      "items": []
+    },
+    {
+      "date": "2026-11-23",
+      "iso3": [
+        "PAK"
+      ],
+      "status": "overview",
+      "priority": "P3",
+      "exposure": "context",
+      "title": "SUPARCO lists EO-2 as sixth satellite in the fleet",
+      "summary": "Second indigenous Earth observation satellite joins the fleet.",
+      "why": "Pakistan's fleet count is on the agency page. Launch date is not given.",
+      "sources": [
+        {
+          "outlet": "SUPARCO",
+          "url": "https://suparco.gov.pk/news-updates.html",
+          "language": "en",
+          "type": "government-or-embassy"
+        }
+      ],
+      "bar": "Undated.",
+      "items": []
+    },
+    {
+      "date": "2026-11-23",
+      "iso3": [
+        "MEX"
+      ],
+      "status": "overview",
+      "priority": "P3",
+      "exposure": "context",
+      "title": "Mexico's space program for 2026 to 2030 remains under analysis",
+      "summary": "Commentary weighs the program; four satellites earlier funded.",
+      "why": "Plan is set out, delivery dates are not.",
+      "sources": [
+        {
+          "outlet": "A21",
+          "url": "https://a21.com.mx/opinion/cafe-espacial/2026/06/05/analisis-del-programa-espacial-mexicano-2026-2030/",
+          "language": "es",
+          "type": "press"
+        }
+      ],
+      "bar": "Commentary.",
+      "items": []
+    }
+  ],
+  "audio_script": "Good morning. It is Monday, the twenty-third of November, and this is the Sovereign Space ATLAS briefing. Arianespace has opened its launch window today for thirty-six Amazon Leo satellites. Japan's space agency has set out a phased move of H3 launch operations to the private sector. And Pakistan has listed its second indigenous Earth observation satellite as the sixth in its national fleet.\n\nArianespace's launch window for flight VA271 runs today, the twenty-third of November, from 11:09 to 11:38 universal time. It is the tenth Ariane 6 flight. The payload is thirty-six Amazon Leo satellites, a figure from Arianespace's notice of the fourteenth of October. Arianespace confirmed the window on the eighteenth of November and published its launch kit on the twenty-first. ArianeGroup published its own launch kit on the twenty-second. The launch outcome has not yet been published. The flight matters because Vulcan failed on the fifteenth of November, also with Amazon satellites aboard.\n\nIn Europe, ESA and OHB System confirmed the ClearSpace-1 contract on the nineteenth of November. The mission will remove a defunct satellite. Its value and launch date are not given. The vote of the tenth of November still has no outcome. MaiaSpace's contract is unsigned. On the eighteenth of November the European Commission recommended a five-fold increase in its competition fund. The next date is Rome, on the fifteenth of December.\n\nIn Ukraine, President Zelenskyy said on the twelfth of November that access to Starshield has been further restricted. SpaceX has made no statement. The hope of a replacement by mid-2027 is unchanged.\n\nIn Sweden, the national space agency announced on the second of November that the next Space Day is the eighteenth of February, 2027. In Norway, the space directorate lists a new agreement with the Canadian Space Agency on Arctic cooperation. No date is given for it.\n\nIn Spain, the first test of military satellite access through Govsatcom has been carried out, using SpainSat NG I. No next step is dated. In Portugal, a step has been taken towards a first orbital launch from the Azores, on a South Korean rocket.\n\nIn Armenia, a protocol with Iran on technological cooperation has been signed. It covers space, logistics and postal services. No implementation date is given.\n\nIn Kuwait, the national university signed an agreement with the Kuwait Foundation for the Advancement of Sciences, on the directives of the Amir. The project it covers is not named in the text available. In Türkiye, trade press puts the space budget at ninety-two billion lira over three years, with nine billion proposed for 2027. No split by program has been given.\n\nIn Japan, JAXA said on the twentieth of November that H3 launch operations will move in phases to the private sector. The release is in Japanese only. The schedule and the operator are not stated. In Pakistan, the space agency SUPARCO lists its second indigenous Earth observation satellite as the sixth in the fleet. In Australia, RMIT announced PhD scholarships on the twentieth of November in honour of astronaut Katherine Bennell-Pegg.\n\nIn the United States, Vulcan failed on the fifteenth of November on its first Amazon Leo launch. The cause and the date of the next flight are unknown. Viasat has received a contract worth up to four hundred and fifty million dollars for the SDN-B mission operations center. NASA made its moon base awards on the ninth of November, and proposals for the next round are due on the eighth of December. In Mexico, trade commentary is weighing the national space program for twenty twenty-six to twenty thirty. Delivery dates are not published.\n\nWhat we are tracking this week is the result of flight VA271 today, the cause of the Vulcan failure, and the schedule and operator for the H3 transition. This month we are tracking the Artemis proposals, due on the eighth of December, and the Rome meeting on the fifteenth of December, where the vote of the tenth of November and MaiaSpace's unsigned contract remain open. The heads-up dates are the twenty-third of November for the launch window, the eighth of December, the fifteenth of December, and the eighteenth of February, 2027, for Swedish Space Day. A Blue Origin return in January remains unconfirmed. That is the briefing for Monday, the twenty-third of November.",
+  "audio_sections": [
+    {
+      "id": "opening",
+      "title": "Opening",
+      "text": "Good morning. It is Monday, the twenty-third of November, and this is the Sovereign Space ATLAS briefing. Arianespace has opened its launch window today for thirty-six Amazon Leo satellites. Japan's space agency has set out a phased move of H3 launch operations to the private sector. And Pakistan has listed its second indigenous Earth observation satellite as the sixth in its national fleet."
+    },
+    {
+      "id": "top",
+      "title": "Top story",
+      "text": "Arianespace's launch window for flight VA271 runs today, the twenty-third of November, from 11:09 to 11:38 universal time. It is the tenth Ariane 6 flight. The payload is thirty-six Amazon Leo satellites, a figure from Arianespace's notice of the fourteenth of October. Arianespace confirmed the window on the eighteenth of November and published its launch kit on the twenty-first. ArianeGroup published its own launch kit on the twenty-second. The launch outcome has not yet been published. The flight matters because Vulcan failed on the fifteenth of November, also with Amazon satellites aboard."
+    },
+    {
+      "id": "esa_eu",
+      "title": "ESA and EU",
+      "text": "In Europe, ESA and OHB System confirmed the ClearSpace-1 contract on the nineteenth of November. The mission will remove a defunct satellite. Its value and launch date are not given. The vote of the tenth of November still has no outcome. MaiaSpace's contract is unsigned. On the eighteenth of November the European Commission recommended a five-fold increase in its competition fund. The next date is Rome, on the fifteenth of December."
+    },
+    {
+      "id": "cee",
+      "title": "Central and Eastern Europe",
+      "text": "In Ukraine, President Zelenskyy said on the twelfth of November that access to Starshield has been further restricted. SpaceX has made no statement. The hope of a replacement by mid-2027 is unchanged."
+    },
+    {
+      "id": "nordics",
+      "title": "Nordics",
+      "text": "In Sweden, the national space agency announced on the second of November that the next Space Day is the eighteenth of February, 2027. In Norway, the space directorate lists a new agreement with the Canadian Space Agency on Arctic cooperation. No date is given for it."
+    },
+    {
+      "id": "west",
+      "title": "Western and Southern Europe",
+      "text": "In Spain, the first test of military satellite access through Govsatcom has been carried out, using SpainSat NG I. No next step is dated. In Portugal, a step has been taken towards a first orbital launch from the Azores, on a South Korean rocket."
+    },
+    {
+      "id": "eurasia",
+      "title": "Eurasia and Central Asia",
+      "text": "In Armenia, a protocol with Iran on technological cooperation has been signed. It covers space, logistics and postal services. No implementation date is given."
+    },
+    {
+      "id": "mena",
+      "title": "Türkiye, Middle East and Africa",
+      "text": "In Kuwait, the national university signed an agreement with the Kuwait Foundation for the Advancement of Sciences, on the directives of the Amir. The project it covers is not named in the text available. In Türkiye, trade press puts the space budget at ninety-two billion lira over three years, with nine billion proposed for 2027. No split by program has been given."
+    },
+    {
+      "id": "asia_pac",
+      "title": "Asia Pacific",
+      "text": "In Japan, JAXA said on the twentieth of November that H3 launch operations will move in phases to the private sector. The release is in Japanese only. The schedule and the operator are not stated. In Pakistan, the space agency SUPARCO lists its second indigenous Earth observation satellite as the sixth in the fleet. In Australia, RMIT announced PhD scholarships on the twentieth of November in honour of astronaut Katherine Bennell-Pegg."
+    },
+    {
+      "id": "americas",
+      "title": "Americas",
+      "text": "In the United States, Vulcan failed on the fifteenth of November on its first Amazon Leo launch. The cause and the date of the next flight are unknown. Viasat has received a contract worth up to four hundred and fifty million dollars for the SDN-B mission operations center. NASA made its moon base awards on the ninth of November, and proposals for the next round are due on the eighth of December. In Mexico, trade commentary is weighing the national space program for twenty twenty-six to twenty thirty. Delivery dates are not published."
+    },
+    {
+      "id": "close",
+      "title": "Close",
+      "text": "What we are tracking this week is the result of flight VA271 today, the cause of the Vulcan failure, and the schedule and operator for the H3 transition. This month we are tracking the Artemis proposals, due on the eighth of December, and the Rome meeting on the fifteenth of December, where the vote of the tenth of November and MaiaSpace's unsigned contract remain open. The heads-up dates are the twenty-third of November for the launch window, the eighth of December, the fifteenth of December, and the eighteenth of February, 2027, for Swedish Space Day. A Blue Origin return in January remains unconfirmed. That is the briefing for Monday, the twenty-third of November."
+    }
+  ],
+  "edition": "06:00 UTC",
+  "generated_at": "2026-11-23T13:45:23+00:00"
+}

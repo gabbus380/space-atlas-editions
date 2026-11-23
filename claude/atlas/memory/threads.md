@@ -360,3 +360,16 @@ Episodes:
 - Blue Origin: January return unconfirmed; no source today, not filed.
 - Türkiye: 9 billion lira proposal for 2027, 92 billion lira over three years via trade press, no split.
 - Swift, Telesat Lightspeed, Matera: unchanged, not filed.
+
+
+## 2026-11-23
+- VA271: window 23 November 11:09-11:38 UTC, 36 Amazon Leo; outcome unknown.
+- ESA, EU, Rome: vote of 10 November no outcome; MaiaSpace unsigned; Commission fund 5x recommended 18 November; Rome 15 December.
+- ClearSpace-1: contract 19 November; value and date unknown.
+- Vulcan: failed 15 November; cause and next flight unknown.
+- Artemis: awards 9 November; proposals due 8 December.
+- Starshield Ukraine: Zelenskyy 12 November; no SpaceX statement; mid-2027 hope.
+- H3 transition: JAXA 20 November, Japanese only; schedule and operator unknown.
+- Türkiye: 9 billion lira for 2027, 92 billion over three years, no split; no URL today.
+- Blue Origin: January return unconfirmed; no source.
+- Starship: catch 15 November; no source today.
