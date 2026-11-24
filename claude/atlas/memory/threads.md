@@ -373,3 +373,16 @@ Episodes:
 - Türkiye: 9 billion lira for 2027, 92 billion over three years, no split; no URL today.
 - Blue Origin: January return unconfirmed; no source.
 - Starship: catch 15 November; no source today.
+
+
+## 2026-11-24
+- VA271: rescheduled to 24 November, 10:45-11:14 UTC; 36 Amazon Leo per 14 October notice; outcome unknown.
+- ESA/EU/Rome: vote 10 November no outcome; MaiaSpace unsigned; Commission fund 5x 18 November; Rome 15 December.
+- Hera Dimorphos images 19 November filed.
+- NATO space pledge 23 November filed; Russian nuclear satellite claim unverified.
+- Starshield Ukraine: Russian claim 24 November via Interfax; no SpaceX statement; mid-2027 hope unchanged.
+- Vulcan: failed 15 November; cause and next flight unknown.
+- Artemis: proposals due 8 December.
+- Blue Origin: January return unconfirmed; no source.
+- Sunburnt Space 23 November filed; H3 JAXA 20 November, schedule unknown.
+- Türkiye: microsatellite 2028 headline; 9 billion lira no split.
