@@ -1,0 +1,660 @@
+{
+  "date": "2026-11-25",
+  "global": [
+    {
+      "date": "2026-11-24",
+      "iso3": [
+        "FRA"
+      ],
+      "status": "event",
+      "priority": "P1",
+      "exposure": "opportunity",
+      "title": "ArianeGroup launches 36 more Amazon Leo satellites on tenth Ariane 6 flight",
+      "summary": "ArianeGroup says Ariane 6 carried another 36 Amazon Leo satellites into orbit on its tenth flight. The mission is VA271. The window had moved from the twenty-third of November to the twenty-fourth. Amazon's earlier Leo launch on a Vulcan rocket failed on the fifteenth of November. The cause of that failure and the date of the next Vulcan flight are not known.",
+      "why": "A European launcher has delivered a large commercial constellation batch on a rescheduled date. The Rome meeting on the fifteenth of December is the next European policy date.",
+      "sources": [
+        {
+          "outlet": "ArianeGroup",
+          "url": "https://www.ariane.group/en/news/ariane-6-successfully-transports-another-36-amazon-leo-satellites-into-orbit-on-its-10th-flight/",
+          "language": "en",
+          "type": "press"
+        }
+      ],
+      "bar": "Company statement only; no independent confirmation of orbit insertion in hand."
+    },
+    {
+      "date": "2026-11-25",
+      "iso3": [
+        "CHN",
+        "PAK"
+      ],
+      "status": "event",
+      "priority": "P2",
+      "exposure": "competitive threat",
+      "title": "China launches Pakistani astronaut Muhammad Zeeshan Ali, its first foreign astronaut",
+      "summary": "A Pakistani astronaut has launched into space aboard a Chinese rocket. Spanish press describes him as the first foreign astronaut admitted to China's space station. The launch took place on the twenty-fifth of November. Mission length and duties are not given.",
+      "why": "China is opening its station to a South Asian partner. That widens its list of space partners beyond Russia.",
+      "sources": [
+        {
+          "outlet": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/pakistani-astronaut-launches-into-space-aboard-chinese-rocket?traffic_source=rss",
+          "language": "en",
+          "type": "press"
+        },
+        {
+          "outlet": "El País",
+          "url": "https://elpais.com/ciencia/2026-11-24/china-abre-las-puertas-de-su-palacio-celestial-al-primer-astronauta-extranjero-el-pakistani-muhammad-zeeshan-ali.html",
+          "language": "es",
+          "type": "press"
+        }
+      ],
+      "bar": "Headline-level only; mission length unknown."
+    },
+    {
+      "date": "2026-11-23",
+      "iso3": [
+        "FRA",
+        "ITA"
+      ],
+      "status": "event",
+      "priority": "P2",
+      "exposure": "context",
+      "title": "ESA reports BepiColombo in Mercury orbit despite unexpected challenge",
+      "summary": "ESA says BepiColombo is safely in orbit around Mercury. The agency refers to an unexpected challenge. Spanish trade coverage mentions a fault on board. The science start date is not known. The arrival was first filed on the eighteenth of November.",
+      "why": "The probe has reached its orbit but the nature of the fault is not public. The science start date will show how serious it is.",
+      "sources": [
+        {
+          "outlet": "ESA",
+          "url": "https://www.esa.int/articles/about-us/directorates/operations/bepicolombo-safely-in-mercury-orbit-despite-unexpected-challenge",
+          "language": "en",
+          "type": "government-or-embassy"
+        },
+        {
+          "outlet": "Infoespacial",
+          "url": "https://www.infoespacial.com/texto-diario/mostrar/6106067/sonda-bepicolombo-entra-orbita-mercurio-ocho-anos-pero-averia-bordo",
+          "language": "es",
+          "type": "national-language"
+        }
+      ],
+      "bar": "Fault detail from Spanish trade headline only."
+    },
+    {
+      "date": "2026-11-15",
+      "iso3": [
+        "USA"
+      ],
+      "status": "event",
+      "priority": "P2",
+      "exposure": "context",
+      "title": "ULA Vulcan suffers anomaly on first Amazon Leo launch",
+      "summary": "A ULA Vulcan rocket suffered an anomaly on its first Amazon Leo launch on the fifteenth of November. The cause is not known. The date of the next flight is not known.",
+      "why": "Amazon's constellation has lost one launch provider for now. Ariane 6 has delivered its batch.",
+      "sources": [
+        {
+          "outlet": "Via Satellite",
+          "url": "http://www.satellitetoday.com/launch/2026/11/15/ula-set-to-return-vulcan-to-flight-in-first-amazon-leo-launch/?itm_source=parsely-api",
+          "language": "en",
+          "type": "press"
+        }
+      ],
+      "bar": "Standing; no new source today."
+    }
+  ],
+  "regions": [
+    {
+      "id": "esa_eu",
+      "name": "ESA and EU",
+      "items": [
+        {
+          "date": "2026-11-18",
+          "iso3": [
+            "FRA",
+            "ITA"
+          ],
+          "status": "overview",
+          "priority": "P2",
+          "exposure": "policy risk",
+          "title": "European Commission recommends five-fold increase in competition fund",
+          "summary": "The vote of the tenth of November produced no outcome. The MaiaSpace contract remains unsigned. The Commission recommended on the eighteenth of November that its competition fund grow five times. Rome follows on the fifteenth of December.",
+          "why": "Funding for European launch competition is recommended but not decided. Rome is the next point at which it can move.",
+          "sources": [
+            {
+              "outlet": "Via Satellite",
+              "url": "https://www.satellitetoday.com/government-military/2026/11/18/european-commission-recommends-increasing-competition-fund-5x-to-mobilize-space-industry/",
+              "language": "en",
+              "type": "press"
+            }
+          ],
+          "bar": "Standing situation with dated next step."
+        }
+      ]
+    },
+    {
+      "id": "cee",
+      "name": "Central and Eastern Europe",
+      "items": [
+        {
+          "date": "2026-11-12",
+          "iso3": [
+            "UKR"
+          ],
+          "status": "statement",
+          "priority": "P2",
+          "exposure": "policy risk",
+          "title": "Ukraine reports more restrictions on Starshield access",
+          "summary": "Ukraine reported further restrictions to Starshield access on the twelfth of November. SpaceX has made no statement. The hope of a replacement by mid-2027 is unchanged.",
+          "why": "Ukraine's front-line communications depend on a service it does not control. No date is set for a change.",
+          "sources": [
+            {
+              "outlet": "Via Satellite",
+              "url": "https://www.satellitetoday.com/government-military/2026/11/12/ukraine-reports-more-restrictions-to-starshield-access/",
+              "language": "en",
+              "type": "press"
+            }
+          ],
+          "bar": "No SpaceX statement."
+        }
+      ]
+    },
+    {
+      "id": "nordics",
+      "name": "Nordics",
+      "items": [
+        {
+          "date": "2026-11-25",
+          "iso3": [
+            "SWE"
+          ],
+          "status": "overview",
+          "priority": "P3",
+          "exposure": "context",
+          "title": "Swedish space agency marks Voyager 1 reaching one light-day from Earth",
+          "summary": "The Swedish National Space Agency notes that Voyager 1 has reached a distance of one light-day from Earth. The agency's next national event, Rymddagen, is on the eighteenth of February 2027.",
+          "why": "The milestone was first filed on the eighteenth of November. The Swedish date is the next fixed Nordic marker.",
+          "sources": [
+            {
+              "outlet": "Rymdstyrelsen",
+              "url": "https://www.rymdstyrelsen.se/upptack-rymden/bloggen/2026/11/voyager-1-nar-en-ljusdygn-fran-jorden/",
+              "language": "sv",
+              "type": "government-or-embassy"
+            }
+          ],
+          "bar": "Standing; Rymddagen date from agency page."
+        }
+      ]
+    },
+    {
+      "id": "west",
+      "name": "Western and Southern Europe",
+      "items": [
+        {
+          "date": "2026-11-25",
+          "iso3": [
+            "ESP"
+          ],
+          "status": "event",
+          "priority": "P3",
+          "exposure": "opportunity",
+          "title": "Spain tests military Govsatcom access through SpainSat NG I",
+          "summary": "Spain has tested access to Govsatcom military satellite communications through SpainSat NG I for the first time. Station and content of the test are not known.",
+          "why": "It is a first use of the EU pooled service over a national satellite. Wider Govsatcom use is not yet dated.",
+          "sources": [
+            {
+              "outlet": "Infoespacial",
+              "url": "https://www.infoespacial.com/texto-diario/mostrar/6103479/espana-prueba-primera-vez-acceso-comunicaciones-militares-satelite-traves-govsatcom-traves-spainsat-ng-i",
+              "language": "es",
+              "type": "national-language"
+            }
+          ],
+          "bar": "Headline-level only."
+        },
+        {
+          "date": "2026-11-21",
+          "iso3": [
+            "ITA"
+          ],
+          "status": "overview",
+          "priority": "P3",
+          "exposure": "policy risk",
+          "title": "Italy conditions Iceye bid for Avio on national security guarantees",
+          "summary": "Italy has made Iceye's offer for rocket maker Avio conditional on national security guarantees. The terms of the guarantees are not known.",
+          "why": "A launcher maker may pass to a foreign satellite company. Rome's conditions will decide whether the bid proceeds.",
+          "sources": [
+            {
+              "outlet": "Infoespacial",
+              "url": "https://www.infoespacial.com/texto-diario/mostrar/6104657/italia-condiciona-oferta-iceye-fabricante-cohetes-avio-garantias-seguridad-nacional",
+              "language": "es",
+              "type": "national-language"
+            }
+          ],
+          "bar": "Filed 21 November; no new date."
+        }
+      ]
+    },
+    {
+      "id": "eurasia",
+      "name": "Eurasia and Central Asia",
+      "items": [
+        {
+          "date": "2026-11-25",
+          "iso3": [
+            "KAZ"
+          ],
+          "status": "overview",
+          "priority": "P3",
+          "exposure": "opportunity",
+          "title": "Amazon Leo and a Chinese rival set to enter Kazakhstan satellite internet market",
+          "summary": "Amazon Leo and a Chinese competitor are set to enter Kazakhstan's satellite internet market. No start date is given.",
+          "why": "Western and Chinese constellations are competing for a Central Asian market. Licensing dates are not known.",
+          "sources": [
+            {
+              "outlet": "The Times of Central Asia",
+              "url": "https://timesca.com/kazakhstan-satellite-internet-amazon-china/",
+              "language": "en",
+              "type": "press"
+            }
+          ],
+          "bar": "Undated source."
+        },
+        {
+          "date": "2026-11-25",
+          "iso3": [
+            "ARM"
+          ],
+          "status": "overview",
+          "priority": "P3",
+          "exposure": "opportunity",
+          "title": "Armenia's regulator and SpaceX discuss Starlink development",
+          "summary": "Armenia's telecom regulator and SpaceX discussed satellite internet and mobile communications. No licence or date is given.",
+          "why": "Starlink is seeking a position in the South Caucasus. A licence decision would be the marker.",
+          "sources": [
+            {
+              "outlet": "ARKA-Telecom",
+              "url": "https://arkatelecom.am/en/news/telecom/starlink-in-armenia-psrc-and-spacex-discuss-development-of-satellite-internet-and-mobile-communicati/",
+              "language": "en",
+              "type": "press"
+            }
+          ],
+          "bar": "Undated."
+        }
+      ]
+    },
+    {
+      "id": "mena",
+      "name": "Türkiye, Middle East and Africa",
+      "items": [
+        {
+          "date": "2026-11-25",
+          "iso3": [
+            "TUR"
+          ],
+          "status": "overview",
+          "priority": "P3",
+          "exposure": "context",
+          "title": "Türkiye sets 2028 launch for new microsatellite and 2027 for Turkic states satellite",
+          "summary": "Turkish trade press reports a new Turkish microsatellite will launch in 2028. A joint satellite of the Turkic states is to go up in 2027. The earlier proposal of nine billion lira for 2027 has no published split.",
+          "why": "Türkiye's programme dates now run to 2028. The funding split is still missing.",
+          "sources": [
+            {
+              "outlet": "Haber.Aero",
+              "url": "https://haber.aero/aero-gundem/turkiyenin-yeni-mikro-uydusu-2028de-firlatilacak/",
+              "language": "tr",
+              "type": "national-language"
+            }
+          ],
+          "bar": "Headline-level."
+        }
+      ]
+    },
+    {
+      "id": "asia_pac",
+      "name": "Asia Pacific",
+      "items": [
+        {
+          "date": "2026-11-24",
+          "iso3": [
+            "AUS"
+          ],
+          "status": "event",
+          "priority": "P3",
+          "exposure": "opportunity",
+          "title": "Southern Launch opens Koonibba observatory; Sunburnt Space announces largest rocket for 2027",
+          "summary": "The Koonibba Observatory and Stargazing Facility opened in South Australia on the twenty-fourth of November. Sunburnt Space announced its largest rocket yet, for a 2027 launch.",
+          "why": "Australia's launch sector is adding facilities and vehicles. The 2027 launch date is not yet fixed.",
+          "sources": [
+            {
+              "outlet": "Space Connect",
+              "url": "https://www.spaceconnectonline.com.au/industry/7384-koonibba-observatory-and-stargazing-facility-opens-in-south-australia",
+              "language": "en",
+              "type": "press"
+            }
+          ],
+          "bar": "Sunburnt Space filed 24 November."
+        },
+        {
+          "date": "2026-11-20",
+          "iso3": [
+            "JPN"
+          ],
+          "status": "statement",
+          "priority": "P3",
+          "exposure": "context",
+          "title": "JAXA publishes H3 transition release in Japanese",
+          "summary": "JAXA issued a release on the H3 transition on the twentieth of November, in Japanese only. The schedule and operator are not known.",
+          "why": "The future of Japan's main rocket depends on this transition. No date is set.",
+          "sources": [
+            {
+              "outlet": "Space Connect",
+              "url": "https://www.spaceconnectonline.com.au/launch/7382-sunburnt-space-announces-largest-rocket-yet-for-2027-launch",
+              "language": "en",
+              "type": "press"
+            }
+          ],
+          "bar": "Standing; no new source today."
+        }
+      ]
+    },
+    {
+      "id": "americas",
+      "name": "Americas",
+      "items": [
+        {
+          "date": "2026-11-09",
+          "iso3": [
+            "USA"
+          ],
+          "status": "contract",
+          "priority": "P2",
+          "exposure": "opportunity",
+          "title": "NASA makes Moon base contract awards; proposals due eighth of December",
+          "summary": "NASA made its Moon base awards on the ninth of November. Further proposals are due on the eighth of December.",
+          "why": "Awards are made and a second round is open. The proposal date is the next fixed point.",
+          "sources": [
+            {
+              "outlet": "Via Satellite",
+              "url": "https://www.satellitetoday.com/government-military/2026/11/09/nasa-makes-major-contract-awards-for-moon-base-development/",
+              "language": "en",
+              "type": "press"
+            }
+          ],
+          "bar": "Standing with date."
+        }
+      ]
+    }
+  ],
+  "priorities": [
+    {
+      "rank": "P1",
+      "title": "Ariane 6 delivers 36 Amazon Leo satellites",
+      "status": "event",
+      "exposure": "opportunity",
+      "implication": "Europe's launcher keeps flying for a major constellation while Vulcan is grounded by an unexplained failure.",
+      "iso3": [
+        "FRA",
+        "USA"
+      ],
+      "next": null
+    },
+    {
+      "rank": "P2",
+      "title": "ESA, EU and Rome",
+      "status": "overview",
+      "exposure": "policy risk",
+      "implication": "The vote of the tenth of November has no outcome and the MaiaSpace contract is unsigned.",
+      "iso3": [
+        "FRA",
+        "ITA"
+      ],
+      "next": {
+        "date": "2026-12-15",
+        "event": "Rome meeting"
+      }
+    },
+    {
+      "rank": "P3",
+      "title": "Artemis Moon base proposals",
+      "status": "contract",
+      "exposure": "opportunity",
+      "implication": "Awards are made and further proposals are due.",
+      "iso3": [
+        "USA"
+      ],
+      "next": {
+        "date": "2026-12-08",
+        "event": "Proposals due"
+      }
+    },
+    {
+      "rank": "P3",
+      "title": "Starshield and Ukraine",
+      "status": "statement",
+      "exposure": "policy risk",
+      "implication": "Access restrictions stand with no SpaceX statement.",
+      "iso3": [
+        "UKR",
+        "USA"
+      ],
+      "next": null
+    }
+  ],
+  "watchlist": [
+    {
+      "date": "2026-12-08",
+      "event": "Artemis proposals due",
+      "where": "United States",
+      "iso3": [
+        "USA"
+      ]
+    },
+    {
+      "date": "2026-12-15",
+      "event": "Rome meeting on European launch funding",
+      "where": "Italy",
+      "iso3": [
+        "ITA"
+      ]
+    }
+  ],
+  "milestones": [
+    {
+      "date": "2026-12-15",
+      "event": "Rome meeting",
+      "iso3": [
+        "ITA"
+      ],
+      "status": "scheduled",
+      "why": "Next point for the MaiaSpace contract and the competition fund."
+    },
+    {
+      "date": "2027-02-18",
+      "event": "Rymddagen, Swedish space day",
+      "iso3": [
+        "SWE"
+      ],
+      "status": "scheduled",
+      "why": "Next fixed Nordic national event."
+    }
+  ],
+  "competitive_watch": [],
+  "countries": [
+    {
+      "date": "2026-11-24",
+      "iso3": [
+        "FRA"
+      ],
+      "status": "event",
+      "priority": "P1",
+      "exposure": "opportunity",
+      "title": "ArianeGroup launches 36 more Amazon Leo satellites on tenth Ariane 6 flight",
+      "summary": "See global item.",
+      "why": "A European launcher delivered a commercial batch. Rome is the next policy date.",
+      "sources": [
+        {
+          "outlet": "ArianeGroup",
+          "url": "https://www.ariane.group/en/news/ariane-6-successfully-transports-another-36-amazon-leo-satellites-into-orbit-on-its-10th-flight/",
+          "language": "en",
+          "type": "press"
+        }
+      ],
+      "bar": "Duplicate of global for index.",
+      "items": []
+    },
+    {
+      "date": "2026-11-25",
+      "iso3": [
+        "PAK"
+      ],
+      "status": "event",
+      "priority": "P2",
+      "exposure": "competitive threat",
+      "title": "China launches Pakistani astronaut Muhammad Zeeshan Ali",
+      "summary": "See global item.",
+      "why": "Pakistan becomes China's first foreign astronaut partner. Mission length is unknown.",
+      "sources": [
+        {
+          "outlet": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/pakistani-astronaut-launches-into-space-aboard-chinese-rocket?traffic_source=rss",
+          "language": "en",
+          "type": "press"
+        }
+      ],
+      "bar": "Index duplicate.",
+      "items": []
+    },
+    {
+      "date": "2026-11-25",
+      "iso3": [
+        "KAZ"
+      ],
+      "status": "overview",
+      "priority": "P3",
+      "exposure": "opportunity",
+      "title": "Amazon Leo and a Chinese rival set to enter Kazakhstan",
+      "summary": "See eurasia item.",
+      "why": "Competing constellations are entering Central Asia. Dates are not known.",
+      "sources": [
+        {
+          "outlet": "The Times of Central Asia",
+          "url": "https://timesca.com/kazakhstan-satellite-internet-amazon-china/",
+          "language": "en",
+          "type": "press"
+        }
+      ],
+      "bar": "Index duplicate.",
+      "items": []
+    },
+    {
+      "date": "2026-11-25",
+      "iso3": [
+        "TUR"
+      ],
+      "status": "overview",
+      "priority": "P3",
+      "exposure": "context",
+      "title": "Türkiye sets 2028 microsatellite and 2027 Turkic satellite",
+      "summary": "See mena item.",
+      "why": "Programme dates run to 2028. The funding split is missing.",
+      "sources": [
+        {
+          "outlet": "Haber.Aero",
+          "url": "https://haber.aero/aero-gundem/turkiyenin-yeni-mikro-uydusu-2028de-firlatilacak/",
+          "language": "tr",
+          "type": "national-language"
+        }
+      ],
+      "bar": "Index duplicate.",
+      "items": []
+    },
+    {
+      "date": "2026-11-24",
+      "iso3": [
+        "AUS"
+      ],
+      "status": "event",
+      "priority": "P3",
+      "exposure": "opportunity",
+      "title": "Koonibba observatory opens; Sunburnt Space announces largest rocket",
+      "summary": "See asia_pac item.",
+      "why": "Australian launch capacity is growing. The 2027 date is not fixed.",
+      "sources": [
+        {
+          "outlet": "Space Connect",
+          "url": "https://www.spaceconnectonline.com.au/industry/7384-koonibba-observatory-and-stargazing-facility-opens-in-south-australia",
+          "language": "en",
+          "type": "press"
+        }
+      ],
+      "bar": "Index duplicate.",
+      "items": []
+    }
+  ],
+  "audio_script": "Good morning. It is Wednesday, the twenty-fifth of November, and this is the Sovereign Space ATLAS briefing. Ariane 6 has put thirty-six more Amazon Leo satellites into orbit. A Pakistani astronaut has launched aboard a Chinese rocket. And Europe's BepiColombo probe is in orbit around Mercury despite an unexpected problem.\n\nAriane 6 has launched another thirty-six Amazon Leo satellites. ArianeGroup says the tenth Ariane 6 flight, mission VA271, delivered them on the twenty-fourth of November, after the window moved from the twenty-third. Amazon's earlier Leo launch, on a Vulcan rocket, failed on the fifteenth of November. The cause of that failure and the date of the next Vulcan flight are not known. This matters because Amazon's constellation has lost one launch provider for now, while a European launcher has delivered a large commercial batch on a rescheduled date. Note that this rests on a company statement only; we have no independent confirmation of orbit insertion in hand. The next date that matters for European launch policy is the fifteenth of December, in Rome.\n\nIn Europe, ESA says BepiColombo is safely in orbit around Mercury, despite an unexpected challenge. Spanish trade coverage mentions a fault on board. The nature of the fault is not public, and the science start date is not known. That date will show how serious the problem is. ESA's Euclid telescope has also broken its own quasar record, by forty million years. On policy, the vote of the tenth of November produced no outcome, and the MaiaSpace contract is unsigned. On the eighteenth of November the European Commission recommended that its competition fund grow five times. That funding is recommended but not decided. Rome on the fifteenth of December is the next point at which it can move.\n\nIn Ukraine, access to Starshield remains the live question. Kyiv reported further restrictions on the twelfth of November. SpaceX has made no statement. The hope of a replacement by mid-2027 is unchanged. Ukraine's front-line communications depend on a service it does not control, and no date is set for a change.\n\nIn Sweden, the national space agency has noted that Voyager 1 has reached a distance of one light-day from Earth. The agency's next national event, Rymddagen, is on the eighteenth of February, 2027. That is the next fixed Nordic marker.\n\nIn Spain, the first test of military Govsatcom access through the SpainSat NG I satellite has been carried out. Details of the test are not given. It is a first use of the EU pooled service over a national satellite, though wider Govsatcom use is not yet dated. In Italy, the government has made Iceye's offer for rocket maker Avio conditional on national security guarantees. The terms are not known. A launcher maker may pass to a foreign satellite company, and Rome's conditions will decide whether the bid proceeds.\n\nIn Kazakhstan, Amazon Leo and a Chinese rival are set to enter the satellite internet market. No start date is given, and licensing dates are not known. In Armenia, the telecom regulator and SpaceX have discussed satellite internet and mobile services. No licence has been announced. A licence decision would be the marker to watch.\n\nIn Türkiye, a new microsatellite is to launch in 2028, and a joint satellite of the Turkic states in 2027. The earlier proposal of nine billion lira for 2027 still has no published split. The funding split is the missing piece.\n\nIn China, a Pakistani astronaut, Muhammad Zeeshan Ali, has launched on a Chinese rocket. Spanish press calls him the first foreign astronaut admitted to China's space station. Mission length is not given. China is opening its station to a South Asian partner, which widens its list of space partners beyond Russia. In Australia, the Koonibba Observatory and Stargazing Facility opened in South Australia on the twenty-fourth of November, and Sunburnt Space announced its largest rocket yet, for 2027. The 2027 launch date is not yet fixed. In Japan, JAXA's release of the twentieth of November on the H3 transition is in Japanese only. The schedule and operator are not known.\n\nIn the United States, NASA made its Moon base awards on the ninth of November. Further proposals are due on the eighth of December. The Vulcan cause remains unknown.\n\nWhat we are tracking this week is the cause of the Vulcan failure, any SpaceX statement on Starshield, and the BepiColombo science start date. This month it is the Artemis proposals due on the eighth of December and the Rome meeting on the fifteenth of December. The heads-up date beyond that is the eighteenth of February, for Sweden's Rymddagen. That is the briefing for Wednesday, the twenty-fifth of November.",
+  "audio_sections": [
+    {
+      "id": "opening",
+      "title": "Opening",
+      "text": "Good morning. It is Wednesday, the twenty-fifth of November, and this is the Sovereign Space ATLAS briefing. Ariane 6 has put thirty-six more Amazon Leo satellites into orbit. A Pakistani astronaut has launched aboard a Chinese rocket. And Europe's BepiColombo probe is in orbit around Mercury despite an unexpected problem."
+    },
+    {
+      "id": "top",
+      "title": "Top story",
+      "text": "Ariane 6 has launched another thirty-six Amazon Leo satellites. ArianeGroup says the tenth Ariane 6 flight, mission VA271, delivered them on the twenty-fourth of November, after the window moved from the twenty-third. Amazon's earlier Leo launch, on a Vulcan rocket, failed on the fifteenth of November. The cause of that failure and the date of the next Vulcan flight are not known. This matters because Amazon's constellation has lost one launch provider for now, while a European launcher has delivered a large commercial batch on a rescheduled date. Note that this rests on a company statement only; we have no independent confirmation of orbit insertion in hand. The next date that matters for European launch policy is the fifteenth of December, in Rome."
+    },
+    {
+      "id": "esa_eu",
+      "title": "ESA and EU",
+      "text": "In Europe, ESA says BepiColombo is safely in orbit around Mercury, despite an unexpected challenge. Spanish trade coverage mentions a fault on board. The nature of the fault is not public, and the science start date is not known. That date will show how serious the problem is. ESA's Euclid telescope has also broken its own quasar record, by forty million years. On policy, the vote of the tenth of November produced no outcome, and the MaiaSpace contract is unsigned. On the eighteenth of November the European Commission recommended that its competition fund grow five times. That funding is recommended but not decided. Rome on the fifteenth of December is the next point at which it can move."
+    },
+    {
+      "id": "cee",
+      "title": "Central and Eastern Europe",
+      "text": "In Ukraine, access to Starshield remains the live question. Kyiv reported further restrictions on the twelfth of November. SpaceX has made no statement. The hope of a replacement by mid-2027 is unchanged. Ukraine's front-line communications depend on a service it does not control, and no date is set for a change."
+    },
+    {
+      "id": "nordics",
+      "title": "Nordics",
+      "text": "In Sweden, the national space agency has noted that Voyager 1 has reached a distance of one light-day from Earth. The agency's next national event, Rymddagen, is on the eighteenth of February, 2027. That is the next fixed Nordic marker."
+    },
+    {
+      "id": "west",
+      "title": "Western and Southern Europe",
+      "text": "In Spain, the first test of military Govsatcom access through the SpainSat NG I satellite has been carried out. Details of the test are not given. It is a first use of the EU pooled service over a national satellite, though wider Govsatcom use is not yet dated. In Italy, the government has made Iceye's offer for rocket maker Avio conditional on national security guarantees. The terms are not known. A launcher maker may pass to a foreign satellite company, and Rome's conditions will decide whether the bid proceeds."
+    },
+    {
+      "id": "eurasia",
+      "title": "Eurasia and Central Asia",
+      "text": "In Kazakhstan, Amazon Leo and a Chinese rival are set to enter the satellite internet market. No start date is given, and licensing dates are not known. In Armenia, the telecom regulator and SpaceX have discussed satellite internet and mobile services. No licence has been announced. A licence decision would be the marker to watch."
+    },
+    {
+      "id": "mena",
+      "title": "Türkiye, Middle East and Africa",
+      "text": "In Türkiye, a new microsatellite is to launch in 2028, and a joint satellite of the Turkic states in 2027. The earlier proposal of nine billion lira for 2027 still has no published split. The funding split is the missing piece."
+    },
+    {
+      "id": "asia_pac",
+      "title": "Asia Pacific",
+      "text": "In China, a Pakistani astronaut, Muhammad Zeeshan Ali, has launched on a Chinese rocket. Spanish press calls him the first foreign astronaut admitted to China's space station. Mission length is not given. China is opening its station to a South Asian partner, which widens its list of space partners beyond Russia. In Australia, the Koonibba Observatory and Stargazing Facility opened in South Australia on the twenty-fourth of November, and Sunburnt Space announced its largest rocket yet, for 2027. The 2027 launch date is not yet fixed. In Japan, JAXA's release of the twentieth of November on the H3 transition is in Japanese only. The schedule and operator are not known."
+    },
+    {
+      "id": "americas",
+      "title": "Americas",
+      "text": "In the United States, NASA made its Moon base awards on the ninth of November. Further proposals are due on the eighth of December. The Vulcan cause remains unknown."
+    },
+    {
+      "id": "close",
+      "title": "Close",
+      "text": "What we are tracking this week is the cause of the Vulcan failure, any SpaceX statement on Starshield, and the BepiColombo science start date. This month it is the Artemis proposals due on the eighth of December and the Rome meeting on the fifteenth of December. The heads-up date beyond that is the eighteenth of February, for Sweden's Rymddagen. That is the briefing for Wednesday, the twenty-fifth of November."
+    }
+  ],
+  "headline": "ArianeGroup launches 36 more Amazon Leo satellites on tenth Ariane 6 flight",
+  "summary": [
+    "ArianeGroup says Ariane 6 carried another 36 Amazon Leo satellites into orbit on its tenth flight on the twenty-fourth of November.",
+    "A Pakistani astronaut, Muhammad Zeeshan Ali, has launched aboard a Chinese rocket.",
+    "ESA says BepiColombo is in Mercury orbit despite an unexpected challenge.",
+    "Amazon's earlier Leo launch on a Vulcan rocket failed on the fifteenth of November, with the cause unknown.",
+    "The Rome meeting on the fifteenth of December is the next European policy date."
+  ],
+  "bottom_line": "Ariane 6 has delivered its batch while the ESA and EU funding questions remain undecided. The next date that matters is the fifteenth of December, in Rome.",
+  "edition": "06:00 UTC",
+  "generated_at": "2026-11-25T04:09:09+00:00"
+}

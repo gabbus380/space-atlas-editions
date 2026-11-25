@@ -386,3 +386,13 @@ Episodes:
 - Blue Origin: January return unconfirmed; no source.
 - Sunburnt Space 23 November filed; H3 JAXA 20 November, schedule unknown.
 - Türkiye: microsatellite 2028 headline; 9 billion lira no split.
+
+
+## 2026-11-25
+- VA271: launched 24 November per ArianeGroup; top story.
+- ESA, EU, Rome: vote 10 November no outcome; Rome 15 December.
+- Artemis: proposals due 8 December.
+- Blue Origin: no source today, not filed.
+- Starshield Ukraine: mid-2027 hope unchanged; no SpaceX statement.
+- Vulcan: cause and next flight unknown.
+- Voyager 1, BepiColombo, Pakistan astronaut, Kazakhstan, Armenia filed.
