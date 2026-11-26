@@ -1,0 +1,809 @@
+{
+  "date": "2026-11-26",
+  "headline": "US authorises SpaceX to deploy one million data-centre satellites; Ariane 6 flies 36 Amazon Leo satellites",
+  "audio_script": "Good morning. It is Thursday, the twenty-sixth of November, and this is the Sovereign Space ATLAS briefing. The United States has authorised SpaceX to deploy one million satellites for data centres in space. Ariane 6 has put thirty-six Amazon Leo satellites into orbit and its next launch is set for the seventeenth of December. And Pakistan's first astronaut is now part of China's space station program.\n\nThe United States has authorised SpaceX to launch one million satellites to build data centres in space. Astronomers have objected to the permit. The approving authority, the conditions attached and any deployment schedule have not been stated in the material available. This is the one pathway that moved today. It sets the largest constellation approval on record against an astronomy community that is already pushing back.\n\nIn Europe, Ariane 6 flight VA271 launched on the twenty-fourth of November. It carried thirty-six Amazon Leo satellites on the rocket's tenth flight. ArianeGroup has set the next launch for the seventeenth of December, carrying the Metop-SGB1 weather satellite. In Brussels, the European Commission recommended on the eighteenth of November a fivefold increase in its space competition fund. The European Space Agency vote of the tenth of November produced no outcome, and the MaiaSpace contract remains unsigned. The next decision point is Rome on the fifteenth of December. ESA says the Hera spacecraft has imaged a stadium-sized crater on the asteroid Dimorphos, left by the DART impact. ESA also says BepiColombo is safely in Mercury orbit despite an unexpected challenge, and that Euclid has broken its own quasar distance record by forty million years.\n\nIn Ukraine, officials said on the twelfth of November that there are further restrictions on Starshield access. SpaceX has made no statement. The hope for restored access by mid-2027 is unchanged, and no date has been set for a decision.\n\nIn Sweden, the space agency Rymdstyrelsen has published a note on Voyager 1 reaching a light-day from Earth. It has also set its next national Space Day for the eighteenth of February 2027.\n\nIn Spain, astronomers have objected to the SpaceX permit for one million orbital data-centre satellites. The objection is public, but no regulator has yet responded in the material available.\n\nIn Armenia, the telecoms regulator and SpaceX have discussed Starlink and mobile services. Armenia and SpaceX have also discussed a possible launch of three satellites, and the use of Grok in education. No agreement or date has been announced.\n\nIn Kuwait, Kuwait University has signed an agreement with the Kuwait Foundation for the Advancement of Sciences, at the direction of the Amir, to establish and operate a national venture whose full title is cut off in the source. In Algeria, the space agency ASAL has filed its report on the international committee on satellite navigation meeting in Goa, India, from the twenty-fifth to the thirtieth of October. It has also marked ten years of Alsat-2B in orbit.\n\nIn Pakistan, the first foreign astronaut to fly to China's space station is Pakistani, Muhammad Zeeshan Ali. Al Jazeera notes that verses by the Urdu poet Iqbal have become a point of shared pride in India and Pakistan. In Australia, the national space agency's latest sector update remains its standing statement. No date has been set for the next one.\n\nIn the United States, Cerberus Capital Management has acquired the satellite manufacturing business of Airbus U.S. Space and Defense. Separately, Elon Musk has pledged two SpaceX shares for every child in the United States. No terms have been published.\n\nWhat we are tracking this week is the authority, conditions and timeline behind the SpaceX million-satellite approval, and any regulatory reply to the astronomers. We are also tracking the cause of the Vulcan Centaur failure of the fifteenth of November, and any SpaceX statement on Starshield and Ukraine. What we are tracking this month is the Artemis proposals due on the eighth of December, the Rome vote on the fifteenth of December, and the Ariane 6 launch with Metop-SGB1 on the seventeenth of December. The heads-up dates are the eighth, the fifteenth and the seventeenth of December. Further out is the Swedish Space Day on the eighteenth of February. That is the briefing for Thursday, the twenty-sixth of November.",
+  "audio_sections": [
+    {
+      "id": "opening",
+      "title": "Opening",
+      "text": "Good morning. It is Thursday, the twenty-sixth of November, and this is the Sovereign Space ATLAS briefing. The United States has authorised SpaceX to deploy one million satellites for data centres in space. Ariane 6 has put thirty-six Amazon Leo satellites into orbit and its next launch is set for the seventeenth of December. And Pakistan's first astronaut is now part of China's space station program."
+    },
+    {
+      "id": "top",
+      "title": "Top story",
+      "text": "The United States has authorised SpaceX to launch one million satellites to build data centres in space. Astronomers have objected to the permit. The approving authority, the conditions attached and any deployment schedule have not been stated in the material available. This is the one pathway that moved today. It sets the largest constellation approval on record against an astronomy community that is already pushing back."
+    },
+    {
+      "id": "esa_eu",
+      "title": "ESA and EU",
+      "text": "In Europe, Ariane 6 flight VA271 launched on the twenty-fourth of November. It carried thirty-six Amazon Leo satellites on the rocket's tenth flight. ArianeGroup has set the next launch for the seventeenth of December, carrying the Metop-SGB1 weather satellite. In Brussels, the European Commission recommended on the eighteenth of November a fivefold increase in its space competition fund. The European Space Agency vote of the tenth of November produced no outcome, and the MaiaSpace contract remains unsigned. The next decision point is Rome on the fifteenth of December. ESA says the Hera spacecraft has imaged a stadium-sized crater on the asteroid Dimorphos, left by the DART impact. ESA also says BepiColombo is safely in Mercury orbit despite an unexpected challenge, and that Euclid has broken its own quasar distance record by forty million years."
+    },
+    {
+      "id": "cee",
+      "title": "Central and Eastern Europe",
+      "text": "In Ukraine, officials said on the twelfth of November that there are further restrictions on Starshield access. SpaceX has made no statement. The hope for restored access by mid-2027 is unchanged, and no date has been set for a decision."
+    },
+    {
+      "id": "nordics",
+      "title": "Nordics",
+      "text": "In Sweden, the space agency Rymdstyrelsen has published a note on Voyager 1 reaching a light-day from Earth. It has also set its next national Space Day for the eighteenth of February 2027."
+    },
+    {
+      "id": "west",
+      "title": "Western and Southern Europe",
+      "text": "In Spain, astronomers have objected to the SpaceX permit for one million orbital data-centre satellites. The objection is public, but no regulator has yet responded in the material available."
+    },
+    {
+      "id": "eurasia",
+      "title": "Eurasia and Central Asia",
+      "text": "In Armenia, the telecoms regulator and SpaceX have discussed Starlink and mobile services. Armenia and SpaceX have also discussed a possible launch of three satellites, and the use of Grok in education. No agreement or date has been announced."
+    },
+    {
+      "id": "mena",
+      "title": "Türkiye, Middle East and Africa",
+      "text": "In Kuwait, Kuwait University has signed an agreement with the Kuwait Foundation for the Advancement of Sciences, at the direction of the Amir, to establish and operate a national venture whose full title is cut off in the source. In Algeria, the space agency ASAL has filed its report on the international committee on satellite navigation meeting in Goa, India, from the twenty-fifth to the thirtieth of October. It has also marked ten years of Alsat-2B in orbit."
+    },
+    {
+      "id": "asia_pac",
+      "title": "Asia Pacific",
+      "text": "In Pakistan, the first foreign astronaut to fly to China's space station is Pakistani, Muhammad Zeeshan Ali. Al Jazeera notes that verses by the Urdu poet Iqbal have become a point of shared pride in India and Pakistan. In Australia, the national space agency's latest sector update remains its standing statement. No date has been set for the next one."
+    },
+    {
+      "id": "americas",
+      "title": "Americas",
+      "text": "In the United States, Cerberus Capital Management has acquired the satellite manufacturing business of Airbus U.S. Space and Defense. Separately, Elon Musk has pledged two SpaceX shares for every child in the United States. No terms have been published."
+    },
+    {
+      "id": "close",
+      "title": "Close",
+      "text": "What we are tracking this week is the authority, conditions and timeline behind the SpaceX million-satellite approval, and any regulatory reply to the astronomers. We are also tracking the cause of the Vulcan Centaur failure of the fifteenth of November, and any SpaceX statement on Starshield and Ukraine. What we are tracking this month is the Artemis proposals due on the eighth of December, the Rome vote on the fifteenth of December, and the Ariane 6 launch with Metop-SGB1 on the seventeenth of December. The heads-up dates are the eighth, the fifteenth and the seventeenth of December. Further out is the Swedish Space Day on the eighteenth of February. That is the briefing for Thursday, the twenty-sixth of November."
+    }
+  ],
+  "global": [
+    {
+      "date": "2026-11-26",
+      "iso3": [
+        "USA"
+      ],
+      "status": "event",
+      "priority": "P1",
+      "exposure": "competitive threat",
+      "title": "United States authorises SpaceX to deploy one million data-centre satellites",
+      "summary": "The United States has authorised SpaceX to deploy one million satellites to build data centres in space. Astronomers have objected to the permit. The approving authority, conditions and deployment schedule are not stated in the material available. Paraguay's La Nación and Sweden's Ny Teknik carried the same news. The approval is the largest constellation permission on the record of this briefing.",
+      "why": "It moves a new pathway from proposal to permission. It sets up a dispute with astronomers over orbital crowding.",
+      "sources": [
+        {
+          "outlet": "Infoespacial",
+          "url": "https://www.infoespacial.com/texto-diario/mostrar/6109282/eeuu-autoriza-spacex-desplegar-millon-satelites-crear-centros-datos-espacio",
+          "language": "es",
+          "type": "press"
+        },
+        {
+          "outlet": "La Nación (Paraguay)",
+          "url": "https://www.lanacion.com.py/mundo/2026/11/26/ee-uu-autoriza-a-spacex-a-lanzar-un-millon-de-satelites-para-centros-de-datos-espaciales/",
+          "language": "es",
+          "type": "national-language"
+        },
+        {
+          "outlet": "Ny Teknik",
+          "url": "https://www.nyteknik.se/rymden/space-x-far-skicka-upp-en-miljon-satelliter-ska-bygga-datacenter-i-rymden/4516998",
+          "language": "sv",
+          "type": "national-language"
+        }
+      ],
+      "bar": "Headline-level only; authority and conditions unconfirmed. Do not name the regulator."
+    },
+    {
+      "date": "2026-11-24",
+      "iso3": [
+        "FRA",
+        "USA"
+      ],
+      "status": "event",
+      "priority": "P2",
+      "exposure": "context",
+      "title": "ArianeGroup launches 36 Amazon Leo satellites and sets Ariane 6 next flight",
+      "summary": "Ariane 6 launched on the twenty-fourth of November on its tenth flight. It carried thirty-six Amazon Leo satellites. ArianeGroup has set the next launch for the seventeenth of December. That flight will carry the Metop-SGB1 weather satellite. The launch had slipped from the twenty-third of November.",
+      "why": "Europe's heavy launcher is flying on a regular cadence. The seventeenth of December is the next test of it.",
+      "sources": [
+        {
+          "outlet": "ArianeGroup",
+          "url": "https://www.ariane.group/en/news/ariane-6-successfully-transports-another-36-amazon-leo-satellites-into-orbit-on-its-10th-flight/",
+          "language": "en",
+          "type": "press"
+        },
+        {
+          "outlet": "ArianeGroup",
+          "url": "https://www.ariane.group/en/news/ariane-6-nachster-start-am-17-dezember-2026-mit-dem-wettersatelliten-metop-sgb1/",
+          "language": "en",
+          "type": "press"
+        }
+      ],
+      "bar": "Company pages count as one source, the company."
+    },
+    {
+      "date": "2026-11-25",
+      "iso3": [
+        "USA",
+        "AUS"
+      ],
+      "status": "event",
+      "priority": "P3",
+      "exposure": "context",
+      "title": "ESA releases Hera images of stadium-sized crater on Dimorphos",
+      "summary": "ESA says Hera has revealed a stadium-sized crater on the asteroid Dimorphos. The crater was left by the DART spacecraft impact. The release is dated the twenty-fifth of November. Australia's public broadcaster carried new photos on the twenty-sixth of November. The images update an earlier filing.",
+      "why": "It gives the first detailed view of the outcome of the first planetary defence test. It adds to the case for follow-on missions.",
+      "sources": [
+        {
+          "outlet": "ESA",
+          "url": "https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/hera-reveals-stadium-sized-asteroid-crater-left-after-spacecraft-impact",
+          "language": "en",
+          "type": "government-or-embassy"
+        },
+        {
+          "outlet": "ABC News (Australia)",
+          "url": "https://www.abc.net.au/news/2026-11-26/new-photos-of-struck-asteroid-dimorphos/107428078",
+          "language": "en",
+          "type": "press"
+        }
+      ],
+      "bar": "Updates the 24 November filing; not a new mission."
+    }
+  ],
+  "regions": [
+    {
+      "id": "esa_eu",
+      "name": "ESA and EU",
+      "items": [
+        {
+          "date": "2026-11-18",
+          "iso3": [
+            "FRA"
+          ],
+          "status": "statement",
+          "priority": "P2",
+          "exposure": "policy risk",
+          "title": "European Commission recommends fivefold increase to space competition fund",
+          "summary": "The European Commission recommended on the eighteenth of November a fivefold increase in its competition fund for the space industry. The ESA vote of the tenth of November produced no outcome. The MaiaSpace contract remains unsigned. The next decision point is Rome on the fifteenth of December. No fund figure is in the material available.",
+          "why": "The fund and the launcher contract are the open European decisions. Rome is where they are expected to meet.",
+          "sources": [
+            {
+              "outlet": "Via Satellite",
+              "url": "https://www.satellitetoday.com/government-military/2026/11/18/european-commission-recommends-increasing-competition-fund-5x-to-mobilize-space-industry/",
+              "language": "en",
+              "type": "press"
+            }
+          ],
+          "bar": "MaiaSpace status carried from earlier notes."
+        },
+        {
+          "date": "2026-11-24",
+          "iso3": [
+            "ITA"
+          ],
+          "status": "event",
+          "priority": "P3",
+          "exposure": "context",
+          "title": "ESA reports BepiColombo in Mercury orbit and Euclid quasar record",
+          "summary": "ESA says BepiColombo is safely in Mercury orbit despite an unexpected challenge. ESA also says Euclid has broken its own quasar record by forty million years. The BepiColombo release is dated the twenty-third of November. The Euclid release is dated the twenty-fourth. The science start date for BepiColombo is not given.",
+          "why": "Both are agency milestones with data to follow. The Mercury science start is the date to watch.",
+          "sources": [
+            {
+              "outlet": "ESA",
+              "url": "https://www.esa.int/articles/about-us/directorates/operations/bepicolombo-safely-in-mercury-orbit-despite-unexpected-challenge",
+              "language": "en",
+              "type": "government-or-embassy"
+            },
+            {
+              "outlet": "ESA",
+              "url": "https://www.esa.int/articles/about-us/directorates/science/euclid/euclid-breaks-own-quasar-record-by-40-million-years",
+              "language": "en",
+              "type": "government-or-embassy"
+            }
+          ],
+          "bar": "Italy tag is a placeholder for ESA; remove if disliked."
+        }
+      ]
+    },
+    {
+      "id": "cee",
+      "name": "Central and Eastern Europe",
+      "items": [
+        {
+          "date": "2026-11-12",
+          "iso3": [
+            "UKR"
+          ],
+          "status": "statement",
+          "priority": "P2",
+          "exposure": "policy risk",
+          "title": "Ukraine reports further restrictions on Starshield access",
+          "summary": "Ukraine reported on the twelfth of November more restrictions on Starshield access. SpaceX has made no statement. The hope for restored access by mid-2027 is unchanged. No decision date has been set. Lithuanian press frames the issue as a race against time for Ukraine.",
+          "why": "Ukraine's satellite communications depend on a US company's decisions. No date exists for any change.",
+          "sources": [
+            {
+              "outlet": "Via Satellite",
+              "url": "https://www.satellitetoday.com/government-military/2026/11/12/ukraine-reports-more-restrictions-to-starshield-access/",
+              "language": "en",
+              "type": "press"
+            },
+            {
+              "outlet": "TV3 Lietuva",
+              "url": "https://www.tv3.lt/naujiena/naujienos/rusijai-kritiskai-svarbus-starlink-analogas-palydovai-zombiai-ir-ukrainos-lenktynes-su-laiku-n1553523",
+              "language": "lt",
+              "type": "national-language"
+            }
+          ],
+          "bar": "Standing situation; no new SpaceX statement."
+        }
+      ]
+    },
+    {
+      "id": "nordics",
+      "name": "Nordics",
+      "items": [
+        {
+          "date": "2026-11-02",
+          "iso3": [
+            "SWE"
+          ],
+          "status": "overview",
+          "priority": "P3",
+          "exposure": "context",
+          "title": "Swedish space agency sets Space Day for eighteenth of February 2027",
+          "summary": "Rymdstyrelsen has set its next Space Day for the eighteenth of February 2027. It has also published a note on Voyager 1 reaching a light-day from Earth. The agency is also running active technology calls. The Space Day is the next dated event.",
+          "why": "The Swedish agency's calendar is set. The Space Day is the next public marker.",
+          "sources": [
+            {
+              "outlet": "Rymdstyrelsen",
+              "url": "https://www.rymdstyrelsen.se/nyheter/2026/rymddagen-2027-blir-den-18-februari/",
+              "language": "sv",
+              "type": "national-language"
+            },
+            {
+              "outlet": "Rymdstyrelsen",
+              "url": "https://www.rymdstyrelsen.se/upptack-rymden/bloggen/2026/11/voyager-1-nar-en-ljusdygn-fran-jorden/",
+              "language": "sv",
+              "type": "national-language"
+            }
+          ],
+          "bar": "Standing item."
+        }
+      ]
+    },
+    {
+      "id": "west",
+      "name": "Western and Southern Europe",
+      "items": [
+        {
+          "date": "2026-11-26",
+          "iso3": [
+            "ESP"
+          ],
+          "status": "statement",
+          "priority": "P2",
+          "exposure": "policy risk",
+          "title": "Astronomers object to SpaceX permit for one million orbital data centres",
+          "summary": "Astronomers have objected to the permit for one million SpaceX data-centre satellites. The objection was carried by Spain's El País on the twenty-sixth of November. No regulator has responded in the material available. No review date is given.",
+          "why": "The objection is the first organised response to the permit. A regulatory reply is the next thing to watch.",
+          "sources": [
+            {
+              "outlet": "El País",
+              "url": "https://elpais.com/ciencia/2026-11-26/los-astronomos-se-rebelan-contra-el-permiso-de-elon-musk-para-desplegar-un-millon-de-centros-de-datos-en-el-espacio.html",
+              "language": "es",
+              "type": "national-language"
+            }
+          ],
+          "bar": "Headline only; no named astronomer or body."
+        }
+      ]
+    },
+    {
+      "id": "eurasia",
+      "name": "Eurasia and Central Asia",
+      "items": [
+        {
+          "date": "2026-11-26",
+          "iso3": [
+            "ARM"
+          ],
+          "status": "overview",
+          "priority": "P3",
+          "exposure": "opportunity",
+          "title": "Armenia and SpaceX discuss Starlink, mobile services and three satellites",
+          "summary": "Armenia's telecoms regulator and SpaceX have discussed satellite internet and mobile services. Armenia and SpaceX have also discussed using Grok in education and a possible launch of three satellites. No agreement has been announced. No date has been set.",
+          "why": "Armenia is weighing a direct commercial link with SpaceX. No decision date exists.",
+          "sources": [
+            {
+              "outlet": "ARKA-Telecom",
+              "url": "https://arkatelecom.am/en/news/telecom/armenia-and-spacex-discuss-use-of-grok-in-education-and-potential-launch-of-three-satellites/",
+              "language": "en",
+              "type": "press"
+            },
+            {
+              "outlet": "ARKA-Telecom",
+              "url": "https://arkatelecom.am/en/news/telecom/starlink-in-armenia-psrc-and-spacex-discuss-development-of-satellite-internet-and-mobile-communicati/",
+              "language": "en",
+              "type": "press"
+            }
+          ],
+          "bar": "Source pages undated; standing item."
+        }
+      ]
+    },
+    {
+      "id": "mena",
+      "name": "Türkiye, Middle East and Africa",
+      "items": [
+        {
+          "date": "2026-11-26",
+          "iso3": [
+            "KWT"
+          ],
+          "status": "agreement",
+          "priority": "P3",
+          "exposure": "opportunity",
+          "title": "Kuwait University and KFAS sign agreement to establish a national venture",
+          "summary": "Kuwait University has signed an agreement with the Kuwait Foundation for the Advancement of Sciences. It follows directives from the Amir. The agreement is to establish and operate a national venture whose full title is cut off in the source. No launch date or budget is given.",
+          "why": "It is a Gulf state-backed move in space science. Scope is unknown.",
+          "sources": [
+            {
+              "outlet": "Kuwait University",
+              "url": "https://vpaa.ku.edu.kw/media-center/news/kfas24",
+              "language": "en",
+              "type": "government-or-embassy"
+            }
+          ],
+          "bar": "Title truncated in source."
+        },
+        {
+          "date": "2026-11-26",
+          "iso3": [
+            "DZA"
+          ],
+          "status": "overview",
+          "priority": "P3",
+          "exposure": "context",
+          "title": "Algerian Space Agency files report on satellite navigation committee meeting in Goa",
+          "summary": "ASAL has filed its report on the twentieth meeting of the international committee on global navigation satellite systems. The meeting was in Goa, India, from the twenty-fifth to the thirtieth of October. ASAL also marked ten years of Alsat-2B in orbit. No new program date is given.",
+          "why": "It shows Algeria's participation in navigation coordination. No decision is pending.",
+          "sources": [
+            {
+              "outlet": "Algerian Space Agency (ASAL)",
+              "url": "https://asal.dz/?p=13593",
+              "language": "fr",
+              "type": "national-language"
+            },
+            {
+              "outlet": "Algerian Space Agency (ASAL)",
+              "url": "https://asal.dz/?p=13542",
+              "language": "fr",
+              "type": "national-language"
+            }
+          ],
+          "bar": "Standing item."
+        }
+      ]
+    },
+    {
+      "id": "asia_pac",
+      "name": "Asia Pacific",
+      "items": [
+        {
+          "date": "2026-11-26",
+          "iso3": [
+            "PAK",
+            "CHN",
+            "IND"
+          ],
+          "status": "event",
+          "priority": "P2",
+          "exposure": "context",
+          "title": "China carries first foreign astronaut, a Pakistani, to its space station",
+          "summary": "China has taken its first foreign astronaut to its space station, Pakistani Muhammad Zeeshan Ali. Spain's El País and ABC carried the news on the twenty-fourth and twenty-fifth of November. Al Jazeera on the twenty-sixth says verses by Urdu poet Iqbal have become a point of shared pride in India and Pakistan. The length of the stay is not in the material available.",
+          "why": "China is opening its station to a partner country. South Asia reacts across the India and Pakistan divide.",
+          "sources": [
+            {
+              "outlet": "El País",
+              "url": "https://elpais.com/ciencia/2026-11-24/china-abre-las-puertas-de-su-palacio-celestial-al-primer-astronauta-extranjero-el-pakistani-muhammad-zeeshan-ali.html",
+              "language": "es",
+              "type": "national-language"
+            },
+            {
+              "outlet": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/26/iqbal-in-space-urdu-poets-verses-unite-india-pakistan-beyond-earth?traffic_source=rss",
+              "language": "en",
+              "type": "press"
+            }
+          ],
+          "bar": "Stay length unknown."
+        },
+        {
+          "date": "2026-11-26",
+          "iso3": [
+            "AUS"
+          ],
+          "status": "overview",
+          "priority": "P3",
+          "exposure": "context",
+          "title": "Australian Space Agency publishes monthly sector update",
+          "summary": "The Australian Space Agency has published its latest sector update, dated October 2026. It also carries a profile of astronaut Katherine Bennell-Pegg. No new decision is in it. No date for the next update is given.",
+          "why": "It is a standing view of the Australian sector. No pending decision.",
+          "sources": [
+            {
+              "outlet": "Australian Space Agency",
+              "url": "https://www.space.gov.au/news-and-media/the-latest-from-the-australian-space-sector-october-2026",
+              "language": "en",
+              "type": "government-or-embassy"
+            }
+          ],
+          "bar": "Standing item."
+        }
+      ]
+    },
+    {
+      "id": "americas",
+      "name": "Americas",
+      "items": [
+        {
+          "date": "2026-11-24",
+          "iso3": [
+            "USA"
+          ],
+          "status": "agreement",
+          "priority": "P2",
+          "exposure": "opportunity",
+          "title": "Cerberus acquires Airbus U.S. Space and Defense satellite manufacturing business",
+          "summary": "Cerberus Capital Management has acquired the satellite manufacturing business of Airbus U.S. Space and Defense. The deal was dated the twenty-fourth of November. Terms are not in the material available. No closing date is given.",
+          "why": "A US satellite maker changes owner. Terms and closing are unknown.",
+          "sources": [
+            {
+              "outlet": "Via Satellite",
+              "url": "http://www.satellitetoday.com/finance/2026/11/24/cerberus-capital-management-acquires-satellite-manufacturing-business-from-airbus-u-s-space-defense/?itm_source=parsely-api",
+              "language": "en",
+              "type": "press"
+            }
+          ],
+          "bar": "Terms unknown."
+        },
+        {
+          "date": "2026-11-26",
+          "iso3": [
+            "USA"
+          ],
+          "status": "statement",
+          "priority": "P3",
+          "exposure": "context",
+          "title": "Musk pledges two SpaceX shares for every US child",
+          "summary": "Elon Musk has pledged two SpaceX shares for every child in the United States. The pledge was dated the twenty-sixth of November. No terms, timing or eligibility are in the material available. SpaceX has not published details.",
+          "why": "It ties SpaceX ownership to a public pledge. Terms are unknown.",
+          "sources": [
+            {
+              "outlet": "Anadolu Agency",
+              "url": "https://www.aa.com.tr/en/world/musk-pledges-2-spacex-shares-for-every-us-child/4138301",
+              "language": "en",
+              "type": "press"
+            }
+          ],
+          "bar": "Headline only; treat as a statement, not an offer."
+        }
+      ]
+    }
+  ],
+  "priorities": [
+    {
+      "rank": "P1",
+      "title": "SpaceX one-million-satellite authorisation",
+      "status": "event",
+      "exposure": "competitive threat",
+      "implication": "The approval of up to one million orbital data-centre satellites is the single pathway that moved today.",
+      "iso3": [
+        "USA"
+      ],
+      "next": null
+    },
+    {
+      "rank": "P2",
+      "title": "Ariane 6 Metop-SGB1 launch",
+      "status": "event",
+      "exposure": "context",
+      "implication": "Europe's heavy launcher follows the tenth flight with an eleventh.",
+      "iso3": [
+        "FRA"
+      ],
+      "next": {
+        "date": "2026-12-17",
+        "event": "Ariane 6 launch with Metop-SGB1"
+      }
+    },
+    {
+      "rank": "P2",
+      "title": "ESA, EU and Rome decision",
+      "status": "statement",
+      "exposure": "policy risk",
+      "implication": "The vote of the tenth of November produced no outcome and the MaiaSpace contract is unsigned.",
+      "iso3": [
+        "FRA"
+      ],
+      "next": {
+        "date": "2026-12-15",
+        "event": "Rome meeting"
+      }
+    },
+    {
+      "rank": "P3",
+      "title": "Artemis proposals",
+      "status": "contract",
+      "exposure": "opportunity",
+      "implication": "NASA's Moon base awards of the ninth of November lead to proposals due next month.",
+      "iso3": [
+        "USA"
+      ],
+      "next": {
+        "date": "2026-12-08",
+        "event": "Artemis proposals due"
+      }
+    }
+  ],
+  "watchlist": [
+    {
+      "date": "2026-12-08",
+      "event": "Artemis proposals due",
+      "where": "United States",
+      "iso3": [
+        "USA"
+      ]
+    },
+    {
+      "date": "2026-12-15",
+      "event": "Rome meeting on European space decisions",
+      "where": "Rome",
+      "iso3": [
+        "ITA"
+      ]
+    },
+    {
+      "date": "2026-12-17",
+      "event": "Ariane 6 launch with Metop-SGB1",
+      "where": "Europe's Spaceport",
+      "iso3": [
+        "FRA"
+      ]
+    }
+  ],
+  "milestones": [
+    {
+      "date": "2026-12-15",
+      "event": "Rome decision point on ESA and EU funding and launchers",
+      "iso3": [
+        "ITA"
+      ],
+      "status": "pending",
+      "why": "The tenth of November vote had no outcome and MaiaSpace is unsigned."
+    },
+    {
+      "date": "2027-02-18",
+      "event": "Swedish Space Day",
+      "iso3": [
+        "SWE"
+      ],
+      "status": "scheduled",
+      "why": "Next public event of the Swedish space agency."
+    }
+  ],
+  "competitive_watch": [],
+  "countries": [
+    {
+      "iso3": "USA",
+      "item": {
+        "date": "2026-11-26",
+        "iso3": [
+          "USA"
+        ],
+        "status": "event",
+        "priority": "P1",
+        "exposure": "competitive threat",
+        "title": "United States authorises SpaceX to deploy one million data-centre satellites",
+        "summary": "The United States has authorised SpaceX to deploy one million satellites to build data centres in space. Astronomers have objected. The authority and conditions are not stated. Paraguay and Sweden carried the news. No deployment schedule is given.",
+        "why": "It moves a new pathway from proposal to permission. It sets up a dispute with astronomers.",
+        "sources": [
+          {
+            "outlet": "Infoespacial",
+            "url": "https://www.infoespacial.com/texto-diario/mostrar/6109282/eeuu-autoriza-spacex-desplegar-millon-satelites-crear-centros-datos-espacio",
+            "language": "es",
+            "type": "press"
+          }
+        ],
+        "bar": "Headline-level only."
+      },
+      "items": []
+    },
+    {
+      "iso3": "PAK",
+      "item": {
+        "date": "2026-11-26",
+        "iso3": [
+          "PAK",
+          "CHN",
+          "IND"
+        ],
+        "status": "event",
+        "priority": "P2",
+        "exposure": "context",
+        "title": "China carries first foreign astronaut, a Pakistani, to its space station",
+        "summary": "China has taken Pakistani Muhammad Zeeshan Ali to its space station. He is its first foreign astronaut. Al Jazeera notes shared pride in Iqbal's verses across India and Pakistan. The stay length is not given. No further date is known.",
+        "why": "China opens its station to a partner. South Asia reacts.",
+        "sources": [
+          {
+            "outlet": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/11/26/iqbal-in-space-urdu-poets-verses-unite-india-pakistan-beyond-earth?traffic_source=rss",
+            "language": "en",
+            "type": "press"
+          }
+        ],
+        "bar": "Stay length unknown."
+      },
+      "items": []
+    },
+    {
+      "iso3": "UKR",
+      "item": {
+        "date": "2026-11-12",
+        "iso3": [
+          "UKR"
+        ],
+        "status": "statement",
+        "priority": "P2",
+        "exposure": "policy risk",
+        "title": "Ukraine reports further restrictions on Starshield access",
+        "summary": "Ukraine reported on the twelfth of November more restrictions on Starshield access. SpaceX has made no statement. The hope for mid-2027 is unchanged. No decision date exists. Lithuanian press frames it as a race against time.",
+        "why": "Ukraine depends on a US company's decisions. No date exists for change.",
+        "sources": [
+          {
+            "outlet": "Via Satellite",
+            "url": "https://www.satellitetoday.com/government-military/2026/11/12/ukraine-reports-more-restrictions-to-starshield-access/",
+            "language": "en",
+            "type": "press"
+          }
+        ],
+        "bar": "Standing."
+      },
+      "items": []
+    },
+    {
+      "iso3": "SWE",
+      "item": {
+        "date": "2026-11-02",
+        "iso3": [
+          "SWE"
+        ],
+        "status": "overview",
+        "priority": "P3",
+        "exposure": "context",
+        "title": "Swedish space agency sets Space Day for eighteenth of February 2027",
+        "summary": "Rymdstyrelsen has set its next Space Day for the eighteenth of February 2027. It has also published a note on Voyager 1 reaching a light-day. Technology calls are active. The Space Day is the next dated event.",
+        "why": "The agency's calendar is set. The Space Day is the next marker.",
+        "sources": [
+          {
+            "outlet": "Rymdstyrelsen",
+            "url": "https://www.rymdstyrelsen.se/nyheter/2026/rymddagen-2027-blir-den-18-februari/",
+            "language": "sv",
+            "type": "national-language"
+          }
+        ],
+        "bar": "Standing."
+      },
+      "items": []
+    },
+    {
+      "iso3": "ESP",
+      "item": {
+        "date": "2026-11-26",
+        "iso3": [
+          "ESP"
+        ],
+        "status": "statement",
+        "priority": "P2",
+        "exposure": "policy risk",
+        "title": "Astronomers object to SpaceX permit for one million orbital data centres",
+        "summary": "Astronomers have objected to the SpaceX permit. El País carried the objection on the twenty-sixth of November. No regulator has replied. No review date is given. No astronomer or body is named in the headline.",
+        "why": "It is the first organised response to the permit. A regulatory reply is next.",
+        "sources": [
+          {
+            "outlet": "El País",
+            "url": "https://elpais.com/ciencia/2026-11-26/los-astronomos-se-rebelan-contra-el-permiso-de-elon-musk-para-desplegar-un-millon-de-centros-de-datos-en-el-espacio.html",
+            "language": "es",
+            "type": "national-language"
+          }
+        ],
+        "bar": "Headline only."
+      },
+      "items": []
+    },
+    {
+      "iso3": "ARM",
+      "item": {
+        "date": "2026-11-26",
+        "iso3": [
+          "ARM"
+        ],
+        "status": "overview",
+        "priority": "P3",
+        "exposure": "opportunity",
+        "title": "Armenia and SpaceX discuss Starlink, mobile services and three satellites",
+        "summary": "Armenia's regulator and SpaceX have discussed satellite internet and mobile services. They have also discussed Grok in education and a launch of three satellites. No agreement is announced. No date is set.",
+        "why": "Armenia is weighing a direct link with SpaceX. No decision date exists.",
+        "sources": [
+          {
+            "outlet": "ARKA-Telecom",
+            "url": "https://arkatelecom.am/en/news/telecom/armenia-and-spacex-discuss-use-of-grok-in-education-and-potential-launch-of-three-satellites/",
+            "language": "en",
+            "type": "press"
+          }
+        ],
+        "bar": "Standing."
+      },
+      "items": []
+    },
+    {
+      "iso3": "KWT",
+      "item": {
+        "date": "2026-11-26",
+        "iso3": [
+          "KWT"
+        ],
+        "status": "agreement",
+        "priority": "P3",
+        "exposure": "opportunity",
+        "title": "Kuwait University and KFAS sign agreement to establish a national venture",
+        "summary": "Kuwait University has signed an agreement with the Kuwait Foundation for the Advancement of Sciences. It follows Amir directives. It is to establish and operate a national venture whose full title is cut off. No budget or date is given.",
+        "why": "A Gulf state-backed move in space science. Scope is unknown.",
+        "sources": [
+          {
+            "outlet": "Kuwait University",
+            "url": "https://vpaa.ku.edu.kw/media-center/news/kfas24",
+            "language": "en",
+            "type": "government-or-embassy"
+          }
+        ],
+        "bar": "Title truncated."
+      },
+      "items": []
+    },
+    {
+      "iso3": "AUS",
+      "item": {
+        "date": "2026-11-26",
+        "iso3": [
+          "AUS"
+        ],
+        "status": "overview",
+        "priority": "P3",
+        "exposure": "context",
+        "title": "Australian Space Agency publishes monthly sector update",
+        "summary": "The agency has published its sector update dated October 2026. It also carries a profile of astronaut Katherine Bennell-Pegg. No new decision is in it. No next date is given.",
+        "why": "A standing view of the Australian sector. No pending decision.",
+        "sources": [
+          {
+            "outlet": "Australian Space Agency",
+            "url": "https://www.space.gov.au/news-and-media/the-latest-from-the-australian-space-sector-october-2026",
+            "language": "en",
+            "type": "government-or-embassy"
+          }
+        ],
+        "bar": "Standing."
+      },
+      "items": []
+    }
+  ],
+  "summary": [
+    "The United States has authorised SpaceX to deploy one million satellites to build data centres in space, and astronomers have objected.",
+    "Ariane 6 launched thirty-six Amazon Leo satellites on the twenty-fourth of November and ArianeGroup has set its next launch for the seventeenth of December.",
+    "China has taken Pakistani astronaut Muhammad Zeeshan Ali to its space station, its first foreign astronaut.",
+    "Kuwait University has signed an agreement with the Kuwait Foundation for the Advancement of Sciences, and Armenia is in talks with SpaceX.",
+    "Rome on the fifteenth of December remains the next European decision date."
+  ],
+  "bottom_line": "The SpaceX one-million-satellite authorisation is the pathway that moved, and its authority, conditions and schedule are not yet stated. The next dates that matter are the Rome meeting on the fifteenth of December and the Ariane 6 launch on the seventeenth of December.",
+  "edition": "06:00 UTC",
+  "generated_at": "2026-11-26T13:16:04+00:00"
+}

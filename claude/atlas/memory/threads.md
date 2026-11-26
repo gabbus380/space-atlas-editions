@@ -396,3 +396,15 @@ Episodes:
 - Starshield Ukraine: mid-2027 hope unchanged; no SpaceX statement.
 - Vulcan: cause and next flight unknown.
 - Voyager 1, BepiColombo, Pakistan astronaut, Kazakhstan, Armenia filed.
+
+
+## 2026-11-26
+- SpaceX one million satellites: new 26 Nov; authority and conditions unknown.
+- Ariane 6: VA271 launched 24 Nov; next 17 Dec Metop-SGB1.
+- ESA, EU, Rome: vote 10 Nov no outcome; MaiaSpace unsigned; Commission fund 5x 18 Nov; Rome 15 Dec.
+- Hera: ESA release 25 Nov; crater images.
+- Artemis: proposals due 8 Dec.
+- Starshield Ukraine: 12 Nov; no SpaceX statement; mid-2027 hope unchanged.
+- Vulcan Centaur: failed 15 Nov; cause and next flight unknown.
+- Blue Origin, Swift, Telesat Lightspeed, Matera, Starship: no source today, not filed.
+- New: Cerberus and Airbus U.S. Space and Defense; Musk shares pledge; Pakistan astronaut follow-up.
