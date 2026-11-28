@@ -1,0 +1,588 @@
+{
+  "edition": "06:00 UTC",
+  "headline": "Astronomers object to United States approval for SpaceX to deploy one million satellites",
+  "summary": [
+    "The United States approved SpaceX's plan for one million satellites on the twenty-sixth of November, and astronomers have objected.",
+    "The satellites are meant to form data centres in space.",
+    "Coverage of the approval ran in Australia and Spain.",
+    "The conditions attached to the approval have not been published.",
+    "The next dated events are the Artemis proposal deadline on the eighth of December and the ESA meeting in Rome on the fifteenth of December."
+  ],
+  "bottom_line": "The SpaceX approval stands, and its conditions and any SpaceX response are still unknown. The next date that matters is the eighth of December, when Artemis proposals are due.",
+  "global": [
+    {
+      "date": "2026-11-26",
+      "iso3": [
+        "USA"
+      ],
+      "status": "statement",
+      "priority": "P1",
+      "exposure": "policy risk",
+      "title": "United States approves SpaceX plan for one million satellites; astronomers object",
+      "summary": "The United States approved SpaceX's plan to deploy one million satellites on the twenty-sixth of November. The satellites are meant to form data centres in space. Astronomers have objected, and Spanish coverage quotes them as dismayed. The story ran in Australia and Spain within a day. The conditions attached to the approval have not been published.",
+      "why": "A constellation of this size would reshape orbital traffic and astronomy. The conditions will decide how much of it can be built.",
+      "sources": [
+        {
+          "outlet": "ABC News (Australia)",
+          "url": "https://www.abc.net.au/news/2026-11-26/musk-spacex-datacentres-fcc/107428024",
+          "language": "en",
+          "type": "press"
+        },
+        {
+          "outlet": "El País",
+          "url": "https://elpais.com/ciencia/2026-11-26/los-astronomos-se-rebelan-contra-el-permiso-de-elon-musk-para-desplegar-un-millon-de-centros-de-datos-en-el-espacio.html",
+          "language": "es",
+          "type": "national-language"
+        },
+        {
+          "outlet": "Infoespacial",
+          "url": "https://www.infoespacial.com/texto-diario/mostrar/6111149/comunidad-astronomica-alerta-impacto-planes-spacex-desplegar-millon-satelites",
+          "language": "es",
+          "type": "national-language"
+        }
+      ],
+      "bar": "Conditions and authority text still unseen; headline-level only."
+    },
+    {
+      "date": "2026-11-24",
+      "iso3": [
+        "USA"
+      ],
+      "status": "event",
+      "priority": "P3",
+      "exposure": "context",
+      "title": "NASA loses half of its ageing Mars fleet to technical faults",
+      "summary": "Half of NASA's ageing Mars fleet has been knocked offline by technical issues. The report is dated the twenty-fourth of November. The affected spacecraft are not named in the headline. No recovery date is given. Orbiters from other agencies also serve Mars, including a Japanese probe now under way.",
+      "why": "Fewer working orbiters reduces relay and observation capacity at Mars. The recovery timeline is the next thing to learn.",
+      "sources": [
+        {
+          "outlet": "Ars Technica",
+          "url": "https://arstechnica.com/space/2026/11/half-of-nasas-aging-mars-fleet-knocked-offline-by-technical-issues/",
+          "language": "en",
+          "type": "press"
+        }
+      ],
+      "bar": "Headline only; spacecraft unnamed."
+    },
+    {
+      "date": "2026-11-28",
+      "iso3": [
+        "USA"
+      ],
+      "status": "overview",
+      "priority": "P2",
+      "exposure": "opportunity",
+      "title": "NASA holds Artemis proposal deadline of the eighth of December",
+      "summary": "NASA made its Moon base development awards on the ninth of November. Proposals for the next round are due on the eighth of December. The awards were reported by trade press. Companies outside the first awards can still bid. The next date is the eighth of December.",
+      "why": "The deadline sets who joins the program next. It falls ten days from now.",
+      "sources": [
+        {
+          "outlet": "Via Satellite",
+          "url": "https://www.satellitetoday.com/government-military/2026/11/09/nasa-makes-major-contract-awards-for-moon-base-development/",
+          "language": "en",
+          "type": "press"
+        }
+      ],
+      "bar": "Standing date from thread."
+    },
+    {
+      "date": "2026-11-28",
+      "iso3": [
+        "USA"
+      ],
+      "status": "overview",
+      "priority": "P2",
+      "exposure": "context",
+      "title": "United Launch Alliance has no cause or return date after Vulcan Centaur failure",
+      "summary": "The Vulcan Centaur rocket failed on the fifteenth of November. Neither the cause nor the next flight date is known. A Turkish outlet describes the failed rocket as carrying forty Amazon satellites. Amazon's launches on Ariane 6 continue, with thirty-six flown on the twenty-fourth of November. The next Ariane 6 launch is on the seventeenth of December.",
+      "why": "Launch supply for large constellations is tighter without Vulcan. Ariane 6 is the visible alternative.",
+      "sources": [
+        {
+          "outlet": "Haber.Aero",
+          "url": "https://haber.aero/uzay/amazonun-40-uydusunu-tasiyan-roket-basarisiz-oldu/",
+          "language": "tr",
+          "type": "national-language"
+        },
+        {
+          "outlet": "ArianeGroup",
+          "url": "https://www.ariane.group/en/news/ariane-6-successfully-transports-another-36-amazon-leo-satellites-into-orbit-on-its-10th-flight/",
+          "language": "en",
+          "type": "press"
+        }
+      ],
+      "bar": "Vulcan attribution comes from thread; Turkish headline gives forty satellites."
+    }
+  ],
+  "regions": [
+    {
+      "id": "esa_eu",
+      "name": "ESA and EU",
+      "items": [
+        {
+          "date": "2026-11-25",
+          "iso3": [
+            "FRA",
+            "EUR"
+          ],
+          "status": "event",
+          "priority": "P2",
+          "exposure": "opportunity",
+          "title": "ArianeGroup sets Ariane 6 launch of Metop-SGB1 for the seventeenth of December",
+          "summary": "ArianeGroup says Ariane 6 launches next on the seventeenth of December. The payload is the Metop-SGB1 weather satellite. The previous flight put thirty-six Amazon Leo satellites in orbit on the twenty-fourth of November. The European Commission has recommended raising its competition fund fivefold. ESA's meeting in Rome is on the fifteenth of December.",
+          "why": "Two launches in four weeks show the cadence Europe wants. The Rome meeting follows the vote of the tenth of November that produced no outcome.",
+          "sources": [
+            {
+              "outlet": "ArianeGroup",
+              "url": "https://www.ariane.group/en/news/ariane-6-nachster-start-am-17-dezember-2026-mit-dem-wettersatelliten-metop-sgb1/",
+              "language": "en",
+              "type": "press"
+            },
+            {
+              "outlet": "Via Satellite",
+              "url": "https://www.satellitetoday.com/government-military/2026/11/18/european-commission-recommends-increasing-competition-fund-5x-to-mobilize-space-industry/",
+              "language": "en",
+              "type": "press"
+            }
+          ],
+          "bar": "MaiaSpace still unsigned per thread."
+        }
+      ]
+    },
+    {
+      "id": "cee",
+      "name": "Central and Eastern Europe",
+      "items": [
+        {
+          "date": "2026-11-12",
+          "iso3": [
+            "UKR"
+          ],
+          "status": "statement",
+          "priority": "P2",
+          "exposure": "policy risk",
+          "title": "Zelenskyy reports more restrictions on Starshield access; SpaceX silent",
+          "summary": "President Zelenskyy said on the twelfth of November that restrictions on Starshield access had increased. SpaceX has made no statement. Ukraine's hope tied to mid-2027 is unchanged. A Lithuanian outlet is separately covering Russia's Starlink analogue. No date is set for any SpaceX response.",
+          "why": "Ukraine's battlefield communications depend on this access. A statement from SpaceX would change the position.",
+          "sources": [
+            {
+              "outlet": "Via Satellite",
+              "url": "https://www.satellitetoday.com/government-military/2026/11/12/ukraine-reports-more-restrictions-to-starshield-access/",
+              "language": "en",
+              "type": "press"
+            },
+            {
+              "outlet": "TV3 Lietuva",
+              "url": "https://www.tv3.lt/naujiena/naujienos/rusijai-kritiskai-svarbus-starlink-analogas-palydovai-zombiai-ir-ukrainos-lenktynes-su-laiku-n1553523",
+              "language": "lt",
+              "type": "national-language"
+            }
+          ],
+          "bar": "Standing; Lithuanian piece headline only."
+        }
+      ]
+    },
+    {
+      "id": "nordics",
+      "name": "Nordics",
+      "items": [
+        {
+          "date": "2026-11-28",
+          "iso3": [
+            "SWE"
+          ],
+          "status": "statement",
+          "priority": "P3",
+          "exposure": "competitive threat",
+          "title": "Swedish armed forces choose Swedish satellite technology after testing Starlink",
+          "summary": "Ny Teknik says the Swedish armed forces tested Starlink and chose Swedish satellite technology. The article's detail on supplier and value is not in the headline. The Swedish National Space Agency holds its next Space Day on the eighteenth of February, 2027. Voyager 1 reaching one light-day from Earth is also covered by the agency. No procurement date is given.",
+          "why": "A national choice over Starlink is a data point for European sovereignty. The supplier name is the missing fact.",
+          "sources": [
+            {
+              "outlet": "Ny Teknik",
+              "url": "https://www.nyteknik.se/foersvar/foersvaret-testade-starlink-valde-svenskt-satellitteknik/4517501",
+              "language": "sv",
+              "type": "national-language"
+            },
+            {
+              "outlet": "Rymdstyrelsen",
+              "url": "https://www.rymdstyrelsen.se/nyheter/2026/rymddagen-2027-blir-den-18-februari/",
+              "language": "sv",
+              "type": "government-or-embassy"
+            }
+          ],
+          "bar": "Headline only; supplier unknown."
+        }
+      ]
+    },
+    {
+      "id": "west",
+      "name": "Western and Southern Europe",
+      "items": [
+        {
+          "date": "2026-11-28",
+          "iso3": [
+            "ESP"
+          ],
+          "status": "statement",
+          "priority": "P3",
+          "exposure": "opportunity",
+          "title": "Indra expects to multiply its space business elevenfold by 2030",
+          "summary": "Indra expects to multiply its space business elevenfold by 2030. It ties the growth to IRIS² and new programs. The SSSIF conference will be held in Málaga from the sixteenth to the eighteenth of February, 2027. Spain's astronomers have also rejected the SpaceX plan. No contract is named.",
+          "why": "Spain is positioning its industry around the EU constellation. The February conference is the next public marker.",
+          "sources": [
+            {
+              "outlet": "Infoespacial",
+              "url": "https://www.infoespacial.com/texto-diario/mostrar/6111102/indra-preve-multiplicar-once-negocio-espacial-hasta-2030-iris-nuevos-programas",
+              "language": "es",
+              "type": "national-language"
+            },
+            {
+              "outlet": "Infoespacial",
+              "url": "https://www.infoespacial.com/texto-diario/mostrar/6111618/sssif-presenta-sevilla-octava-edicion-celebrara-malaga-16-18-febrero-2027-bajo-lema-space-infrastructures",
+              "language": "es",
+              "type": "national-language"
+            }
+          ],
+          "bar": "Company forecast, not a contract."
+        }
+      ]
+    },
+    {
+      "id": "eurasia",
+      "name": "Eurasia and Central Asia",
+      "items": [
+        {
+          "date": "2026-11-25",
+          "iso3": [
+            "ARM"
+          ],
+          "status": "overview",
+          "priority": "P3",
+          "exposure": "opportunity",
+          "title": "Armenia discusses Starlink and a possible three-satellite launch with SpaceX",
+          "summary": "Armenia's regulator and SpaceX have discussed Starlink and mobile communications. A separate discussion covered Grok in education. It also covered a possible launch of three satellites. No agreement has been announced. No date is set.",
+          "why": "Armenia is weighing a commercial route to satellite capacity. An agreement would be the next event.",
+          "sources": [
+            {
+              "outlet": "ARKA-Telecom",
+              "url": "https://arkatelecom.am/en/news/telecom/armenia-and-spacex-discuss-use-of-grok-in-education-and-potential-launch-of-three-satellites/",
+              "language": "en",
+              "type": "press"
+            },
+            {
+              "outlet": "ARKA-Telecom",
+              "url": "https://arkatelecom.am/en/news/telecom/starlink-in-armenia-psrc-and-spacex-discuss-development-of-satellite-internet-and-mobile-communicati/",
+              "language": "en",
+              "type": "press"
+            }
+          ],
+          "bar": "Standing; filed 25 Nov."
+        }
+      ]
+    },
+    {
+      "id": "mena",
+      "name": "Türkiye, Middle East and Africa",
+      "items": [
+        {
+          "date": "2026-11-28",
+          "iso3": [
+            "TUR"
+          ],
+          "status": "overview",
+          "priority": "P3",
+          "exposure": "context",
+          "title": "Türkiye schedules a microsatellite for 2028 and a Turkic states satellite for 2027",
+          "summary": "Türkiye's new microsatellite is due to launch in 2028. A joint satellite of the Turkic states is due in 2027. A proposal of nine billion lira for 2027 has no published split. Ninety-two billion lira over three years was cited by trade press. No dated decision is set.",
+          "why": "Türkiye is stacking national and regional satellite goals. The budget split is still the missing fact.",
+          "sources": [
+            {
+              "outlet": "Haber.Aero",
+              "url": "https://haber.aero/aero-gundem/turkiyenin-yeni-mikro-uydusu-2028de-firlatilacak/",
+              "language": "tr",
+              "type": "national-language"
+            },
+            {
+              "outlet": "Haber.Aero",
+              "url": "https://haber.aero/aero-gundem/turk-devletlerinin-ortak-uydusu-2027de-uzaya-gonderilecek/",
+              "language": "tr",
+              "type": "national-language"
+            }
+          ],
+          "bar": "Figures via trade press, no split."
+        }
+      ]
+    },
+    {
+      "id": "asia_pac",
+      "name": "Asia Pacific",
+      "items": [
+        {
+          "date": "2026-11-27",
+          "iso3": [
+            "AUS"
+          ],
+          "status": "overview",
+          "priority": "P3",
+          "exposure": "opportunity",
+          "title": "Koonibba community becomes a contested site in Australia's space race",
+          "summary": "ABC News describes the remote Koonibba community in South Australia as a battleground for the space race. Southern Launch operates a launch site there. Astronaut Katherine Bennell-Pegg's ESA role awaits funding as of the twenty-seventh of November. The Australian Space Agency's November update is also out. No launch date is given.",
+          "why": "Australia's launch ambitions are drawing local and commercial attention. Funding for the astronaut role is the open point.",
+          "sources": [
+            {
+              "outlet": "ABC News (Australia)",
+              "url": "https://www.abc.net.au/news/2026-11-27/koonibba-battleground-for-australias-space-race-outback-sa-/107415968",
+              "language": "en",
+              "type": "press"
+            },
+            {
+              "outlet": "Australian Space Agency",
+              "url": "https://www.space.gov.au/news-and-media/the-latest-from-the-australian-space-sector-november-2026",
+              "language": "en",
+              "type": "government-or-embassy"
+            }
+          ],
+          "bar": "Details of the dispute not in packet."
+        }
+      ]
+    },
+    {
+      "id": "americas",
+      "name": "Americas",
+      "items": [
+        {
+          "date": "2026-11-28",
+          "iso3": [
+            "CHL",
+            "MEX"
+          ],
+          "status": "event",
+          "priority": "P3",
+          "exposure": "context",
+          "title": "Chile's Snsat-1 and Snsat-2 reach the United States for Falcon 9 integration tests",
+          "summary": "Chile's Snsat-1 and Snsat-2 satellites have arrived in the United States. They will undergo integration tests for a SpaceX Falcon 9. No launch date is given. In Mexico, talks with SpaceX over debris continue after a request on the twenty-sixth of November. Sanctions were raised on the twenty-seventh of November.",
+          "why": "Chile's launch path now runs through SpaceX. Mexico's sanctions dispute shows the debris question reaching governments.",
+          "sources": [
+            {
+              "outlet": "Infoespacial",
+              "url": "https://www.infoespacial.com/texto-diario/mostrar/6110115/chile-satelites-snsat-1-snsat-2-eeuu-pruebas-integracion-falcon-9-spacex",
+              "language": "es",
+              "type": "national-language"
+            }
+          ],
+          "bar": "Mexico detail from thread, no new source."
+        }
+      ]
+    }
+  ],
+  "priorities": [
+    {
+      "rank": "P2",
+      "title": "SpaceX one million satellites",
+      "status": "event",
+      "exposure": "policy risk",
+      "implication": "The approval is in place and astronomers object, but its conditions are unpublished.",
+      "iso3": [
+        "USA"
+      ],
+      "next": null
+    },
+    {
+      "rank": "P2",
+      "title": "Artemis proposals",
+      "status": "overview",
+      "exposure": "opportunity",
+      "implication": "Proposals for the next round of Moon base work are due.",
+      "iso3": [
+        "USA"
+      ],
+      "next": {
+        "date": "2026-12-08",
+        "event": "Artemis proposals due"
+      }
+    },
+    {
+      "rank": "P2",
+      "title": "ESA and EU Rome meeting",
+      "status": "overview",
+      "exposure": "opportunity",
+      "implication": "The vote of the tenth of November had no outcome and MaiaSpace is unsigned.",
+      "iso3": [
+        "EUR"
+      ],
+      "next": {
+        "date": "2026-12-15",
+        "event": "ESA meeting in Rome"
+      }
+    },
+    {
+      "rank": "P2",
+      "title": "Vulcan Centaur failure",
+      "status": "overview",
+      "exposure": "context",
+      "implication": "Cause and next flight are unknown.",
+      "iso3": [
+        "USA"
+      ],
+      "next": {
+        "date": "2026-12-17",
+        "event": "Ariane 6 launches Metop-SGB1"
+      }
+    }
+  ],
+  "watchlist": [
+    {
+      "date": "2026-12-08",
+      "event": "Artemis proposals due",
+      "where": "United States",
+      "iso3": [
+        "USA"
+      ]
+    },
+    {
+      "date": "2026-12-15",
+      "event": "ESA meeting in Rome",
+      "where": "Rome",
+      "iso3": [
+        "ITA",
+        "EUR"
+      ]
+    },
+    {
+      "date": "2026-12-17",
+      "event": "Ariane 6 launch of Metop-SGB1",
+      "where": "Kourou",
+      "iso3": [
+        "FRA"
+      ]
+    }
+  ],
+  "milestones": [
+    {
+      "date": "2026-12-08",
+      "event": "Artemis proposal deadline",
+      "iso3": [
+        "USA"
+      ],
+      "status": "scheduled",
+      "why": "Sets the next group of Moon base contenders."
+    },
+    {
+      "date": "2026-12-15",
+      "event": "ESA meeting in Rome",
+      "iso3": [
+        "ITA"
+      ],
+      "status": "scheduled",
+      "why": "Follows the vote of the tenth of November without outcome."
+    },
+    {
+      "date": "2027-02-18",
+      "event": "Swedish Space Day",
+      "iso3": [
+        "SWE"
+      ],
+      "status": "scheduled",
+      "why": "Next public marker for the Swedish space agency."
+    }
+  ],
+  "competitive_watch": [],
+  "countries": [
+    {
+      "iso3": "USA",
+      "items": []
+    },
+    {
+      "iso3": "UKR",
+      "items": []
+    },
+    {
+      "iso3": "SWE",
+      "items": []
+    },
+    {
+      "iso3": "ESP",
+      "items": []
+    },
+    {
+      "iso3": "ARM",
+      "items": []
+    },
+    {
+      "iso3": "TUR",
+      "items": []
+    },
+    {
+      "iso3": "AUS",
+      "items": []
+    },
+    {
+      "iso3": "CHL",
+      "items": []
+    },
+    {
+      "iso3": "MEX",
+      "items": []
+    }
+  ],
+  "audio_script": "Good morning. It is Saturday, the twenty-eighth of November, and this is the Sovereign Space ATLAS briefing. Astronomers have objected to a United States approval for SpaceX to deploy one million satellites. Türkiye has set 2028 for the launch of a new microsatellite. And half of NASA's ageing Mars fleet has been knocked offline by technical faults.\n\nThe top story is the approval for SpaceX to deploy one million satellites. The United States approved the plan on the twenty-sixth of November. The satellites are meant to form data centres in space. Astronomers have since objected, and Spanish coverage quotes them as dismayed. The story ran in Australia and Spain within a day. The conditions attached to the approval have not been published. A constellation of this size would reshape orbital traffic and astronomy, and the conditions will decide how much of it can be built. The next step is the text of the approval and any response from SpaceX. No date has been set for either.\n\nIn Europe, Ariane 6 flies next on the seventeenth of December, carrying the Metop-SGB1 weather satellite, according to ArianeGroup. It follows the launch of thirty-six Amazon Leo satellites on the twenty-fourth of November. The European Commission has recommended raising its competition fund fivefold. ESA meets in Rome on the fifteenth of December. The vote of the tenth of November produced no outcome, and the MaiaSpace deal remains unsigned.\n\nIn Ukraine, access to Starshield remains the open question. President Zelenskyy said on the twelfth of November that restrictions had increased. SpaceX has made no statement. The hope tied to mid-2027 is unchanged. Ukraine's battlefield communications depend on this access, so a statement from SpaceX would change the position. No date is set.\n\nIn Sweden, the armed forces tested Starlink and chose Swedish satellite technology, according to Ny Teknik. The Swedish National Space Agency holds its next Space Day on the eighteenth of February, 2027.\n\nIn Spain, Indra expects to multiply its space business elevenfold by 2030, with IRIS² and new programs. The SSSIF conference will be held in Málaga from the sixteenth to the eighteenth of February, 2027.\n\nIn Armenia, officials have discussed Starlink and mobile services with SpaceX. A possible launch of three satellites was also raised. No agreement has been announced, and no date is set.\n\nIn Türkiye, a new microsatellite is due to launch in 2028. A joint satellite of the Turkic states is due in 2027. A proposal of nine billion lira for 2027 still has no published split.\n\nIn Australia, ABC News describes the Koonibba community in South Australia as a battleground for the space race. Southern Launch operates there. Astronaut Katherine Bennell-Pegg's ESA role awaits funding, as of the twenty-seventh of November.\n\nIn the United States, half of NASA's ageing Mars fleet has been knocked offline by technical issues. Fewer working orbiters reduces relay and observation capacity at Mars, so the recovery timeline is the next thing to learn. Artemis proposals are due on the eighth of December. The Vulcan Centaur rocket failed on the fifteenth of November, and neither the cause nor the next flight is known. Launch supply for large constellations is tighter without Vulcan, and Ariane 6 is the visible alternative. In Chile, the Snsat-1 and Snsat-2 satellites have reached the United States for integration tests on a SpaceX Falcon 9. In Mexico, talks with SpaceX over debris continue, and sanctions were raised on the twenty-seventh of November.\n\nWhat we are tracking this week: the conditions of the SpaceX approval, the cause of the Vulcan Centaur failure, the details of Mexico's sanctions, and any SpaceX statement on Starshield access for Ukraine. What we are tracking this month: the Artemis proposal deadline on the eighth of December, the Rome meeting on the fifteenth of December, and the Ariane 6 launch of Metop-SGB1 on the seventeenth of December. Heads-up dates beyond that: the SSSIF conference in Málaga from the sixteenth to the eighteenth of February, and the Swedish Space Day on the eighteenth of February. That is the briefing for Saturday, the twenty-eighth of November.",
+  "audio_sections": [
+    {
+      "id": "opening",
+      "title": "Opening",
+      "text": "Good morning. It is Saturday, the twenty-eighth of November, and this is the Sovereign Space ATLAS briefing. Astronomers have objected to a United States approval for SpaceX to deploy one million satellites. Türkiye has set 2028 for the launch of a new microsatellite. And half of NASA's ageing Mars fleet has been knocked offline by technical faults."
+    },
+    {
+      "id": "top",
+      "title": "Top story",
+      "text": "The top story is the approval for SpaceX to deploy one million satellites. The United States approved the plan on the twenty-sixth of November. The satellites are meant to form data centres in space. Astronomers have since objected, and Spanish coverage quotes them as dismayed. The story ran in Australia and Spain within a day. The conditions attached to the approval have not been published. A constellation of this size would reshape orbital traffic and astronomy, and the conditions will decide how much of it can be built. The next step is the text of the approval and any response from SpaceX. No date has been set for either."
+    },
+    {
+      "id": "esa_eu",
+      "title": "ESA and EU",
+      "text": "In Europe, Ariane 6 flies next on the seventeenth of December, carrying the Metop-SGB1 weather satellite, according to ArianeGroup. It follows the launch of thirty-six Amazon Leo satellites on the twenty-fourth of November. The European Commission has recommended raising its competition fund fivefold. ESA meets in Rome on the fifteenth of December. The vote of the tenth of November produced no outcome, and the MaiaSpace deal remains unsigned."
+    },
+    {
+      "id": "cee",
+      "title": "Central and Eastern Europe",
+      "text": "In Ukraine, access to Starshield remains the open question. President Zelenskyy said on the twelfth of November that restrictions had increased. SpaceX has made no statement. The hope tied to mid-2027 is unchanged. Ukraine's battlefield communications depend on this access, so a statement from SpaceX would change the position. No date is set."
+    },
+    {
+      "id": "nordics",
+      "title": "Nordics",
+      "text": "In Sweden, the armed forces tested Starlink and chose Swedish satellite technology, according to Ny Teknik. The Swedish National Space Agency holds its next Space Day on the eighteenth of February, 2027."
+    },
+    {
+      "id": "west",
+      "title": "Western and Southern Europe",
+      "text": "In Spain, Indra expects to multiply its space business elevenfold by 2030, with IRIS² and new programs. The SSSIF conference will be held in Málaga from the sixteenth to the eighteenth of February, 2027."
+    },
+    {
+      "id": "eurasia",
+      "title": "Eurasia and Central Asia",
+      "text": "In Armenia, officials have discussed Starlink and mobile services with SpaceX. A possible launch of three satellites was also raised. No agreement has been announced, and no date is set."
+    },
+    {
+      "id": "mena",
+      "title": "Türkiye, Middle East and Africa",
+      "text": "In Türkiye, a new microsatellite is due to launch in 2028. A joint satellite of the Turkic states is due in 2027. A proposal of nine billion lira for 2027 still has no published split."
+    },
+    {
+      "id": "asia_pac",
+      "title": "Asia Pacific",
+      "text": "In Australia, ABC News describes the Koonibba community in South Australia as a battleground for the space race. Southern Launch operates there. Astronaut Katherine Bennell-Pegg's ESA role awaits funding, as of the twenty-seventh of November."
+    },
+    {
+      "id": "americas",
+      "title": "Americas",
+      "text": "In the United States, half of NASA's ageing Mars fleet has been knocked offline by technical issues. Fewer working orbiters reduces relay and observation capacity at Mars, so the recovery timeline is the next thing to learn. Artemis proposals are due on the eighth of December. The Vulcan Centaur rocket failed on the fifteenth of November, and neither the cause nor the next flight is known. Launch supply for large constellations is tighter without Vulcan, and Ariane 6 is the visible alternative. In Chile, the Snsat-1 and Snsat-2 satellites have reached the United States for integration tests on a SpaceX Falcon 9. In Mexico, talks with SpaceX over debris continue, and sanctions were raised on the twenty-seventh of November."
+    },
+    {
+      "id": "close",
+      "title": "Close",
+      "text": "What we are tracking this week: the conditions of the SpaceX approval, the cause of the Vulcan Centaur failure, the details of Mexico's sanctions, and any SpaceX statement on Starshield access for Ukraine. What we are tracking this month: the Artemis proposal deadline on the eighth of December, the Rome meeting on the fifteenth of December, and the Ariane 6 launch of Metop-SGB1 on the seventeenth of December. Heads-up dates beyond that: the SSSIF conference in Málaga from the sixteenth to the eighteenth of February, and the Swedish Space Day on the eighteenth of February. That is the briefing for Saturday, the twenty-eighth of November."
+    }
+  ],
+  "date": "2026-11-28",
+  "generated_at": "2026-11-28T12:27:35+00:00"
+}

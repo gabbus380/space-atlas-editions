@@ -420,3 +420,15 @@ Episodes:
 - Vulcan Centaur: failed 15 November; cause and next flight unknown.
 - Australia Bennell-Pegg: ESA awaits funding, 27 November.
 - Blue Origin, Swift, Telesat Lightspeed, Matera, Starship: no source today, not filed.
+
+
+## 2026-11-28
+- SpaceX one million satellites: approval 26 Nov; astronomers object; conditions unknown; top story.
+- Mexico SpaceX debris: sanctions 27 Nov; no new source.
+- Ariane 6: next 17 Dec Metop-SGB1.
+- ESA, EU, Rome: Rome 15 Dec; MaiaSpace unsigned.
+- Artemis: proposals due 8 Dec.
+- Starshield Ukraine: 12 Nov; no SpaceX statement.
+- Vulcan Centaur: failed 15 Nov; cause and next flight unknown.
+- NASA Mars fleet: new 24 Nov, headline only.
+- Blue Origin, Swift, Telesat Lightspeed, Matera, Starship, H3: no source today, not filed.
